@@ -127,6 +127,9 @@ def accolades(awards_df, player_data):
         "DPOY": [],
         "All-Defensive-First": [],
         "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
         "Championships": [],
         "FMVP": [],
         "Olympic Gold": [],
@@ -181,6 +184,12 @@ def accolades(awards_df, player_data):
 
     return player_data
 
+def parse_height(height_str):
+    try:
+        feet, inches = map(int, height_str.split('-'))
+        return feet * 12 + inches
+    except:
+        return None
 
 def attributes(attributes_df, player_data):
 
@@ -190,18 +199,23 @@ def attributes(attributes_df, player_data):
         "Position" : '',
         "Teams": [],
         "DraftRound":'',
-        "DraftNumber":''
+        "DraftNumber":'',
+        "Active": ''
     }
 
     player_data["specs"] = attribute.copy()
-    player_data["specs"]["Height"] = attributes_df['HEIGHT']
+    # player_data["specs"]["Height"] = attributes_df['HEIGHT']
+    #convert height to inches
+    
+    player_data["specs"]["Height"] = parse_height(attributes_df['HEIGHT'])
+
+
+
+
     player_data["specs"]["Weight"] = attributes_df['WEIGHT']
     player_data["specs"]["Position"] = attributes_df['POSITION']
     player_data["specs"]["DraftRound"] = attributes_df['DRAFT_ROUND']
     player_data["specs"]["DraftNumber"] = attributes_df['DRAFT_NUMBER']
-
-
-
 
 
 def JSON(player_data):
@@ -212,10 +226,34 @@ def JSON(player_data):
     file_path = os.path.join(folder_path, f"{player_data['full_name'].replace(' ', '_')}.json")
 
     # save file as JSON
+    if os.path.exists(file_path):
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+            # Merge existing data with new data
+        except (JSONDecodeError, FileNotFoundError):
+            existing_data = {}
+        for key in ["awards", "season_stats", "playoff_stats", "specs"]:
+            if key in existing_data:
+                if isinstance(existing_data[key], dict) and isinstance(player_data[key], dict):
+                    existing_data[key].update(player_data[key])
+                elif isinstance(existing_data[key], list) and isinstance(player_data[key], list):
+                    existing_data[key] = list(set(existing_data[key] + player_data[key]))
+                else:
+                    existing_data[key] = player_data[key]
+            else:
+                existing_data[key] = player_data[key]
+        player_data = existing_data
+
+
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(player_data, f, indent=4, ensure_ascii=False)
 
 
+
+
+
+'''
 def chunks(lst, chunk_size):
     """Yield successive chunk_size-sized chunks from lst."""
     return [lst[i:i + chunk_size] for i in range(0, len(lst), chunk_size)]
@@ -272,7 +310,7 @@ for player in segment:
         attributes(playerinfo, player_data)
         #teams played for
         player_data["specs"]["Teams"] = career.get_data_frames()[0]['TEAM_ABBREVIATION'].unique().tolist()
-
+        player_data["specs"]["Active"] = player['is_active']
 
         season_stats = career_stats(career.get_data_frames()[0], 'Regular Season', player_data)
         time.sleep(1.5)
@@ -286,4 +324,50 @@ for player in segment:
     except Exception as e:
         print(f"Error processing {player_name}: {e}")
 
+'''
+
+
+player_id = 2544 # LeBron James
+player_name = "LeBron James"
+time.sleep(1.5)  # avoid rate-limiting
+try:
+    #retrieve career dataframe
+    career = playercareerstats.PlayerCareerStats(player_id, timeout=600)
+    #retrieve award dataframe
+    time.sleep(1.5)
+    awards = playerawards.PlayerAwards(player_id=player_id)
+
+
+    player_data = {
+        "player_id": player_id,
+        "full_name": player_name,
+        "awards": {},
+        "season_stats": {},
+        "playoff_stats": {},
+        "specs":{}
+    }
+    #fill in attributes
+    time.sleep(1.5)
+    info = commonplayerinfo.CommonPlayerInfo(player_id=player_id)
+    playerinfo = info.get_normalized_dict()['CommonPlayerInfo'][0]
+    #print(playerinfo)
+    attributes(playerinfo, player_data)
+    #teams played for
+    player_data["specs"]["Teams"] = career.get_data_frames()[0]['TEAM_ABBREVIATION'].unique().tolist()
+
+    #is_active
+    player_data["specs"]["Active"] = True
+
+
+    season_stats = career_stats(career.get_data_frames()[0], 'Regular Season', player_data)
+    time.sleep(1.5)
+    playoff_stats = career_stats(career.get_data_frames()[2], 'Playoffs', player_data)
+    time.sleep(1.5)
+    accolades(awards.get_data_frames()[0], player_data)
+    time.sleep(1.5)
+    
+    JSON(player_data)
+    print(f"extracted {player_data['full_name']}\n")
+except Exception as e:
+    print(f"Error processing {player_name}: {e}")
 

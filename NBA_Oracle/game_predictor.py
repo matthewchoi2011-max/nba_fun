@@ -208,9 +208,19 @@ class Player:
         self.FT_PCT = player_df['season_FT_PCT']
         
         #calculate tendencies
-        self.shot_tendency = self.FGA / self.gp if self.gp > 0 else 1
-        self.pass_tendency = 2 * self.apg / self.gp if self.gp > 0 else 1
+        '''
+            scoring tendency + passing tendency must be add up to 100%
+
+            stealing tendency + blocking tendency must add up to 100%
+
+            turnover tendency will be based on 
+
+            fouling tendency will be based on minutes played and defensive stats!
+
         
+        ''' 
+        
+
 
 
         self.rebound_tendency = 0
@@ -221,6 +231,29 @@ class Player:
 
 
         self.minutes = player_df['minutes']
+
+
+class Team:
+    def __init__(self,team_df):
+        self.players = []
+        for index, player in team_df.iterrows():
+            self.players.append(Player(player))
+
+
+        self.starters = self.players[:5]
+        self.bench = self.players[5:]
+
+        
+
+class Game:
+    def __init__(self,team1,team2,minutes):
+        self.team1 = Team(team1)
+        self.team2 = Team(team2)
+        self.minutes = minutes
+
+    def tip_off(self):
+        #select the tallest players from each starting lineup
+        
 
 
 if __name__ == "__main__":
