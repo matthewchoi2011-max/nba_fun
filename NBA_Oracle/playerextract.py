@@ -100,6 +100,17 @@ def career_stats(season_stats,season_type,player_data):
         player_data[key][season_id]["FG_PCT"] = safe_round(season.get('FG_PCT') or 0, 3)
         player_data[key][season_id]["FG3_PCT"] = safe_round(season.get('FG3_PCT') or 0, 3)
         player_data[key][season_id]["FT_PCT"] = safe_round(season.get('FT_PCT') or 0, 3)
+
+
+        player_data[key][season_id]["FGM"] = season.get('FGM')
+        player_data[key][season_id]["FGA"] = season.get('FGA')
+
+        player_data[key][season_id]["FG3M"] = season.get('FG3M')
+        player_data[key][season_id]["FG3A"] = season.get('FG3A')
+
+        player_data[key][season_id]["FTM"] = season.get('FTM')
+        player_data[key][season_id]["FTA"] = season.get('FTA')
+
         player_data[key][season_id]["GP"] = gp
 
     return player_data
@@ -150,6 +161,13 @@ def accolades(awards_df, player_data):
                 player_data["awards"]["All-Defensive-First"].append(season)
             elif team_number == "2":
                 player_data["awards"]["All-Defensive-Second"].append(season)
+        elif desc == "NBA Rookie of the Year":
+            player_data["awards"]["ROY"].append(season)
+        elif desc == "All-Rookie Team":
+            if team_number == "1":
+                player_data["awards"]["All-Rookie-First"].append(season)
+            elif team_number == "2":
+                player_data["awards"]["All-Rookie-Second"].append(season)
         elif desc == "NBA Champion":
             player_data["awards"]["Championships"].append(season)
         elif desc == "NBA Finals Most Valuable Player":

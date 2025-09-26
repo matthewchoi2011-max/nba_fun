@@ -1,10 +1,10 @@
 #from Player_extract import season_stats
 from numpy.ma.extras import average
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
-from xgboost import XGBClassifier
-import xgboost as xgb
+#from sklearn.model_selection import train_test_split
+#from sklearn.ensemble import RandomForestClassifier
+#from sklearn.metrics import accuracy_score
+#from xgboost import XGBClassifier
+#import xgboost as xgb
 from pathlib import Path
 import time
 import requests
@@ -13,7 +13,7 @@ import os
 import numpy as np
 import pandas as pd
 import random
-from sklearn.feature_selection import mutual_info_classif
+#from sklearn.feature_selection import mutual_info_classif
 
 '''
 encode the Json files, by importing said Json files for each player, and
@@ -25,8 +25,6 @@ Retrieve 300 players(50 of who are in the top 75 and 250 of whom are not) as a t
 
 Test on entire dataset
 '''
-
-
 
 def collect_stats(stats_dict):
     stat_values = {}
@@ -46,6 +44,9 @@ def convert_player_dataframe(player):
     awards_dict = player['awards']
     award_count = {award: len(years) for award, years in awards_dict.items()}
 
+    specs = player['specs']
+    specs_columns = {k: v for k, v in specs.items() if k != 'teams'}
+
     seasons_played = len(player['season_stats'])
 
     #change season_stats and playoff stats to the MAX, and
@@ -54,16 +55,17 @@ def convert_player_dataframe(player):
 
     season_stat = collect_stats(season_stats)
     playoff_stat =  collect_stats(playoff_stats)
+    print("season_stat: ", season_stat)
 
     season_max_stats = {stat: average(vals) for stat, vals in season_stat.items()}
-    playoff_max_stats = {stat: average(vals) for stat, vals in season_stat.items()}
+    playoff_max_stats = {stat: average(vals) for stat, vals in playoff_stat.items()}
 
 
     revised_player = {
         "player_id": player['player_id'],
         "full_name": player['full_name'],
         "seasons_played": seasons_played,
-        **award_count
+        **award_count, **specs_columns
     }
     for k, v in season_max_stats.items():
         revised_player[f"season_{k}"] = v
@@ -72,8 +74,14 @@ def convert_player_dataframe(player):
     for k, v in playoff_max_stats.items():
         revised_player[f"playoff_{k}"] = v
 
-
     player_df = pd.DataFrame([revised_player])
+
+    
+
+
+
+
+
     return player_df
 
 #retrieve all json files in players folder!
@@ -91,4 +99,4 @@ for filename in os.listdir(folder_path):
             nba_dataset = pd.concat([nba_dataset, panda_player])
 
 nba_dataset.fillna(0, inplace=True)
-nba_dataset.to_csv("nba_dataset.csv", sep="\t", index=False)
+nba_dataset.to_csv("nba_dataset.csv", sep=',', index=False)

@@ -186,153 +186,41 @@ def determine_minutes(team_stats):
     return team_stats
 
 
-class Player_Box:
-    def __init__(self, player_id):
-        self.player_id = player_id
-        self.points = 0
-        self.rebounds = 0
-        self.assists = 0
-        self.steals = 0
-        self.blocks = 0
-        self.turnovers = 0
-        self.fouls = 0
-        self.minutes_played = 0
-        self.FG_PCT = 0.0  # Field Goal Percentage
-        self.threeP_PCT = 0.0  # Three-Point Percentage
-        self.FT_PCT = 0.0  # Free Throw Percentage
-        self.FG_attempts = 0
-        self.threeP_attempts = 0
-        self.FT_attempts = 0
-
-    def update_stats(self, points=0, rebounds=0, assists=0, steals=0, blocks=0, turnovers=0, fouls=0, minutes=0, FG_attempts=0, FG_made=0, threeP_attempts=0, threeP_made=0, FT_attempts=0, FT_made=0):
-        self.points += points
-        self.rebounds += rebounds
-        self.assists += assists
-        self.steals += steals
-        self.blocks += blocks
-        self.turnovers += turnovers
-        self.fouls += fouls
-        self.minutes_played += minutes
-        self.FG_attempts += FG_attempts
-        self.threeP_attempts += threeP_attempts
-        self.FT_attempts += FT_attempts
-
-        # Update shooting percentages
-        if self.FG_attempts > 0:
-            self.FG_PCT = (self.FG_PCT * (self.FG_attempts - FG_attempts) + FG_made) / self.FG_attempts
-        if self.threeP_attempts > 0:
-            self.threeP_PCT = (self.threeP_PCT * (self.threeP_attempts - threeP_attempts) + threeP_made) / self.threeP_attempts
-        if self.FT_attempts > 0:
-            self.FT_PCT = (self.FT_PCT * (self.FT_attempts - FT_attempts) + FT_made) / self.FT_attempts
-
-class Game:
-    def __init__(self, team1, team2, minutes):
-        self.team1 = team1
-        self.team2 = team2
-        self.game_minutes = minutes
-        self.quarter_length = minutes / 4  # assuming 4 quarters
-        self.team1_score = 0
-        self.team2_score = 0
-        self.team1_stats = {}
-        self.team2_stats = {}
-        self.team1_currently_on_court = []
-        self.team2_currently_on_court = []
-        self.possession = None  # 'team1' or 'team2'
-        self.timer = 0  # in seconds
-        self.overtime = False
-        self.overtime_counter = 0
-        self.team1_box = None
-        self.team2_box = None
-
-    def start_box(self,team1, team2):
-
-        list1 = team1['player_id'].tolist()
-        list2 = team2['player_id'].tolist()
-
-        team1_box = {}
-        team2_box = {}  
-        for player in list1:
-            team1_box[player] = Player_Box(player)
+class Player:
+    def __init__(self,player_df):
+        self.name = player_df['full_name']
+        self.id = player_df['player_id']
+        self.ppg = player_df['season_PPG']
+        self.apg = player_df['season_APG']
+        self.rpg = player_df['season_RBG']
+        self.spg = player_df['season_SPG']
+        self.bpg = player_df['season_BPG']
+        self.tpg = player_df['season_TPG']
+        self.gp = player_df['season_GP']
+        self.FGM = player_df['season_FGM']
+        self.FGA = player_df['season_FGA']
+        self.FG_PCT = player_df['season_FG_PCT']
+        self.FG3M = player_df['season_3PM']
+        self.FG3A = player_df['season_3PA']
+        self.FG3_PCT = player_df['season_3P_PCT']
+        self.FTM = player_df['season_FTM']
+        self.FTA = player_df['season_FTA']
+        self.FT_PCT = player_df['season_FT_PCT']
         
-        for player in list2:
-            team2_box[player] = Player_Box(player)
-
-        self.team1_box = team1_box
-        self.team2_box = team2_box
-
-
-    def start_game(self):
-        # two starting centers for each team begin tip off
-        self.possession = random.randomly.choice(['team1', 'team2'])
-        return self.possession
-    
-    def end_game(self):
-        # team 1 wins
-        if(self.timer >= self.minutes * 60 and self.team1_score > self.team2_score):
-            return "Team 1 wins!"
-        
-        # team 2 wins
-        elif(self.timer >= self.minutes * 60 and self.team2_score > self.team1_score):
-            return "Team 2 wins!"
-        
-        # overtime
-        elif(self.timer >= self.minutes * 60 and self.team1_score == self.team2_score):
-            #initialize new game for overtime
-            return  "Overtime!"
+        #calculate tendencies
+        self.shot_tendency = self.FGA / self.gp if self.gp > 0 else 1
+        self.pass_tendency = 2 * self.apg / self.gp if self.gp > 0 else 1
         
 
-    def play(self,team1,team2):
-        #time left on play clock for possession
-        possession_max = 24 # seconds
-        if(720 - self.timer < possession_max):
-            possession_time = 720 - self.timer
 
-        #begin play for possession
-
+        self.rebound_tendency = 0
+        self.steal_tendency = 0
+        self.block_tendency = 0
+        self.turnover_tendency = 0
+        self.possessive_tendency = 0
 
 
-            
-    def possession(self):
-        # Simulate a single possession for the team with the ball
-
-        if(self.possession == 'team1'):
-            #team 1 has the ball
-            # play(team1,team2)
-            pass
-        elif(self.possession == 'team2'):
-            #team 2 has the ball
-            # play(team2,team1)
-            pass
-
-
-    def substitute_player(self, team, player_out_id, player_in_id):
-        # Substitute a player in and out of the game for the specified team
-        if(team == 'team1'):
-            if player_out_id in self.team1_currently_on_court:
-                self.team1_currently_on_court.remove(player_out_id)
-                self.team1_currently_on_court.append(player_in_id)
-        elif(team == 'team2'):
-            if player_out_id in self.team2_currently_on_court:
-                self.team2_currently_on_court.remove(player_out_id)
-                self.team2_currently_on_court.append(player_in_id)
-        
-
-def simulate_game(team1_df, team2_df, minutes):
-    #simulate a game between team1 and team2 based on player stats and minutes played
-    
-    #GAME START
-    team1_score = 0
-    team2_score = 0
-    
-    #Choose 5 players from each team to start
-    team1_starters = team1_df.head(5)
-    team2_starters = team2_df.head(5)
-
-    print("Team 1 Starters:")
-    print(team1_starters['full_name'])
-
-    print("\nTeam 2 Starters:")
-    print(team2_starters['full_name'])
+        self.minutes = player_df['minutes']
 
 
 if __name__ == "__main__":
@@ -342,7 +230,15 @@ if __name__ == "__main__":
     #print(team2)
     sorted_team1 = determine_minutes(team1)
     sorted_team2 = determine_minutes(team2)
-    simulate_game(sorted_team1, sorted_team2,48)
+
+    for player in sorted_team1['full_name']:
+        Player = Player(player['player_id'], player['full_name'], 
+                        player['season_PPG'], player['season_APG'], player['season_RBG'], 
+                        player['season_SPG'], player['season_BPG'], player['season_TPG'], 
+                        player['season_GP'])
+
+
+    #simulate_game(sorted_team1, sorted_team2,48)
 
 
 
