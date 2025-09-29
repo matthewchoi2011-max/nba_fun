@@ -1,3 +1,4 @@
+import random
 
 
 class PlayerBoxScore:
@@ -78,18 +79,64 @@ class Team:
 
         self.starters = self.players[:5]
         self.bench = self.players[5:]
-
-        self.current_game_stats = None
+        self.current_game_stats = {}
+        self.timeouts = 6
+        self.streak = 0
 
 
     def sub_out(self,Player1, Player2):
-        #remove P1 from starting lineup and move to bench
-        self.starters.pop(Player(Player1))
-        self.bench.append(Player(Player1))
-        #remove P2 from bench lineup and move to starting lineup
-        self.starters.pop(Player(Player2))
-        self.bench.append(Player(Player2))        
+        player_out = next(p for p in self.starters if p.name == Player1)
+        player_in = next(p for p in self.bench if p.name == Player2)
+
+        #add starter to bench lineup
+        self.starters.remove(player_out)
+        self.bench.append(player_out)
+
+        #add bench player to starting lineup
+        self.bench.remove(player_in)
+        self.starters.append(player_in)
 
 
-
+class Game:
+    def __init__(self,Team1_df,Team2_df):
+        self.team1 = Team(Team1_df)
+        self.team2 = Team(Team2_df)
+        self.possession = None
+        self.time = 48 * 60 #total seconds of game is 48 minutes * 60 secs/min
     
+    def jumpball(self):
+        j = random.randint(1,2)
+        self.possession = 1 if j == 1 else 2
+
+    def play(self, time_left):
+        
+        timer = 24 #each play lasts 24 seconds, otherwise timer_left
+        #define offensive team and defensive team
+
+        #strategic timeout 
+
+
+
+        if timer > time_left: timer = time_left
+
+        while(timer > 0):
+
+            timer -= random.randint(1,4)
+            
+            #check for steal
+
+            #check if fouled
+
+            #attempt shot
+                #if shot is made
+                #else check for rebound(either offensive or defensive)
+
+        #shot clock violation!
+        #possession = opposing team!      
+
+
+
+
+
+
+
