@@ -1,6 +1,41 @@
-import pandas as pd
-import random
-import math
+
+
+class PlayerBoxScore:
+    def __init__(self, playername, playerid):
+        self.playerid = playername
+        self.name = playerid
+        self.points = 0
+        self.assists = 0
+        self.rebounds = 0
+        self.steals = 0
+        self.blocks = 0
+        #field goals
+        self.fgm = 0
+        self.fga = 0
+        self.fgp = 0.000
+        #threes
+        self.tpm = 0
+        self.tpa = 0
+        self.tpp = 0.000
+        #free throws
+        self.ftm = 0
+        self.fta = 0
+        self.ftp = 0.000
+        #turnovers
+        self.turnover = 0
+        #fouls
+        self.fouls = 0
+        #status
+        self.status = None
+        self.PlusMinus = 0
+
+    def update_percentages(self):
+        if self.fga != 0:
+            self.fgp = self.fgm/self.fga
+        if self.tpa != 0:
+            self.tpp = self.tpm/self.tpa
+        if self.fta != 0:
+            self.ftp = self.ftm/self.fta
 
 class Player:
     def __init__(self,player_df):
@@ -22,100 +57,39 @@ class Player:
         self.FTM = player_df['season_FTM']
         self.FTA = player_df['season_FTA']
         self.FT_PCT = player_df['season_FT_PCT']
-
-
+        self.fatigue = 0
         #calculate tendencies
         '''
         self.two_point_tendency = (self.FGM - self.FG3M) / self.FGA if self.FGA > 0 else 0
         self.three_point_tendency = self.FG3M / self.FGA if self.FGA > 0 else 0
 
         ''' 
-        self.FG3_tendency = 0
-        self.two_point_tendency = 0
-        self.block_tendency = 0
-        self.steal_tendency = 0
-        self.rebound_tendency = 0
-        self.assist_tendency = 0
-        
         self.minutes = player_df['minutes']
+        self.playerboxscore = PlayerBoxScore(self.name,self.id)
 
 
-def calculate_tendencies(tendency, nba_df):
+
+class Team:
+    def __init__(self,team_df):
+        self.players = []
+        for index, player in team_df.iterrows():
+            self.players.append(Player(player))
+            #
+
+        self.starters = self.players[:5]
+        self.bench = self.players[5:]
+
+        self.current_game_stats = None
 
 
-    nba_df['years_norm'] = nba_df['season_GP']/nba_df['season_GP'].max()
-    max_years = max(nba_df['seasons_played'])
+    def sub_out(self,Player1, Player2):
+        #remove P1 from starting lineup and move to bench
+        self.starters.pop(Player(Player1))
+        self.bench.append(Player(Player1))
+        #remove P2 from bench lineup and move to starting lineup
+        self.starters.pop(Player(Player2))
+        self.bench.append(Player(Player2))        
 
-    #weights for FG tendencies
-    three_w1 = 0.45
-    three_w2 = 0.45
-    three_w3 = 0.1
-
-    max_3pt_score = max(nba_df['season_FGA'] * nba_df['season_FG_PCT'])
-    max_log_3PM = max(math.log1p(x) for x in nba_df['season_FGM'])
-
-    #weights for 3PT FG tendencies
-    fg_w1 = 0.5
-    fg_w2 = 0.4
-    fg_w3 = 0.1
-
-    max_fg_score = max(nba_df['season_3PA'] * nba_df['season_3P_PCT'])
-    max_log_FGM = max(math.log1p(x) for x in nba_df['season_3PM'])
-
-    #weights for rebounding tendencies
-    rb_w1 = 0.5
-    rb_w2 = 0.4
-    rb_w3 = 0.1
-
-    max_total_rebounds = max(nba_df['TRB'])
-    max_log_career_rb = max(math.log1p(x) for x in nba_df['season_RBG'])
-
-
-    #weights for assist tendencies
-    ast_w1 = 0.5
-    ast_w2 = 0.4
-    ast_w3 = 0.1
-
-    max_total_assists = max(nba_df['TAST'])
-    max_log_career_ast = max(math.log1p(x) for x in nba_df['season_APG'])
-
-    #weights for steal tendencies
-    stl_w1 = 0.5
-    stl_w2 = 0.4
-    stl_w3 = 0.1
-
-    max_total_steals = max(nba_df['TSTL'])
-    max_log_career_stl = max(math.log1p(x) for x in nba_df['season_SPG'])
-
-    #weights for block tendencies
-    blk_w1 = 0.5
-    blk_w2 = 0.4
-    blk_w3 = 0.1
-
-    max_total_blks = max(nba_df['TBLK'])
-    max_log_career_blk = max(math.log1p(x) for x in nba_df['season_BPG'])
-
-    #compute weighted scores
-    for index,player in nba_df.iterrows():
-
-        three_norm = player['T3PM']/max_log_3PM
-        fg_norm = player['TFGM']/max_fg_score
-        rb_norm = player['TRB']/max_total_rebounds
-        ast_norm = player['TAST']/max_total_assists
-        stl_norm = player['TSTL']/max_total_steals
-        blk_norm = player['TBLK']/max_total_blks
-
-        three_score = three_w1 * three_norm + three_w2 * 
-        
-   
-
-
-    
-    
-    
-
-
-    
 
 
     
