@@ -4,7 +4,7 @@ import random
 import math
 
 #get all players from nba_dataset.csv 
-players_df = pd.read_csv('nba_dataset.csv', encoding='latin1',sep='\t')
+players_df = pd.read_csv('nba_dataset.csv', encoding='latin1')
 
 #convert csv to be comma space instead
 
@@ -20,10 +20,10 @@ def make_team():
     team_stats = {}
 
     while len(team) < 15:
-        player = random.choice(players_df['player_id'].tolist())
+        player = players_df['player_id'].dropna().sample(n=1).iloc[0]
         if player not in team:
             team.append(player)
-            player_stats = players_df[players_df['player_id'] == player].to_dict(orient='records')[0]
+            player_stats = players_df.loc[players_df['player_id'] == player].iloc[0].to_dict()
             team_stats[player] = player_stats
             
     #print(team_stats)
@@ -31,160 +31,170 @@ def make_team():
     #new_team_stats.to_csv('team_stats.csv', index=False)
     return new_team_stats
 
+
+
+def choose_best_formation(team_stats):
+    """
+    Selects the best starting 5 formation based on combined player merit.
+    Valid formations:
+        1. G G G F F
+        2. G G F F C
+        3. G F F F C
+    """
+    # Normalize Position column
+    team_stats['Position'] = team_stats['Position'].str.upper().str.strip()
+
+    # Helper: try to select players for a given formation
+    def try_formation(requirements):
+        chosen = []
+        remaining = team_stats.copy()
+        for pos, count in requirements.items():
+            candidates = remaining[remaining['Position'].str.contains(pos, na=False)]
+            top = candidates.nlargest(count, 'player_merit')
+            if len(top) < count:
+                return None  # formation not possible
+            chosen.append(top)
+            remaining = remaining.drop(top.index)
+        return pd.concat(chosen)
+
+    # Define formations
+    formations = [
+        {"G": 3, "F": 2},          # G G G F F
+        {"G": 2, "F": 2, "C": 1},  # G G F F C
+        {"G": 1, "F": 3, "C": 1}   # G F F F C
+    ]
+
+    # Evaluate formations
+    best = None
+    best_merit = -1
+    for formation in formations:
+        lineup = try_formation(formation)
+        if lineup is not None:
+            merit_sum = lineup['player_merit'].sum()
+            if merit_sum > best_merit:
+                best_merit = merit_sum
+                best = lineup
+
+    return best
+
 def determine_minutes(team_stats):
- 
-    #print(team_stats)
-    
-    # assign more minutes to players with higher award metrics, added weights for each award
-    for index, player in team_stats.iterrows():
+    import math
+    import pandas as pd
 
+    # --- 1. Calculate player merit ---
+    for index, player in team_stats.iterrows():
         player_merit_sum = (math.sqrt(player['seasons_played']) +
-                player['NBA All-Star'] * 2 +   
-                player['All-NBA-First'] * 4.5 + 
-                player['All-NBA-Second'] * 3.5 + 
-                player['All-NBA-Third'] * 2.5 +
-                player['Championships'] * 2 +
-                player['MVP'] * 5 +
-                player['FMVP'] * 4 +  
-                player['DPOY'] * 2.5 +
-                player['All-Defensive-First'] * 1.8 +
-                player['All-Defensive-Second'] * 1.3)
-        
-        #add player_merit to team_stats
-        team_stats.at[index,'player_merit'] = player_merit_sum
+                            player['NBA All-Star'] * 2 +
+                            player['All-NBA-First'] * 4.5 +
+                            player['All-NBA-Second'] * 3.5 +
+                            player['All-NBA-Third'] * 2.5 +
+                            player['Championships'] * 2 +
+                            player['MVP'] * 5 +
+                            player['FMVP'] * 4 +
+                            player['DPOY'] * 2.5 +
+                            player['All-Defensive-First'] * 1.8 +
+                            player['All-Defensive-Second'] * 1.3)
 
-        #assume 2.33 points per assist
-        points_generated = (player['season_PPG'] * player['season_GP'] + 
+        points_generated = (player['season_PPG'] * player['season_GP'] +
                             player['season_APG'] * player['season_GP'] * 2.33)
-        
-        #assume each rebound generates 1.15 points
-        rebeounds_generated = (player['season_RBG'] * player['season_GP'] * 1.15) 
-        total_contribution = points_generated + rebeounds_generated
+        rebounds_generated = player['season_RBG'] * player['season_GP'] * 1.15
+        defensive_contribution = (player['season_SPG'] * player['season_GP'] * 2.25 +
+                                  player['season_BPG'] * player['season_GP'] * 2)
+        turnovers_loss = player['season_TPG'] * player['season_GP'] * 2.25
 
-        #assume each steal generates 2.25 points, each block generates 2.25 points
-        defensive_contribution = (player['season_SPG'] * player['season_GP'] * 2.25) + (player['season_BPG'] * player['season_GP'] * 2)
+        net_contribution = points_generated + rebounds_generated + defensive_contribution - turnovers_loss
 
-        losses_due_to_turnovers = (player['season_TPG'] * player['season_GP'] * 2.25)
+        #if player merit sum is below 5, multiply by 5
+        if player_merit_sum < 5:
+            player_merit_sum = 5
 
-        #net contribution = total contribution + defensive contribution - losses due to turnovers
-        net_contribution = total_contribution + defensive_contribution - losses_due_to_turnovers
-        team_stats.at[index,'player_merit'] = net_contribution * player_merit_sum
+        team_stats.at[index, 'player_merit'] = net_contribution * math.log(player_merit_sum)
 
-
-    #sort team_stats by player_merit
+    # --- 2. Sort by merit ---
     team_stats.sort_values(by='player_merit', ascending=False, inplace=True)
-    #print(team_stats[['full_name','player_merit']])
 
-    #using player merit, assign minutes accordingly
+    # --- 3. Select best starting 5 formation ---
+    starters = choose_best_formation(team_stats)
+    if starters is None:
+        starters = team_stats.head(5)
 
-    '''
-    Expected conversion:
+    # --- 4. Assign starter/bench roles ---
+    team_stats['role'] = 'Bench'
+    team_stats.loc[starters.index, 'role'] = 'Starter'
 
-    LeGOAT = 650k
+    # --- 5. Assign minutes ---
+    team_stats['minutes'] = 0  # ensures column exists
 
-    MJ = 563k
+    # Starter allocation
+    min_starter_minutes = 25
+    max_starter_minutes = 42
+    starter_minutes_total = 160  # total minutes for starters
 
-    Kobe Bryant: 391934.594 = superstar (40+ minutes)
+    starters['minutes'] = starters['player_merit'] / starters['player_merit'].sum() * starter_minutes_total
+    # Clip to min/max per starter
+    starters['minutes'] = starters['minutes'].clip(lower=min_starter_minutes, upper=max_starter_minutes)
 
-    300k+ = top 20 players of all time
+    # Rescale to exactly starter_minutes_total
+    starters_total = starters['minutes'].sum()
+    if starters_total > 0:
+        starters['minutes'] = starters['minutes'] / starters_total * starter_minutes_total
 
-    Carmelo Anthony: 90909 = star (30-40 minutes)
+    team_stats.loc[starters.index, 'minutes'] = starters['minutes'].astype(int)
 
-    Tony Parker: 81505.441 = star (30-40 minutes)
+    # Bench allocation: only top 5 bench players by merit
+    bench = team_stats[team_stats['role'] == 'Bench']
+    top5_bench = bench.nlargest(5, 'player_merit')
+    bench_minutes_total = 240 - team_stats['minutes'].sum()
 
-    Pau Gasol: 74265.2 = star (30-40 minutes)
+    if not top5_bench.empty and bench_minutes_total > 0:
+        bench_merit_sum = top5_bench['player_merit'].sum()
+        if bench_merit_sum > 0:
+            team_stats.loc[top5_bench.index, 'minutes'] = (
+                top5_bench['player_merit'] / bench_merit_sum * bench_minutes_total
+            )
+        else:
+            team_stats.loc[top5_bench.index, 'minutes'] = bench_minutes_total / len(top5_bench)
 
-    Devin Booker = 45635.7 = all star (30-40 minutes)
-
-    Sam Cassell: 30267 = all star (30-40 minutes)
-
-    15-40k = bone fide all star, not the most consistent
-
-    Al Jefferson: 11789 = solid starter (20-30 minutes)
-
-    Jamal Murray: 10509.370 = solid starter (20-30 minutes)
-
-    Jose Calderon 5419.339 = role player (10-20 minutes)
-
-    Eric Gordon 5137.339 = role player (10-20 minutes)
-
-    Bismack Biyombo: 3315.5 = role player/bench (10-20 minutes)
-
-    Delonte West: 1000 ish, bench
-
-    < 10000 = bench (0-10 minutes)
-
-    '''
-
-    total_merit = team_stats['player_merit'].sum()
-
-    #calculate minutes based on player merit/total merit of team
-    for index, player in team_stats.iterrows():
-        ratioed_merit = player['player_merit'] / total_merit
-
-        low = 1
-        high = 10
-        population = list(range(low, high + 1))
-        weights = [x for x in population]  # Medium weight for all players
-
-        if(ratioed_merit > 0.2):
-            
-            low = 32
-            high = 45
-            population = list(range(low, high + 1))
-            weights = [x for x in population]  # Higher numbers get more weight
-            player_minutes = random.choices(population, weights=weights, k=1)[0]
-
-        if(ratioed_merit < 0.2 and ratioed_merit > 0.1):
-            low = 20
-            high = 32
-            population = list(range(low, high + 1))
-            weights = [x for x in population]  # Higher numbers get more weight
-            player_minutes = random.choices(population, weights=weights, k=1)[0]
-
-        elif(ratioed_merit < 0.1 and ratioed_merit > 0.03):
-            low = 10
-            high = 20
-            population = list(range(low, high + 1))
-            weights = [x for x in population]  # Higher numbers get more weight
-            player_minutes = random.choices(population, weights=weights, k=1)[0]
-
-        elif(ratioed_merit < 0.03):
-            low = 0
-            high = 10
-            population = list(range(low, high + 1))
-            weights = [x for x in population]  # Higher numbers get more weight
-            player_minutes = random.choices(population, weights=weights, k=1)[0]
-
-        team_stats.at[index,'minutes'] = round(player_minutes,1)
-
-
-    #scale minutes to total 240
+    # Clip all minutes
+    team_stats['minutes'] = team_stats['minutes'].clip(lower=0, upper=32)
+    #round to 240 minutes
     total_minutes = team_stats['minutes'].sum()
-    scale = total_minutes / 240 
-    team_stats['minutes'] = round(team_stats['minutes']/scale,1)
-
-
-
-    #readjust to keep all players below 45 minutes
-
-    # Robustly cap at 45 and redistribute deficit to those under 40
-    team_stats['minutes'] = team_stats['minutes'].clip(upper=45)
-    # Redistribute until total is close to 240 or no one is under 40
-    for _ in range(20):  # limit iterations to avoid infinite loop
-        total = team_stats['minutes'].sum()
-        deficit = 240 - total
-        under = team_stats['minutes'] < 40
-        if abs(deficit) < 0.01 or not under.any():
-            break
-        add_per_player = deficit / under.sum()
-        team_stats.loc[under, 'minutes'] += add_per_player
-        team_stats['minutes'] = team_stats['minutes'].clip(upper=45)
+    team_stats['minutes'] = team_stats['minutes'].round(1)
+    if total_minutes != 240:
+        scale = 240 / total_minutes
+        team_stats['minutes'] = team_stats['minutes'] * scale
     team_stats['minutes'] = team_stats['minutes'].round(1)
 
-
+    #remove bench players with 0 minutes, who are the last 5 players
+    team_stats = team_stats.iloc[:-5]
     return team_stats
 
+
+class PlayerBoxScore:
+    def __init__(self,Player_id,Player_name):
+        self.name = Player_name
+        self.id = Player_id
+        self.points = 0
+        self.ast = 0
+        self.rb = 0
+        self.stl = 0
+        self.blk = 0
+        #turnovers
+        self.tov = 0
+        #fouls
+        self.foul = 0
+        #field goals
+        self.fgm = 0
+        self.fga = 0
+        self.fgp = 0.000
+        #three point goals
+        self.tpm = 0
+        self.tpa = 0
+        self.tpp = 0.000
+        #free throws
+        self.ftm = 0
+        self.fta = 0
+        self.ftp = 0.000
 
 class Player:
     def __init__(self,player_df):
@@ -200,60 +210,222 @@ class Player:
         self.FGM = player_df['season_FGM']
         self.FGA = player_df['season_FGA']
         self.FG_PCT = player_df['season_FG_PCT']
-        self.FG3M = player_df['season_3PM']
-        self.FG3A = player_df['season_3PA']
-        self.FG3_PCT = player_df['season_3P_PCT']
+        self.FG3M = player_df['season_FG3M']
+        self.FG3A = player_df['season_FG3A']
+        self.FG3_PCT = player_df['season_FG3_PCT']
         self.FTM = player_df['season_FTM']
         self.FTA = player_df['season_FTA']
         self.FT_PCT = player_df['season_FT_PCT']
+        self.role = player_df['role']
         
         #calculate tendencies
         '''
-            scoring tendency + passing tendency must be add up to 100%
+        self.two_point_tendency = (self.FGM - self.FG3M) / self.FGA if self.FGA > 0 else 0
+        self.three_point_tendency = self.FG3M / self.FGA if self.FGA > 0 else 0
 
-            stealing tendency + blocking tendency must add up to 100%
-
-            turnover tendency will be based on 
-
-            fouling tendency will be based on minutes played and defensive stats!
-
-        
         ''' 
-        
-
-
-
-        self.rebound_tendency = 0
-        self.steal_tendency = 0
-        self.block_tendency = 0
-        self.turnover_tendency = 0
-        self.possessive_tendency = 0
-
-
         self.minutes = player_df['minutes']
+        self.box = PlayerBoxScore(self.id,self.name)
 
 
 class Team:
     def __init__(self,team_df):
-        self.players = []
-        for index, player in team_df.iterrows():
-            self.players.append(Player(player))
-
-
-        self.starters = self.players[:5]
-        self.bench = self.players[5:]
-
-        
+        # Create Player objects
+        self.players = {row['player_id']: Player(row) for _, row in team_df.iterrows()}
+        self.starters = [p for p in self.players.values() if p.role == 'Starter']
+        self.bench = [p for p in self.players.values() if p.role == 'Bench']
+        self.wins = 0
+        self.losses = 0
 
 class Game:
     def __init__(self,team1,team2,minutes):
-        self.team1 = Team(team1)
-        self.team2 = Team(team2)
-        self.minutes = minutes
-
+        self.team1 = team1
+        self.team2 = team2
+        self.time_left = 60 * 48 #48 minutes * 60 secs/min
+        self.team1_score = 0
+        self.team2_score = 0
+        self.team1_total_timeouts = 7
+        self.team2_total_timeouts = 7
+        self.curr_possession = None
+        self.current_quarter = 1
+        self.overtime = False
+    
     def tip_off(self):
-        #select the tallest players from each starting lineup
+        r = random.randint(1,2)
+        self.curr_possession = 'Team1' if r == 1 else 'Team2'
+
+    def end_game(self):
+        if self.time_left == 0:
+            if self.team1_score == self.team2_score:
+                #set up overtime
+                self.overtime = True
+                self.current_quarter = 1
+
+    def simulate_full_game(self):
+            """
+            Simulate a full NBA game (4 quarters, plus overtime if needed).
+            Each possession uses self.simulate_possession.
+            """
+            self.current_quarter = 1
+
+            while self.current_quarter <= 4 or (self.overtime and self.time_left > 0):
+                print(f"=== Quarter {self.current_quarter} ===")
+                self.time_left = 12 * 60  # reset quarter time in seconds
+
+                while self.time_left > 0:
+                    # Simulate a possession
+                    possession_result = self.simulate_possession()
+                    
+                    # Approximate possession duration (could sum actual action times for precision)
+                    self.time_left -= 15  
+
+                print(f"Quarter {self.current_quarter} Score: Team1 {self.team1_score} - Team2 {self.team2_score}\n")
+                self.current_quarter += 1
+
+            # Check for overtime if tied
+            if self.team1_score == self.team2_score:
+                print("Game tied! Starting overtime...")
+                self.overtime = True
+                self.current_quarter = 1
+                self.time_left = 5 * 60  # 5-minute overtime
+                while self.time_left > 0:
+                    self.simulate_possession()
+                    self.time_left -= 15
+
+            print("=== Final Score ===")
+            print(f"Team1: {self.team1_score}")
+            print(f"Team2: {self.team2_score}\n")
+
+            # Print box scores
+            def print_box(team, name):
+                print(f"--- {name} Box Score ---")
+                for p in team.starters + team.bench:
+                    b = getattr(p, "box", None)
+                    if b:
+                        print(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
+                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}")
+                print("\n")
+
+            print_box(self.team1, "Team1")
+            print_box(self.team2, "Team2")
         
+    def quarter(self):
+        self.time_left = 12 * 60 #12 minutes * 60 secs/min
+        if self.current_quarter == 4:
+            self.quarter_team1_timeouts = 3
+            self.quarter_team2_timeouts = 3
+        else:
+            self.quarter_team1_timeouts = 2
+            self.quarter_team2_timeouts = 2
+
+    def simulate_possession(self):
+        """
+        Simulate a full basketball possession for the current team with:
+        - 24-second shot clock
+        - Passes, assists, and turnovers tracked
+        - 2-point vs 3-point shot accuracy
+        """
+        # Determine team in possession
+        team = self.team1 if self.curr_possession == 'Team1' else self.team2
+
+        # Choose ball handler: starter with highest APG
+        starters = team.starters
+        if not starters:
+            ball_handler = random.choice(list(team.players.values()))
+        else:
+            ball_handler = max(starters, key=lambda p: p.apg)
+
+        # Initialize possession
+        shot_clock = 24
+        actions = [f"{ball_handler.name} starts with the ball"]
+        passes = 0
+        last_passer = None
+        points = 0
+        result = None
+        players_on_court = team.starters  # could include bench if desired
+
+        while shot_clock > 0:
+            # Each action takes 1-5 seconds
+            action_time = random.randint(1, 5)
+            shot_clock -= action_time
+            if shot_clock <= 0:
+                actions.append(f"Shot Clock Expired! {self.curr_possession} ends in turnover.")
+                result = 'Turnover'
+                ball_handler.box.tov += 1
+                break
+
+            # Probabilities
+            turnover_prob = ball_handler.tpg / max(ball_handler.gp, 1)
+            shot_prob = 0.2 + (ball_handler.FG_PCT if ball_handler.FG_PCT else 0) * 0.5
+            pass_prob = 1 - turnover_prob - shot_prob
+
+            action = random.choices(
+                ["pass", "dribble", "shot", "turnover"],
+                weights=[pass_prob, 0.3, shot_prob, turnover_prob],
+                k=1
+            )[0]
+
+            if action == "pass":
+                passes += 1
+                last_passer = ball_handler
+                new_handler = random.choice([p for p in players_on_court if p != ball_handler])
+                actions.append(f"{ball_handler.name} passes to {new_handler.name} ({action_time}s)")
+                ball_handler = new_handler
+
+            elif action == "dribble":
+                actions.append(f"{ball_handler.name} dribbles ({action_time}s)")
+
+            elif action == "shot":
+                # Decide 3-pointer or 2-pointer
+                is_three = ball_handler.FG3_PCT and random.random() < 0.3
+                points = 3 if is_three else 2
+                fg_chance = ball_handler.FG3_PCT if is_three else ball_handler.FG_PCT
+                made = random.choices([True, False], weights=[fg_chance, 1 - fg_chance])[0]
+
+                if made:
+                    actions.append(f"{ball_handler.name} makes a {points}-point shot! ({action_time}s)")
+                    result = "score"
+                    ball_handler.box.fgm += 1
+                    ball_handler.box.fga += 1
+                    if not is_three:
+                        ball_handler.box.points += 2
+                    if is_three:
+                        ball_handler.box.tpm += 1
+                        ball_handler.box.tpa += 1
+                        ball_handler.box.points += 3
+                    if passes > 0 and last_passer:
+                        last_passer.box.ast += 1  # assist credited
+
+                else:
+                    actions.append(f"{ball_handler.name} misses a {points}-point shot ({action_time}s)")
+                    points = 0
+                    result = "miss"
+                    ball_handler.box.fga += 1
+                    if is_three:
+                        ball_handler.box.tpa += 1
+                break
+
+            elif action == "turnover":
+                actions.append(f"{ball_handler.name} turns the ball over ({action_time}s)")
+                ball_handler.box.tov += 1
+                result = "turnover"
+                break
+
+        # Update team score
+        if points > 0:
+            if self.curr_possession == 'Team1':
+                self.team1_score += points
+            else:
+                self.team2_score += points
+
+        # Switch possession
+        self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
+
+        # Print action log
+        for act in actions:
+            print(act)
+        print(f"Possession result: {result}, Points scored: {points}\n")
+
 
 
 if __name__ == "__main__":
@@ -263,12 +435,24 @@ if __name__ == "__main__":
     #print(team2)
     sorted_team1 = determine_minutes(team1)
     sorted_team2 = determine_minutes(team2)
+    #adjust minutes for team1 and 2
 
-    for player in sorted_team1['full_name']:
-        Player = Player(player['player_id'], player['full_name'], 
-                        player['season_PPG'], player['season_APG'], player['season_RBG'], 
-                        player['season_SPG'], player['season_BPG'], player['season_TPG'], 
-                        player['season_GP'])
+
+    #print(sorted_team1[['full_name', 'Position', 'role','player_merit', 'minutes']])
+    #print("\n")
+    #print("minutes total = ",sorted_team1['minutes'].sum())
+    #print(sorted_team2[['full_name', 'Position', 'role','player_merit', 'minutes']])
+    #print("minutes total = ",sorted_team2['minutes'].sum())
+
+    Team1 = Team(sorted_team1)
+    Team2 = Team(sorted_team2)
+
+    #print(Team1.starters[0].gp)
+
+    G = Game(Team1,Team2,48)
+    G.tip_off()
+    G.simulate_full_game()
+    #G.simulate_possession()
 
 
     #simulate_game(sorted_team1, sorted_team2,48)
