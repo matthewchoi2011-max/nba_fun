@@ -245,6 +245,9 @@ class Player:
         self.stint_seconds = 0 #seconds played in stint
         self.box = PlayerBoxScore(self.id,self.name)
 
+        self.minutes = player_df['minutes']
+
+
         
 
 
@@ -344,9 +347,11 @@ class Game:
             def print_box(team, name):
                 log(f"--- {name} Box Score ---")
                 total_secs = 0
-                
+                total_shot_attempts = 0
                 for p in team.starters + team.bench:
+                    log(f"{p.name}'s recommended minutes: {p.minutes}")
                     total_secs += p.total_seconds
+                    total_shot_attempts += p.box.fga
                     #convert total seconds into minutes : seconds
                     minutes = p.total_seconds // 60
                     seconds = p.total_seconds % 60
@@ -357,6 +362,7 @@ class Game:
                             f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}")
                 log("\n")
                 print(f"team total seconds {total_secs}\n")
+                print(f"shots attempted: {total_shot_attempts}\n")
 
             print_box(self.team1, "Team1")
             print_box(self.team2, "Team2")
@@ -403,46 +409,6 @@ class Game:
         '''
         def perform_substitution(team):
             """
-            Substitutes starters with bench players of the same position.
-            Rotation occurs multiple times per game.
-            Logs substitution actions into the current possession's `actions`.
-            """
-            nonlocal players_on_court, actions
-            MAX_STINT = 60 * 6  # 6 minutes per stint
-
-            for starter in team.starters:
-                if starter.stint_seconds >= MAX_STINT:
-                    # Bench players of same position not currently on court
-                    same_pos_bench = [b for b in team.bench if b.position == starter.position and b not in team.starters]
-
-                    if not same_pos_bench:
-                        # fallback: any bench player not on court
-                        same_pos_bench = [b for b in team.bench if b not in team.starters]
-
-                    if not same_pos_bench:
-                        continue  # no valid substitution
-
-                    # Choose bench player with fewest cumulative seconds
-                    sub_in = min(same_pos_bench, key=lambda b: b.total_seconds)
-
-                    # Swap starter and bench player
-                    idx_starter = team.starters.index(starter)
-                    idx_bench = team.bench.index(sub_in)
-                    team.starters[idx_starter], team.bench[idx_bench] = sub_in, starter
-
-                    # Reset stint counters for this sub only
-                    starter.stint_seconds = 0
-                    sub_in.stint_seconds = 0
-
-                    # Update players on court
-                    players_on_court = team.starters
-
-                    # Log substitution
-                    actions += f"Substitution: {starter.name} out, {sub_in.name} in\n"
-                    '''
-        
-        def perform_substitution(team):
-            """
             Substitutes the least efficient starter (by FGP) with a bench player of same position,
             but only if the starter has played at least MIN_STINT seconds in current stint.
             """
@@ -485,6 +451,57 @@ class Game:
 
             # Log
             actions += f"Substitution (inefficient shooter): {sub_out.name} out, {sub_in.name} in\n"
+        '''
+        def perform_substitution(team):
+            """
+            Substitutes the least efficient starter (by FGP) with a bench player of same position.
+            Substitution occurs if:
+            1. Starter has played MIN_STINT in current stint, or
+            2. Starter has exceeded their recommended minutes.
+            Bench player chosen is least used so far.
+            """
+            nonlocal players_on_court, actions
+            MIN_STINT = 60 * 6  # 6 minutes per stint
+
+            # Filter starters who are eligible by either stint or total minutes
+            eligible_starters = [
+                s for s in team.starters 
+                if s.stint_seconds >= MIN_STINT or s.total_seconds >= getattr(s, 'minutes', 0) * 60
+            ]
+
+            if not eligible_starters:
+                return  # no one eligible yet
+
+            # Pick least efficient starter (by FGP)
+            sub_out = min(eligible_starters, key=lambda p: p.box.fgp)
+
+            # Find bench players of same position not on court
+            same_pos_bench = [b for b in team.bench if b.position == sub_out.position and b not in team.starters]
+
+            if not same_pos_bench:
+                # fallback: any bench player not on court
+                same_pos_bench = [b for b in team.bench if b not in team.starters]
+
+            if not same_pos_bench:
+                return  # no valid substitution
+
+            # Pick bench player with least total seconds
+            sub_in = min(same_pos_bench, key=lambda b: b.total_seconds)
+
+            # Swap players
+            idx_starter = team.starters.index(sub_out)
+            idx_bench = team.bench.index(sub_in)
+            team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
+
+            # Reset stint timers for swapped players
+            sub_out.stint_seconds = 0
+            sub_in.stint_seconds = 0
+
+            # Update players on court
+            players_on_court = team.starters
+
+            # Log
+            actions += f"Substitution: {sub_out.name} out, {sub_in.name} in (inefficient or exceeded minutes)\n"
 
         rem = int(remaining_secs)
 
