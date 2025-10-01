@@ -1,0 +1,57 @@
+{
+    "player_id": 76558,
+    "full_name": "Randy Denton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 5.3,
+            "APG": 0.7,
+            "RBG": 4.8,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.6,
+            "FG_PCT": 0.402,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.702,
+            "FGM": 103,
+            "FGA": 256,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 33,
+            "FTA": 47,
+            "GP": 45
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "61",
+        "Active": false
+    }
+}

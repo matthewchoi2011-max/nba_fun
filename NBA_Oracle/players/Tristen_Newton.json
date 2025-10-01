@@ -1,0 +1,59 @@
+{
+    "player_id": 1641803,
+    "full_name": "Tristen Newton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 0.4,
+            "APG": 0.2,
+            "RBG": 0.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -0.6,
+            "MPG": 2.0,
+            "FG_PCT": 0.125,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 8,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "IND",
+            "MIN",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "49",
+        "Active": true
+    }
+}

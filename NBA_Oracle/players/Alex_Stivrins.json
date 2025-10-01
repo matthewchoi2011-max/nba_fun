@@ -1,0 +1,82 @@
+{
+    "player_id": 78261,
+    "full_name": "Alex Stivrins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 1.0,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 4.7,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 3
+        },
+        "1992-93": {
+            "PPG": 2.2,
+            "APG": 0.2,
+            "RBG": 1.0,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0.487,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 19,
+            "FGA": 39,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "SEA",
+            "ATL",
+            "LAC",
+            "MIL",
+            "PHX",
+            "TOT"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "75",
+        "Active": false
+    }
+}

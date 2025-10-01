@@ -1,0 +1,57 @@
+{
+    "player_id": 1629353,
+    "full_name": "Isaac Humphries",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 3.0,
+            "APG": 0.0,
+            "RBG": 2.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -4.4,
+            "MPG": 11.2,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0.273,
+            "FT_PCT": 0,
+            "FGM": 6,
+            "FGA": 21,
+            "FG3M": 3,
+            "FG3A": 11,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "260",
+        "Position": "Center",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

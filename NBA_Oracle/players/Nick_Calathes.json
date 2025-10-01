@@ -1,0 +1,98 @@
+{
+    "player_id": 201979,
+    "full_name": "Nick Calathes",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2013-14": {
+            "PPG": 4.9,
+            "APG": 2.9,
+            "RBG": 1.9,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 1.4,
+            "PM": 0.3,
+            "MPG": 16.5,
+            "FG_PCT": 0.457,
+            "FG3_PCT": 0.311,
+            "FT_PCT": 0.611,
+            "FGM": 142,
+            "FGA": 311,
+            "FG3M": 19,
+            "FG3A": 61,
+            "FTM": 44,
+            "FTA": 72,
+            "GP": 71
+        },
+        "2014-15": {
+            "PPG": 4.2,
+            "APG": 2.5,
+            "RBG": 1.8,
+            "SPG": 1.1,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": 1.5,
+            "MPG": 14.4,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0.256,
+            "FT_PCT": 0.533,
+            "FGM": 104,
+            "FGA": 247,
+            "FG3M": 11,
+            "FG3A": 43,
+            "FTM": 24,
+            "FTA": 45,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {
+        "2014-15": {
+            "PPG": 3.3,
+            "APG": 1.6,
+            "RBG": 1.6,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": 0.8,
+            "MPG": 12.6,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.462,
+            "FT_PCT": 0.375,
+            "FGM": 12,
+            "FGA": 36,
+            "FG3M": 6,
+            "FG3A": 13,
+            "FTM": 3,
+            "FTA": 8,
+            "GP": 10
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "213",
+        "Position": "Guard",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "45",
+        "Active": false
+    }
+}

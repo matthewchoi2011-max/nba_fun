@@ -1,0 +1,78 @@
+{
+    "player_id": 76079,
+    "full_name": "Milos Babic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1990-91": {
+            "PPG": 1.6,
+            "APG": 0.3,
+            "RBG": 0.8,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 4.3,
+            "FG_PCT": 0.316,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.583,
+            "FGM": 6,
+            "FGA": 19,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 7,
+            "FTA": 12,
+            "GP": 12
+        },
+        "1991-92": {
+            "PPG": 2.0,
+            "APG": 0.7,
+            "RBG": 1.2,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 3.9,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 6,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 8,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "CLE",
+            "MIA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "50",
+        "Active": false
+    }
+}

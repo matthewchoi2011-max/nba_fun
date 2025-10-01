@@ -1,0 +1,98 @@
+{
+    "player_id": 204066,
+    "full_name": "John Holland",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 2.2,
+            "APG": 0.2,
+            "RBG": 1.0,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -1.3,
+            "MPG": 7.2,
+            "FG_PCT": 0.288,
+            "FG3_PCT": 0.306,
+            "FT_PCT": 0.692,
+            "FGM": 17,
+            "FGA": 59,
+            "FG3M": 11,
+            "FG3A": 36,
+            "FTM": 9,
+            "FTA": 13,
+            "GP": 24
+        },
+        "2018-19": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 1.0,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "playoff_stats": {
+        "2015-16": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -2.0,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

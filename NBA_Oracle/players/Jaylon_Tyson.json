@@ -1,0 +1,78 @@
+{
+    "player_id": 1642281,
+    "full_name": "Jaylon Tyson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 3.6,
+            "APG": 0.9,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -0.0,
+            "MPG": 9.6,
+            "FG_PCT": 0.43,
+            "FG3_PCT": 0.345,
+            "FT_PCT": 0.792,
+            "FGM": 64,
+            "FGA": 149,
+            "FG3M": 20,
+            "FG3A": 58,
+            "FTM": 19,
+            "FTA": 24,
+            "GP": 47
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 6.0,
+            "APG": 1.8,
+            "RBG": 1.8,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": 6.8,
+            "MPG": 7.8,
+            "FG_PCT": 0.467,
+            "FG3_PCT": 0.556,
+            "FT_PCT": 0.833,
+            "FGM": 7,
+            "FGA": 15,
+            "FG3M": 5,
+            "FG3A": 9,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "20",
+        "Active": true
+    }
+}

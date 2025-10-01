@@ -1,0 +1,78 @@
+{
+    "player_id": 78640,
+    "full_name": "Dave Zeller",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 1.5,
+            "APG": 1.0,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.6,
+            "FG_PCT": 0.353,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 36,
+            "FGA": 102,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 18,
+            "FTA": 24,
+            "GP": 61
+        }
+    },
+    "playoff_stats": {
+        "1961-62": {
+            "PPG": 1.0,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "CIN"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "61",
+        "Active": false
+    }
+}

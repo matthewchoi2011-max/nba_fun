@@ -1,0 +1,78 @@
+{
+    "player_id": 78302,
+    "full_name": "Roland Taylor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 3.8,
+            "APG": 3.6,
+            "RBG": 2.7,
+            "SPG": 1.7,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 19.6,
+            "FG_PCT": 0.42,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.569,
+            "FGM": 132,
+            "FGA": 314,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 37,
+            "FTA": 65,
+            "GP": 79
+        }
+    },
+    "playoff_stats": {
+        "1976-77": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "12",
+        "DraftNumber": "167",
+        "Active": false
+    }
+}

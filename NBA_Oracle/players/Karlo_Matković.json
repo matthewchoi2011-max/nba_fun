@@ -1,0 +1,57 @@
+{
+    "player_id": 1631255,
+    "full_name": "Karlo Matković",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 7.7,
+            "APG": 1.1,
+            "RBG": 5.0,
+            "SPG": 0.5,
+            "BPG": 1.0,
+            "TPG": 1.0,
+            "PM": -2.1,
+            "MPG": 18.8,
+            "FG_PCT": 0.574,
+            "FG3_PCT": 0.318,
+            "FT_PCT": 0.773,
+            "FGM": 135,
+            "FGA": 235,
+            "FG3M": 21,
+            "FG3A": 66,
+            "FTM": 34,
+            "FTA": 44,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "231",
+        "Position": "Forward-Center",
+        "Teams": [
+            "NOP"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "52",
+        "Active": true
+    }
+}

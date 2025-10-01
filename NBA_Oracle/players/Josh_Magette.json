@@ -1,0 +1,78 @@
+{
+    "player_id": 203705,
+    "full_name": "Josh Magette",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 2.6,
+            "APG": 3.2,
+            "RBG": 1.1,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": 0.4,
+            "MPG": 12.0,
+            "FG_PCT": 0.326,
+            "FG3_PCT": 0.364,
+            "FT_PCT": 1.0,
+            "FGM": 15,
+            "FGA": 46,
+            "FG3M": 8,
+            "FG3A": 22,
+            "FTM": 8,
+            "FTA": 8,
+            "GP": 18
+        },
+        "2019-20": {
+            "PPG": 1.5,
+            "APG": 0.6,
+            "RBG": 0.8,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": 0.1,
+            "MPG": 4.8,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.5,
+            "FGM": 5,
+            "FGA": 15,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "160",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "ORL"
+        ],
+        "DraftRound": "0",
+        "DraftNumber": "0",
+        "Active": false
+    }
+}

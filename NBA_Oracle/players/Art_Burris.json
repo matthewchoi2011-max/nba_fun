@@ -1,0 +1,78 @@
+{
+    "player_id": 76311,
+    "full_name": "Art Burris",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1950-51": {
+            "PPG": 2.3,
+            "APG": 0.8,
+            "RBG": 3.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.248,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.583,
+            "FGM": 28,
+            "FGA": 113,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 21,
+            "FTA": 36,
+            "GP": 33
+        },
+        "1951-52": {
+            "PPG": 2.7,
+            "APG": 0.7,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.5,
+            "FG_PCT": 0.269,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 42,
+            "FGA": 156,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 26,
+            "FTA": 39,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "FTW",
+            "MIH"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

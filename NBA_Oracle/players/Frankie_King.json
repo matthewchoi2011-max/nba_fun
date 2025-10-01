@@ -1,0 +1,78 @@
+{
+    "player_id": 701,
+    "full_name": "Frankie King",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1995-96": {
+            "PPG": 1.2,
+            "APG": 0.3,
+            "RBG": 0.3,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 3.3,
+            "FG_PCT": 0.273,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 3,
+            "FGA": 11,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 6
+        },
+        "1996-97": {
+            "PPG": 2.9,
+            "APG": 0.7,
+            "RBG": 2.0,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": 1.3,
+            "MPG": 8.4,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 1.0,
+            "FGM": 7,
+            "FGA": 17,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 5,
+            "FTA": 5,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "PHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

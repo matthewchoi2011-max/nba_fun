@@ -1,0 +1,78 @@
+{
+    "player_id": 203710,
+    "full_name": "C.J. Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 5.5,
+            "APG": 1.1,
+            "RBG": 1.5,
+            "SPG": 0.8,
+            "BPG": 0.3,
+            "TPG": 0.5,
+            "PM": -0.9,
+            "MPG": 18.6,
+            "FG_PCT": 0.442,
+            "FG3_PCT": 0.282,
+            "FT_PCT": 0.813,
+            "FGM": 87,
+            "FGA": 197,
+            "FG3M": 22,
+            "FG3A": 78,
+            "FTM": 13,
+            "FTA": 16,
+            "GP": 38
+        },
+        "2018-19": {
+            "PPG": 2.6,
+            "APG": 0.8,
+            "RBG": 0.5,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -3.3,
+            "MPG": 8.5,
+            "FG_PCT": 0.486,
+            "FG3_PCT": 0.313,
+            "FT_PCT": 0,
+            "FGM": 17,
+            "FGA": 35,
+            "FG3M": 5,
+            "FG3A": 16,
+            "FTM": 0,
+            "FTA": 1,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "226",
+        "Position": "Guard",
+        "Teams": [
+            "LAC",
+            "MIN"
+        ],
+        "DraftRound": "0",
+        "DraftNumber": "0",
+        "Active": false
+    }
+}

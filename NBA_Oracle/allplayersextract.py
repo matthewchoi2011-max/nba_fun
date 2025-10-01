@@ -4,7 +4,7 @@ import time
 
 processes = []
 
-MAXWORKERS = 20
+MAXWORKERS = 8
 
 for i in range(0, 167):
    p = subprocess.Popen(["python", "playerextract.py", str(i)])

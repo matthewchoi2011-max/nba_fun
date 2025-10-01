@@ -1,0 +1,78 @@
+{
+    "player_id": 1641740,
+    "full_name": "Jaylen Clark",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.1,
+            "APG": 0.7,
+            "RBG": 1.3,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": 1.1,
+            "MPG": 13.1,
+            "FG_PCT": 0.467,
+            "FG3_PCT": 0.431,
+            "FT_PCT": 0.784,
+            "FGM": 56,
+            "FGA": 120,
+            "FG3M": 22,
+            "FG3A": 51,
+            "FTM": 29,
+            "FTA": 37,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 2.2,
+            "APG": 0.2,
+            "RBG": 1.4,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 0.0,
+            "MPG": 5.6,
+            "FG_PCT": 0.8,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 4,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "53",
+        "Active": true
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "player_id": 1631093,
+    "full_name": "Jaden Ivey",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2022-23"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 16.3,
+            "APG": 5.2,
+            "RBG": 3.9,
+            "SPG": 0.8,
+            "BPG": 0.2,
+            "TPG": 3.2,
+            "PM": -8.7,
+            "MPG": 31.1,
+            "FG_PCT": 0.416,
+            "FG3_PCT": 0.343,
+            "FT_PCT": 0.747,
+            "FGM": 409,
+            "FGA": 983,
+            "FG3M": 120,
+            "FG3A": 350,
+            "FTM": 266,
+            "FTA": 356,
+            "GP": 74
+        },
+        "2023-24": {
+            "PPG": 15.4,
+            "APG": 3.8,
+            "RBG": 3.4,
+            "SPG": 0.7,
+            "BPG": 0.5,
+            "TPG": 2.5,
+            "PM": -4.5,
+            "MPG": 28.8,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0.336,
+            "FT_PCT": 0.749,
+            "FGM": 417,
+            "FGA": 973,
+            "FG3M": 124,
+            "FG3A": 369,
+            "FTM": 227,
+            "FTA": 303,
+            "GP": 77
+        },
+        "2024-25": {
+            "PPG": 17.6,
+            "APG": 4.0,
+            "RBG": 4.1,
+            "SPG": 0.9,
+            "BPG": 0.4,
+            "TPG": 3.0,
+            "PM": -2.1,
+            "MPG": 29.9,
+            "FG_PCT": 0.46,
+            "FG3_PCT": 0.409,
+            "FT_PCT": 0.733,
+            "FGM": 190,
+            "FGA": 413,
+            "FG3M": 63,
+            "FG3A": 154,
+            "FTM": 85,
+            "FTA": 116,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "5",
+        "Active": true
+    }
+}

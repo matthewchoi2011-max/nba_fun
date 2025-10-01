@@ -1,0 +1,98 @@
+{
+    "player_id": 1754,
+    "full_name": "Andrae Patterson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1998-99": {
+            "PPG": 3.3,
+            "APG": 0.4,
+            "RBG": 1.9,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -0.6,
+            "MPG": 8.1,
+            "FG_PCT": 0.443,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.778,
+            "FGM": 43,
+            "FGA": 97,
+            "FG3M": 0,
+            "FG3A": 5,
+            "FTM": 28,
+            "FTA": 36,
+            "GP": 35
+        },
+        "1999-00": {
+            "PPG": 1.2,
+            "APG": 0.2,
+            "RBG": 0.4,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -0.2,
+            "MPG": 4.0,
+            "FG_PCT": 0.75,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {
+        "1998-99": {
+            "PPG": 0.0,
+            "APG": 1.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 2.5,
+            "MPG": 3.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "238",
+        "Position": "Forward",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 78522,
+    "full_name": "Bob Wiesenhahn",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 2.0,
+            "APG": 0.4,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.4,
+            "FG_PCT": 0.317,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.567,
+            "FGM": 51,
+            "FGA": 161,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 17,
+            "FTA": 30,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {
+        "1961-62": {
+            "PPG": 1.5,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "CIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "11",
+        "Active": false
+    }
+}

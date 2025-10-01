@@ -1,0 +1,77 @@
+{
+    "player_id": 77840,
+    "full_name": "Loy Petersen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 2.8,
+            "APG": 0.7,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.9,
+            "FG_PCT": 0.404,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.704,
+            "FGM": 44,
+            "FGA": 109,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 19,
+            "FTA": 27,
+            "GP": 38
+        },
+        "1969-70": {
+            "PPG": 3.0,
+            "APG": 0.7,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.5,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 33,
+            "FGA": 90,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 26,
+            "FTA": 39,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "17",
+        "Active": false
+    }
+}

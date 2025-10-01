@@ -1,0 +1,57 @@
+{
+    "player_id": 77060,
+    "full_name": "Ed Horton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 4.5,
+            "APG": 0.4,
+            "RBG": 2.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 8.3,
+            "FG_PCT": 0.494,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.609,
+            "FGM": 80,
+            "FGA": 162,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 42,
+            "FTA": 69,
+            "GP": 45
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "230",
+        "Position": "Center",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "39",
+        "Active": false
+    }
+}

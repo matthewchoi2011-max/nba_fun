@@ -1,0 +1,57 @@
+{
+    "player_id": 78396,
+    "full_name": "Ron Valentine",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 3.5,
+            "APG": 0.3,
+            "RBG": 1.2,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 5.1,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.474,
+            "FGM": 37,
+            "FGA": 98,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 9,
+            "FTA": 19,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "51",
+        "Active": false
+    }
+}

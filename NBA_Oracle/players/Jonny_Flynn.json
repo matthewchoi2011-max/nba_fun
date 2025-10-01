@@ -1,0 +1,102 @@
+{
+    "player_id": 201938,
+    "full_name": "Jonny Flynn",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2009-10"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2009-10": {
+            "PPG": 13.5,
+            "APG": 4.4,
+            "RBG": 2.4,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 2.9,
+            "PM": -7.7,
+            "MPG": 28.9,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0.358,
+            "FT_PCT": 0.826,
+            "FGM": 397,
+            "FGA": 952,
+            "FG3M": 77,
+            "FG3A": 215,
+            "FTM": 223,
+            "FTA": 270,
+            "GP": 81
+        },
+        "2010-11": {
+            "PPG": 5.3,
+            "APG": 3.4,
+            "RBG": 1.5,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 2.1,
+            "PM": -3.4,
+            "MPG": 18.5,
+            "FG_PCT": 0.365,
+            "FG3_PCT": 0.31,
+            "FT_PCT": 0.762,
+            "FGM": 108,
+            "FGA": 296,
+            "FG3M": 31,
+            "FG3A": 100,
+            "FTM": 32,
+            "FTA": 42,
+            "GP": 53
+        },
+        "2011-12": {
+            "PPG": 4.5,
+            "APG": 3.3,
+            "RBG": 1.3,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": -4.5,
+            "MPG": 14.3,
+            "FG_PCT": 0.351,
+            "FG3_PCT": 0.294,
+            "FT_PCT": 0.744,
+            "FGM": 46,
+            "FGA": 131,
+            "FG3M": 10,
+            "FG3A": 34,
+            "FTM": 29,
+            "FTA": 39,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "MIN",
+            "HOU",
+            "POR",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "6",
+        "Active": false
+    }
+}

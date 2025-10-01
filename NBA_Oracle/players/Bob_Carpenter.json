@@ -1,0 +1,99 @@
+{
+    "player_id": 76346,
+    "full_name": "Bob Carpenter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 9.3,
+            "APG": 1.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.344,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.742,
+            "FGM": 212,
+            "FGA": 617,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 190,
+            "FTA": 256,
+            "GP": 66
+        },
+        "1950-51": {
+            "PPG": 5.8,
+            "APG": 1.4,
+            "RBG": 4.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.307,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.82,
+            "FGM": 109,
+            "FGA": 355,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 105,
+            "FTA": 128,
+            "GP": 56
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 8.0,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 11,
+            "FGA": 30,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 10,
+            "FTA": 14,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "FTW",
+            "TCB"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

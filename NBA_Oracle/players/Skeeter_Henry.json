@@ -1,0 +1,78 @@
+{
+    "player_id": 77003,
+    "full_name": "Skeeter Henry",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 1.0,
+            "APG": 1.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 3.8,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {
+        "1993-94": {
+            "PPG": 0.7,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 5.3,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

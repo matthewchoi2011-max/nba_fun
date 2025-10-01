@@ -1,0 +1,99 @@
+{
+    "player_id": 76623,
+    "full_name": "Dennis DuVal",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 1.6,
+            "APG": 0.4,
+            "RBG": 0.6,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.7,
+            "FG_PCT": 0.369,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 24,
+            "FGA": 65,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 12,
+            "FTA": 18,
+            "GP": 37
+        },
+        "1975-76": {
+            "PPG": 2.8,
+            "APG": 1.5,
+            "RBG": 0.6,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.0,
+            "FG_PCT": 0.349,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 15,
+            "FGA": 43,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 9,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {
+        "1974-75": {
+            "PPG": 1.4,
+            "APG": 0.6,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.8,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 9,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "WAS",
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "30",
+        "Active": false
+    }
+}

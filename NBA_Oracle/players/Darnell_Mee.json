@@ -1,0 +1,98 @@
+{
+    "player_id": 1577,
+    "full_name": "Darnell Mee",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 1.9,
+            "APG": 0.4,
+            "RBG": 0.9,
+            "SPG": 0.4,
+            "BPG": 0.3,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 7.5,
+            "FG_PCT": 0.318,
+            "FG3_PCT": 0.208,
+            "FT_PCT": 0.444,
+            "FGM": 28,
+            "FGA": 88,
+            "FG3M": 5,
+            "FG3A": 24,
+            "FTM": 12,
+            "FTA": 27,
+            "GP": 38
+        },
+        "1994-95": {
+            "PPG": 1.5,
+            "APG": 1.0,
+            "RBG": 0.5,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {
+        "1993-94": {
+            "PPG": 2.3,
+            "APG": 0.7,
+            "RBG": 0.7,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 10.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 6,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": false
+    }
+}

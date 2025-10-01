@@ -1,0 +1,57 @@
+{
+    "player_id": 1642269,
+    "full_name": "Devin Carter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 3.8,
+            "APG": 1.1,
+            "RBG": 2.1,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": 1.2,
+            "MPG": 11.0,
+            "FG_PCT": 0.37,
+            "FG3_PCT": 0.295,
+            "FT_PCT": 0.591,
+            "FGM": 47,
+            "FGA": 127,
+            "FG3M": 18,
+            "FG3A": 61,
+            "FTM": 26,
+            "FTA": 44,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "13",
+        "Active": true
+    }
+}

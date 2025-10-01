@@ -1,0 +1,78 @@
+{
+    "player_id": 76808,
+    "full_name": "Dee Gibson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 6.4,
+            "APG": 2.9,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.314,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.718,
+            "FGM": 77,
+            "FGA": 245,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 127,
+            "FTA": 177,
+            "GP": 44
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 3.7,
+            "APG": 0.7,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 4,
+            "FGA": 11,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 71,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "TCB"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

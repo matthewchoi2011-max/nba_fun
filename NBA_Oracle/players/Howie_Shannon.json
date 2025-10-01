@@ -1,0 +1,78 @@
+{
+    "player_id": 78124,
+    "full_name": "Howie Shannon",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 13.4,
+            "APG": 2.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.804,
+            "FGM": 292,
+            "FGA": 802,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 152,
+            "FTA": 189,
+            "GP": 55
+        },
+        "1949-50": {
+            "PPG": 8.8,
+            "APG": 2.6,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.344,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.786,
+            "FGM": 222,
+            "FGA": 646,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 143,
+            "FTA": 182,
+            "GP": 67
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "PRO",
+            "BOS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "1",
+        "Active": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "player_id": 1642505,
+    "full_name": "Alex Ducas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "2024-25"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 1.7,
+            "APG": 0.2,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -1.0,
+            "MPG": 6.0,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.476,
+            "FT_PCT": 1.0,
+            "FGM": 12,
+            "FGA": 30,
+            "FG3M": 10,
+            "FG3A": 21,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "220",
+        "Position": "Guard",
+        "Teams": [
+            "OKC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

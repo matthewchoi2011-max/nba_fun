@@ -1,0 +1,79 @@
+{
+    "player_id": 78298,
+    "full_name": "Fred Taylor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 5.5,
+            "APG": 0.9,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.2,
+            "FG_PCT": 0.387,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.624,
+            "FGM": 110,
+            "FGA": 284,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 78,
+            "FTA": 125,
+            "GP": 54
+        },
+        "1971-72": {
+            "PPG": 2.6,
+            "APG": 0.5,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.3,
+            "FG_PCT": 0.308,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.469,
+            "FGM": 36,
+            "FGA": 117,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 32,
+            "GP": 34
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "PHX",
+            "CIN",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "27",
+        "Active": false
+    }
+}

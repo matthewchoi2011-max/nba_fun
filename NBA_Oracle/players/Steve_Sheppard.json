@@ -1,0 +1,81 @@
+{
+    "player_id": 78135,
+    "full_name": "Steve Sheppard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [
+            "1976"
+        ],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 4.3,
+            "APG": 0.7,
+            "RBG": 2.0,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 10.9,
+            "FG_PCT": 0.454,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.661,
+            "FGM": 119,
+            "FGA": 262,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 37,
+            "FTA": 56,
+            "GP": 64
+        },
+        "1978-79": {
+            "PPG": 2.2,
+            "APG": 0.5,
+            "RBG": 1.1,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 6.6,
+            "FG_PCT": 0.474,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.588,
+            "FGM": 36,
+            "FGA": 76,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 20,
+            "FTA": 34,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "CHI",
+            "DET",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "30",
+        "Active": false
+    }
+}

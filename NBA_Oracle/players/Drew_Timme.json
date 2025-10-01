@@ -1,0 +1,57 @@
+{
+    "player_id": 1631166,
+    "full_name": "Drew Timme",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 12.1,
+            "APG": 2.2,
+            "RBG": 7.2,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 1.7,
+            "PM": -7.3,
+            "MPG": 28.2,
+            "FG_PCT": 0.441,
+            "FG3_PCT": 0.257,
+            "FT_PCT": 0.625,
+            "FGM": 45,
+            "FGA": 102,
+            "FG3M": 9,
+            "FG3A": 35,
+            "FTM": 10,
+            "FTA": 16,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "BKN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

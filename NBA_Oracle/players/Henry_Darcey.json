@@ -1,0 +1,57 @@
+{
+    "player_id": 76506,
+    "full_name": "Henry Darcey",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1952-53": {
+            "PPG": 0.9,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.5,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.556,
+            "FGM": 3,
+            "FGA": 18,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 5,
+            "FTA": 9,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "217",
+        "Position": "Center",
+        "Teams": [
+            "MIH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

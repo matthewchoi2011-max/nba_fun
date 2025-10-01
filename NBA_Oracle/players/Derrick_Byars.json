@@ -1,0 +1,57 @@
+{
+    "player_id": 201182,
+    "full_name": "Derrick Byars",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2011-12": {
+            "PPG": 5.0,
+            "APG": 0.5,
+            "RBG": 5.5,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -4.0,
+            "MPG": 18.5,
+            "FG_PCT": 0.273,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 11,
+            "FG3M": 0,
+            "FG3A": 6,
+            "FTM": 4,
+            "FTA": 4,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "220",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "SAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "42",
+        "Active": false
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "player_id": 1631110,
+    "full_name": "Jeremy Sochan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2022-23"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 11.0,
+            "APG": 2.5,
+            "RBG": 5.3,
+            "SPG": 0.8,
+            "BPG": 0.4,
+            "TPG": 1.7,
+            "PM": -4.2,
+            "MPG": 26.0,
+            "FG_PCT": 0.453,
+            "FG3_PCT": 0.246,
+            "FT_PCT": 0.698,
+            "FGM": 250,
+            "FGA": 552,
+            "FG3M": 33,
+            "FG3A": 134,
+            "FTM": 81,
+            "FTA": 116,
+            "GP": 56
+        },
+        "2023-24": {
+            "PPG": 11.6,
+            "APG": 3.4,
+            "RBG": 6.4,
+            "SPG": 0.8,
+            "BPG": 0.5,
+            "TPG": 1.9,
+            "PM": -4.6,
+            "MPG": 29.6,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 0.308,
+            "FT_PCT": 0.771,
+            "FGM": 340,
+            "FGA": 776,
+            "FG3M": 70,
+            "FG3A": 227,
+            "FTM": 111,
+            "FTA": 144,
+            "GP": 74
+        },
+        "2024-25": {
+            "PPG": 11.4,
+            "APG": 2.4,
+            "RBG": 6.5,
+            "SPG": 0.8,
+            "BPG": 0.5,
+            "TPG": 1.6,
+            "PM": -1.6,
+            "MPG": 25.3,
+            "FG_PCT": 0.535,
+            "FG3_PCT": 0.308,
+            "FT_PCT": 0.696,
+            "FGM": 251,
+            "FGA": 469,
+            "FG3M": 28,
+            "FG3A": 91,
+            "FTM": 87,
+            "FTA": 125,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "SAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "9",
+        "Active": true
+    }
+}

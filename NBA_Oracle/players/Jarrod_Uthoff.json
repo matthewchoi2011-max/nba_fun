@@ -1,0 +1,80 @@
+{
+    "player_id": 1627784,
+    "full_name": "Jarrod Uthoff",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 4.4,
+            "APG": 1.0,
+            "RBG": 2.4,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.3,
+            "PM": -6.9,
+            "MPG": 12.8,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.714,
+            "FGM": 16,
+            "FGA": 38,
+            "FG3M": 3,
+            "FG3A": 9,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 9
+        },
+        "2019-20": {
+            "PPG": 2.7,
+            "APG": 0.0,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 1.4,
+            "MPG": 7.6,
+            "FG_PCT": 0.389,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 1.0,
+            "FGM": 7,
+            "FGA": 18,
+            "FG3M": 3,
+            "FG3A": 9,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "DAL",
+            "MEM",
+            "WAS",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

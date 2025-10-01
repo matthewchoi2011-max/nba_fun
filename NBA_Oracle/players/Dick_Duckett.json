@@ -1,0 +1,57 @@
+{
+    "player_id": 76605,
+    "full_name": "Dick Duckett",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1957-58": {
+            "PPG": 3.9,
+            "APG": 1.4,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.5,
+            "FG_PCT": 0.342,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.889,
+            "FGM": 54,
+            "FGA": 158,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 24,
+            "FTA": 27,
+            "GP": 34
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "CIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "9",
+        "Active": false
+    }
+}

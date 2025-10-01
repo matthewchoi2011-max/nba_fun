@@ -1,0 +1,99 @@
+{
+    "player_id": 78264,
+    "full_name": "Greg Stokes",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 4.1,
+            "APG": 0.5,
+            "RBG": 1.8,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 11.3,
+            "FG_PCT": 0.471,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 56,
+            "FGA": 119,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 14,
+            "FTA": 21,
+            "GP": 31
+        },
+        "1989-90": {
+            "PPG": 0.4,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 3.1,
+            "FG_PCT": 0.111,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {
+        "1985-86": {
+            "PPG": 3.9,
+            "APG": 0.6,
+            "RBG": 1.9,
+            "SPG": 0.3,
+            "BPG": 0.9,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 12.9,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.846,
+            "FGM": 8,
+            "FGA": 28,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 11,
+            "FTA": 13,
+            "GP": 7
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "PHL",
+            "SAC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

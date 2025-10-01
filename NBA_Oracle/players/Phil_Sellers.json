@@ -1,0 +1,78 @@
+{
+    "player_id": 78111,
+    "full_name": "Phil Sellers",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 4.5,
+            "APG": 0.6,
+            "RBG": 0.9,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.5,
+            "FG_PCT": 0.384,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.722,
+            "FGM": 73,
+            "FGA": 190,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 52,
+            "FTA": 72,
+            "GP": 44
+        }
+    },
+    "playoff_stats": {
+        "1976-77": {
+            "PPG": 3.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "38",
+        "Active": false
+    }
+}

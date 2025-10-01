@@ -1,0 +1,78 @@
+{
+    "player_id": 78361,
+    "full_name": "Monte Towe",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 2.5,
+            "APG": 1.7,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.406,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.72,
+            "FGM": 56,
+            "FGA": 138,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 18,
+            "FTA": 25,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {
+        "1976-77": {
+            "PPG": 4.0,
+            "APG": 1.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 67,
+        "Weight": "150",
+        "Position": "Guard",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "57",
+        "Active": false
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "player_id": 1642349,
+    "full_name": "Ajay Mitchell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "2024-25"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 6.5,
+            "APG": 1.8,
+            "RBG": 1.9,
+            "SPG": 0.7,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": 3.5,
+            "MPG": 16.6,
+            "FG_PCT": 0.495,
+            "FG3_PCT": 0.383,
+            "FT_PCT": 0.829,
+            "FGM": 91,
+            "FGA": 184,
+            "FG3M": 23,
+            "FG3A": 60,
+            "FTM": 29,
+            "FTA": 35,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 3.4,
+            "APG": 0.8,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -0.8,
+            "MPG": 7.0,
+            "FG_PCT": 0.457,
+            "FG3_PCT": 0.385,
+            "FT_PCT": 0.8,
+            "FGM": 16,
+            "FGA": 35,
+            "FG3M": 5,
+            "FG3A": 13,
+            "FTM": 4,
+            "FTA": 5,
+            "GP": 12
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "OKC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "38",
+        "Active": true
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 201612,
+    "full_name": "Malik Hairston",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2008-09": {
+            "PPG": 3.3,
+            "APG": 0.9,
+            "RBG": 1.9,
+            "SPG": 0.4,
+            "BPG": 0.5,
+            "TPG": 0.8,
+            "PM": 0.1,
+            "MPG": 10.3,
+            "FG_PCT": 0.49,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.286,
+            "FGM": 24,
+            "FGA": 49,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 2,
+            "FTA": 7,
+            "GP": 15
+        },
+        "2009-10": {
+            "PPG": 2.1,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": -0.3,
+            "MPG": 6.7,
+            "FG_PCT": 0.526,
+            "FG3_PCT": 0.182,
+            "FT_PCT": 0.567,
+            "FGM": 40,
+            "FGA": 76,
+            "FG3M": 2,
+            "FG3A": 11,
+            "FTM": 17,
+            "FTA": 30,
+            "GP": 47
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Guard",
+        "Teams": [
+            "SAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

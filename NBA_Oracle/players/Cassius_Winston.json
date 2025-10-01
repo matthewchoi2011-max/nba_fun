@@ -1,0 +1,98 @@
+{
+    "player_id": 1630216,
+    "full_name": "Cassius Winston",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 1.9,
+            "APG": 0.5,
+            "RBG": 0.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -2.2,
+            "MPG": 4.5,
+            "FG_PCT": 0.424,
+            "FG3_PCT": 0.471,
+            "FT_PCT": 0.833,
+            "FGM": 14,
+            "FGA": 33,
+            "FG3M": 8,
+            "FG3A": 17,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 22
+        },
+        "2021-22": {
+            "PPG": 2.0,
+            "APG": 1.0,
+            "RBG": 0.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": -0.9,
+            "MPG": 5.6,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 11,
+            "FG3M": 2,
+            "FG3A": 6,
+            "FTM": 4,
+            "FTA": 4,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {
+        "2020-21": {
+            "PPG": 2.0,
+            "APG": 1.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 2.0,
+            "PM": -2.0,
+            "MPG": 5.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "53",
+        "Active": false
+    }
+}

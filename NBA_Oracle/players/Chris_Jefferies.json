@@ -1,0 +1,79 @@
+{
+    "player_id": 2423,
+    "full_name": "Chris Jefferies",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 3.9,
+            "APG": 0.4,
+            "RBG": 1.2,
+            "SPG": 0.4,
+            "BPG": 0.3,
+            "TPG": 0.9,
+            "PM": -2.2,
+            "MPG": 13.1,
+            "FG_PCT": 0.387,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.674,
+            "FGM": 75,
+            "FGA": 194,
+            "FG3M": 18,
+            "FG3A": 54,
+            "FTM": 29,
+            "FTA": 43,
+            "GP": 51
+        },
+        "2003-04": {
+            "PPG": 4.0,
+            "APG": 0.3,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.9,
+            "PM": 1.2,
+            "MPG": 9.4,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0.405,
+            "FT_PCT": 0.65,
+            "FGM": 27,
+            "FGA": 72,
+            "FG3M": 17,
+            "FG3A": 42,
+            "FTM": 13,
+            "FTA": 20,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "TOR",
+            "CHI",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "27",
+        "Active": false
+    }
+}

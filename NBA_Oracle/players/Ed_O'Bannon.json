@@ -1,0 +1,79 @@
+{
+    "player_id": 709,
+    "full_name": "Ed O'Bannon",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1995-96": {
+            "PPG": 6.2,
+            "APG": 1.0,
+            "RBG": 2.6,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 19.6,
+            "FG_PCT": 0.39,
+            "FG3_PCT": 0.179,
+            "FT_PCT": 0.713,
+            "FGM": 156,
+            "FGA": 400,
+            "FG3M": 10,
+            "FG3A": 56,
+            "FTM": 77,
+            "FTA": 108,
+            "GP": 64
+        },
+        "1996-97": {
+            "PPG": 3.7,
+            "APG": 0.6,
+            "RBG": 2.3,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": -1.8,
+            "MPG": 12.6,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.257,
+            "FT_PCT": 0.886,
+            "FGM": 93,
+            "FGA": 279,
+            "FG3M": 18,
+            "FG3A": 70,
+            "FTM": 31,
+            "FTA": 35,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "222",
+        "Position": "Forward",
+        "Teams": [
+            "NJN",
+            "DAL",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "9",
+        "Active": false
+    }
+}

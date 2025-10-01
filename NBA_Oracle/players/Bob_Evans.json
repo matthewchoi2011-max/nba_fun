@@ -1,0 +1,78 @@
+{
+    "player_id": 76687,
+    "full_name": "Bob Evans",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 3.0,
+            "APG": 1.2,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.28,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.682,
+            "FGM": 56,
+            "FGA": 200,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 30,
+            "FTA": 44,
+            "GP": 47
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "INO"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 78030,
+    "full_name": "Derrick Rowland",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 1.5,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "10",
+        "DraftNumber": "211",
+        "Active": false
+    }
+}

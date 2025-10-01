@@ -1,0 +1,59 @@
+{
+    "player_id": 77307,
+    "full_name": "Barry Kramer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1964-65": {
+            "PPG": 3.6,
+            "APG": 0.8,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.8,
+            "FG_PCT": 0.339,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 63,
+            "FGA": 186,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 60,
+            "FTA": 84,
+            "GP": 52
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "SFW",
+            "NYK",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "6",
+        "Active": false
+    }
+}

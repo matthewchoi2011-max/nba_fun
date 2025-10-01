@@ -1,0 +1,80 @@
+{
+    "player_id": 1641787,
+    "full_name": "Tosan Evbuomwan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 5.9,
+            "APG": 0.9,
+            "RBG": 3.5,
+            "SPG": 0.4,
+            "BPG": 0.3,
+            "TPG": 0.5,
+            "PM": -7.5,
+            "MPG": 21.6,
+            "FG_PCT": 0.507,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.68,
+            "FGM": 36,
+            "FGA": 71,
+            "FG3M": 12,
+            "FG3A": 32,
+            "FTM": 17,
+            "FTA": 25,
+            "GP": 17
+        },
+        "2024-25": {
+            "PPG": 9.5,
+            "APG": 2.0,
+            "RBG": 4.3,
+            "SPG": 0.9,
+            "BPG": 0.4,
+            "TPG": 1.4,
+            "PM": -2.4,
+            "MPG": 23.8,
+            "FG_PCT": 0.427,
+            "FG3_PCT": 0.312,
+            "FT_PCT": 0.753,
+            "FGM": 94,
+            "FGA": 220,
+            "FG3M": 24,
+            "FG3A": 77,
+            "FTM": 55,
+            "FTA": 73,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "217",
+        "Position": "Forward",
+        "Teams": [
+            "MEM",
+            "DET",
+            "TOT",
+            "BKN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

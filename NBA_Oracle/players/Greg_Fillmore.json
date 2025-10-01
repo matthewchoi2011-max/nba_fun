@@ -1,0 +1,98 @@
+{
+    "player_id": 76715,
+    "full_name": "Greg Fillmore",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 2.6,
+            "APG": 0.4,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.9,
+            "FG_PCT": 0.441,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.481,
+            "FGM": 45,
+            "FGA": 102,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 13,
+            "FTA": 27,
+            "GP": 39
+        },
+        "1971-72": {
+            "PPG": 1.5,
+            "APG": 0.3,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.7,
+            "FG_PCT": 0.259,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 7,
+            "FGA": 27,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {
+        "1970-71": {
+            "PPG": 0.0,
+            "APG": 0.1,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 85,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "136",
+        "Active": false
+    }
+}

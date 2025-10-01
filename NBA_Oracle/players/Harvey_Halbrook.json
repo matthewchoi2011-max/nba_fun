@@ -1,0 +1,98 @@
+{
+    "player_id": 76919,
+    "full_name": "Harvey Halbrook",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1960-61": {
+            "PPG": 4.9,
+            "APG": 0.4,
+            "RBG": 7.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.3,
+            "FG_PCT": 0.335,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.543,
+            "FGM": 155,
+            "FGA": 463,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 76,
+            "FTA": 140,
+            "GP": 79
+        },
+        "1961-62": {
+            "PPG": 6.2,
+            "APG": 0.5,
+            "RBG": 6.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.2,
+            "FG_PCT": 0.36,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.636,
+            "FGM": 152,
+            "FGA": 422,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 96,
+            "FTA": 151,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "1960-61": {
+            "PPG": 7.9,
+            "APG": 1.5,
+            "RBG": 10.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 22.0,
+            "FG_PCT": 0.308,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.682,
+            "FGM": 24,
+            "FGA": 78,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 22,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 87,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "SYR"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

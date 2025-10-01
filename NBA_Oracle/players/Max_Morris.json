@@ -1,0 +1,78 @@
+{
+    "player_id": 77646,
+    "full_name": "Max Morris",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 12.6,
+            "APG": 3.1,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.363,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 252,
+            "FGA": 694,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 277,
+            "FTA": 415,
+            "GP": 62
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 14.3,
+            "APG": 4.7,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.35,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.577,
+            "FGM": 14,
+            "FGA": 40,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 26,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "SHE"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

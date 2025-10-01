@@ -1,0 +1,78 @@
+{
+    "player_id": 76761,
+    "full_name": "Bernie Fryer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1973-74": {
+            "PPG": 7.0,
+            "APG": 3.5,
+            "RBG": 2.0,
+            "SPG": 1.1,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 20.9,
+            "FG_PCT": 0.46,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.793,
+            "FGM": 226,
+            "FGA": 491,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 107,
+            "FTA": 135,
+            "GP": 80
+        },
+        "1974-75": {
+            "PPG": 4.1,
+            "APG": 1.7,
+            "RBG": 1.5,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.9,
+            "FG_PCT": 0.443,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.767,
+            "FGM": 47,
+            "FGA": 106,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 33,
+            "FTA": 43,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "POR",
+            "NOJ"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "109",
+        "Active": false
+    }
+}

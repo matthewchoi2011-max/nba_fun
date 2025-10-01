@@ -1,0 +1,57 @@
+{
+    "player_id": 1631342,
+    "full_name": "Daeqwon Plowden",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 7.2,
+            "APG": 0.3,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": 4.8,
+            "MPG": 12.0,
+            "FG_PCT": 0.64,
+            "FG3_PCT": 0.529,
+            "FT_PCT": 1.0,
+            "FGM": 16,
+            "FGA": 25,
+            "FG3M": 9,
+            "FG3A": 17,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "216",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 101160,
+    "full_name": "Lawrence Roberts",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 1.5,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": 0.1,
+            "MPG": 5.5,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.478,
+            "FGM": 20,
+            "FGA": 44,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 11,
+            "FTA": 23,
+            "GP": 33
+        },
+        "2006-07": {
+            "PPG": 5.2,
+            "APG": 0.6,
+            "RBG": 4.8,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -0.6,
+            "MPG": 17.9,
+            "FG_PCT": 0.452,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.725,
+            "FGM": 94,
+            "FGA": 208,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 95,
+            "FTA": 131,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "240",
+        "Position": "Forward",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "55",
+        "Active": false
+    }
+}

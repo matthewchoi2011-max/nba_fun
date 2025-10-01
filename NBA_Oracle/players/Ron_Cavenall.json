@@ -1,0 +1,78 @@
+{
+    "player_id": 76370,
+    "full_name": "Ron Cavenall",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1984-85": {
+            "PPG": 1.5,
+            "APG": 0.4,
+            "RBG": 3.1,
+            "SPG": 0.2,
+            "BPG": 0.8,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 12.3,
+            "FG_PCT": 0.326,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.564,
+            "FGM": 28,
+            "FGA": 86,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 22,
+            "FTA": 39,
+            "GP": 53
+        },
+        "1988-89": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.4,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 3.2,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.4,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 5,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 85,
+        "Weight": "230",
+        "Position": "Center",
+        "Teams": [
+            "NYK",
+            "NJN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

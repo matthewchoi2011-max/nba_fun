@@ -1,0 +1,57 @@
+{
+    "player_id": 77303,
+    "full_name": "Andy Kostecka",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 6.4,
+            "APG": 0.7,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.418,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.614,
+            "FGM": 46,
+            "FGA": 110,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 43,
+            "FTA": 70,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "203",
+        "Position": "Forward",
+        "Teams": [
+            "JET"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

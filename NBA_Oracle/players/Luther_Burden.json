@@ -1,0 +1,77 @@
+{
+    "player_id": 76303,
+    "full_name": "Luther Burden",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 5.7,
+            "APG": 1.0,
+            "RBG": 1.1,
+            "SPG": 0.8,
+            "BPG": 0.0,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 10.0,
+            "FG_PCT": 0.42,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 148,
+            "FGA": 352,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 51,
+            "FTA": 85,
+            "GP": 61
+        },
+        "1977-78": {
+            "PPG": 1.0,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "26",
+        "Active": false
+    }
+}

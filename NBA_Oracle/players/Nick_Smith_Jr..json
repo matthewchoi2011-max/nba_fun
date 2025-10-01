@@ -1,0 +1,77 @@
+{
+    "player_id": 1641733,
+    "full_name": "Nick Smith Jr.",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 5.9,
+            "APG": 1.2,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -3.8,
+            "MPG": 14.3,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0.432,
+            "FT_PCT": 0.867,
+            "FGM": 113,
+            "FGA": 289,
+            "FG3M": 63,
+            "FG3A": 146,
+            "FTM": 13,
+            "FTA": 15,
+            "GP": 51
+        },
+        "2024-25": {
+            "PPG": 9.8,
+            "APG": 2.4,
+            "RBG": 2.1,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 1.4,
+            "PM": -6.6,
+            "MPG": 22.8,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0.34,
+            "FT_PCT": 0.935,
+            "FGM": 222,
+            "FGA": 568,
+            "FG3M": 104,
+            "FG3A": 306,
+            "FTM": 43,
+            "FTA": 46,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "27",
+        "Active": true
+    }
+}

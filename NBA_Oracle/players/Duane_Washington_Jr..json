@@ -1,0 +1,78 @@
+{
+    "player_id": 1630613,
+    "full_name": "Duane Washington Jr.",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 9.9,
+            "APG": 1.8,
+            "RBG": 1.7,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": -2.6,
+            "MPG": 20.2,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0.377,
+            "FT_PCT": 0.754,
+            "FGM": 173,
+            "FGA": 427,
+            "FG3M": 81,
+            "FG3A": 215,
+            "FTM": 46,
+            "FTA": 61,
+            "GP": 48
+        },
+        "2022-23": {
+            "PPG": 7.9,
+            "APG": 2.0,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": -0.2,
+            "MPG": 12.7,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0.36,
+            "FT_PCT": 0.667,
+            "FGM": 94,
+            "FGA": 256,
+            "FG3M": 40,
+            "FG3A": 111,
+            "FTM": 16,
+            "FTA": 24,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "197",
+        "Position": "Guard",
+        "Teams": [
+            "IND",
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

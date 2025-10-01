@@ -1,0 +1,34 @@
+{
+    "player_id": 1641747,
+    "full_name": "DaRon Holmes II",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {},
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [],
+        "DraftRound": "1",
+        "DraftNumber": "22",
+        "Active": true
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 78586,
+    "full_name": "Bob Wilson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1951-52": {
+            "PPG": 3.7,
+            "APG": 1.7,
+            "RBG": 3.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 20.8,
+            "FG_PCT": 0.299,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.578,
+            "FGM": 79,
+            "FGA": 264,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 78,
+            "FTA": 135,
+            "GP": 63
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "MIH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

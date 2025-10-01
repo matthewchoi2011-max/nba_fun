@@ -1,0 +1,78 @@
+{
+    "player_id": 1630564,
+    "full_name": "RaiQuan Gray",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 16.0,
+            "APG": 7.0,
+            "RBG": 9.0,
+            "SPG": 0.0,
+            "BPG": 1.0,
+            "TPG": 4.0,
+            "PM": -14.0,
+            "MPG": 35.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 1.0,
+            "FGM": 6,
+            "FGA": 12,
+            "FG3M": 2,
+            "FG3A": 5,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 1
+        },
+        "2023-24": {
+            "PPG": 7.7,
+            "APG": 2.0,
+            "RBG": 2.3,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": 4.7,
+            "MPG": 13.0,
+            "FG_PCT": 0.588,
+            "FG3_PCT": 0.429,
+            "FT_PCT": 0,
+            "FGM": 10,
+            "FGA": 17,
+            "FG3M": 3,
+            "FG3A": 7,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "269",
+        "Position": "Forward",
+        "Teams": [
+            "BKN",
+            "SAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "59",
+        "Active": false
+    }
+}

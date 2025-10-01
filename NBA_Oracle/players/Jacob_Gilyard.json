@@ -1,0 +1,79 @@
+{
+    "player_id": 1631367,
+    "full_name": "Jacob Gilyard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 3.0,
+            "APG": 7.0,
+            "RBG": 4.0,
+            "SPG": 3.0,
+            "BPG": 0.0,
+            "TPG": 2.0,
+            "PM": -13.0,
+            "MPG": 41.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        },
+        "2023-24": {
+            "PPG": 4.2,
+            "APG": 3.3,
+            "RBG": 1.1,
+            "SPG": 0.8,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -4.2,
+            "MPG": 17.0,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.405,
+            "FT_PCT": 1.0,
+            "FGM": 60,
+            "FGA": 150,
+            "FG3M": 51,
+            "FG3A": 126,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 68,
+        "Weight": "160",
+        "Position": "Guard",
+        "Teams": [
+            "MEM",
+            "BKN",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

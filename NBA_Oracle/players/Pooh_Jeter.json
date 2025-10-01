@@ -1,0 +1,57 @@
+{
+    "player_id": 200817,
+    "full_name": "Pooh Jeter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 4.1,
+            "APG": 2.6,
+            "RBG": 1.1,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -1.4,
+            "MPG": 13.8,
+            "FG_PCT": 0.409,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.902,
+            "FGM": 106,
+            "FGA": 259,
+            "FG3M": 6,
+            "FG3A": 30,
+            "FTM": 37,
+            "FTA": 41,
+            "GP": 62
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 71,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

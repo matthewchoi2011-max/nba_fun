@@ -1,0 +1,98 @@
+{
+    "player_id": 1641709,
+    "full_name": "Ausar Thompson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 8.8,
+            "APG": 1.9,
+            "RBG": 6.4,
+            "SPG": 1.1,
+            "BPG": 0.9,
+            "TPG": 1.3,
+            "PM": -3.6,
+            "MPG": 25.1,
+            "FG_PCT": 0.483,
+            "FG3_PCT": 0.186,
+            "FT_PCT": 0.597,
+            "FGM": 232,
+            "FGA": 480,
+            "FG3M": 21,
+            "FG3A": 113,
+            "FTM": 71,
+            "FTA": 119,
+            "GP": 63
+        },
+        "2024-25": {
+            "PPG": 10.1,
+            "APG": 2.3,
+            "RBG": 5.1,
+            "SPG": 1.7,
+            "BPG": 0.7,
+            "TPG": 1.4,
+            "PM": 1.1,
+            "MPG": 22.5,
+            "FG_PCT": 0.535,
+            "FG3_PCT": 0.224,
+            "FT_PCT": 0.641,
+            "FGM": 246,
+            "FGA": 460,
+            "FG3M": 11,
+            "FG3A": 49,
+            "FTM": 91,
+            "FTA": 142,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 11.5,
+            "APG": 1.0,
+            "RBG": 5.2,
+            "SPG": 1.2,
+            "BPG": 0.8,
+            "TPG": 1.8,
+            "PM": 1.0,
+            "MPG": 22.5,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.583,
+            "FGM": 24,
+            "FGA": 42,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 21,
+            "FTA": 36,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "205",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "5",
+        "Active": true
+    }
+}

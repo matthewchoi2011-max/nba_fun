@@ -1,0 +1,78 @@
+{
+    "player_id": 78299,
+    "full_name": "Jeff Taylor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 3.6,
+            "APG": 2.5,
+            "RBG": 1.8,
+            "SPG": 0.9,
+            "BPG": 0.3,
+            "TPG": 1.4,
+            "PM": NaN,
+            "MPG": 17.6,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.652,
+            "FGM": 64,
+            "FGA": 160,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 30,
+            "FTA": 46,
+            "GP": 44
+        },
+        "1986-87": {
+            "PPG": 1.8,
+            "APG": 0.2,
+            "RBG": 0.3,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 3.7,
+            "FG_PCT": 0.6,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.9,
+            "FGM": 6,
+            "FGA": 10,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 9,
+            "FTA": 10,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "HOU",
+            "DET"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "42",
+        "Active": false
+    }
+}

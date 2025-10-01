@@ -1,0 +1,57 @@
+{
+    "player_id": 77591,
+    "full_name": "Larry Mikan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 3.0,
+            "APG": 0.8,
+            "RBG": 2.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.1,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.618,
+            "FGM": 62,
+            "FGA": 186,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 34,
+            "FTA": 55,
+            "GP": 53
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "64",
+        "Active": false
+    }
+}

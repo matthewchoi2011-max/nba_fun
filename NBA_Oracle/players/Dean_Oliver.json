@@ -1,0 +1,77 @@
+{
+    "player_id": 2352,
+    "full_name": "Dean Oliver",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2001-02": {
+            "PPG": 2.1,
+            "APG": 1.1,
+            "RBG": 0.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": -1.8,
+            "MPG": 7.0,
+            "FG_PCT": 0.37,
+            "FG3_PCT": 0.154,
+            "FT_PCT": 0.667,
+            "FGM": 17,
+            "FGA": 46,
+            "FG3M": 2,
+            "FG3A": 13,
+            "FTM": 6,
+            "FTA": 9,
+            "GP": 20
+        },
+        "2002-03": {
+            "PPG": 1.5,
+            "APG": 1.5,
+            "RBG": 1.1,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": -1.8,
+            "MPG": 6.2,
+            "FG_PCT": 0.241,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.875,
+            "FGM": 7,
+            "FGA": 29,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 7,
+            "FTA": 8,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 71,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

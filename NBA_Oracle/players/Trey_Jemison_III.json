@@ -1,0 +1,81 @@
+{
+    "player_id": 1641998,
+    "full_name": "Trey Jemison III",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 6.8,
+            "APG": 1.1,
+            "RBG": 5.4,
+            "SPG": 0.5,
+            "BPG": 1.1,
+            "TPG": 1.4,
+            "PM": -4.4,
+            "MPG": 23.0,
+            "FG_PCT": 0.551,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.84,
+            "FGM": 75,
+            "FGA": 136,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 21,
+            "FTA": 25,
+            "GP": 25
+        },
+        "2024-25": {
+            "PPG": 2.5,
+            "APG": 0.4,
+            "RBG": 2.8,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.6,
+            "PM": -0.5,
+            "MPG": 10.3,
+            "FG_PCT": 0.554,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.394,
+            "FGM": 41,
+            "FGA": 74,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 13,
+            "FTA": 33,
+            "GP": 38
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "270",
+        "Position": "Center",
+        "Teams": [
+            "WAS",
+            "MEM",
+            "TOT",
+            "NOP",
+            "LAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

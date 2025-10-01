@@ -1,0 +1,57 @@
+{
+    "player_id": 2432,
+    "full_name": "Tito Maddox",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 1.2,
+            "APG": 0.6,
+            "RBG": 0.8,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -0.9,
+            "MPG": 3.9,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.625,
+            "FGM": 3,
+            "FGA": 12,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 5,
+            "FTA": 8,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

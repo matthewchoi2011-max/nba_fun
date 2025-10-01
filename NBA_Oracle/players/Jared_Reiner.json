@@ -1,0 +1,99 @@
+{
+    "player_id": 2876,
+    "full_name": "Jared Reiner",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2004-05": {
+            "PPG": 1.1,
+            "APG": 0.1,
+            "RBG": 2.0,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.5,
+            "PM": -1.0,
+            "MPG": 6.9,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 10,
+            "FGA": 30,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 19
+        },
+        "2006-07": {
+            "PPG": 1.2,
+            "APG": 0.5,
+            "RBG": 2.6,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": -2.7,
+            "MPG": 9.0,
+            "FG_PCT": 0.349,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.3,
+            "FGM": 15,
+            "FGA": 43,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 3,
+            "FTA": 10,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {
+        "2004-05": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -2.3,
+            "MPG": 2.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 83,
+        "Weight": "255",
+        "Position": "Center",
+        "Teams": [
+            "CHI",
+            "MIL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

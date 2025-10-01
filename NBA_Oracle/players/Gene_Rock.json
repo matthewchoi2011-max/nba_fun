@@ -1,0 +1,78 @@
+{
+    "player_id": 78001,
+    "full_name": "Gene Rock",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1947-48": {
+            "PPG": 0.9,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.222,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 4,
+            "FGA": 18,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {
+        "1947-48": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 1,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 69,
+        "Weight": "155",
+        "Position": "Guard",
+        "Teams": [
+            "CHS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

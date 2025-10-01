@@ -1,0 +1,78 @@
+{
+    "player_id": 76884,
+    "full_name": "Claude Gregory",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": NaN,
+            "FT_PCT": NaN,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        },
+        "1987-88": {
+            "PPG": 5.8,
+            "APG": 0.7,
+            "RBG": 4.1,
+            "SPG": 0.4,
+            "BPG": 0.6,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 13.6,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 61,
+            "FGA": 134,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 12,
+            "FTA": 36,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "WAS",
+            "LAC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "41",
+        "Active": false
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "player_id": 77889,
+    "full_name": "Roy Pugh",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 1.4,
+            "APG": 0.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.255,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.316,
+            "FGM": 13,
+            "FGA": 51,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 19,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "PHW",
+            "FTW",
+            "JET",
+            "TOT"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

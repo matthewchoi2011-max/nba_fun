@@ -1,0 +1,78 @@
+{
+    "player_id": 76314,
+    "full_name": "Ed Burton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 1.9,
+            "APG": 0.1,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 7,
+            "FGA": 14,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 8
+        },
+        "1964-65": {
+            "PPG": 2.6,
+            "APG": 0.3,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.35,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 7,
+            "FGA": 20,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 7,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "NYK",
+            "STL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

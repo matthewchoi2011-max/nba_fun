@@ -1,0 +1,124 @@
+{
+    "player_id": 76131,
+    "full_name": "Ralph Beard",
+    "awards": {
+        "NBA All-Star": [
+            "1950-51"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [
+            "1950-51"
+        ],
+        "All-NBA-Second": [
+            "1949-50"
+        ],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 14.9,
+            "APG": 3.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.363,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.762,
+            "FGM": 340,
+            "FGA": 936,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 215,
+            "FTA": 282,
+            "GP": 60
+        },
+        "1950-51": {
+            "PPG": 16.8,
+            "APG": 4.8,
+            "RBG": 3.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.775,
+            "FGM": 409,
+            "FGA": 1110,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 293,
+            "FTA": 378,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 13.2,
+            "APG": 4.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.314,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.786,
+            "FGM": 22,
+            "FGA": 70,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 28,
+            "GP": 5
+        },
+        "1950-51": {
+            "PPG": 22.0,
+            "APG": 4.3,
+            "RBG": 4.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.443,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.706,
+            "FGM": 27,
+            "FGA": 61,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 12,
+            "FTA": 17,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 70,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "INO"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

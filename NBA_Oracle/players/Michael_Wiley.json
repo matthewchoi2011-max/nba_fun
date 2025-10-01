@@ -1,0 +1,99 @@
+{
+    "player_id": 78527,
+    "full_name": "Michael Wiley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 5.7,
+            "APG": 0.3,
+            "RBG": 1.9,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 8.2,
+            "FG_PCT": 0.551,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 76,
+            "FGA": 138,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 36,
+            "FTA": 48,
+            "GP": 33
+        },
+        "1981-82": {
+            "PPG": 8.3,
+            "APG": 0.9,
+            "RBG": 3.0,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 1.2,
+            "PM": NaN,
+            "MPG": 16.6,
+            "FG_PCT": 0.565,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.695,
+            "FGM": 203,
+            "FGA": 359,
+            "FG3M": 0,
+            "FG3A": 5,
+            "FTM": 98,
+            "FTA": 141,
+            "GP": 61
+        }
+    },
+    "playoff_stats": {
+        "1980-81": {
+            "PPG": 0.7,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.7,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "SAN",
+            "SDC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "39",
+        "Active": false
+    }
+}

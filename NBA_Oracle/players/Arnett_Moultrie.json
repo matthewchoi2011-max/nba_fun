@@ -1,0 +1,77 @@
+{
+    "player_id": 203102,
+    "full_name": "Arnett Moultrie",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2012-13": {
+            "PPG": 3.7,
+            "APG": 0.2,
+            "RBG": 3.1,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": -1.8,
+            "MPG": 11.5,
+            "FG_PCT": 0.582,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.643,
+            "FGM": 78,
+            "FGA": 134,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 18,
+            "FTA": 28,
+            "GP": 47
+        },
+        "2013-14": {
+            "PPG": 3.0,
+            "APG": 0.2,
+            "RBG": 2.9,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 0.6,
+            "PM": -4.8,
+            "MPG": 15.6,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.8,
+            "FGM": 16,
+            "FGA": 38,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 5,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "240",
+        "Position": "Forward",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "27",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76425,
+    "full_name": "Leroy Combs",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1983-84": {
+            "PPG": 4.5,
+            "APG": 0.8,
+            "RBG": 1.2,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 9.3,
+            "FG_PCT": 0.497,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.615,
+            "FGM": 81,
+            "FGA": 163,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 56,
+            "FTA": 91,
+            "GP": 48
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "26",
+        "Active": false
+    }
+}

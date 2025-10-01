@@ -1,0 +1,57 @@
+{
+    "player_id": 77230,
+    "full_name": "Michael Kearns",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1954-55": {
+            "PPG": 0.2,
+            "APG": 0.8,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.2,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 0,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "178",
+        "Position": "Guard",
+        "Teams": [
+            "PHW"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

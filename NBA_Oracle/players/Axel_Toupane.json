@@ -1,0 +1,123 @@
+{
+    "player_id": 1626253,
+    "full_name": "Axel Toupane",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "2020-21"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2015-16": {
+            "PPG": 3.6,
+            "APG": 0.7,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": -0.8,
+            "MPG": 14.5,
+            "FG_PCT": 0.357,
+            "FG3_PCT": 0.325,
+            "FT_PCT": 0.765,
+            "FGM": 25,
+            "FGA": 70,
+            "FG3M": 13,
+            "FG3A": 40,
+            "FTM": 13,
+            "FTA": 17,
+            "GP": 21
+        },
+        "2016-17": {
+            "PPG": 2.8,
+            "APG": 0.0,
+            "RBG": 0.2,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": -2.8,
+            "MPG": 11.8,
+            "FG_PCT": 0.556,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0,
+            "FGM": 5,
+            "FGA": 9,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        },
+        "2020-21": {
+            "PPG": 1.8,
+            "APG": 0.5,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.0,
+            "PM": -0.4,
+            "MPG": 7.6,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.714,
+            "FGM": 4,
+            "FGA": 11,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {
+        "2020-21": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -1.2,
+            "MPG": 2.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 4,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "DEN",
+            "MIL",
+            "NOP",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

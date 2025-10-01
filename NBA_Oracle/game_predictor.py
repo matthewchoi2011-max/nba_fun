@@ -345,8 +345,8 @@ class Game:
         players_on_court = team.starters  # could include bench if desired
 
         while shot_clock > 0:
-            # Each action takes 1-5 seconds
-            action_time = random.randint(1, 5)
+            # Each action takes 1-4 seconds
+            action_time = random.randint(1, 3)
             shot_clock -= action_time
             if shot_clock <= 0:
                 actions.append(f"Shot Clock Expired! {self.curr_possession} ends in turnover.")
@@ -355,13 +355,41 @@ class Game:
                 break
 
             # Probabilities
-            turnover_prob = ball_handler.tpg / max(ball_handler.gp, 1)
-            shot_prob = 0.2 + (ball_handler.FG_PCT if ball_handler.FG_PCT else 0) * 0.5
-            pass_prob = 1 - turnover_prob - shot_prob
+            turnover_prob = max(ball_handler.tpg,1) / max(ball_handler.gp, 1)
+
+            # manipulate shooting probability as a function of field goal quantity and quality
+            shooting_volume = ball_handler.FGM/ max(ball_handler.gp,1)
+            shooting_efficiency = ball_handler.FGM/ max(ball_handler.FGA,1)
+            volume_f = min(shooting_volume/20,1)
+            efficiency_f = shooting_efficiency
+            #low volume booster
+            low_volume_boost = (1 - volume_f) * efficiency_f * 0.3
+            
+            #penalize high volume shooters
+            high_volume_penalty = volume_f ** 2 * (1 - efficiency_f) * 0.3
+
+            shot_prob = 0.15 + 0.4 * efficiency_f + 0.15 * volume_f + low_volume_boost - high_volume_penalty
+
+            #manipulate pass probability as a function of assist probability 
+            playmaking_factor = min(ball_handler.apg/10,1)
+
+            safety_factor = 1 - min(ball_handler.tpg/5,1)
+
+            pass_prob = 0.2 + 0.5 * playmaking_factor + 0.3 * safety_factor
+            pass_prob = min(max(pass_prob,0.05),0.75)
+
+            dribble_prob = 0.4
+
+            #normalize values to 1
+            total = shot_prob + pass_prob + turnover_prob + dribble_prob
+            shot_prob /= total
+            pass_prob /= total
+            turnover_prob /= total
+            dribble_prob /= total
 
             action = random.choices(
                 ["pass", "dribble", "shot", "turnover"],
-                weights=[pass_prob, 0.3, shot_prob, turnover_prob],
+                weights=[pass_prob, dribble_prob, shot_prob, turnover_prob],
                 k=1
             )[0]
 
@@ -376,6 +404,7 @@ class Game:
                 actions.append(f"{ball_handler.name} dribbles ({action_time}s)")
 
             elif action == "shot":
+
                 # Decide 3-pointer or 2-pointer
                 is_three = ball_handler.FG3_PCT and random.random() < 0.3
                 points = 3 if is_three else 2

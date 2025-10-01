@@ -1,0 +1,57 @@
+{
+    "player_id": 1631173,
+    "full_name": "Terquavion Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.2,
+            "APG": 0.8,
+            "RBG": 0.2,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": -0.4,
+            "MPG": 5.3,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0.371,
+            "FT_PCT": 0.6,
+            "FGM": 18,
+            "FGA": 46,
+            "FG3M": 13,
+            "FG3A": 35,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "160",
+        "Position": "Guard",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

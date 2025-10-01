@@ -1,0 +1,57 @@
+{
+    "player_id": 77428,
+    "full_name": "Mike Macaluso",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1973-74": {
+            "PPG": 1.6,
+            "APG": 0.1,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.7,
+            "FG_PCT": 0.432,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.588,
+            "FGM": 19,
+            "FGA": 44,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 10,
+            "FTA": 17,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "BUF"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "88",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 76617,
+    "full_name": "Pat Dunn",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1957-58": {
+            "PPG": 2.5,
+            "APG": 1.0,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.4,
+            "FG_PCT": 0.311,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.824,
+            "FGM": 28,
+            "FGA": 90,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 14,
+            "FTA": 17,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {
+        "1957-58": {
+            "PPG": 0.0,
+            "APG": 0.3,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.7,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "PHW"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76685,
+    "full_name": "Earl Evans",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 4.4,
+            "APG": 1.0,
+            "RBG": 2.1,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 10.6,
+            "FG_PCT": 0.45,
+            "FG3_PCT": 0.389,
+            "FT_PCT": 0.571,
+            "FGM": 63,
+            "FGA": 140,
+            "FG3M": 7,
+            "FG3A": 18,
+            "FTM": 24,
+            "FTA": 42,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "202",
+        "Position": "Forward",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "157",
+        "Active": false
+    }
+}

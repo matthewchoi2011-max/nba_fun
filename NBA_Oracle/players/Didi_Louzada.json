@@ -1,0 +1,79 @@
+{
+    "player_id": 1629712,
+    "full_name": "Didi Louzada",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 2.7,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -3.7,
+            "MPG": 18.7,
+            "FG_PCT": 0.231,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 13,
+            "FG3M": 2,
+            "FG3A": 8,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        },
+        "2021-22": {
+            "PPG": 3.9,
+            "APG": 0.6,
+            "RBG": 1.9,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -9.0,
+            "MPG": 14.3,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0.391,
+            "FT_PCT": 1.0,
+            "FGM": 12,
+            "FGA": 33,
+            "FG3M": 9,
+            "FG3A": 23,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "188",
+        "Position": "Guard",
+        "Teams": [
+            "NOP",
+            "POR",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": false
+    }
+}

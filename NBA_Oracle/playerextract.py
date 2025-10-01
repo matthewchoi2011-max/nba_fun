@@ -253,7 +253,7 @@ def JSON(player_data):
 
 
 
-'''
+
 def chunks(lst, chunk_size):
     """Yield successive chunk_size-sized chunks from lst."""
     return [lst[i:i + chunk_size] for i in range(0, len(lst), chunk_size)]
@@ -324,9 +324,9 @@ for player in segment:
     except Exception as e:
         print(f"Error processing {player_name}: {e}")
 
+
+
 '''
-
-
 player_id = 2544 # LeBron James
 player_name = "LeBron James"
 time.sleep(1.5)  # avoid rate-limiting
@@ -371,3 +371,4 @@ try:
 except Exception as e:
     print(f"Error processing {player_name}: {e}")
 
+'''

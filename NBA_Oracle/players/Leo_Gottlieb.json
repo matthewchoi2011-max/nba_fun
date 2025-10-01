@@ -1,0 +1,98 @@
+{
+    "player_id": 76836,
+    "full_name": "Leo Gottlieb",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 5.9,
+            "APG": 0.4,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.302,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.655,
+            "FGM": 149,
+            "FGA": 494,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 36,
+            "FTA": 55,
+            "GP": 57
+        },
+        "1947-48": {
+            "PPG": 4.9,
+            "APG": 0.4,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.259,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.619,
+            "FGM": 59,
+            "FGA": 228,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 13,
+            "FTA": 21,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 6.0,
+            "APG": 0.2,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.256,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 10,
+            "FGA": 39,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 71,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

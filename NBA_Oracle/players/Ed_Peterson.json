@@ -1,0 +1,99 @@
+{
+    "player_id": 77841,
+    "full_name": "Ed Peterson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 7.2,
+            "APG": 0.5,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.428,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 167,
+            "FGA": 390,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 111,
+            "FTA": 185,
+            "GP": 62
+        },
+        "1950-51": {
+            "PPG": 6.8,
+            "APG": 1.2,
+            "RBG": 5.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.339,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.66,
+            "FGM": 130,
+            "FGA": 384,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 99,
+            "FTA": 150,
+            "GP": 53
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 4.0,
+            "APG": 0.1,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.419,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 18,
+            "FGA": 43,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 14,
+            "GP": 11
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "220",
+        "Position": "Center",
+        "Teams": [
+            "SYR",
+            "TCB"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

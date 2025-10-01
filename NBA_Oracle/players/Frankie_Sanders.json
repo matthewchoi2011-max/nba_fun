@@ -1,0 +1,101 @@
+{
+    "player_id": 78057,
+    "full_name": "Frankie Sanders",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 5.7,
+            "APG": 1.1,
+            "RBG": 2.4,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": NaN,
+            "MPG": 10.4,
+            "FG_PCT": 0.427,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.794,
+            "FGM": 105,
+            "FGA": 246,
+            "FG3M": NaN,
+            "FG3A": NaN,
+            "FTM": 54,
+            "FTA": 68,
+            "GP": 46
+        },
+        "1980-81": {
+            "PPG": 3.8,
+            "APG": 0.7,
+            "RBG": 0.9,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 8.1,
+            "FG_PCT": 0.442,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.909,
+            "FGM": 34,
+            "FGA": 77,
+            "FG3M": 0.0,
+            "FG3A": 3.0,
+            "FTM": 20,
+            "FTA": 22,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {
+        "1980-81": {
+            "PPG": 2.6,
+            "APG": 0.2,
+            "RBG": 0.6,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 5.6,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 1.0,
+            "FGM": 9,
+            "FGA": 18,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 4,
+            "FTA": 4,
+            "GP": 9
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "SAN",
+            "BOS",
+            "TOT",
+            "KCK"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "20",
+        "Active": false
+    }
+}

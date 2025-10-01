@@ -1,0 +1,57 @@
+{
+    "player_id": 1629118,
+    "full_name": "Thomas Welsh",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 1.6,
+            "APG": 0.5,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.1,
+            "PM": 0.2,
+            "MPG": 3.3,
+            "FG_PCT": 0.538,
+            "FG3_PCT": 0.429,
+            "FT_PCT": 0.5,
+            "FGM": 7,
+            "FGA": 13,
+            "FG3M": 3,
+            "FG3A": 7,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "255",
+        "Position": "Center",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "58",
+        "Active": false
+    }
+}

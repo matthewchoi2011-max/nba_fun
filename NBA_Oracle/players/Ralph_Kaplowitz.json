@@ -1,0 +1,122 @@
+{
+    "player_id": 77221,
+    "full_name": "Ralph Kaplowitz",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1946-47"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 7.1,
+            "APG": 0.7,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.274,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.735,
+            "FGM": 146,
+            "FGA": 532,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 111,
+            "FTA": 151,
+            "GP": 57
+        },
+        "1947-48": {
+            "PPG": 3.9,
+            "APG": 0.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.243,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.783,
+            "FGM": 71,
+            "FGA": 292,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 47,
+            "FTA": 60,
+            "GP": 48
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 6.6,
+            "APG": 0.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.815,
+            "FGM": 22,
+            "FGA": 18,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 27,
+            "GP": 10
+        },
+        "1947-48": {
+            "PPG": 6.6,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.344,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.759,
+            "FGM": 32,
+            "FGA": 93,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 29,
+            "GP": 13
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "PHW",
+            "NYK",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

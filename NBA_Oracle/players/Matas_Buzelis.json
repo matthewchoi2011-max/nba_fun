@@ -1,0 +1,59 @@
+{
+    "player_id": 1641824,
+    "full_name": "Matas Buzelis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2024-25"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 8.6,
+            "APG": 1.0,
+            "RBG": 3.5,
+            "SPG": 0.4,
+            "BPG": 0.9,
+            "TPG": 0.9,
+            "PM": -0.4,
+            "MPG": 18.9,
+            "FG_PCT": 0.454,
+            "FG3_PCT": 0.361,
+            "FT_PCT": 0.815,
+            "FGM": 252,
+            "FGA": 555,
+            "FG3M": 96,
+            "FG3A": 266,
+            "FTM": 88,
+            "FTA": 108,
+            "GP": 80
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "209",
+        "Position": "Forward",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "11",
+        "Active": true
+    }
+}

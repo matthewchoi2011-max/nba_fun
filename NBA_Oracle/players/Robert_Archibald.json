@@ -1,0 +1,81 @@
+{
+    "player_id": 2425,
+    "full_name": "Robert Archibald",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 1.6,
+            "APG": 0.2,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -0.8,
+            "MPG": 6.0,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.389,
+            "FGM": 6,
+            "FGA": 20,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 7,
+            "FTA": 18,
+            "GP": 12
+        },
+        "2003-04": {
+            "PPG": 1.0,
+            "APG": 0.4,
+            "RBG": 1.6,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -0.6,
+            "MPG": 8.0,
+            "FG_PCT": 0.273,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.452,
+            "FGM": 9,
+            "FGA": 33,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 14,
+            "FTA": 31,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "250",
+        "Position": "Forward",
+        "Teams": [
+            "MEM",
+            "PHX",
+            "ORL",
+            "TOR",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

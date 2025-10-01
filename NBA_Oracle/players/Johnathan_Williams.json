@@ -1,0 +1,78 @@
+{
+    "player_id": 1629140,
+    "full_name": "Johnathan Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 6.5,
+            "APG": 0.5,
+            "RBG": 4.1,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.7,
+            "PM": 2.3,
+            "MPG": 15.5,
+            "FG_PCT": 0.591,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.563,
+            "FGM": 65,
+            "FGA": 110,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 27,
+            "FTA": 48,
+            "GP": 24
+        },
+        "2019-20": {
+            "PPG": 3.0,
+            "APG": 0.5,
+            "RBG": 4.3,
+            "SPG": 0.1,
+            "BPG": 0.5,
+            "TPG": 0.3,
+            "PM": -2.6,
+            "MPG": 12.0,
+            "FG_PCT": 0.559,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.538,
+            "FGM": 19,
+            "FGA": 34,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 7,
+            "FTA": 13,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "228",
+        "Position": "Forward",
+        "Teams": [
+            "LAL",
+            "WAS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

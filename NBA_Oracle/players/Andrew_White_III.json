@@ -1,0 +1,57 @@
+{
+    "player_id": 1628510,
+    "full_name": "Andrew White III",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 4.6,
+            "APG": 0.4,
+            "RBG": 2.3,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -4.7,
+            "MPG": 13.9,
+            "FG_PCT": 0.342,
+            "FG3_PCT": 0.367,
+            "FT_PCT": 0.25,
+            "FGM": 25,
+            "FGA": 73,
+            "FG3M": 18,
+            "FG3A": 49,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

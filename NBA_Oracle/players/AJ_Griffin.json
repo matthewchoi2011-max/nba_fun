@@ -1,0 +1,77 @@
+{
+    "player_id": 1631100,
+    "full_name": "AJ Griffin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 8.9,
+            "APG": 1.0,
+            "RBG": 2.1,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": 0.9,
+            "MPG": 19.5,
+            "FG_PCT": 0.465,
+            "FG3_PCT": 0.39,
+            "FT_PCT": 0.894,
+            "FGM": 248,
+            "FGA": 533,
+            "FG3M": 101,
+            "FG3A": 259,
+            "FTM": 42,
+            "FTA": 47,
+            "GP": 72
+        },
+        "2023-24": {
+            "PPG": 2.4,
+            "APG": 0.2,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -2.6,
+            "MPG": 8.6,
+            "FG_PCT": 0.29,
+            "FG3_PCT": 0.256,
+            "FT_PCT": 1.0,
+            "FGM": 18,
+            "FGA": 62,
+            "FG3M": 10,
+            "FG3A": 39,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "16",
+        "Active": false
+    }
+}

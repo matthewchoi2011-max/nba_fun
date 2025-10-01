@@ -1,0 +1,100 @@
+{
+    "player_id": 76923,
+    "full_name": "Jeff Halliburton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1971-72": {
+            "PPG": 4.0,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.8,
+            "FG_PCT": 0.459,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.833,
+            "FGM": 61,
+            "FGA": 133,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 25,
+            "FTA": 30,
+            "GP": 37
+        },
+        "1972-73": {
+            "PPG": 7.5,
+            "APG": 1.7,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.3,
+            "FG_PCT": 0.434,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.807,
+            "FGM": 172,
+            "FGA": 396,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 71,
+            "FTA": 88,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {
+        "1971-72": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "193",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "PHL",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "39",
+        "Active": false
+    }
+}

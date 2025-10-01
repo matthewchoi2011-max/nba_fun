@@ -1,0 +1,78 @@
+{
+    "player_id": 76530,
+    "full_name": "Michael Davis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 1.8,
+            "APG": 0.0,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.5,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.5,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 4,
+            "FGA": 10,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 10,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {
+        "1982-83": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

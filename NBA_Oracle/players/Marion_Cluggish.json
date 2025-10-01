@@ -1,0 +1,78 @@
+{
+    "player_id": 76408,
+    "full_name": "Marion Cluggish",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 4.4,
+            "APG": 0.4,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.261,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 93,
+            "FGA": 356,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 52,
+            "FTA": 91,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 1.6,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.148,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 27,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

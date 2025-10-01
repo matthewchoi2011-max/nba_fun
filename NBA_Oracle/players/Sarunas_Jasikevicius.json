@@ -1,0 +1,122 @@
+{
+    "player_id": 101180,
+    "full_name": "Sarunas Jasikevicius",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": [
+            "2000"
+        ]
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 7.3,
+            "APG": 3.0,
+            "RBG": 2.0,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.5,
+            "PM": 0.7,
+            "MPG": 20.8,
+            "FG_PCT": 0.396,
+            "FG3_PCT": 0.364,
+            "FT_PCT": 0.91,
+            "FGM": 170,
+            "FGA": 429,
+            "FG3M": 86,
+            "FG3A": 236,
+            "FTM": 121,
+            "FTA": 133,
+            "GP": 75
+        },
+        "2006-07": {
+            "PPG": 6.1,
+            "APG": 2.7,
+            "RBG": 1.1,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 1.4,
+            "PM": -1.6,
+            "MPG": 15.4,
+            "FG_PCT": 0.398,
+            "FG3_PCT": 0.338,
+            "FT_PCT": 0.905,
+            "FGM": 128,
+            "FGA": 322,
+            "FG3M": 44,
+            "FG3A": 130,
+            "FTM": 86,
+            "FTA": 95,
+            "GP": 63
+        }
+    },
+    "playoff_stats": {
+        "2005-06": {
+            "PPG": 2.8,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -3.8,
+            "MPG": 11.0,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.5,
+            "FGM": 7,
+            "FGA": 19,
+            "FG3M": 2,
+            "FG3A": 9,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 6
+        },
+        "2006-07": {
+            "PPG": 0.2,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.2,
+            "MPG": 1.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "IND",
+            "GSW",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

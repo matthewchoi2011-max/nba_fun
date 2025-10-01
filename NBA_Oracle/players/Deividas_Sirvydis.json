@@ -1,0 +1,77 @@
+{
+    "player_id": 1629686,
+    "full_name": "Deividas Sirvydis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 2.0,
+            "APG": 0.2,
+            "RBG": 1.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -1.2,
+            "MPG": 6.7,
+            "FG_PCT": 0.35,
+            "FG3_PCT": 0.357,
+            "FT_PCT": 0.5,
+            "FGM": 14,
+            "FGA": 40,
+            "FG3M": 10,
+            "FG3A": 28,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 20
+        },
+        "2021-22": {
+            "PPG": 1.0,
+            "APG": 0.3,
+            "RBG": 2.0,
+            "SPG": 1.0,
+            "BPG": 0.3,
+            "TPG": 0.0,
+            "PM": -9.3,
+            "MPG": 9.0,
+            "FG_PCT": 0.1,
+            "FG3_PCT": 0.143,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 10,
+            "FG3M": 1,
+            "FG3A": 7,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "190",
+        "Position": "Forward-Guard",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

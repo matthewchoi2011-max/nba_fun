@@ -1,0 +1,120 @@
+{
+    "player_id": 76989,
+    "full_name": "Dick Hemric",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1956-57"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1955-56": {
+            "PPG": 7.0,
+            "APG": 0.8,
+            "RBG": 5.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 18.7,
+            "FG_PCT": 0.403,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.648,
+            "FGM": 161,
+            "FGA": 400,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 177,
+            "FTA": 273,
+            "GP": 71
+        },
+        "1956-57": {
+            "PPG": 5.4,
+            "APG": 0.6,
+            "RBG": 4.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.7,
+            "FG_PCT": 0.344,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.695,
+            "FGM": 109,
+            "FGA": 317,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 146,
+            "FTA": 210,
+            "GP": 67
+        }
+    },
+    "playoff_stats": {
+        "1955-56": {
+            "PPG": 6.3,
+            "APG": 0.3,
+            "RBG": 7.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 18.0,
+            "FG_PCT": 0.208,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.563,
+            "FGM": 5,
+            "FGA": 24,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 16,
+            "GP": 3
+        },
+        "1956-57": {
+            "PPG": 1.0,
+            "APG": 0.5,
+            "RBG": 4.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.5,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 1,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "10",
+        "Active": false
+    }
+}

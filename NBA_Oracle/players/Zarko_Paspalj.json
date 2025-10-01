@@ -1,0 +1,59 @@
+{
+    "player_id": 1097,
+    "full_name": "Zarko Paspalj",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [
+            "1988"
+        ],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 2.6,
+            "APG": 0.4,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 6.5,
+            "FG_PCT": 0.342,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.818,
+            "FGM": 27,
+            "FGA": 79,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 18,
+            "FTA": 22,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

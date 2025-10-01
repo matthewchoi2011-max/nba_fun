@@ -1,0 +1,121 @@
+{
+    "player_id": 1630700,
+    "full_name": "Dyson Daniels",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [
+            "2024-25"
+        ],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 3.8,
+            "APG": 2.3,
+            "RBG": 3.2,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": -0.2,
+            "MPG": 17.7,
+            "FG_PCT": 0.418,
+            "FG3_PCT": 0.314,
+            "FT_PCT": 0.65,
+            "FGM": 87,
+            "FGA": 208,
+            "FG3M": 27,
+            "FG3A": 86,
+            "FTM": 26,
+            "FTA": 40,
+            "GP": 59
+        },
+        "2023-24": {
+            "PPG": 5.8,
+            "APG": 2.7,
+            "RBG": 3.9,
+            "SPG": 1.4,
+            "BPG": 0.4,
+            "TPG": 1.0,
+            "PM": 1.1,
+            "MPG": 22.3,
+            "FG_PCT": 0.447,
+            "FG3_PCT": 0.311,
+            "FT_PCT": 0.642,
+            "FGM": 139,
+            "FGA": 311,
+            "FG3M": 42,
+            "FG3A": 135,
+            "FTM": 34,
+            "FTA": 53,
+            "GP": 61
+        },
+        "2024-25": {
+            "PPG": 14.1,
+            "APG": 4.4,
+            "RBG": 5.9,
+            "SPG": 3.0,
+            "BPG": 0.7,
+            "TPG": 2.0,
+            "PM": -0.9,
+            "MPG": 33.8,
+            "FG_PCT": 0.493,
+            "FG3_PCT": 0.34,
+            "FT_PCT": 0.593,
+            "FGM": 455,
+            "FGA": 923,
+            "FG3M": 80,
+            "FG3A": 235,
+            "FTM": 83,
+            "FTA": 140,
+            "GP": 76
+        }
+    },
+    "playoff_stats": {
+        "2023-24": {
+            "PPG": 1.3,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -4.3,
+            "MPG": 5.7,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "199",
+        "Position": "Guard",
+        "Teams": [
+            "NOP",
+            "ATL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "8",
+        "Active": true
+    }
+}

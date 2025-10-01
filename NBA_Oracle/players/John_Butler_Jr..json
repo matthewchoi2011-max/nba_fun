@@ -1,0 +1,57 @@
+{
+    "player_id": 1631219,
+    "full_name": "John Butler Jr.",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 2.4,
+            "APG": 0.6,
+            "RBG": 0.9,
+            "SPG": 0.4,
+            "BPG": 0.5,
+            "TPG": 0.1,
+            "PM": -3.7,
+            "MPG": 11.6,
+            "FG_PCT": 0.321,
+            "FG3_PCT": 0.229,
+            "FT_PCT": 0.75,
+            "FGM": 17,
+            "FGA": 53,
+            "FG3M": 8,
+            "FG3A": 35,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

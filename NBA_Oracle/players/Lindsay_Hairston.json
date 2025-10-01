@@ -1,0 +1,57 @@
+{
+    "player_id": 76917,
+    "full_name": "Lindsay Hairston",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1975-76": {
+            "PPG": 5.8,
+            "APG": 0.4,
+            "RBG": 3.8,
+            "SPG": 0.4,
+            "BPG": 0.7,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.9,
+            "FG_PCT": 0.456,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.58,
+            "FGM": 104,
+            "FGA": 228,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 65,
+            "FTA": 112,
+            "GP": 47
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "180",
+        "Position": "Forward",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "64",
+        "Active": false
+    }
+}

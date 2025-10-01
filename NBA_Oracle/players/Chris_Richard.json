@@ -1,0 +1,99 @@
+{
+    "player_id": 201181,
+    "full_name": "Chris Richard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2007-08": {
+            "PPG": 1.9,
+            "APG": 0.3,
+            "RBG": 2.6,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": -0.5,
+            "MPG": 10.7,
+            "FG_PCT": 0.471,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.593,
+            "FGM": 41,
+            "FGA": 87,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 16,
+            "FTA": 27,
+            "GP": 52
+        },
+        "2009-10": {
+            "PPG": 2.1,
+            "APG": 0.4,
+            "RBG": 3.3,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -1.6,
+            "MPG": 12.4,
+            "FG_PCT": 0.517,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.636,
+            "FGM": 15,
+            "FGA": 29,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 7,
+            "FTA": 11,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {
+        "2009-10": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 2.0,
+            "MPG": 2.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "256",
+        "Position": "Forward",
+        "Teams": [
+            "MIN",
+            "CHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "41",
+        "Active": false
+    }
+}

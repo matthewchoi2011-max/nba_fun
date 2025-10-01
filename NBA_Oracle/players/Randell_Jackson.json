@@ -1,0 +1,78 @@
+{
+    "player_id": 1872,
+    "full_name": "Randell Jackson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1998-99": {
+            "PPG": 4.2,
+            "APG": 0.3,
+            "RBG": 2.0,
+            "SPG": 0.1,
+            "BPG": 0.4,
+            "TPG": 1.0,
+            "PM": -1.9,
+            "MPG": 10.0,
+            "FG_PCT": 0.426,
+            "FG3_PCT": 0.143,
+            "FT_PCT": 0.656,
+            "FGM": 46,
+            "FGA": 108,
+            "FG3M": 1,
+            "FG3A": 7,
+            "FTM": 21,
+            "FTA": 32,
+            "GP": 27
+        },
+        "1999-00": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "WAS",
+            "DAL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

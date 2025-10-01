@@ -1,0 +1,57 @@
+{
+    "player_id": 77165,
+    "full_name": "Ron Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1960-61": {
+            "PPG": 2.6,
+            "APG": 0.1,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.6,
+            "FG_PCT": 0.302,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.647,
+            "FGM": 13,
+            "FGA": 43,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 17,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "12",
+        "Active": false
+    }
+}

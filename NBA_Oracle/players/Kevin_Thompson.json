@@ -1,0 +1,57 @@
+{
+    "player_id": 78329,
+    "full_name": "Kevin Thompson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 0.9,
+            "APG": 0.2,
+            "RBG": 0.9,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 4.1,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 6,
+            "FGA": 14,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "260",
+        "Position": "Center",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

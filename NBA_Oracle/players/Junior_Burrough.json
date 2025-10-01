@@ -1,0 +1,57 @@
+{
+    "player_id": 675,
+    "full_name": "Junior Burrough",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1995-96": {
+            "PPG": 3.1,
+            "APG": 0.2,
+            "RBG": 1.8,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 8.1,
+            "FG_PCT": 0.376,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.656,
+            "FGM": 64,
+            "FGA": 170,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 61,
+            "FTA": 93,
+            "GP": 61
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "242",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

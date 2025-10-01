@@ -1,0 +1,98 @@
+{
+    "player_id": 1630210,
+    "full_name": "Markus Howard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 2.8,
+            "APG": 0.5,
+            "RBG": 0.6,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -1.9,
+            "MPG": 5.5,
+            "FG_PCT": 0.377,
+            "FG3_PCT": 0.277,
+            "FT_PCT": 0.778,
+            "FGM": 40,
+            "FGA": 106,
+            "FG3M": 18,
+            "FG3A": 65,
+            "FTM": 7,
+            "FTA": 9,
+            "GP": 37
+        },
+        "2021-22": {
+            "PPG": 4.1,
+            "APG": 0.2,
+            "RBG": 0.4,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -0.4,
+            "MPG": 5.7,
+            "FG_PCT": 0.386,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.87,
+            "FGM": 39,
+            "FGA": 101,
+            "FG3M": 28,
+            "FG3A": 70,
+            "FTM": 20,
+            "FTA": 23,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {
+        "2020-21": {
+            "PPG": 4.7,
+            "APG": 0.4,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": 0.1,
+            "MPG": 12.4,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0.423,
+            "FT_PCT": 0.5,
+            "FGM": 15,
+            "FGA": 37,
+            "FG3M": 11,
+            "FG3A": 26,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 9
+        }
+    },
+    "specs": {
+        "Height": 70,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

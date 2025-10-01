@@ -1,0 +1,79 @@
+{
+    "player_id": 1641713,
+    "full_name": "GG Jackson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2023-24"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 14.6,
+            "APG": 1.2,
+            "RBG": 4.1,
+            "SPG": 0.6,
+            "BPG": 0.5,
+            "TPG": 1.4,
+            "PM": -4.1,
+            "MPG": 25.7,
+            "FG_PCT": 0.428,
+            "FG3_PCT": 0.357,
+            "FT_PCT": 0.752,
+            "FGM": 241,
+            "FGA": 563,
+            "FG3M": 102,
+            "FG3A": 286,
+            "FTM": 115,
+            "FTA": 153,
+            "GP": 48
+        },
+        "2024-25": {
+            "PPG": 7.2,
+            "APG": 1.0,
+            "RBG": 3.2,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 1.1,
+            "PM": -2.3,
+            "MPG": 15.8,
+            "FG_PCT": 0.372,
+            "FG3_PCT": 0.337,
+            "FT_PCT": 0.725,
+            "FGM": 74,
+            "FGA": 199,
+            "FG3M": 32,
+            "FG3A": 95,
+            "FTM": 29,
+            "FTA": 40,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "45",
+        "Active": true
+    }
+}

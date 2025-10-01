@@ -1,0 +1,78 @@
+{
+    "player_id": 78488,
+    "full_name": "Owen Wells",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 3.0,
+            "APG": 0.7,
+            "RBG": 1.1,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.5,
+            "FG_PCT": 0.42,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.682,
+            "FGM": 42,
+            "FGA": 100,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 22,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {
+        "1974-75": {
+            "PPG": 1.5,
+            "APG": 0.2,
+            "RBG": 0.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.2,
+            "FG_PCT": 0.6,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "77",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 2604,
+    "full_name": "Theron Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 2.2,
+            "APG": 0.3,
+            "RBG": 2.0,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": 0.0,
+            "MPG": 8.9,
+            "FG_PCT": 0.372,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.75,
+            "FGM": 16,
+            "FGA": 43,
+            "FG3M": 6,
+            "FG3A": 12,
+            "FTM": 6,
+            "FTA": 8,
+            "GP": 20
+        },
+        "2004-05": {
+            "PPG": 3.2,
+            "APG": 0.8,
+            "RBG": 3.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -5.3,
+            "MPG": 15.4,
+            "FG_PCT": 0.324,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.875,
+            "FGM": 44,
+            "FGA": 136,
+            "FG3M": 3,
+            "FG3A": 12,
+            "FTM": 14,
+            "FTA": 16,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "MEM",
+            "CHA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

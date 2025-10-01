@@ -1,0 +1,98 @@
+{
+    "player_id": 78583,
+    "full_name": "Rick Wilson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 3.0,
+            "APG": 1.2,
+            "RBG": 1.2,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 9.7,
+            "FG_PCT": 0.411,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.545,
+            "FGM": 81,
+            "FGA": 197,
+            "FG3M": NaN,
+            "FG3A": NaN,
+            "FTM": 24,
+            "FTA": 44,
+            "GP": 61
+        },
+        "1979-80": {
+            "PPG": 1.6,
+            "APG": 2.2,
+            "RBG": 0.6,
+            "SPG": 0.8,
+            "BPG": 0.2,
+            "TPG": 1.6,
+            "PM": NaN,
+            "MPG": 11.8,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 2,
+            "FGA": 14,
+            "FG3M": 0.0,
+            "FG3A": 0.0,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {
+        "1978-79": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "25",
+        "Active": false
+    }
+}

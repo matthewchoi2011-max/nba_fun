@@ -1,0 +1,57 @@
+{
+    "player_id": 2453,
+    "full_name": "Predrag Savovic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 3.1,
+            "APG": 0.8,
+            "RBG": 0.9,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -1.4,
+            "MPG": 9.5,
+            "FG_PCT": 0.312,
+            "FG3_PCT": 0.154,
+            "FT_PCT": 0.724,
+            "FGM": 29,
+            "FGA": 93,
+            "FG3M": 4,
+            "FG3A": 26,
+            "FTM": 21,
+            "FTA": 29,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "225",
+        "Position": "Guard",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

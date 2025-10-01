@@ -1,0 +1,77 @@
+{
+    "player_id": 76803,
+    "full_name": "Derrick Gervin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 12.0,
+            "APG": 0.4,
+            "RBG": 3.1,
+            "SPG": 1.0,
+            "BPG": 0.3,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 16.1,
+            "FG_PCT": 0.472,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.73,
+            "FGM": 93,
+            "FGA": 197,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 65,
+            "FTA": 89,
+            "GP": 21
+        },
+        "1990-91": {
+            "PPG": 7.6,
+            "APG": 0.5,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 13.3,
+            "FG_PCT": 0.416,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.789,
+            "FGM": 164,
+            "FGA": 394,
+            "FG3M": 7,
+            "FG3A": 28,
+            "FTM": 90,
+            "FTA": 114,
+            "GP": 56
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "NJN"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "90",
+        "Active": false
+    }
+}

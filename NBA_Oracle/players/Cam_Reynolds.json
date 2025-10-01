@@ -1,0 +1,80 @@
+{
+    "player_id": 1629244,
+    "full_name": "Cam Reynolds",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 5.0,
+            "APG": 0.7,
+            "RBG": 1.6,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -1.4,
+            "MPG": 13.6,
+            "FG_PCT": 0.423,
+            "FG3_PCT": 0.412,
+            "FT_PCT": 0.889,
+            "FGM": 33,
+            "FGA": 78,
+            "FG3M": 21,
+            "FG3A": 51,
+            "FTM": 8,
+            "FTA": 9,
+            "GP": 19
+        },
+        "2020-21": {
+            "PPG": 3.0,
+            "APG": 0.4,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -5.2,
+            "MPG": 8.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0,
+            "FGM": 6,
+            "FGA": 18,
+            "FG3M": 3,
+            "FG3A": 12,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "MIN",
+            "SAS",
+            "HOU",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

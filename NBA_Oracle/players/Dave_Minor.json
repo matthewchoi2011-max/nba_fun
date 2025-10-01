@@ -1,0 +1,78 @@
+{
+    "player_id": 77610,
+    "full_name": "Dave Minor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1951-52": {
+            "PPG": 8.3,
+            "APG": 2.8,
+            "RBG": 4.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 27.3,
+            "FG_PCT": 0.354,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.765,
+            "FGM": 185,
+            "FGA": 522,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 101,
+            "FTA": 132,
+            "GP": 57
+        },
+        "1952-53": {
+            "PPG": 6.9,
+            "APG": 2.2,
+            "RBG": 4.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 27.3,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.742,
+            "FGM": 154,
+            "FGA": 420,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 98,
+            "FTA": 132,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "BAL",
+            "MIH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

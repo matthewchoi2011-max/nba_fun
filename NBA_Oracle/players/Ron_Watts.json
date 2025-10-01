@@ -1,0 +1,98 @@
+{
+    "player_id": 78474,
+    "full_name": "Ron Watts",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1965-66": {
+            "PPG": 2.0,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        },
+        "1966-67": {
+            "PPG": 1.4,
+            "APG": 0.0,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.3,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.696,
+            "FGM": 11,
+            "FGA": 44,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 16,
+            "FTA": 23,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {
+        "1966-67": {
+            "PPG": 3.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 6,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "17",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 101188,
+    "full_name": "Eddie Basden",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 2.1,
+            "APG": 0.4,
+            "RBG": 1.5,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": 0.8,
+            "MPG": 7.4,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0.143,
+            "FT_PCT": 0.8,
+            "FGM": 15,
+            "FGA": 37,
+            "FG3M": 1,
+            "FG3A": 7,
+            "FTM": 8,
+            "FTA": 10,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "215",
+        "Position": "Guard",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

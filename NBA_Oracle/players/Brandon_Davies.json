@@ -1,0 +1,79 @@
+{
+    "player_id": 203561,
+    "full_name": "Brandon Davies",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2013-14": {
+            "PPG": 2.8,
+            "APG": 0.5,
+            "RBG": 2.1,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -0.6,
+            "MPG": 11.3,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.642,
+            "FGM": 54,
+            "FGA": 128,
+            "FG3M": 2,
+            "FG3A": 10,
+            "FTM": 34,
+            "FTA": 53,
+            "GP": 51
+        },
+        "2014-15": {
+            "PPG": 5.3,
+            "APG": 1.1,
+            "RBG": 3.1,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 1.1,
+            "PM": -6.0,
+            "MPG": 15.7,
+            "FG_PCT": 0.401,
+            "FG3_PCT": 0.235,
+            "FT_PCT": 0.649,
+            "FGM": 55,
+            "FGA": 137,
+            "FG3M": 8,
+            "FG3A": 34,
+            "FTM": 24,
+            "FTA": 37,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "240",
+        "Position": "Forward",
+        "Teams": [
+            "PHI",
+            "BKN",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

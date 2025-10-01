@@ -1,0 +1,78 @@
+{
+    "player_id": 77389,
+    "full_name": "Steve Lingenfelter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 1.1,
+            "APG": 0.6,
+            "RBG": 1.7,
+            "SPG": 0.1,
+            "BPG": 0.4,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 7.6,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 4,
+            "GP": 7
+        },
+        "1983-84": {
+            "PPG": 0.7,
+            "APG": 0.3,
+            "RBG": 1.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 4.7,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "WAS",
+            "SAN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "44",
+        "Active": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 78407,
+    "full_name": "Nick Vanos",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 4.9,
+            "APG": 1.5,
+            "RBG": 5.5,
+            "SPG": 0.2,
+            "BPG": 0.5,
+            "TPG": 1.8,
+            "PM": NaN,
+            "MPG": 18.4,
+            "FG_PCT": 0.319,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.348,
+            "FGM": 23,
+            "FGA": 72,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 23,
+            "GP": 11
+        },
+        "1986-87": {
+            "PPG": 2.9,
+            "APG": 0.8,
+            "RBG": 3.2,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 11.2,
+            "FG_PCT": 0.411,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.644,
+            "FGM": 65,
+            "FGA": 158,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 38,
+            "FTA": 59,
+            "GP": 57
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 85,
+        "Weight": "255",
+        "Position": "Center",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "32",
+        "Active": false
+    }
+}

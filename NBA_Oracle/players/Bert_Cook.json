@@ -1,0 +1,78 @@
+{
+    "player_id": 76434,
+    "full_name": "Bert Cook",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1954-55": {
+            "PPG": 3.2,
+            "APG": 0.9,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.5,
+            "FG_PCT": 0.316,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.68,
+            "FGM": 42,
+            "FGA": 133,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 34,
+            "FTA": 50,
+            "GP": 37
+        }
+    },
+    "playoff_stats": {
+        "1954-55": {
+            "PPG": 8.0,
+            "APG": 2.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 20.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 6,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

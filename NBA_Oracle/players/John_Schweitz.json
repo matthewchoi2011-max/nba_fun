@@ -1,0 +1,78 @@
+{
+    "player_id": 78093,
+    "full_name": "John Schweitz",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1984-85": {
+            "PPG": 3.0,
+            "APG": 0.9,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 5.8,
+            "FG_PCT": 0.338,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.7,
+            "FGM": 25,
+            "FGA": 74,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 7,
+            "FTA": 10,
+            "GP": 19
+        },
+        "1986-87": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 2.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "SEA",
+            "DET"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "138",
+        "Active": false
+    }
+}

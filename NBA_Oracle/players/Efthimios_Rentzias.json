@@ -1,0 +1,57 @@
+{
+    "player_id": 981,
+    "full_name": "Efthimios Rentzias",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 1.5,
+            "APG": 0.2,
+            "RBG": 0.7,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.1,
+            "PM": -0.5,
+            "MPG": 4.1,
+            "FG_PCT": 0.339,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.889,
+            "FGM": 20,
+            "FGA": 59,
+            "FG3M": 4,
+            "FG3A": 8,
+            "FTM": 8,
+            "FTA": 9,
+            "GP": 35
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "250",
+        "Position": "Center",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "23",
+        "Active": false
+    }
+}

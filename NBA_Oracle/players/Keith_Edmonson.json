@@ -1,0 +1,101 @@
+{
+    "player_id": 76638,
+    "full_name": "Keith Edmonson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 3.5,
+            "APG": 0.7,
+            "RBG": 1.2,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 9.7,
+            "FG_PCT": 0.345,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.593,
+            "FGM": 48,
+            "FGA": 139,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 16,
+            "FTA": 27,
+            "GP": 32
+        },
+        "1983-84": {
+            "PPG": 7.5,
+            "APG": 0.6,
+            "RBG": 1.6,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 11.3,
+            "FG_PCT": 0.492,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.746,
+            "FGM": 158,
+            "FGA": 321,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 94,
+            "FTA": 126,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {
+        "1982-83": {
+            "PPG": 2.0,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "SAN",
+            "DEN",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "10",
+        "Active": false
+    }
+}

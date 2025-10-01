@@ -1,0 +1,57 @@
+{
+    "player_id": 2428,
+    "full_name": "Vincent Yarbrough",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 6.9,
+            "APG": 2.2,
+            "RBG": 2.7,
+            "SPG": 1.0,
+            "BPG": 0.6,
+            "TPG": 1.4,
+            "PM": -3.1,
+            "MPG": 23.4,
+            "FG_PCT": 0.393,
+            "FG3_PCT": 0.269,
+            "FT_PCT": 0.79,
+            "FGM": 168,
+            "FGA": 428,
+            "FG3M": 21,
+            "FG3A": 78,
+            "FTM": 49,
+            "FTA": 62,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "32",
+        "Active": false
+    }
+}

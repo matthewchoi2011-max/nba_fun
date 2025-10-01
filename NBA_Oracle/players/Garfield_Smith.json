@@ -1,0 +1,98 @@
+{
+    "player_id": 78189,
+    "full_name": "Garfield Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 2.9,
+            "APG": 0.2,
+            "RBG": 2.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.6,
+            "FG_PCT": 0.362,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.393,
+            "FGM": 42,
+            "FGA": 116,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 56,
+            "GP": 37
+        },
+        "1971-72": {
+            "PPG": 2.4,
+            "APG": 0.3,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.2,
+            "FG_PCT": 0.424,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.194,
+            "FGM": 28,
+            "FGA": 66,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 31,
+            "GP": 26
+        }
+    },
+    "playoff_stats": {
+        "1971-72": {
+            "PPG": 0.5,
+            "APG": 0.0,
+            "RBG": 0.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.5,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 3,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "32",
+        "Active": false
+    }
+}

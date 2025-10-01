@@ -1,0 +1,59 @@
+{
+    "player_id": 1641798,
+    "full_name": "Jaylen Martin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.9,
+            "APG": 1.1,
+            "RBG": 2.8,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -8.2,
+            "MPG": 14.9,
+            "FG_PCT": 0.419,
+            "FG3_PCT": 0.304,
+            "FT_PCT": 0.9,
+            "FGM": 31,
+            "FGA": 74,
+            "FG3M": 7,
+            "FG3A": 23,
+            "FTM": 9,
+            "FTA": 10,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "216",
+        "Position": "Guard",
+        "Teams": [
+            "BKN",
+            "WAS",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

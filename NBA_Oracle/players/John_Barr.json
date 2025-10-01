@@ -1,0 +1,57 @@
+{
+    "player_id": 76111,
+    "full_name": "John Barr",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 5.1,
+            "APG": 0.9,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.283,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.595,
+            "FGM": 124,
+            "FGA": 438,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 47,
+            "FTA": 79,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "BOM"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

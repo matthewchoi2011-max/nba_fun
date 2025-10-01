@@ -1,0 +1,77 @@
+{
+    "player_id": 76025,
+    "full_name": "Randy Allen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 2.4,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 6.1,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 8,
+            "FGA": 19,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 7
+        },
+        "1989-90": {
+            "PPG": 3.7,
+            "APG": 0.4,
+            "RBG": 2.2,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 11.8,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.535,
+            "FGM": 106,
+            "FGA": 239,
+            "FG3M": 0,
+            "FG3A": 7,
+            "FTM": 23,
+            "FTA": 43,
+            "GP": 63
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

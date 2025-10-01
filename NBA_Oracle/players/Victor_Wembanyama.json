@@ -1,0 +1,87 @@
+{
+    "player_id": 1641705,
+    "full_name": "Victor Wembanyama",
+    "awards": {
+        "NBA All-Star": [
+            "2024-25"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [
+            "2023-24"
+        ],
+        "All-Defensive-Second": [],
+        "ROY": [
+            "2023-24"
+        ],
+        "All-Rookie-First": [
+            "2023-24"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [
+            "2024"
+        ],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 21.4,
+            "APG": 3.9,
+            "RBG": 10.6,
+            "SPG": 1.2,
+            "BPG": 3.6,
+            "TPG": 3.7,
+            "PM": -2.0,
+            "MPG": 29.7,
+            "FG_PCT": 0.465,
+            "FG3_PCT": 0.325,
+            "FT_PCT": 0.796,
+            "FGM": 551,
+            "FGA": 1186,
+            "FG3M": 128,
+            "FG3A": 394,
+            "FTM": 292,
+            "FTA": 367,
+            "GP": 71
+        },
+        "2024-25": {
+            "PPG": 24.3,
+            "APG": 3.7,
+            "RBG": 11.0,
+            "SPG": 1.1,
+            "BPG": 3.8,
+            "TPG": 3.2,
+            "PM": 2.2,
+            "MPG": 33.2,
+            "FG_PCT": 0.476,
+            "FG3_PCT": 0.352,
+            "FT_PCT": 0.836,
+            "FGM": 408,
+            "FGA": 857,
+            "FG3M": 142,
+            "FG3A": 403,
+            "FTM": 158,
+            "FTA": 189,
+            "GP": 46
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 87,
+        "Weight": "235",
+        "Position": "Forward-Center",
+        "Teams": [
+            "SAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "1",
+        "Active": true
+    }
+}

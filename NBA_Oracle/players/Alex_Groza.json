@@ -1,0 +1,123 @@
+{
+    "player_id": 76897,
+    "full_name": "Alex Groza",
+    "awards": {
+        "NBA All-Star": [
+            "1950-51"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [
+            "1949-50",
+            "1950-51"
+        ],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 23.4,
+            "APG": 2.5,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.478,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.729,
+            "FGM": 521,
+            "FGA": 1090,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 454,
+            "FTA": 623,
+            "GP": 64
+        },
+        "1950-51": {
+            "PPG": 21.7,
+            "APG": 2.4,
+            "RBG": 10.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.47,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.786,
+            "FGM": 492,
+            "FGA": 1046,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 445,
+            "FTA": 566,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 22.8,
+            "APG": 2.0,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.595,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.831,
+            "FGM": 44,
+            "FGA": 74,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 49,
+            "FTA": 59,
+            "GP": 6
+        },
+        "1950-51": {
+            "PPG": 32.3,
+            "APG": 0.7,
+            "RBG": 14.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.493,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.758,
+            "FGM": 36,
+            "FGA": 73,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 25,
+            "FTA": 33,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "218",
+        "Position": "Center",
+        "Teams": [
+            "INO"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "2",
+        "Active": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 203906,
+    "full_name": "Devyn Marble",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 2.3,
+            "APG": 1.1,
+            "RBG": 1.9,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -1.0,
+            "MPG": 13.0,
+            "FG_PCT": 0.318,
+            "FG3_PCT": 0.182,
+            "FT_PCT": 0.313,
+            "FGM": 14,
+            "FGA": 44,
+            "FG3M": 4,
+            "FG3A": 22,
+            "FTM": 5,
+            "FTA": 16,
+            "GP": 16
+        },
+        "2015-16": {
+            "PPG": 2.1,
+            "APG": 0.4,
+            "RBG": 1.4,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -0.5,
+            "MPG": 8.9,
+            "FG_PCT": 0.296,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.417,
+            "FGM": 21,
+            "FGA": 71,
+            "FG3M": 8,
+            "FG3A": 32,
+            "FTM": 10,
+            "FTA": 24,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "ORL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

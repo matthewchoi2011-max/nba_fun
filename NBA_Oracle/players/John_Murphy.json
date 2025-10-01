@@ -1,0 +1,59 @@
+{
+    "player_id": 77671,
+    "full_name": "John Murphy",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 1.6,
+            "APG": 0.0,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.275,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 11,
+            "FGA": 40,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 10,
+            "FTA": 15,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "175",
+        "Position": "Forward",
+        "Teams": [
+            "PHW",
+            "NYK",
+            "TOT"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "140",
+        "Active": false
+    }
+}

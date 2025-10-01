@@ -1,0 +1,80 @@
+{
+    "player_id": 78363,
+    "full_name": "William Towery",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 10.0,
+            "APG": 2.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.263,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.741,
+            "FGM": 203,
+            "FGA": 771,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 195,
+            "FTA": 263,
+            "GP": 60
+        },
+        "1949-50": {
+            "PPG": 8.8,
+            "APG": 2.1,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.327,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.757,
+            "FGM": 222,
+            "FGA": 678,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 153,
+            "FTA": 202,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "210",
+        "Position": "Center",
+        "Teams": [
+            "FTW",
+            "JET",
+            "TOT",
+            "BAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

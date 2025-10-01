@@ -1,0 +1,57 @@
+{
+    "player_id": 76569,
+    "full_name": "Mickey Dillard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 2.2,
+            "APG": 1.0,
+            "RBG": 0.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 6.7,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.652,
+            "FGM": 29,
+            "FGA": 79,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 15,
+            "FTA": 23,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "55",
+        "Active": false
+    }
+}

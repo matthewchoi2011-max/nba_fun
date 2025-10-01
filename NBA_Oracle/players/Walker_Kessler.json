@@ -1,0 +1,99 @@
+{
+    "player_id": 1631117,
+    "full_name": "Walker Kessler",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2022-23"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 9.2,
+            "APG": 0.9,
+            "RBG": 8.4,
+            "SPG": 0.4,
+            "BPG": 2.3,
+            "TPG": 0.8,
+            "PM": 1.0,
+            "MPG": 23.0,
+            "FG_PCT": 0.72,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.516,
+            "FGM": 298,
+            "FGA": 414,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 82,
+            "FTA": 159,
+            "GP": 74
+        },
+        "2023-24": {
+            "PPG": 8.1,
+            "APG": 0.9,
+            "RBG": 7.5,
+            "SPG": 0.5,
+            "BPG": 2.4,
+            "TPG": 1.0,
+            "PM": -2.3,
+            "MPG": 23.3,
+            "FG_PCT": 0.654,
+            "FG3_PCT": 0.211,
+            "FT_PCT": 0.602,
+            "FGM": 229,
+            "FGA": 350,
+            "FG3M": 4,
+            "FG3A": 19,
+            "FTM": 56,
+            "FTA": 93,
+            "GP": 64
+        },
+        "2024-25": {
+            "PPG": 11.1,
+            "APG": 1.7,
+            "RBG": 12.2,
+            "SPG": 0.6,
+            "BPG": 2.4,
+            "TPG": 1.5,
+            "PM": -5.7,
+            "MPG": 30.0,
+            "FG_PCT": 0.663,
+            "FG3_PCT": 0.176,
+            "FT_PCT": 0.52,
+            "FGM": 278,
+            "FGA": 419,
+            "FG3M": 6,
+            "FG3A": 34,
+            "FTM": 79,
+            "FTA": 152,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "245",
+        "Position": "Center",
+        "Teams": [
+            "UTA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "22",
+        "Active": true
+    }
+}

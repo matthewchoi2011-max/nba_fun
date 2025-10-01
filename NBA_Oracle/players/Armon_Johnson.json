@@ -1,0 +1,100 @@
+{
+    "player_id": 202356,
+    "full_name": "Armon Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 2.9,
+            "APG": 1.2,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -0.5,
+            "MPG": 7.3,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0.417,
+            "FT_PCT": 0.591,
+            "FGM": 46,
+            "FGA": 101,
+            "FG3M": 5,
+            "FG3A": 12,
+            "FTM": 13,
+            "FTA": 22,
+            "GP": 38
+        },
+        "2011-12": {
+            "PPG": 5.2,
+            "APG": 1.2,
+            "RBG": 1.4,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": -1.9,
+            "MPG": 13.8,
+            "FG_PCT": 0.465,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 1.0,
+            "FGM": 20,
+            "FGA": 43,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 6,
+            "FTA": 6,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {
+        "2010-11": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "POR",
+            "NJN",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 201633,
+    "full_name": "Rob Kurz",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2008-09": {
+            "PPG": 3.9,
+            "APG": 0.5,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.5,
+            "TPG": 0.4,
+            "PM": -2.9,
+            "MPG": 11.1,
+            "FG_PCT": 0.389,
+            "FG3_PCT": 0.395,
+            "FT_PCT": 0.8,
+            "FGM": 51,
+            "FGA": 131,
+            "FG3M": 15,
+            "FG3A": 38,
+            "FTM": 40,
+            "FTA": 50,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "232",
+        "Position": "Forward",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

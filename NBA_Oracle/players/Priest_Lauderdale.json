@@ -1,0 +1,99 @@
+{
+    "player_id": 968,
+    "full_name": "Priest Lauderdale",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 3.2,
+            "APG": 0.3,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.3,
+            "TPG": 1.1,
+            "PM": -0.4,
+            "MPG": 5.1,
+            "FG_PCT": 0.551,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.565,
+            "FGM": 49,
+            "FGA": 89,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 13,
+            "FTA": 23,
+            "GP": 35
+        },
+        "1997-98": {
+            "PPG": 3.7,
+            "APG": 0.5,
+            "RBG": 2.6,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 1.2,
+            "PM": -1.2,
+            "MPG": 8.8,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.551,
+            "FGM": 53,
+            "FGA": 127,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 38,
+            "FTA": 69,
+            "GP": 39
+        }
+    },
+    "playoff_stats": {
+        "1996-97": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -3.3,
+            "MPG": 2.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 88,
+        "Weight": "325",
+        "Position": "Center",
+        "Teams": [
+            "ATL",
+            "DEN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "28",
+        "Active": false
+    }
+}

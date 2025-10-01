@@ -1,0 +1,77 @@
+{
+    "player_id": 1641723,
+    "full_name": "Kobe Bufkin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 4.8,
+            "APG": 1.6,
+            "RBG": 1.9,
+            "SPG": 0.4,
+            "BPG": 0.3,
+            "TPG": 0.6,
+            "PM": -2.1,
+            "MPG": 11.5,
+            "FG_PCT": 0.37,
+            "FG3_PCT": 0.225,
+            "FT_PCT": 0.5,
+            "FGM": 34,
+            "FGA": 92,
+            "FG3M": 9,
+            "FG3A": 40,
+            "FTM": 4,
+            "FTA": 8,
+            "GP": 17
+        },
+        "2024-25": {
+            "PPG": 5.3,
+            "APG": 1.7,
+            "RBG": 2.1,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -2.3,
+            "MPG": 12.4,
+            "FG_PCT": 0.383,
+            "FG3_PCT": 0.211,
+            "FT_PCT": 0.722,
+            "FGM": 18,
+            "FGA": 47,
+            "FG3M": 4,
+            "FG3A": 19,
+            "FTM": 13,
+            "FTA": 18,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "15",
+        "Active": true
+    }
+}

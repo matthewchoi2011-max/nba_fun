@@ -1,0 +1,98 @@
+{
+    "player_id": 78020,
+    "full_name": "Dick Rosenthal",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1954-55": {
+            "PPG": 7.8,
+            "APG": 2.3,
+            "RBG": 4.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 21.0,
+            "FG_PCT": 0.377,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.718,
+            "FGM": 197,
+            "FGA": 523,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 130,
+            "FTA": 181,
+            "GP": 67
+        },
+        "1956-57": {
+            "PPG": 2.8,
+            "APG": 0.9,
+            "RBG": 2.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.4,
+            "FG_PCT": 0.266,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.529,
+            "FGM": 21,
+            "FGA": 79,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 17,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {
+        "1954-55": {
+            "PPG": 7.5,
+            "APG": 2.4,
+            "RBG": 4.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 19.0,
+            "FG_PCT": 0.321,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.718,
+            "FGM": 27,
+            "FGA": 84,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 28,
+            "FTA": 39,
+            "GP": 11
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "FTW"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "4",
+        "Active": false
+    }
+}

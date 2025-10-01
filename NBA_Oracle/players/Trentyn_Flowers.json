@@ -1,0 +1,57 @@
+{
+    "player_id": 1642280,
+    "full_name": "Trentyn Flowers",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 1.8,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -1.0,
+            "MPG": 4.5,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 11,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "185",
+        "Position": "Forward",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

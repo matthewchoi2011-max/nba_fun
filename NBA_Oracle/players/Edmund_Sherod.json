@@ -1,0 +1,98 @@
+{
+    "player_id": 78136,
+    "full_name": "Edmund Sherod",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 6.2,
+            "APG": 4.9,
+            "RBG": 2.3,
+            "SPG": 1.5,
+            "BPG": 0.2,
+            "TPG": 1.6,
+            "PM": NaN,
+            "MPG": 25.4,
+            "FG_PCT": 0.406,
+            "FG3_PCT": 0.077,
+            "FT_PCT": 0.65,
+            "FGM": 171,
+            "FGA": 421,
+            "FG3M": 1,
+            "FG3A": 13,
+            "FTM": 52,
+            "FTA": 80,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "1981-82": {
+            "PPG": 0.0,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0,
+            "FG3_PCT": NaN,
+            "FT_PCT": NaN,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        },
+        "1982-83": {
+            "PPG": 0.5,
+            "APG": 0.8,
+            "RBG": 0.2,
+            "SPG": 0.8,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 3.8,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "72",
+        "Active": false
+    }
+}

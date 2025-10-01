@@ -1,0 +1,57 @@
+{
+    "player_id": 78327,
+    "full_name": "George Thompson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 10.7,
+            "APG": 3.1,
+            "RBG": 2.5,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 27.2,
+            "FG_PCT": 0.443,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.785,
+            "FGM": 306,
+            "FGA": 691,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 168,
+            "FTA": 214,
+            "GP": 73
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "66",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 76028,
+    "full_name": "Bob Allen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 1.8,
+            "APG": 0.4,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.6,
+            "FG_PCT": 0.326,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.556,
+            "FGM": 14,
+            "FGA": 43,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 20,
+            "FTA": 36,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {
+        "1968-69": {
+            "PPG": 1.3,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 7,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "SFW"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "71",
+        "Active": false
+    }
+}

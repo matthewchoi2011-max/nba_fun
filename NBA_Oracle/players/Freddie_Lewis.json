@@ -1,0 +1,99 @@
+{
+    "player_id": 77380,
+    "full_name": "Freddie Lewis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1966-67": {
+            "PPG": 4.7,
+            "APG": 1.2,
+            "RBG": 1.4,
+            "SPG": NaN,
+            "BPG": NaN,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.4,
+            "FG_PCT": 0.392,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.707,
+            "FGM": 60,
+            "FGA": 153,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 29,
+            "FTA": 41,
+            "GP": 32
+        },
+        "1976-77": {
+            "PPG": 7.0,
+            "APG": 1.8,
+            "RBG": 1.5,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 17.2,
+            "FG_PCT": 0.407,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.805,
+            "FGM": 81,
+            "FGA": 199,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 62,
+            "FTA": 77,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {
+        "1966-67": {
+            "PPG": 2.7,
+            "APG": 0.0,
+            "RBG": 1.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 9,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "CIN",
+            "IND"
+        ],
+        "DraftRound": "10",
+        "DraftNumber": "88",
+        "Active": false
+    }
+}

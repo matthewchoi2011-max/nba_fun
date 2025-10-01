@@ -1,0 +1,98 @@
+{
+    "player_id": 1631218,
+    "full_name": "Trayce Jackson-Davis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 7.9,
+            "APG": 1.2,
+            "RBG": 5.0,
+            "SPG": 0.4,
+            "BPG": 1.1,
+            "TPG": 0.7,
+            "PM": 0.5,
+            "MPG": 16.6,
+            "FG_PCT": 0.702,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.561,
+            "FGM": 233,
+            "FGA": 332,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 74,
+            "FTA": 132,
+            "GP": 68
+        },
+        "2024-25": {
+            "PPG": 6.6,
+            "APG": 1.7,
+            "RBG": 5.0,
+            "SPG": 0.4,
+            "BPG": 0.6,
+            "TPG": 0.7,
+            "PM": -1.0,
+            "MPG": 15.6,
+            "FG_PCT": 0.576,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.578,
+            "FGM": 174,
+            "FGA": 302,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 59,
+            "FTA": 102,
+            "GP": 62
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 4.1,
+            "APG": 0.2,
+            "RBG": 2.3,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.1,
+            "PM": -2.4,
+            "MPG": 8.9,
+            "FG_PCT": 0.889,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.385,
+            "FGM": 16,
+            "FGA": 18,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 13,
+            "GP": 9
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "57",
+        "Active": true
+    }
+}

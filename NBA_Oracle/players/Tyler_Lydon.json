@@ -1,0 +1,77 @@
+{
+    "player_id": 1628399,
+    "full_name": "Tyler Lydon",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -6.0,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        },
+        "2018-19": {
+            "PPG": 0.9,
+            "APG": 0.2,
+            "RBG": 0.7,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -0.4,
+            "MPG": 3.8,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.333,
+            "FGM": 9,
+            "FGA": 18,
+            "FG3M": 4,
+            "FG3A": 10,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "24",
+        "Active": false
+    }
+}

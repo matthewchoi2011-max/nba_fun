@@ -1,0 +1,120 @@
+{
+    "player_id": 76865,
+    "full_name": "Bob Greacen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1970-71"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1969-70": {
+            "PPG": 2.6,
+            "APG": 0.7,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.404,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.643,
+            "FGM": 44,
+            "FGA": 109,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 18,
+            "FTA": 28,
+            "GP": 41
+        },
+        "1970-71": {
+            "PPG": 2.5,
+            "APG": 6.5,
+            "RBG": 3.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 21.5,
+            "FG_PCT": 0.083,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.429,
+            "FGM": 1,
+            "FGA": 12,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 7,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {
+        "1969-70": {
+            "PPG": 2.0,
+            "APG": 3.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 1,
+            "GP": 1
+        },
+        "1970-71": {
+            "PPG": 1.7,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.3,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 11,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 4,
+            "GP": 7
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "206",
+        "Position": "Forward",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "17",
+        "Active": false
+    }
+}

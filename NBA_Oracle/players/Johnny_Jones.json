@@ -1,0 +1,80 @@
+{
+    "player_id": 77187,
+    "full_name": "Johnny Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1967-68"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1967-68": {
+            "PPG": 4.2,
+            "APG": 0.5,
+            "RBG": 2.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.3,
+            "FG_PCT": 0.34,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.618,
+            "FGM": 86,
+            "FGA": 253,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 42,
+            "FTA": 68,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {
+        "1967-68": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 6,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

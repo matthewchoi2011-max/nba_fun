@@ -1,0 +1,57 @@
+{
+    "player_id": 77802,
+    "full_name": "Jack Parr",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1958-59": {
+            "PPG": 4.0,
+            "APG": 0.8,
+            "RBG": 4.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.7,
+            "FG_PCT": 0.355,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.603,
+            "FGM": 109,
+            "FGA": 307,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 44,
+            "FTA": 73,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "220",
+        "Position": "Center",
+        "Teams": [
+            "CIN"
+        ],
+        "DraftRound": "10",
+        "DraftNumber": "70",
+        "Active": false
+    }
+}

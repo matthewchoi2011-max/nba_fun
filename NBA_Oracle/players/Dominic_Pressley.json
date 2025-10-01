@@ -1,0 +1,59 @@
+{
+    "player_id": 77880,
+    "full_name": "Dominic Pressley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 1.8,
+            "APG": 2.0,
+            "RBG": 1.2,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 9.5,
+            "FG_PCT": 0.29,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.556,
+            "FGM": 9,
+            "FGA": 31,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 5,
+            "FTA": 9,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "WAS",
+            "CHI",
+            "TOT"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "99",
+        "Active": false
+    }
+}

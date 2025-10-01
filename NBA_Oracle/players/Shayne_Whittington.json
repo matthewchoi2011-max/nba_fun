@@ -1,0 +1,77 @@
+{
+    "player_id": 203963,
+    "full_name": "Shayne Whittington",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 2.9,
+            "APG": 0.3,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": 0.7,
+            "MPG": 5.4,
+            "FG_PCT": 0.452,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.783,
+            "FGM": 19,
+            "FGA": 42,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 18,
+            "FTA": 23,
+            "GP": 20
+        },
+        "2015-16": {
+            "PPG": 1.6,
+            "APG": 0.4,
+            "RBG": 1.7,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -0.9,
+            "MPG": 5.9,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 5,
+            "FGA": 11,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "250",
+        "Position": "Forward-Center",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

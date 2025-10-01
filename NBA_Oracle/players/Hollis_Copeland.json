@@ -1,0 +1,77 @@
+{
+    "player_id": 76447,
+    "full_name": "Hollis Copeland",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 5.7,
+            "APG": 1.1,
+            "RBG": 2.1,
+            "SPG": 0.8,
+            "BPG": 0.3,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 15.2,
+            "FG_PCT": 0.495,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.733,
+            "FGM": 182,
+            "FGA": 368,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 63,
+            "FTA": 86,
+            "GP": 75
+        },
+        "1981-82": {
+            "PPG": 2.1,
+            "APG": 0.5,
+            "RBG": 0.3,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 6.6,
+            "FG_PCT": 0.421,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.833,
+            "FGM": 16,
+            "FGA": 38,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "180",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

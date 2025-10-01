@@ -1,0 +1,59 @@
+{
+    "player_id": 77779,
+    "full_name": "Mac Otten",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 2.4,
+            "APG": 0.6,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.329,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.494,
+            "FGM": 51,
+            "FGA": 155,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 40,
+            "FTA": 81,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "TCB",
+            "BOM",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

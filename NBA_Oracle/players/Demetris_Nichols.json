@@ -1,0 +1,80 @@
+{
+    "player_id": 201193,
+    "full_name": "Demetris Nichols",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2007-08": {
+            "PPG": 1.1,
+            "APG": 0.1,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": -1.4,
+            "MPG": 3.1,
+            "FG_PCT": 0.261,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0,
+            "FGM": 6,
+            "FGA": 23,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 14
+        },
+        "2008-09": {
+            "PPG": 1.8,
+            "APG": 0.2,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": 2.8,
+            "MPG": 3.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "216",
+        "Position": "Forward",
+        "Teams": [
+            "CLE",
+            "CHI",
+            "TOT",
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "53",
+        "Active": false
+    }
+}

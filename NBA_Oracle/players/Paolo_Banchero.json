@@ -1,0 +1,144 @@
+{
+    "player_id": 1631094,
+    "full_name": "Paolo Banchero",
+    "awards": {
+        "NBA All-Star": [
+            "2023-24"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [
+            "2022-23"
+        ],
+        "All-Rookie-First": [
+            "2022-23"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 20.0,
+            "APG": 3.7,
+            "RBG": 6.9,
+            "SPG": 0.8,
+            "BPG": 0.5,
+            "TPG": 2.8,
+            "PM": -3.0,
+            "MPG": 33.8,
+            "FG_PCT": 0.427,
+            "FG3_PCT": 0.298,
+            "FT_PCT": 0.738,
+            "FGM": 479,
+            "FGA": 1122,
+            "FG3M": 85,
+            "FG3A": 285,
+            "FTM": 394,
+            "FTA": 534,
+            "GP": 72
+        },
+        "2023-24": {
+            "PPG": 22.6,
+            "APG": 5.4,
+            "RBG": 6.9,
+            "SPG": 0.9,
+            "BPG": 0.6,
+            "TPG": 3.1,
+            "PM": -0.0,
+            "MPG": 35.0,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0.339,
+            "FT_PCT": 0.725,
+            "FGM": 640,
+            "FGA": 1407,
+            "FG3M": 119,
+            "FG3A": 351,
+            "FTM": 405,
+            "FTA": 559,
+            "GP": 80
+        },
+        "2024-25": {
+            "PPG": 25.9,
+            "APG": 4.8,
+            "RBG": 7.5,
+            "SPG": 0.8,
+            "BPG": 0.6,
+            "TPG": 3.0,
+            "PM": -0.5,
+            "MPG": 34.4,
+            "FG_PCT": 0.452,
+            "FG3_PCT": 0.32,
+            "FT_PCT": 0.727,
+            "FGM": 412,
+            "FGA": 911,
+            "FG3M": 87,
+            "FG3A": 272,
+            "FTM": 280,
+            "FTA": 385,
+            "GP": 46
+        }
+    },
+    "playoff_stats": {
+        "2023-24": {
+            "PPG": 27.0,
+            "APG": 4.0,
+            "RBG": 8.6,
+            "SPG": 1.1,
+            "BPG": 0.6,
+            "TPG": 4.6,
+            "PM": 2.9,
+            "MPG": 37.4,
+            "FG_PCT": 0.456,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.755,
+            "FGM": 68,
+            "FGA": 149,
+            "FG3M": 16,
+            "FG3A": 40,
+            "FTM": 37,
+            "FTA": 49,
+            "GP": 7
+        },
+        "2024-25": {
+            "PPG": 29.4,
+            "APG": 4.2,
+            "RBG": 8.4,
+            "SPG": 0.6,
+            "BPG": 0.8,
+            "TPG": 3.0,
+            "PM": -7.2,
+            "MPG": 39.4,
+            "FG_PCT": 0.435,
+            "FG3_PCT": 0.444,
+            "FT_PCT": 0.659,
+            "FGM": 54,
+            "FGA": 124,
+            "FG3M": 12,
+            "FG3A": 27,
+            "FTM": 27,
+            "FTA": 41,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "250",
+        "Position": "Forward",
+        "Teams": [
+            "ORL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "1",
+        "Active": true
+    }
+}

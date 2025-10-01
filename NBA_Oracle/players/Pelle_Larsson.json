@@ -1,0 +1,78 @@
+{
+    "player_id": 1641796,
+    "full_name": "Pelle Larsson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.6,
+            "APG": 1.2,
+            "RBG": 1.7,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": 0.2,
+            "MPG": 14.2,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 0.337,
+            "FT_PCT": 0.672,
+            "FGM": 89,
+            "FGA": 203,
+            "FG3M": 32,
+            "FG3A": 95,
+            "FTM": 41,
+            "FTA": 61,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 5.0,
+            "APG": 1.0,
+            "RBG": 2.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -12.2,
+            "MPG": 13.0,
+            "FG_PCT": 0.533,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.333,
+            "FGM": 8,
+            "FGA": 15,
+            "FG3M": 3,
+            "FG3A": 8,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "215",
+        "Position": "Guard",
+        "Teams": [
+            "MIA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "44",
+        "Active": true
+    }
+}

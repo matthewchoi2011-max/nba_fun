@@ -1,0 +1,57 @@
+{
+    "player_id": 76885,
+    "full_name": "John Greig",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 2.1,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 2.9,
+            "FG_PCT": 0.538,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.833,
+            "FGM": 7,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "SEA"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "65",
+        "Active": false
+    }
+}

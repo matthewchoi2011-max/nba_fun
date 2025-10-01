@@ -1,0 +1,101 @@
+{
+    "player_id": 78429,
+    "full_name": "Milt Wagner",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1987-88"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 3.8,
+            "APG": 1.5,
+            "RBG": 0.7,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 9.5,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.897,
+            "FGM": 62,
+            "FGA": 147,
+            "FG3M": 2,
+            "FG3A": 10,
+            "FTM": 26,
+            "FTA": 29,
+            "GP": 40
+        },
+        "1990-91": {
+            "PPG": 4.8,
+            "APG": 1.2,
+            "RBG": 0.5,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 8.9,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0.353,
+            "FT_PCT": 0.818,
+            "FGM": 24,
+            "FGA": 57,
+            "FG3M": 6,
+            "FG3A": 17,
+            "FTM": 9,
+            "FTA": 11,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {
+        "1987-88": {
+            "PPG": 1.2,
+            "APG": 0.6,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.8,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 2,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "MIA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": false
+    }
+}

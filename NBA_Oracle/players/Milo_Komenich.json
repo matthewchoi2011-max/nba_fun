@@ -1,0 +1,78 @@
+{
+    "player_id": 77296,
+    "full_name": "Milo Komenich",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 9.9,
+            "APG": 1.9,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.283,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.584,
+            "FGM": 244,
+            "FGA": 861,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 146,
+            "FTA": 250,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 8.5,
+            "APG": 1.8,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.243,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 26,
+            "FGA": 107,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 16,
+            "FTA": 28,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "212",
+        "Position": "Center",
+        "Teams": [
+            "AND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "player_id": 2261,
+    "full_name": "Kenny Satterfield",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2001-02": {
+            "PPG": 5.2,
+            "APG": 3.0,
+            "RBG": 1.4,
+            "SPG": 0.9,
+            "BPG": 0.0,
+            "TPG": 1.5,
+            "PM": -1.6,
+            "MPG": 15.6,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0.259,
+            "FT_PCT": 0.783,
+            "FGM": 73,
+            "FGA": 199,
+            "FG3M": 7,
+            "FG3A": 27,
+            "FTM": 36,
+            "FTA": 46,
+            "GP": 36
+        },
+        "2002-03": {
+            "PPG": 3.4,
+            "APG": 1.7,
+            "RBG": 1.1,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": -2.3,
+            "MPG": 12.9,
+            "FG_PCT": 0.301,
+            "FG3_PCT": 0.179,
+            "FT_PCT": 0.68,
+            "FGM": 55,
+            "FGA": 183,
+            "FG3M": 5,
+            "FG3A": 28,
+            "FTM": 17,
+            "FTA": 25,
+            "GP": 39
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "DEN",
+            "PHI",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "53",
+        "Active": false
+    }
+}

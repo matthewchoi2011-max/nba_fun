@@ -1,0 +1,57 @@
+{
+    "player_id": 77399,
+    "full_name": "Darrell Lockhart",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1983-84": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 77742,
+    "full_name": "John O'Boyle",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1952-53": {
+            "PPG": 4.2,
+            "APG": 1.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 19.4,
+            "FG_PCT": 0.308,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 8,
+            "FGA": 26,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "MIH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

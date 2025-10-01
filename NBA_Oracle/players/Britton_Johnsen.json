@@ -1,0 +1,78 @@
+{
+    "player_id": 2639,
+    "full_name": "Britton Johnsen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 2.1,
+            "APG": 0.6,
+            "RBG": 2.2,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -4.6,
+            "MPG": 14.4,
+            "FG_PCT": 0.288,
+            "FG3_PCT": 0.083,
+            "FT_PCT": 0.438,
+            "FGM": 17,
+            "FGA": 59,
+            "FG3M": 1,
+            "FG3A": 12,
+            "FTM": 7,
+            "FTA": 16,
+            "GP": 20
+        },
+        "2004-05": {
+            "PPG": 2.0,
+            "APG": 0.7,
+            "RBG": 1.7,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -5.2,
+            "MPG": 14.5,
+            "FG_PCT": 0.273,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 6,
+            "FGA": 22,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "ORL",
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

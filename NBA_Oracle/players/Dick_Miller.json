@@ -1,0 +1,59 @@
+{
+    "player_id": 77602,
+    "full_name": "Dick Miller",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 1.0,
+            "APG": 0.6,
+            "RBG": 0.9,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 6.6,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 4,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "IND",
+            "UTH",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "40",
+        "Active": false
+    }
+}

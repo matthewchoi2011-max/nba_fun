@@ -1,0 +1,80 @@
+{
+    "player_id": 202082,
+    "full_name": "Larry Owens",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 3.3,
+            "APG": 0.7,
+            "RBG": 1.2,
+            "SPG": 0.8,
+            "BPG": 0.4,
+            "TPG": 0.4,
+            "PM": 1.1,
+            "MPG": 11.9,
+            "FG_PCT": 0.469,
+            "FG3_PCT": 0.462,
+            "FT_PCT": 0.444,
+            "FGM": 15,
+            "FGA": 32,
+            "FG3M": 6,
+            "FG3A": 13,
+            "FTM": 4,
+            "FTA": 9,
+            "GP": 12
+        },
+        "2011-12": {
+            "PPG": 1.9,
+            "APG": 0.6,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -5.3,
+            "MPG": 10.7,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.75,
+            "FGM": 4,
+            "FGA": 11,
+            "FG3M": 2,
+            "FG3A": 5,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward-Guard",
+        "Teams": [
+            "SAS",
+            "WAS",
+            "TOT",
+            "NJN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

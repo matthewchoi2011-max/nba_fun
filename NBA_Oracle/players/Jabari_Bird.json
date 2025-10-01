@@ -1,0 +1,57 @@
+{
+    "player_id": 1628444,
+    "full_name": "Jabari Bird",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 3.0,
+            "APG": 0.6,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": 1.4,
+            "MPG": 8.8,
+            "FG_PCT": 0.577,
+            "FG3_PCT": 0.429,
+            "FT_PCT": 0.462,
+            "FGM": 15,
+            "FGA": 26,
+            "FG3M": 3,
+            "FG3A": 7,
+            "FTM": 6,
+            "FTA": 13,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "198",
+        "Position": "Guard",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 1631131,
+    "full_name": "Oscar Tshiebwe",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.2,
+            "APG": 0.2,
+            "RBG": 2.0,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": 1.8,
+            "MPG": 5.2,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 10,
+            "FGA": 20,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 8,
+            "GP": 8
+        },
+        "2024-25": {
+            "PPG": 7.6,
+            "APG": 0.6,
+            "RBG": 8.7,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -0.8,
+            "MPG": 18.2,
+            "FG_PCT": 0.6,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.742,
+            "FGM": 42,
+            "FGA": 70,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 23,
+            "FTA": 31,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "255",
+        "Position": "Forward-Center",
+        "Teams": [
+            "IND",
+            "UTA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

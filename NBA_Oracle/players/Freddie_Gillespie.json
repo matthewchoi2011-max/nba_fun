@@ -1,0 +1,78 @@
+{
+    "player_id": 1630273,
+    "full_name": "Freddie Gillespie",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 5.5,
+            "APG": 0.5,
+            "RBG": 4.8,
+            "SPG": 0.7,
+            "BPG": 1.0,
+            "TPG": 0.6,
+            "PM": -3.9,
+            "MPG": 19.6,
+            "FG_PCT": 0.524,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.697,
+            "FGM": 44,
+            "FGA": 84,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 23,
+            "FTA": 33,
+            "GP": 20
+        },
+        "2021-22": {
+            "PPG": 2.3,
+            "APG": 0.6,
+            "RBG": 4.0,
+            "SPG": 0.3,
+            "BPG": 1.0,
+            "TPG": 0.6,
+            "PM": -3.2,
+            "MPG": 13.2,
+            "FG_PCT": 0.409,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.429,
+            "FGM": 9,
+            "FGA": 22,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 3,
+            "FTA": 7,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "245",
+        "Position": "Center",
+        "Teams": [
+            "TOR",
+            "ORL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

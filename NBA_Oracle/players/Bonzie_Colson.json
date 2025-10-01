@@ -1,0 +1,57 @@
+{
+    "player_id": 1629045,
+    "full_name": "Bonzie Colson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 4.9,
+            "APG": 0.4,
+            "RBG": 3.8,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -2.8,
+            "MPG": 12.2,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.238,
+            "FT_PCT": 0.889,
+            "FGM": 13,
+            "FGA": 39,
+            "FG3M": 5,
+            "FG3A": 21,
+            "FTM": 8,
+            "FTA": 9,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

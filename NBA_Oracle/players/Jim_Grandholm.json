@@ -1,0 +1,57 @@
+{
+    "player_id": 76844,
+    "full_name": "Jim Grandholm",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1990-91": {
+            "PPG": 3.0,
+            "APG": 0.3,
+            "RBG": 1.9,
+            "SPG": 0.1,
+            "BPG": 0.3,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 6.5,
+            "FG_PCT": 0.517,
+            "FG3_PCT": 0.529,
+            "FT_PCT": 0.476,
+            "FGM": 30,
+            "FGA": 58,
+            "FG3M": 9,
+            "FG3A": 17,
+            "FTM": 10,
+            "FTA": 21,
+            "GP": 26
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "76",
+        "Active": false
+    }
+}

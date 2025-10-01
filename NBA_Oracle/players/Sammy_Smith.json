@@ -1,0 +1,78 @@
+{
+    "player_id": 78205,
+    "full_name": "Sammy Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 3.5,
+            "APG": 1.0,
+            "RBG": 0.6,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 7.8,
+            "FG_PCT": 0.404,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.75,
+            "FGM": 19,
+            "FGA": 47,
+            "FG3M": NaN,
+            "FG3A": NaN,
+            "FTM": 18,
+            "FTA": 24,
+            "GP": 16
+        },
+        "1979-80": {
+            "PPG": 8.6,
+            "APG": 1.4,
+            "RBG": 1.8,
+            "SPG": 0.8,
+            "BPG": 0.2,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 16.5,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0.229,
+            "FT_PCT": 0.905,
+            "FGM": 97,
+            "FGA": 230,
+            "FG3M": 8.0,
+            "FG3A": 35.0,
+            "FTM": 57,
+            "FTA": 63,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "MIL",
+            "CHI"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

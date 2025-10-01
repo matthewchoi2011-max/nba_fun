@@ -1,0 +1,79 @@
+{
+    "player_id": 203475,
+    "full_name": "Erick Green",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 3.4,
+            "APG": 0.9,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -1.9,
+            "MPG": 9.5,
+            "FG_PCT": 0.377,
+            "FG3_PCT": 0.298,
+            "FT_PCT": 0.833,
+            "FGM": 61,
+            "FGA": 162,
+            "FG3M": 14,
+            "FG3A": 47,
+            "FTM": 10,
+            "FTA": 12,
+            "GP": 43
+        },
+        "2015-16": {
+            "PPG": 1.4,
+            "APG": 0.3,
+            "RBG": 0.7,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -0.1,
+            "MPG": 4.7,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 1.0,
+            "FGM": 5,
+            "FGA": 13,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "DEN",
+            "UTA",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

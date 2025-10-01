@@ -1,0 +1,98 @@
+{
+    "player_id": 78018,
+    "full_name": "Lennie Rosenbluth",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1957-58": {
+            "PPG": 4.4,
+            "APG": 0.4,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.343,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.631,
+            "FGM": 91,
+            "FGA": 265,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 53,
+            "FTA": 84,
+            "GP": 53
+        },
+        "1958-59": {
+            "PPG": 3.7,
+            "APG": 0.2,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.297,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.724,
+            "FGM": 43,
+            "FGA": 145,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 21,
+            "FTA": 29,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {
+        "1957-58": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.8,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 3,
+            "FGA": 9,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "PHW"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "6",
+        "Active": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 1626273,
+    "full_name": "Marcelo Huertas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2015-16": {
+            "PPG": 4.5,
+            "APG": 3.4,
+            "RBG": 1.7,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.5,
+            "PM": 0.3,
+            "MPG": 16.4,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0.262,
+            "FT_PCT": 0.931,
+            "FGM": 97,
+            "FGA": 230,
+            "FG3M": 16,
+            "FG3A": 61,
+            "FTM": 27,
+            "FTA": 29,
+            "GP": 53
+        },
+        "2016-17": {
+            "PPG": 2.7,
+            "APG": 2.3,
+            "RBG": 1.0,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -1.9,
+            "MPG": 10.3,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0.211,
+            "FT_PCT": 0.529,
+            "FGM": 25,
+            "FGA": 68,
+            "FG3M": 4,
+            "FG3A": 19,
+            "FTM": 9,
+            "FTA": 17,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

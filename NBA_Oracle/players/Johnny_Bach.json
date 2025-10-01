@@ -1,0 +1,57 @@
+{
+    "player_id": 76080,
+    "full_name": "Johnny Bach",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 3.5,
+            "APG": 0.7,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.68,
+            "FGM": 34,
+            "FGA": 119,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 51,
+            "FTA": 75,
+            "GP": 34
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

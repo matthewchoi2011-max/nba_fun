@@ -1,0 +1,57 @@
+{
+    "player_id": 1630620,
+    "full_name": "Darius Days",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 3.8,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": 0.2,
+            "MPG": 6.2,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0.3,
+            "FT_PCT": 1.0,
+            "FGM": 5,
+            "FGA": 12,
+            "FG3M": 3,
+            "FG3A": 10,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

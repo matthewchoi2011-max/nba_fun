@@ -1,0 +1,57 @@
+{
+    "player_id": 76112,
+    "full_name": "Mike Barr",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 3.9,
+            "APG": 2.4,
+            "RBG": 1.8,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 16.8,
+            "FG_PCT": 0.437,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.719,
+            "FGM": 122,
+            "FGA": 279,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 41,
+            "FTA": 57,
+            "GP": 73
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "KCK"
+        ],
+        "DraftRound": "13",
+        "DraftNumber": "180",
+        "Active": false
+    }
+}

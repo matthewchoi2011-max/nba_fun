@@ -1,0 +1,99 @@
+{
+    "player_id": 76018,
+    "full_name": "Henry Akin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1966-67": {
+            "PPG": 3.8,
+            "APG": 0.5,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.1,
+            "FG_PCT": 0.361,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.703,
+            "FGM": 83,
+            "FGA": 230,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 26,
+            "FTA": 37,
+            "GP": 50
+        },
+        "1967-68": {
+            "PPG": 3.1,
+            "APG": 0.4,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.2,
+            "FG_PCT": 0.336,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.645,
+            "FGM": 46,
+            "FGA": 137,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 20,
+            "FTA": 31,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {
+        "1966-67": {
+            "PPG": 1.5,
+            "APG": 0.0,
+            "RBG": 4.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Center",
+        "Teams": [
+            "NYK",
+            "SEA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "11",
+        "Active": false
+    }
+}

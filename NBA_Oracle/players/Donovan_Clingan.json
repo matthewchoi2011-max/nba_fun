@@ -1,0 +1,59 @@
+{
+    "player_id": 1642270,
+    "full_name": "Donovan Clingan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2024-25"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 6.5,
+            "APG": 1.1,
+            "RBG": 7.9,
+            "SPG": 0.5,
+            "BPG": 1.6,
+            "TPG": 1.1,
+            "PM": -0.0,
+            "MPG": 19.8,
+            "FG_PCT": 0.539,
+            "FG3_PCT": 0.286,
+            "FT_PCT": 0.596,
+            "FGM": 180,
+            "FGA": 334,
+            "FG3M": 14,
+            "FG3A": 49,
+            "FTM": 62,
+            "FTA": 104,
+            "GP": 67
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 86,
+        "Weight": "280",
+        "Position": "Center",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "7",
+        "Active": true
+    }
+}

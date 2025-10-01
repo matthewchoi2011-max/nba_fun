@@ -1,0 +1,78 @@
+{
+    "player_id": 78616,
+    "full_name": "Mark Workman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1952-53": {
+            "PPG": 5.1,
+            "APG": 0.6,
+            "RBG": 3.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.8,
+            "FG_PCT": 0.319,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.619,
+            "FGM": 130,
+            "FGA": 408,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 70,
+            "FTA": 113,
+            "GP": 65
+        },
+        "1953-54": {
+            "PPG": 4.0,
+            "APG": 0.5,
+            "RBG": 2.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.8,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 25,
+            "FGA": 60,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 10,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "215",
+        "Position": "Center",
+        "Teams": [
+            "PHW",
+            "BAL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "1",
+        "Active": false
+    }
+}

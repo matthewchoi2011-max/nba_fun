@@ -1,0 +1,99 @@
+{
+    "player_id": 1629121,
+    "full_name": "Jaylen Adams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 3.2,
+            "APG": 1.9,
+            "RBG": 1.8,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -1.7,
+            "MPG": 12.6,
+            "FG_PCT": 0.345,
+            "FG3_PCT": 0.338,
+            "FT_PCT": 0.778,
+            "FGM": 38,
+            "FGA": 110,
+            "FG3M": 25,
+            "FG3A": 74,
+            "FTM": 7,
+            "FTA": 9,
+            "GP": 34
+        },
+        "2020-21": {
+            "PPG": 0.3,
+            "APG": 0.3,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -1.7,
+            "MPG": 2.6,
+            "FG_PCT": 0.125,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 8,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {
+        "2019-20": {
+            "PPG": 2.0,
+            "APG": 0.7,
+            "RBG": 1.0,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 7.3,
+            "MPG": 7.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "225",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "MIL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

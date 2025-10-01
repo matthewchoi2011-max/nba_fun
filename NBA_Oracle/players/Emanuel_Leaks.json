@@ -1,0 +1,99 @@
+{
+    "player_id": 77351,
+    "full_name": "Emanuel Leaks",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1972-73": {
+            "PPG": 11.0,
+            "APG": 1.2,
+            "RBG": 8.3,
+            "SPG": NaN,
+            "BPG": NaN,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 30.9,
+            "FG_PCT": 0.404,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.72,
+            "FGM": 377,
+            "FGA": 933,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 144,
+            "FTA": 200,
+            "GP": 82
+        },
+        "1973-74": {
+            "PPG": 4.1,
+            "APG": 0.5,
+            "RBG": 4.6,
+            "SPG": 0.2,
+            "BPG": 0.7,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.9,
+            "FG_PCT": 0.341,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.699,
+            "FGM": 79,
+            "FGA": 232,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 58,
+            "FTA": 83,
+            "GP": 53
+        }
+    },
+    "playoff_stats": {
+        "1973-74": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "225",
+        "Position": "Center",
+        "Teams": [
+            "PHL",
+            "CAP"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "20",
+        "Active": false
+    }
+}

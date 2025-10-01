@@ -1,0 +1,78 @@
+{
+    "player_id": 76282,
+    "full_name": "Raymond Brown",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 1.0,
+            "APG": 0.2,
+            "RBG": 0.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 3.5,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 8,
+            "FGA": 28,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {
+        "1989-90": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "UTH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

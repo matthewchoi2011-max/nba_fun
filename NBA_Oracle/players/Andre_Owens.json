@@ -1,0 +1,78 @@
+{
+    "player_id": 101261,
+    "full_name": "Andre Owens",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 3.0,
+            "APG": 0.3,
+            "RBG": 0.9,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": -1.4,
+            "MPG": 9.1,
+            "FG_PCT": 0.365,
+            "FG3_PCT": 0.188,
+            "FT_PCT": 0.667,
+            "FGM": 27,
+            "FGA": 74,
+            "FG3M": 3,
+            "FG3A": 16,
+            "FTM": 12,
+            "FTA": 18,
+            "GP": 23
+        },
+        "2007-08": {
+            "PPG": 4.0,
+            "APG": 1.5,
+            "RBG": 1.5,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -0.5,
+            "MPG": 12.6,
+            "FG_PCT": 0.374,
+            "FG3_PCT": 0.45,
+            "FT_PCT": 0.735,
+            "FGM": 40,
+            "FGA": 107,
+            "FG3M": 18,
+            "FG3A": 40,
+            "FTM": 25,
+            "FTA": 34,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "UTA",
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 1641730,
+    "full_name": "Noah Clowney",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 5.8,
+            "APG": 0.8,
+            "RBG": 3.5,
+            "SPG": 0.3,
+            "BPG": 0.7,
+            "TPG": 0.7,
+            "PM": -2.3,
+            "MPG": 16.1,
+            "FG_PCT": 0.538,
+            "FG3_PCT": 0.364,
+            "FT_PCT": 0.7,
+            "FGM": 50,
+            "FGA": 93,
+            "FG3M": 12,
+            "FG3A": 33,
+            "FTM": 21,
+            "FTA": 30,
+            "GP": 23
+        },
+        "2024-25": {
+            "PPG": 9.1,
+            "APG": 0.9,
+            "RBG": 3.9,
+            "SPG": 0.5,
+            "BPG": 0.5,
+            "TPG": 1.0,
+            "PM": -5.7,
+            "MPG": 22.7,
+            "FG_PCT": 0.358,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.838,
+            "FGM": 133,
+            "FGA": 372,
+            "FG3M": 87,
+            "FG3A": 261,
+            "FTM": 67,
+            "FTA": 80,
+            "GP": 46
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "210",
+        "Position": "Forward-Center",
+        "Teams": [
+            "BKN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "21",
+        "Active": true
+    }
+}

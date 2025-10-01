@@ -1,0 +1,80 @@
+{
+    "player_id": 201159,
+    "full_name": "Javaris Crittenton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2007-08": {
+            "PPG": 5.6,
+            "APG": 1.0,
+            "RBG": 2.2,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 1.1,
+            "PM": -0.8,
+            "MPG": 13.6,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0.27,
+            "FT_PCT": 0.692,
+            "FGM": 98,
+            "FGA": 233,
+            "FG3M": 10,
+            "FG3A": 37,
+            "FTM": 72,
+            "FTA": 104,
+            "GP": 50
+        },
+        "2008-09": {
+            "PPG": 5.0,
+            "APG": 2.4,
+            "RBG": 2.6,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.3,
+            "PM": -3.4,
+            "MPG": 18.6,
+            "FG_PCT": 0.46,
+            "FG3_PCT": 0.133,
+            "FT_PCT": 0.576,
+            "FGM": 131,
+            "FGA": 285,
+            "FG3M": 2,
+            "FG3A": 15,
+            "FTM": 53,
+            "FTA": 92,
+            "GP": 63
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "MEM",
+            "TOT",
+            "WAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "19",
+        "Active": false
+    }
+}

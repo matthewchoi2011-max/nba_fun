@@ -1,0 +1,101 @@
+{
+    "player_id": 78494,
+    "full_name": "Ray Wertis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 3.5,
+            "APG": 0.6,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.216,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.615,
+            "FGM": 79,
+            "FGA": 366,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 56,
+            "FTA": 91,
+            "GP": 61
+        },
+        "1947-48": {
+            "PPG": 4.6,
+            "APG": 0.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.181,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.429,
+            "FGM": 13,
+            "FGA": 72,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 14,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 5.3,
+            "APG": 2.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.231,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.8,
+            "FGM": 6,
+            "FGA": 26,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 5,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 71,
+        "Weight": "",
+        "Position": "Guard",
+        "Teams": [
+            "CLR",
+            "HUS",
+            "TOT",
+            "PRO"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

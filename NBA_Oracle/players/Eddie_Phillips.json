@@ -1,0 +1,78 @@
+{
+    "player_id": 77854,
+    "full_name": "Eddie Phillips",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 3.2,
+            "APG": 0.6,
+            "RBG": 1.6,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 8.7,
+            "FG_PCT": 0.406,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.678,
+            "FGM": 56,
+            "FGA": 138,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 40,
+            "FTA": 59,
+            "GP": 48
+        }
+    },
+    "playoff_stats": {
+        "1982-83": {
+            "PPG": 3.5,
+            "APG": 1.5,
+            "RBG": 2.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 3,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "NJN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "21",
+        "Active": false
+    }
+}

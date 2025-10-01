@@ -1,0 +1,99 @@
+{
+    "player_id": 691,
+    "full_name": "Lou Roe",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1995-96": {
+            "PPG": 1.8,
+            "APG": 0.3,
+            "RBG": 1.6,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 7.6,
+            "FG_PCT": 0.356,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.75,
+            "FGM": 32,
+            "FGA": 90,
+            "FG3M": 2,
+            "FG3A": 9,
+            "FTM": 24,
+            "FTA": 32,
+            "GP": 49
+        },
+        "1996-97": {
+            "PPG": 2.4,
+            "APG": 0.4,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -2.0,
+            "MPG": 6.3,
+            "FG_PCT": 0.292,
+            "FG3_PCT": 0.273,
+            "FT_PCT": 0.474,
+            "FGM": 14,
+            "FGA": 48,
+            "FG3M": 3,
+            "FG3A": 11,
+            "FTM": 9,
+            "FTA": 19,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {
+        "1995-96": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "DET",
+            "GSW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "30",
+        "Active": false
+    }
+}

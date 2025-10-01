@@ -1,0 +1,99 @@
+{
+    "player_id": 78602,
+    "full_name": "Willie Wise",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 8.2,
+            "APG": 1.9,
+            "RBG": 3.4,
+            "SPG": 0.8,
+            "BPG": 0.2,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 18.7,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.651,
+            "FGM": 237,
+            "FGA": 513,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 142,
+            "FTA": 218,
+            "GP": 75
+        },
+        "1977-78": {
+            "PPG": 0.5,
+            "APG": 0.0,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 0,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {
+        "1976-77": {
+            "PPG": 7.5,
+            "APG": 0.5,
+            "RBG": 4.7,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 17.7,
+            "FG_PCT": 0.341,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.68,
+            "FGM": 14,
+            "FGA": 41,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 17,
+            "FTA": 25,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "DEN",
+            "SEA"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "64",
+        "Active": false
+    }
+}

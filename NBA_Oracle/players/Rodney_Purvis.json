@@ -1,0 +1,57 @@
+{
+    "player_id": 1628681,
+    "full_name": "Rodney Purvis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 6.0,
+            "APG": 1.1,
+            "RBG": 1.7,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -3.6,
+            "MPG": 18.1,
+            "FG_PCT": 0.327,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.867,
+            "FGM": 35,
+            "FGA": 107,
+            "FG3M": 13,
+            "FG3A": 52,
+            "FTM": 13,
+            "FTA": 15,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "ORL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

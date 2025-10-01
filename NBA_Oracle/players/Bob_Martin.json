@@ -1,0 +1,77 @@
+{
+    "player_id": 77478,
+    "full_name": "Bob Martin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 2.1,
+            "APG": 0.3,
+            "RBG": 2.2,
+            "SPG": 0.2,
+            "BPG": 0.6,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 10.1,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.608,
+            "FGM": 40,
+            "FGA": 88,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 31,
+            "FTA": 51,
+            "GP": 53
+        },
+        "1994-95": {
+            "PPG": 2.0,
+            "APG": 1.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 1.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.0,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "250",
+        "Position": "Center",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

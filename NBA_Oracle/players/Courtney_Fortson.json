@@ -1,0 +1,59 @@
+{
+    "player_id": 202622,
+    "full_name": "Courtney Fortson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2011-12": {
+            "PPG": 3.5,
+            "APG": 1.0,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -3.7,
+            "MPG": 9.5,
+            "FG_PCT": 0.344,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0.667,
+            "FGM": 11,
+            "FGA": 32,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 10,
+            "FTA": 15,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 71,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "LAC",
+            "HOU",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

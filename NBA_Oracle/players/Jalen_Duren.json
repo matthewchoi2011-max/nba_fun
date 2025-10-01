@@ -1,0 +1,120 @@
+{
+    "player_id": 1631105,
+    "full_name": "Jalen Duren",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2022-23"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 9.1,
+            "APG": 1.1,
+            "RBG": 8.9,
+            "SPG": 0.7,
+            "BPG": 0.9,
+            "TPG": 1.4,
+            "PM": -4.1,
+            "MPG": 24.9,
+            "FG_PCT": 0.648,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.611,
+            "FGM": 258,
+            "FGA": 398,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 96,
+            "FTA": 157,
+            "GP": 67
+        },
+        "2023-24": {
+            "PPG": 13.8,
+            "APG": 2.4,
+            "RBG": 11.6,
+            "SPG": 0.5,
+            "BPG": 0.8,
+            "TPG": 2.1,
+            "PM": -5.1,
+            "MPG": 29.1,
+            "FG_PCT": 0.619,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.79,
+            "FGM": 349,
+            "FGA": 564,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 143,
+            "FTA": 181,
+            "GP": 61
+        },
+        "2024-25": {
+            "PPG": 11.8,
+            "APG": 2.7,
+            "RBG": 10.3,
+            "SPG": 0.7,
+            "BPG": 1.1,
+            "TPG": 1.7,
+            "PM": 0.5,
+            "MPG": 26.1,
+            "FG_PCT": 0.692,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.669,
+            "FGM": 378,
+            "FGA": 546,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 162,
+            "FTA": 242,
+            "GP": 78
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 11.8,
+            "APG": 3.5,
+            "RBG": 10.7,
+            "SPG": 0.3,
+            "BPG": 1.7,
+            "TPG": 1.7,
+            "PM": -4.7,
+            "MPG": 33.8,
+            "FG_PCT": 0.65,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.826,
+            "FGM": 26,
+            "FGA": 40,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 19,
+            "FTA": 23,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "250",
+        "Position": "Center",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "13",
+        "Active": true
+    }
+}

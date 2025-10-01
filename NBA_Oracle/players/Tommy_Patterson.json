@@ -1,0 +1,99 @@
+{
+    "player_id": 77813,
+    "full_name": "Tommy Patterson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1972-73": {
+            "PPG": 2.4,
+            "APG": 0.1,
+            "RBG": 1.0,
+            "SPG": NaN,
+            "BPG": NaN,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.813,
+            "FGM": 21,
+            "FGA": 49,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 13,
+            "FTA": 16,
+            "GP": 23
+        },
+        "1973-74": {
+            "PPG": 0.5,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {
+        "1972-73": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "BLT",
+            "CAP"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "25",
+        "Active": false
+    }
+}

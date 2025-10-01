@@ -1,0 +1,78 @@
+{
+    "player_id": 76947,
+    "full_name": "Alan Hardy",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 2.3,
+            "APG": 0.1,
+            "RBG": 0.9,
+            "SPG": 0.0,
+            "BPG": 0.4,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.373,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.7,
+            "FGM": 22,
+            "FGA": 59,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 7,
+            "FTA": 10,
+            "GP": 22
+        },
+        "1981-82": {
+            "PPG": 3.7,
+            "APG": 0.5,
+            "RBG": 0.9,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 8.2,
+            "FG_PCT": 0.456,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.621,
+            "FGM": 62,
+            "FGA": 136,
+            "FG3M": 0,
+            "FG3A": 5,
+            "FTM": 18,
+            "FTA": 29,
+            "GP": 38
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "DET"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

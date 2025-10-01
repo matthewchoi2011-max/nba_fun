@@ -1,0 +1,57 @@
+{
+    "player_id": 78067,
+    "full_name": "Alan Sawyer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1950-51": {
+            "PPG": 6.6,
+            "APG": 0.8,
+            "RBG": 3.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.796,
+            "FGM": 87,
+            "FGA": 215,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 43,
+            "FTA": 54,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

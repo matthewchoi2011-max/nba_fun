@@ -1,0 +1,80 @@
+{
+    "player_id": 77503,
+    "full_name": "Mike McCarron",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 10.8,
+            "APG": 1.0,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.282,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.615,
+            "FGM": 236,
+            "FGA": 838,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 177,
+            "FTA": 288,
+            "GP": 60
+        },
+        "1949-50": {
+            "PPG": 1.1,
+            "APG": 0.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 3,
+            "FGA": 15,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 71,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "HUS",
+            "BOM",
+            "BAL",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

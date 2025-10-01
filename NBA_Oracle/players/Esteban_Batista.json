@@ -1,0 +1,77 @@
+{
+    "player_id": 101212,
+    "full_name": "Esteban Batista",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 1.8,
+            "APG": 0.1,
+            "RBG": 2.5,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -0.1,
+            "MPG": 8.7,
+            "FG_PCT": 0.425,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.623,
+            "FGM": 34,
+            "FGA": 80,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 33,
+            "FTA": 53,
+            "GP": 57
+        },
+        "2006-07": {
+            "PPG": 1.5,
+            "APG": 0.3,
+            "RBG": 2.3,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -1.9,
+            "MPG": 6.2,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 8,
+            "FGA": 16,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 7,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "268",
+        "Position": "Forward-Center",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

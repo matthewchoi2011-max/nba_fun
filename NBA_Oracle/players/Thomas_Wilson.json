@@ -1,0 +1,57 @@
+{
+    "player_id": 78587,
+    "full_name": "Thomas Wilson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 1.1,
+            "APG": 0.8,
+            "RBG": 1.0,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 8.9,
+            "FG_PCT": 0.28,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 7,
+            "FGA": 25,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "GOS"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "101",
+        "Active": false
+    }
+}

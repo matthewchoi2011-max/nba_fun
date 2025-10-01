@@ -1,0 +1,57 @@
+{
+    "player_id": 201621,
+    "full_name": "Joe Crawford",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2008-09": {
+            "PPG": 4.5,
+            "APG": 0.5,
+            "RBG": 2.0,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 3.5,
+            "MPG": 11.5,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 10,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "58",
+        "Active": false
+    }
+}

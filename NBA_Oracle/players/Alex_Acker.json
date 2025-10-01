@@ -1,0 +1,79 @@
+{
+    "player_id": 101165,
+    "full_name": "Alex Acker",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 1.8,
+            "APG": 0.8,
+            "RBG": 1.0,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -6.6,
+            "MPG": 7.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 16,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 5
+        },
+        "2008-09": {
+            "PPG": 2.9,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": 0.0,
+            "MPG": 8.0,
+            "FG_PCT": 0.395,
+            "FG3_PCT": 0.35,
+            "FT_PCT": 0.5,
+            "FGM": 30,
+            "FGA": 76,
+            "FG3M": 7,
+            "FG3A": 20,
+            "FTM": 5,
+            "FTA": 10,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "DET",
+            "LAC",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "60",
+        "Active": false
+    }
+}

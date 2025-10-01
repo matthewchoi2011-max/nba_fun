@@ -1,0 +1,57 @@
+{
+    "player_id": 76671,
+    "full_name": "Wayne Englestad",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 2.5,
+            "APG": 0.6,
+            "RBG": 1.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 4.5,
+            "FG_PCT": 0.379,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 11,
+            "FGA": 29,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 10,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

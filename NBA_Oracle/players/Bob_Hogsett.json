@@ -1,0 +1,57 @@
+{
+    "player_id": 77037,
+    "full_name": "Bob Hogsett",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1966-67": {
+            "PPG": 2.3,
+            "APG": 0.1,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.1,
+            "FG_PCT": 0.313,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 5,
+            "FGA": 16,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 6,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

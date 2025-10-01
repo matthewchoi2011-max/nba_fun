@@ -1,0 +1,57 @@
+{
+    "player_id": 201619,
+    "full_name": "Sasha Kaun",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2015-16": {
+            "PPG": 0.9,
+            "APG": 0.1,
+            "RBG": 1.0,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": -0.2,
+            "MPG": 3.8,
+            "FG_PCT": 0.529,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.455,
+            "FGM": 9,
+            "FGA": 17,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 11,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "260",
+        "Position": "Center",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

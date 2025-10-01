@@ -1,0 +1,77 @@
+{
+    "player_id": 1756,
+    "full_name": "Ryan Stack",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1998-99": {
+            "PPG": 2.6,
+            "APG": 0.3,
+            "RBG": 1.9,
+            "SPG": 0.1,
+            "BPG": 0.6,
+            "TPG": 0.5,
+            "PM": -3.7,
+            "MPG": 11.1,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.95,
+            "FGM": 14,
+            "FGA": 37,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 19,
+            "FTA": 20,
+            "GP": 18
+        },
+        "1999-00": {
+            "PPG": 2.1,
+            "APG": 0.2,
+            "RBG": 1.8,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.7,
+            "PM": -1.2,
+            "MPG": 7.9,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 17,
+            "FGA": 51,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 18,
+            "FTA": 27,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "player_id": 1642259,
+    "full_name": "Alex Sarr",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2024-25"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 13.0,
+            "APG": 2.4,
+            "RBG": 6.5,
+            "SPG": 0.7,
+            "BPG": 1.5,
+            "TPG": 1.7,
+            "PM": -8.1,
+            "MPG": 27.1,
+            "FG_PCT": 0.394,
+            "FG3_PCT": 0.308,
+            "FT_PCT": 0.679,
+            "FGM": 326,
+            "FGA": 828,
+            "FG3M": 105,
+            "FG3A": 341,
+            "FTM": 112,
+            "FTA": 165,
+            "GP": 67
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "205",
+        "Position": "Center",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "2",
+        "Active": true
+    }
+}

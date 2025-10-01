@@ -1,0 +1,78 @@
+{
+    "player_id": 76951,
+    "full_name": "Skip Harlicka",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 4.1,
+            "APG": 1.4,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.4,
+            "FG_PCT": 0.456,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.774,
+            "FGM": 41,
+            "FGA": 90,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 24,
+            "FTA": 31,
+            "GP": 26
+        }
+    },
+    "playoff_stats": {
+        "1968-69": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "13",
+        "Active": false
+    }
+}

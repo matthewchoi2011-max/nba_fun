@@ -1,0 +1,57 @@
+{
+    "player_id": 76517,
+    "full_name": "Brian Davis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 1.9,
+            "APG": 0.3,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 5.5,
+            "FG_PCT": 0.317,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.735,
+            "FGM": 40,
+            "FGA": 126,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 50,
+            "FTA": 68,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

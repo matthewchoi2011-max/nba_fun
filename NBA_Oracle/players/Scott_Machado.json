@@ -1,0 +1,99 @@
+{
+    "player_id": 203159,
+    "full_name": "Scott Machado",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2012-13": {
+            "PPG": 1.3,
+            "APG": 1.0,
+            "RBG": 0.2,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 1.3,
+            "PM": -1.5,
+            "MPG": 3.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 6
+        },
+        "2018-19": {
+            "PPG": 2.5,
+            "APG": 0.8,
+            "RBG": 0.0,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 4.8,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 6,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {
+        "2012-13": {
+            "PPG": 0.6,
+            "APG": 0.2,
+            "RBG": 0.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -2.2,
+            "MPG": 1.6,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "HOU",
+            "LAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

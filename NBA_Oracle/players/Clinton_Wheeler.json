@@ -1,0 +1,80 @@
+{
+    "player_id": 78504,
+    "full_name": "Clinton Wheeler",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 2.5,
+            "APG": 1.7,
+            "RBG": 0.7,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 8.7,
+            "FG_PCT": 0.47,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.735,
+            "FGM": 62,
+            "FGA": 132,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 25,
+            "FTA": 34,
+            "GP": 59
+        },
+        "1988-89": {
+            "PPG": 3.8,
+            "APG": 1.9,
+            "RBG": 1.1,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 12.6,
+            "FG_PCT": 0.517,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 45,
+            "FGA": 87,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 15,
+            "FTA": 20,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "IND",
+            "MIA",
+            "POR",
+            "TOT"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "150",
+        "Active": false
+    }
+}

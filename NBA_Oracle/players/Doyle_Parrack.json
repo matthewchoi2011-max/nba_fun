@@ -1,0 +1,78 @@
+{
+    "player_id": 77803,
+    "full_name": "Doyle Parrack",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 4.7,
+            "APG": 0.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.266,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.65,
+            "FGM": 110,
+            "FGA": 413,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 52,
+            "FTA": 80,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 0.4,
+            "APG": 0.1,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 0,
+            "FGA": 9,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 7
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "165",
+        "Position": "Forward",
+        "Teams": [
+            "CHS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76588,
+    "full_name": "Bruce Douglas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1986-87": {
+            "PPG": 1.8,
+            "APG": 2.1,
+            "RBG": 1.8,
+            "SPG": 1.1,
+            "BPG": 0.0,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 12.2,
+            "FG_PCT": 0.292,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 7,
+            "FGA": 24,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 4,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "57",
+        "Active": false
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "player_id": 77426,
+    "full_name": "Kevin Lynch",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 4.1,
+            "APG": 1.5,
+            "RBG": 1.5,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 14.9,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.761,
+            "FGM": 93,
+            "FGA": 223,
+            "FG3M": 3,
+            "FG3A": 8,
+            "FTM": 35,
+            "FTA": 46,
+            "GP": 55
+        },
+        "1992-93": {
+            "PPG": 2.1,
+            "APG": 0.6,
+            "RBG": 0.9,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 8.1,
+            "FG_PCT": 0.508,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.684,
+            "FGM": 30,
+            "FGA": 59,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 26,
+            "FTA": 38,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {
+        "1992-93": {
+            "PPG": 0.0,
+            "APG": 1.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "CHH"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "28",
+        "Active": false
+    }
+}

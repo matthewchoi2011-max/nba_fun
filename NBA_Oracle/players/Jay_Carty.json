@@ -1,0 +1,78 @@
+{
+    "player_id": 76363,
+    "full_name": "Jay Carty",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 2.7,
+            "APG": 0.4,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.9,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.727,
+            "FGM": 34,
+            "FGA": 89,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 11,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {
+        "1968-69": {
+            "PPG": 0.3,
+            "APG": 0.3,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

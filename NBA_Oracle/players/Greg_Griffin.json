@@ -1,0 +1,78 @@
+{
+    "player_id": 76888,
+    "full_name": "Greg Griffin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 4.0,
+            "APG": 0.7,
+            "RBG": 2.9,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 11.7,
+            "FG_PCT": 0.361,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.639,
+            "FGM": 61,
+            "FGA": 169,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 23,
+            "FTA": 36,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {
+        "1977-78": {
+            "PPG": 3.0,
+            "APG": 1.5,
+            "RBG": 2.0,
+            "SPG": 0.5,
+            "BPG": 0.5,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 12.5,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "71",
+        "Active": false
+    }
+}

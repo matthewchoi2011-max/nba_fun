@@ -1,0 +1,78 @@
+{
+    "player_id": 76523,
+    "full_name": "Harry Davis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 4.0,
+            "APG": 0.4,
+            "RBG": 1.6,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 9.8,
+            "FG_PCT": 0.431,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.698,
+            "FGM": 66,
+            "FGA": 153,
+            "FG3M": NaN,
+            "FG3A": NaN,
+            "FTM": 30,
+            "FTA": 43,
+            "GP": 40
+        },
+        "1979-80": {
+            "PPG": 3.2,
+            "APG": 0.0,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 7.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 6,
+            "FGA": 12,
+            "FG3M": 0.0,
+            "FG3A": 0.0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "CLE",
+            "SAN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

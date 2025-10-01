@@ -1,0 +1,57 @@
+{
+    "player_id": 1641735,
+    "full_name": "Amari Bailey",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 2.3,
+            "APG": 0.7,
+            "RBG": 0.9,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": 0.5,
+            "MPG": 6.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.125,
+            "FT_PCT": 0.857,
+            "FGM": 8,
+            "FGA": 24,
+            "FG3M": 1,
+            "FG3A": 8,
+            "FTM": 6,
+            "FTA": 7,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "41",
+        "Active": false
+    }
+}

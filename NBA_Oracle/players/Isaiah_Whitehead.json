@@ -1,0 +1,77 @@
+{
+    "player_id": 1627785,
+    "full_name": "Isaiah Whitehead",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 7.4,
+            "APG": 2.6,
+            "RBG": 2.5,
+            "SPG": 0.6,
+            "BPG": 0.5,
+            "TPG": 1.9,
+            "PM": -1.6,
+            "MPG": 22.5,
+            "FG_PCT": 0.402,
+            "FG3_PCT": 0.295,
+            "FT_PCT": 0.805,
+            "FGM": 204,
+            "FGA": 508,
+            "FG3M": 44,
+            "FG3A": 149,
+            "FTM": 91,
+            "FTA": 113,
+            "GP": 73
+        },
+        "2017-18": {
+            "PPG": 6.2,
+            "APG": 1.2,
+            "RBG": 1.6,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.5,
+            "PM": -0.2,
+            "MPG": 11.2,
+            "FG_PCT": 0.465,
+            "FG3_PCT": 0.389,
+            "FT_PCT": 0.684,
+            "FGM": 40,
+            "FGA": 86,
+            "FG3M": 7,
+            "FG3A": 18,
+            "FTM": 13,
+            "FTA": 19,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "213",
+        "Position": "Guard",
+        "Teams": [
+            "BKN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "42",
+        "Active": false
+    }
+}

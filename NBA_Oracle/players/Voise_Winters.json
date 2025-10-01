@@ -1,0 +1,57 @@
+{
+    "player_id": 78601,
+    "full_name": "Voise Winters",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 1.5,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 4.2,
+            "FG_PCT": 0.231,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "44",
+        "Active": false
+    }
+}

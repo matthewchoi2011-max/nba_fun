@@ -1,0 +1,79 @@
+{
+    "player_id": 1641745,
+    "full_name": "Adam Flagler",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "2024-25"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 1.5,
+            "APG": 2.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 7.0,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 7,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        },
+        "2024-25": {
+            "PPG": 1.8,
+            "APG": 0.3,
+            "RBG": 0.7,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.1,
+            "PM": 0.2,
+            "MPG": 5.5,
+            "FG_PCT": 0.26,
+            "FG3_PCT": 0.194,
+            "FT_PCT": 0.5,
+            "FGM": 25,
+            "FGA": 96,
+            "FG3M": 14,
+            "FG3A": 72,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 37
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "OKC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

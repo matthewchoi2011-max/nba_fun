@@ -1,0 +1,98 @@
+{
+    "player_id": 76260,
+    "full_name": "Mike Brittain",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 1.7,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.1,
+            "BPG": 0.4,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 6.8,
+            "FG_PCT": 0.512,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.526,
+            "FGM": 22,
+            "FGA": 43,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 10,
+            "FTA": 19,
+            "GP": 32
+        },
+        "1986-87": {
+            "PPG": 1.5,
+            "APG": 0.3,
+            "RBG": 0.7,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 4.8,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 4,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {
+        "1985-86": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 1.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 84,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "29",
+        "Active": false
+    }
+}

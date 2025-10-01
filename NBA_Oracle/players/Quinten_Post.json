@@ -1,0 +1,78 @@
+{
+    "player_id": 1642366,
+    "full_name": "Quinten Post",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 8.1,
+            "APG": 1.3,
+            "RBG": 3.5,
+            "SPG": 0.4,
+            "BPG": 0.4,
+            "TPG": 0.8,
+            "PM": 1.0,
+            "MPG": 16.3,
+            "FG_PCT": 0.449,
+            "FG3_PCT": 0.408,
+            "FT_PCT": 0.778,
+            "FGM": 123,
+            "FGA": 274,
+            "FG3M": 73,
+            "FG3A": 179,
+            "FTM": 21,
+            "FTA": 27,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 3.8,
+            "APG": 1.0,
+            "RBG": 2.3,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": -0.5,
+            "MPG": 12.2,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.313,
+            "FT_PCT": 0.75,
+            "FGM": 16,
+            "FGA": 48,
+            "FG3M": 10,
+            "FG3A": 32,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 12
+        }
+    },
+    "specs": {
+        "Height": 84,
+        "Weight": "238",
+        "Position": "Center",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "52",
+        "Active": true
+    }
+}

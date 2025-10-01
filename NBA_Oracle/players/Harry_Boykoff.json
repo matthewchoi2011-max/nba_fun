@@ -1,0 +1,78 @@
+{
+    "player_id": 76224,
+    "full_name": "Harry Boykoff",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 12.8,
+            "APG": 2.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.413,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.775,
+            "FGM": 288,
+            "FGA": 698,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 203,
+            "FTA": 262,
+            "GP": 61
+        },
+        "1950-51": {
+            "PPG": 6.8,
+            "APG": 1.2,
+            "RBG": 4.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.74,
+            "FGM": 126,
+            "FGA": 336,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 74,
+            "FTA": 100,
+            "GP": 48
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Center",
+        "Teams": [
+            "WAT",
+            "TCB"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

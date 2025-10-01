@@ -1,0 +1,57 @@
+{
+    "player_id": 76643,
+    "full_name": "Jay Edwards",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 1.8,
+            "APG": 1.0,
+            "RBG": 0.5,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 6.5,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 3,
+            "FGA": 7,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Forward",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "player_id": 78029,
+    "full_name": "Jim Rowinski",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 0.8,
+            "APG": 0.0,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.7,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.833,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 9
+        },
+        "1989-90": {
+            "PPG": 3.6,
+            "APG": 0.4,
+            "RBG": 2.1,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.846,
+            "FGM": 14,
+            "FGA": 32,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 22,
+            "FTA": 26,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "250",
+        "Position": "Center",
+        "Teams": [
+            "DET",
+            "PHL",
+            "TOT",
+            "MIA"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "86",
+        "Active": false
+    }
+}

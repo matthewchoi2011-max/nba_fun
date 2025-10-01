@@ -1,0 +1,78 @@
+{
+    "player_id": 1953,
+    "full_name": "Lazaro Borrell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1999-00": {
+            "PPG": 3.6,
+            "APG": 0.6,
+            "RBG": 2.4,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": 1.9,
+            "MPG": 9.8,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.545,
+            "FGM": 28,
+            "FGA": 63,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 6,
+            "FTA": 11,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {
+        "1999-00": {
+            "PPG": 5.0,
+            "APG": 0.5,
+            "RBG": 5.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 6.5,
+            "MPG": 13.0,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 4,
+            "FGA": 7,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "SEA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

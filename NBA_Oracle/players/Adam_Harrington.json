@@ -1,0 +1,59 @@
+{
+    "player_id": 2492,
+    "full_name": "Adam Harrington",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 1.6,
+            "APG": 0.6,
+            "RBG": 0.4,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.1,
+            "PM": -1.8,
+            "MPG": 5.8,
+            "FG_PCT": 0.297,
+            "FG3_PCT": 0.357,
+            "FT_PCT": 0.75,
+            "FGM": 11,
+            "FGA": 37,
+            "FG3M": 5,
+            "FG3A": 14,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "DAL",
+            "DEN",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

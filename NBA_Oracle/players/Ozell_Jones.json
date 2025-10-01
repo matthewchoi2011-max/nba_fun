@@ -1,0 +1,99 @@
+{
+    "player_id": 77191,
+    "full_name": "Ozell Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1984-85": {
+            "PPG": 3.7,
+            "APG": 0.8,
+            "RBG": 3.6,
+            "SPG": 0.4,
+            "BPG": 0.9,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 13.3,
+            "FG_PCT": 0.589,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.398,
+            "FGM": 106,
+            "FGA": 180,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 33,
+            "FTA": 83,
+            "GP": 67
+        },
+        "1985-86": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0,
+            "FG3_PCT": NaN,
+            "FT_PCT": NaN,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {
+        "1984-85": {
+            "PPG": 3.4,
+            "APG": 0.8,
+            "RBG": 3.4,
+            "SPG": 0.2,
+            "BPG": 0.8,
+            "TPG": 1.4,
+            "PM": NaN,
+            "MPG": 14.6,
+            "FG_PCT": 0.727,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.167,
+            "FGM": 8,
+            "FGA": 11,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 6,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 83,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "SAN",
+            "LAC"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "90",
+        "Active": false
+    }
+}

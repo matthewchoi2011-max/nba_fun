@@ -1,0 +1,57 @@
+{
+    "player_id": 943,
+    "full_name": "Ryan Lorthridge",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1994-95": {
+            "PPG": 7.4,
+            "APG": 2.7,
+            "RBG": 1.9,
+            "SPG": 0.8,
+            "BPG": 0.0,
+            "TPG": 1.5,
+            "PM": NaN,
+            "MPG": 18.2,
+            "FG_PCT": 0.475,
+            "FG3_PCT": 0.214,
+            "FT_PCT": 0.648,
+            "FGM": 106,
+            "FGA": 223,
+            "FG3M": 3,
+            "FG3A": 14,
+            "FTM": 57,
+            "FTA": 88,
+            "GP": 37
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "GOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

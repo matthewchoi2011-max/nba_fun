@@ -1,0 +1,78 @@
+{
+    "player_id": 1642278,
+    "full_name": "Tyler Kolek",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 2.0,
+            "APG": 1.7,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -0.0,
+            "MPG": 7.2,
+            "FG_PCT": 0.329,
+            "FG3_PCT": 0.298,
+            "FT_PCT": 0.765,
+            "FGM": 27,
+            "FGA": 82,
+            "FG3M": 14,
+            "FG3A": 47,
+            "FTM": 13,
+            "FTA": 17,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 1.0,
+            "APG": 1.0,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 3.0,
+            "MPG": 2.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": true
+    }
+}

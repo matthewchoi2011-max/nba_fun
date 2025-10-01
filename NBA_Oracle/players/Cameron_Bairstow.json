@@ -1,0 +1,77 @@
+{
+    "player_id": 203946,
+    "full_name": "Cameron Bairstow",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 0.6,
+            "APG": 0.1,
+            "RBG": 0.4,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -1.1,
+            "MPG": 3.6,
+            "FG_PCT": 0.214,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.8,
+            "FGM": 3,
+            "FGA": 14,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 5,
+            "GP": 18
+        },
+        "2015-16": {
+            "PPG": 1.9,
+            "APG": 0.3,
+            "RBG": 1.6,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": -0.4,
+            "MPG": 5.7,
+            "FG_PCT": 0.325,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.875,
+            "FGM": 13,
+            "FGA": 40,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 7,
+            "FTA": 8,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "250",
+        "Position": "Forward-Center",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "49",
+        "Active": false
+    }
+}

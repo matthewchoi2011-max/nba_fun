@@ -1,0 +1,78 @@
+{
+    "player_id": 76255,
+    "full_name": "Audley Brindley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 2.8,
+            "APG": 0.1,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.857,
+            "FGM": 14,
+            "FGA": 49,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 7,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 3.3,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 3,
+            "FGA": 6,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "175",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

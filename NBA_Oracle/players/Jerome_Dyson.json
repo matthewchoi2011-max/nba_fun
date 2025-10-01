@@ -1,0 +1,57 @@
+{
+    "player_id": 202406,
+    "full_name": "Jerome Dyson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2011-12": {
+            "PPG": 7.4,
+            "APG": 2.0,
+            "RBG": 2.1,
+            "SPG": 1.2,
+            "BPG": 0.2,
+            "TPG": 2.2,
+            "PM": 0.1,
+            "MPG": 20.0,
+            "FG_PCT": 0.396,
+            "FG3_PCT": 0.125,
+            "FT_PCT": 0.778,
+            "FGM": 19,
+            "FGA": 48,
+            "FG3M": 1,
+            "FG3A": 8,
+            "FTM": 28,
+            "FTA": 36,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "NOH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

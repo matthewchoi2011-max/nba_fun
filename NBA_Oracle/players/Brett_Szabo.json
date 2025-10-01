@@ -1,0 +1,57 @@
+{
+    "player_id": 1136,
+    "full_name": "Brett Szabo",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 2.2,
+            "APG": 0.2,
+            "RBG": 2.4,
+            "SPG": 0.2,
+            "BPG": 0.5,
+            "TPG": 0.6,
+            "PM": -2.4,
+            "MPG": 9.5,
+            "FG_PCT": 0.446,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.738,
+            "FGM": 54,
+            "FGA": 121,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 45,
+            "FTA": 61,
+            "GP": 70
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "230",
+        "Position": "Center",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

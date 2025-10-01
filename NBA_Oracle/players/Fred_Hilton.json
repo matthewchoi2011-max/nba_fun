@@ -1,0 +1,77 @@
+{
+    "player_id": 77029,
+    "full_name": "Fred Hilton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1971-72": {
+            "PPG": 11.6,
+            "APG": 1.9,
+            "RBG": 2.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 22.1,
+            "FG_PCT": 0.389,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.738,
+            "FGM": 309,
+            "FGA": 795,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 90,
+            "FTA": 122,
+            "GP": 61
+        },
+        "1972-73": {
+            "PPG": 7.2,
+            "APG": 1.3,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.4,
+            "FG_PCT": 0.387,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.774,
+            "FGM": 191,
+            "FGA": 494,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 41,
+            "FTA": 53,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "BUF"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "19",
+        "Active": false
+    }
+}

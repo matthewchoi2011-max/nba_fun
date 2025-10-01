@@ -1,0 +1,57 @@
+{
+    "player_id": 1631247,
+    "full_name": "Luke Travers",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 1.0,
+            "APG": 0.7,
+            "RBG": 1.7,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -0.1,
+            "MPG": 7.3,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 5,
+            "FGA": 20,
+            "FG3M": 0,
+            "FG3A": 9,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "207",
+        "Position": "Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "56",
+        "Active": true
+    }
+}

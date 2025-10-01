@@ -1,0 +1,57 @@
+{
+    "player_id": 203913,
+    "full_name": "Jabari Brown",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 11.9,
+            "APG": 2.1,
+            "RBG": 1.9,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.7,
+            "PM": -6.7,
+            "MPG": 29.9,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0.371,
+            "FT_PCT": 0.753,
+            "FGM": 70,
+            "FGA": 170,
+            "FG3M": 23,
+            "FG3A": 62,
+            "FTM": 64,
+            "FTA": 85,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "214",
+        "Position": "Guard",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

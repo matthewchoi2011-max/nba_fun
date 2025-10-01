@@ -1,0 +1,57 @@
+{
+    "player_id": 78160,
+    "full_name": "Bob Sims",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 7.8,
+            "APG": 2.4,
+            "RBG": 2.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 20.7,
+            "FG_PCT": 0.393,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.569,
+            "FGM": 193,
+            "FGA": 491,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 123,
+            "FTA": 216,
+            "GP": 65
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "STL"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "54",
+        "Active": false
+    }
+}

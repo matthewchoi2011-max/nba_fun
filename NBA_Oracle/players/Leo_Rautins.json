@@ -1,0 +1,99 @@
+{
+    "player_id": 77916,
+    "full_name": "Leo Rautins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1983-84": {
+            "PPG": 1.7,
+            "APG": 1.0,
+            "RBG": 1.2,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.362,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 21,
+            "FGA": 58,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 10,
+            "GP": 28
+        },
+        "1984-85": {
+            "PPG": 0.0,
+            "APG": 0.8,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0,
+            "FG3_PCT": NaN,
+            "FT_PCT": NaN,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {
+        "1983-84": {
+            "PPG": 1.0,
+            "APG": 0.3,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.7,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "PHL",
+            "ATL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "17",
+        "Active": false
+    }
+}

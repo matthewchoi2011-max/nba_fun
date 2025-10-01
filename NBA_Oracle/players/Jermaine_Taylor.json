@@ -1,0 +1,79 @@
+{
+    "player_id": 201966,
+    "full_name": "Jermaine Taylor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2009-10": {
+            "PPG": 4.1,
+            "APG": 0.5,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -3.8,
+            "MPG": 9.8,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0.227,
+            "FT_PCT": 0.717,
+            "FGM": 45,
+            "FGA": 119,
+            "FG3M": 5,
+            "FG3A": 22,
+            "FTM": 33,
+            "FTA": 46,
+            "GP": 31
+        },
+        "2010-11": {
+            "PPG": 6.6,
+            "APG": 0.9,
+            "RBG": 1.8,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 1.4,
+            "PM": -2.9,
+            "MPG": 14.2,
+            "FG_PCT": 0.48,
+            "FG3_PCT": 0.311,
+            "FT_PCT": 0.75,
+            "FGM": 94,
+            "FGA": 196,
+            "FG3M": 14,
+            "FG3A": 45,
+            "FTM": 21,
+            "FTA": 28,
+            "GP": 34
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "HOU",
+            "SAC",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "32",
+        "Active": false
+    }
+}

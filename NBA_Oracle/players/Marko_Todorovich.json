@@ -1,0 +1,100 @@
+{
+    "player_id": 78346,
+    "full_name": "Marko Todorovich",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 12.2,
+            "APG": 3.2,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.309,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.719,
+            "FGM": 263,
+            "FGA": 852,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 266,
+            "FTA": 370,
+            "GP": 65
+        },
+        "1950-51": {
+            "PPG": 9.9,
+            "APG": 2.7,
+            "RBG": 6.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.309,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.701,
+            "FGM": 221,
+            "FGA": 715,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 211,
+            "FTA": 301,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 10.3,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.792,
+            "FGM": 6,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 19,
+            "FTA": 24,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "TCB",
+            "BOM",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 77863,
+    "full_name": "Tom Piotrowski",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1983-84": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 4.3,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 12,
+            "FGA": 26,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 6,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 85,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "62",
+        "Active": false
+    }
+}

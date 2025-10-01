@@ -1,0 +1,77 @@
+{
+    "player_id": 2069,
+    "full_name": "Hanno Mottola",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2000-01": {
+            "PPG": 4.4,
+            "APG": 0.3,
+            "RBG": 2.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": -3.3,
+            "MPG": 13.5,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.811,
+            "FGM": 123,
+            "FGA": 277,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 73,
+            "FTA": 90,
+            "GP": 73
+        },
+        "2001-02": {
+            "PPG": 4.8,
+            "APG": 0.6,
+            "RBG": 3.3,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.9,
+            "PM": -2.0,
+            "MPG": 16.7,
+            "FG_PCT": 0.44,
+            "FG3_PCT": 0.077,
+            "FT_PCT": 0.75,
+            "FGM": 169,
+            "FGA": 384,
+            "FG3M": 1,
+            "FG3A": 13,
+            "FTM": 57,
+            "FTA": 76,
+            "GP": 82
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "247",
+        "Position": "Center-Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "40",
+        "Active": false
+    }
+}

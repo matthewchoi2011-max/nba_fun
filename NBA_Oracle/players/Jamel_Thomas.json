@@ -1,0 +1,80 @@
+{
+    "player_id": 1975,
+    "full_name": "Jamel Thomas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1999-00": {
+            "PPG": 2.4,
+            "APG": 0.9,
+            "RBG": 0.7,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": -5.9,
+            "MPG": 6.6,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 8,
+            "FGA": 18,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 7
+        },
+        "2000-01": {
+            "PPG": 2.6,
+            "APG": 0.0,
+            "RBG": 1.8,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 1.2,
+            "PM": -2.4,
+            "MPG": 11.2,
+            "FG_PCT": 0.316,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0,
+            "FGM": 6,
+            "FGA": 19,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "219",
+        "Position": "Forward",
+        "Teams": [
+            "BOS",
+            "GSW",
+            "TOT",
+            "NJN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

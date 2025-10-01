@@ -1,0 +1,78 @@
+{
+    "player_id": 78273,
+    "full_name": "Lamont Strothers",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 2.5,
+            "APG": 0.2,
+            "RBG": 0.2,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 4.2,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 4,
+            "FGA": 12,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 4
+        },
+        "1992-93": {
+            "PPG": 5.6,
+            "APG": 1.4,
+            "RBG": 1.6,
+            "SPG": 0.9,
+            "BPG": 0.0,
+            "TPG": 1.7,
+            "PM": NaN,
+            "MPG": 15.3,
+            "FG_PCT": 0.328,
+            "FG3_PCT": 0.154,
+            "FT_PCT": 0.8,
+            "FGM": 20,
+            "FGA": 61,
+            "FG3M": 2,
+            "FG3A": 13,
+            "FTM": 8,
+            "FTA": 10,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "POR",
+            "DAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "43",
+        "Active": false
+    }
+}

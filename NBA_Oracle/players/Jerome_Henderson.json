@@ -1,0 +1,99 @@
+{
+    "player_id": 76992,
+    "full_name": "Jerome Henderson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 4.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": NaN,
+            "FT_PCT": NaN,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        },
+        "1986-87": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.308,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 4,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {
+        "1986-87": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 83,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "LAL",
+            "MIL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

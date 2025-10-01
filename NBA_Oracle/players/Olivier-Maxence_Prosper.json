@@ -1,0 +1,98 @@
+{
+    "player_id": 1641765,
+    "full_name": "Olivier-Maxence Prosper",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.0,
+            "APG": 0.6,
+            "RBG": 2.0,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -2.2,
+            "MPG": 8.4,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0.289,
+            "FT_PCT": 0.683,
+            "FGM": 40,
+            "FGA": 104,
+            "FG3M": 13,
+            "FG3A": 45,
+            "FTM": 28,
+            "FTA": 41,
+            "GP": 40
+        },
+        "2024-25": {
+            "PPG": 3.9,
+            "APG": 0.8,
+            "RBG": 2.4,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -2.0,
+            "MPG": 11.2,
+            "FG_PCT": 0.402,
+            "FG3_PCT": 0.235,
+            "FT_PCT": 0.645,
+            "FGM": 70,
+            "FGA": 174,
+            "FG3M": 12,
+            "FG3A": 51,
+            "FTM": 49,
+            "FTA": 76,
+            "GP": 52
+        }
+    },
+    "playoff_stats": {
+        "2023-24": {
+            "PPG": 0.0,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -2.0,
+            "MPG": 3.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "24",
+        "Active": true
+    }
+}

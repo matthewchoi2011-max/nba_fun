@@ -55,10 +55,24 @@ def convert_player_dataframe(player):
 
     season_stat = collect_stats(season_stats)
     playoff_stat =  collect_stats(playoff_stats)
-    print("season_stat: ", season_stat)
+    #print("season_stat: ", season_stat)
 
-    season_max_stats = {stat: average(vals) for stat, vals in season_stat.items()}
-    playoff_max_stats = {stat: average(vals) for stat, vals in playoff_stat.items()}
+    sum_stats = ['FGM','FGA','FG3M','FG3A','FTM','FTA','GP']
+
+    season_max_stats = {}
+    playoff_max_stats = {}
+
+    for stat,val in season_stat.items():
+        if stat in sum_stats:
+            season_max_stats[stat] = sum(val)
+        else:
+            season_max_stats[stat] = average(val)
+    
+    for stat,val in playoff_stat.items():
+        if stat in sum_stats:
+            playoff_max_stats[stat] = sum(val)
+        else:
+            playoff_max_stats[stat] = average(val)
 
 
     revised_player = {
@@ -75,13 +89,6 @@ def convert_player_dataframe(player):
         revised_player[f"playoff_{k}"] = v
 
     player_df = pd.DataFrame([revised_player])
-
-    
-
-
-
-
-
     return player_df
 
 #retrieve all json files in players folder!

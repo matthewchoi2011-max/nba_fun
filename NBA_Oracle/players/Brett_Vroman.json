@@ -1,0 +1,57 @@
+{
+    "player_id": 78425,
+    "full_name": "Brett Vroman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 3.1,
+            "APG": 0.8,
+            "RBG": 2.3,
+            "SPG": 0.5,
+            "BPG": 0.5,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 8.5,
+            "FG_PCT": 0.37,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.737,
+            "FGM": 10,
+            "FGA": 27,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 14,
+            "FTA": 19,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "220",
+        "Position": "Center",
+        "Teams": [
+            "UTH"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "87",
+        "Active": false
+    }
+}

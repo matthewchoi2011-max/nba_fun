@@ -1,0 +1,144 @@
+{
+    "player_id": 1630567,
+    "full_name": "Scottie Barnes",
+    "awards": {
+        "NBA All-Star": [
+            "2023-24"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [
+            "2021-22"
+        ],
+        "All-Rookie-First": [
+            "2021-22"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 15.3,
+            "APG": 3.5,
+            "RBG": 7.5,
+            "SPG": 1.1,
+            "BPG": 0.7,
+            "TPG": 1.8,
+            "PM": 0.8,
+            "MPG": 35.4,
+            "FG_PCT": 0.492,
+            "FG3_PCT": 0.301,
+            "FT_PCT": 0.735,
+            "FGM": 459,
+            "FGA": 932,
+            "FG3M": 58,
+            "FG3A": 193,
+            "FTM": 158,
+            "FTA": 215,
+            "GP": 74
+        },
+        "2022-23": {
+            "PPG": 15.3,
+            "APG": 4.8,
+            "RBG": 6.6,
+            "SPG": 1.1,
+            "BPG": 0.8,
+            "TPG": 2.0,
+            "PM": 2.3,
+            "MPG": 34.8,
+            "FG_PCT": 0.456,
+            "FG3_PCT": 0.281,
+            "FT_PCT": 0.772,
+            "FGM": 463,
+            "FGA": 1016,
+            "FG3M": 63,
+            "FG3A": 224,
+            "FTM": 190,
+            "FTA": 246,
+            "GP": 77
+        },
+        "2023-24": {
+            "PPG": 19.9,
+            "APG": 6.0,
+            "RBG": 8.2,
+            "SPG": 1.2,
+            "BPG": 1.5,
+            "TPG": 2.8,
+            "PM": -2.4,
+            "MPG": 34.9,
+            "FG_PCT": 0.475,
+            "FG3_PCT": 0.341,
+            "FT_PCT": 0.781,
+            "FGM": 447,
+            "FGA": 942,
+            "FG3M": 101,
+            "FG3A": 296,
+            "FTM": 196,
+            "FTA": 251,
+            "GP": 60
+        },
+        "2024-25": {
+            "PPG": 19.3,
+            "APG": 5.8,
+            "RBG": 7.7,
+            "SPG": 1.4,
+            "BPG": 1.0,
+            "TPG": 2.8,
+            "PM": -2.0,
+            "MPG": 32.8,
+            "FG_PCT": 0.446,
+            "FG3_PCT": 0.271,
+            "FT_PCT": 0.755,
+            "FGM": 474,
+            "FGA": 1063,
+            "FG3M": 76,
+            "FG3A": 280,
+            "FTM": 228,
+            "FTA": 302,
+            "GP": 65
+        }
+    },
+    "playoff_stats": {
+        "2021-22": {
+            "PPG": 12.8,
+            "APG": 4.2,
+            "RBG": 9.0,
+            "SPG": 1.0,
+            "BPG": 0.2,
+            "TPG": 1.2,
+            "PM": -6.8,
+            "MPG": 33.2,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.813,
+            "FGM": 18,
+            "FGA": 42,
+            "FG3M": 2,
+            "FG3A": 12,
+            "FTM": 13,
+            "FTA": 16,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "237",
+        "Position": "Forward-Guard",
+        "Teams": [
+            "TOR"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "4",
+        "Active": true
+    }
+}

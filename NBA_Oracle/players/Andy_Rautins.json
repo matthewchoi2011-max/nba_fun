@@ -1,0 +1,57 @@
+{
+    "player_id": 202360,
+    "full_name": "Andy Rautins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 1.6,
+            "APG": 0.6,
+            "RBG": 0.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 1.4,
+            "PM": -2.2,
+            "MPG": 4.8,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 7,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "38",
+        "Active": false
+    }
+}

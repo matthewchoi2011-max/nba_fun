@@ -1,0 +1,57 @@
+{
+    "player_id": 76457,
+    "full_name": "John Coughran",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 2.8,
+            "APG": 0.5,
+            "RBG": 0.8,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 6.7,
+            "FG_PCT": 0.358,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.571,
+            "FGM": 29,
+            "FGA": 81,
+            "FG3M": 2,
+            "FG3A": 9,
+            "FTM": 8,
+            "FTA": 14,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "GOS"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "74",
+        "Active": false
+    }
+}

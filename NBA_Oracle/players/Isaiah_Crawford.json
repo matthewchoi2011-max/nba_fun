@@ -1,0 +1,57 @@
+{
+    "player_id": 1642384,
+    "full_name": "Isaiah Crawford",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 0.9,
+            "APG": 0.1,
+            "RBG": 0.5,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.1,
+            "PM": 1.5,
+            "MPG": 3.1,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.5,
+            "FGM": 5,
+            "FGA": 11,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "player_id": 1641722,
+    "full_name": "Jordan Hawkins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 7.8,
+            "APG": 1.0,
+            "RBG": 2.2,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": 0.2,
+            "MPG": 17.3,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0.366,
+            "FT_PCT": 0.838,
+            "FGM": 174,
+            "FGA": 456,
+            "FG3M": 109,
+            "FG3A": 298,
+            "FTM": 67,
+            "FTA": 80,
+            "GP": 67
+        },
+        "2024-25": {
+            "PPG": 10.8,
+            "APG": 1.2,
+            "RBG": 2.8,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 1.0,
+            "PM": -5.7,
+            "MPG": 23.6,
+            "FG_PCT": 0.372,
+            "FG3_PCT": 0.331,
+            "FT_PCT": 0.816,
+            "FGM": 207,
+            "FGA": 556,
+            "FG3M": 110,
+            "FG3A": 332,
+            "FTM": 80,
+            "FTA": 98,
+            "GP": 56
+        }
+    },
+    "playoff_stats": {
+        "2023-24": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.3,
+            "MPG": 4.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "NOP"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "14",
+        "Active": true
+    }
+}

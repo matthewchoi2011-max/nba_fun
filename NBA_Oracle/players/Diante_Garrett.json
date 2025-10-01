@@ -1,0 +1,78 @@
+{
+    "player_id": 203197,
+    "full_name": "Diante Garrett",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2012-13": {
+            "PPG": 2.1,
+            "APG": 1.6,
+            "RBG": 0.8,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -2.5,
+            "MPG": 7.8,
+            "FG_PCT": 0.327,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.5,
+            "FGM": 16,
+            "FGA": 49,
+            "FG3M": 3,
+            "FG3A": 15,
+            "FTM": 5,
+            "FTA": 10,
+            "GP": 19
+        },
+        "2013-14": {
+            "PPG": 3.5,
+            "APG": 1.7,
+            "RBG": 1.4,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": -1.6,
+            "MPG": 14.8,
+            "FG_PCT": 0.381,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.833,
+            "FGM": 101,
+            "FGA": 265,
+            "FG3M": 36,
+            "FG3A": 96,
+            "FTM": 10,
+            "FTA": 12,
+            "GP": 71
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "PHX",
+            "UTA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

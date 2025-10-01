@@ -1,0 +1,78 @@
+{
+    "player_id": 77257,
+    "full_name": "Ernie Killum",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 0.2,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {
+        "1970-71": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "30",
+        "Active": false
+    }
+}

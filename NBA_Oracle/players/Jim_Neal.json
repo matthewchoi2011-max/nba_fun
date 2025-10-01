@@ -1,0 +1,99 @@
+{
+    "player_id": 77695,
+    "full_name": "Jim Neal",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1953-54": {
+            "PPG": 4.7,
+            "APG": 0.4,
+            "RBG": 3.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.4,
+            "FG_PCT": 0.317,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.591,
+            "FGM": 117,
+            "FGA": 369,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 78,
+            "FTA": 132,
+            "GP": 67
+        },
+        "1954-55": {
+            "PPG": 3.0,
+            "APG": 0.7,
+            "RBG": 3.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.9,
+            "FG_PCT": 0.203,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.682,
+            "FGM": 12,
+            "FGA": 59,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 22,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {
+        "1953-54": {
+            "PPG": 2.8,
+            "APG": 0.2,
+            "RBG": 2.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.1,
+            "FG_PCT": 0.371,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.385,
+            "FGM": 13,
+            "FGA": 35,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 5,
+            "FTA": 13,
+            "GP": 11
+        }
+    },
+    "specs": {
+        "Height": 83,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "SYR",
+            "BAL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "6",
+        "Active": false
+    }
+}

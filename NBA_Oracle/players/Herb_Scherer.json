@@ -1,0 +1,78 @@
+{
+    "player_id": 78082,
+    "full_name": "Herb Scherer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1950-51": {
+            "PPG": 3.4,
+            "APG": 0.8,
+            "RBG": 2.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 24,
+            "FGA": 84,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 20,
+            "FTA": 35,
+            "GP": 20
+        },
+        "1951-52": {
+            "PPG": 3.9,
+            "APG": 0.5,
+            "RBG": 2.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.9,
+            "FG_PCT": 0.292,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.643,
+            "FGM": 19,
+            "FGA": 65,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 14,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "212",
+        "Position": "Center",
+        "Teams": [
+            "TCB",
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

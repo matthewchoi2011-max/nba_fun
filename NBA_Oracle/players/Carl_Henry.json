@@ -1,0 +1,78 @@
+{
+    "player_id": 77001,
+    "full_name": "Carl Henry",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 2.8,
+            "APG": 0.1,
+            "RBG": 0.7,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 5.3,
+            "FG_PCT": 0.463,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.706,
+            "FGM": 31,
+            "FGA": 67,
+            "FG3M": 4,
+            "FG3A": 10,
+            "FTM": 12,
+            "FTA": 17,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {
+        "1985-86": {
+            "PPG": 3.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "80",
+        "Active": false
+    }
+}

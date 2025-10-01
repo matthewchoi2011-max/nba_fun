@@ -1,0 +1,57 @@
+{
+    "player_id": 78508,
+    "full_name": "Herb White",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 2.4,
+            "APG": 1.2,
+            "RBG": 1.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.3,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.564,
+            "FGM": 34,
+            "FGA": 84,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 39,
+            "GP": 38
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "133",
+        "Active": false
+    }
+}

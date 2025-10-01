@@ -1,0 +1,80 @@
+{
+    "player_id": 1642276,
+    "full_name": "Kel'el Ware",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2024-25"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 9.3,
+            "APG": 0.9,
+            "RBG": 7.4,
+            "SPG": 0.6,
+            "BPG": 1.1,
+            "TPG": 0.9,
+            "PM": 0.6,
+            "MPG": 22.2,
+            "FG_PCT": 0.554,
+            "FG3_PCT": 0.315,
+            "FT_PCT": 0.687,
+            "FGM": 257,
+            "FGA": 464,
+            "FG3M": 35,
+            "FG3A": 111,
+            "FTM": 46,
+            "FTA": 67,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 4.8,
+            "APG": 1.0,
+            "RBG": 4.8,
+            "SPG": 0.2,
+            "BPG": 0.5,
+            "TPG": 0.5,
+            "PM": -10.8,
+            "MPG": 18.2,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0.273,
+            "FT_PCT": 0,
+            "FGM": 8,
+            "FGA": 18,
+            "FG3M": 3,
+            "FG3A": 11,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 84,
+        "Weight": "230",
+        "Position": "Center",
+        "Teams": [
+            "MIA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "15",
+        "Active": true
+    }
+}

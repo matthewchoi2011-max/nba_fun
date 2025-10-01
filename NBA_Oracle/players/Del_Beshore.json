@@ -1,0 +1,78 @@
+{
+    "player_id": 76159,
+    "full_name": "Del Beshore",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": NaN,
+            "FG3_PCT": NaN,
+            "FT_PCT": NaN,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": NaN,
+            "FG3A": NaN,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        },
+        "1979-80": {
+            "PPG": 3.6,
+            "APG": 2.0,
+            "RBG": 0.9,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 1.5,
+            "PM": NaN,
+            "MPG": 12.8,
+            "FG_PCT": 0.352,
+            "FG3_PCT": 0.385,
+            "FT_PCT": 0.667,
+            "FGM": 88,
+            "FGA": 250,
+            "FG3M": 10.0,
+            "FG3A": 26.0,
+            "FTM": 58,
+            "FTA": 87,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 71,
+        "Weight": "165",
+        "Position": "Guard",
+        "Teams": [
+            "MIL",
+            "CHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

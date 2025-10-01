@@ -1,0 +1,78 @@
+{
+    "player_id": 101185,
+    "full_name": "Rawle Marshall",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 3.1,
+            "APG": 0.4,
+            "RBG": 1.3,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.7,
+            "PM": -0.8,
+            "MPG": 10.5,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.759,
+            "FGM": 24,
+            "FGA": 60,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 22,
+            "FTA": 29,
+            "GP": 23
+        },
+        "2006-07": {
+            "PPG": 2.5,
+            "APG": 0.3,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -1.1,
+            "MPG": 9.0,
+            "FG_PCT": 0.36,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.689,
+            "FGM": 32,
+            "FGA": 89,
+            "FG3M": 4,
+            "FG3A": 18,
+            "FTM": 31,
+            "FTA": 45,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "190",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "DAL",
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

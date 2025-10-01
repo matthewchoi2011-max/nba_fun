@@ -1,0 +1,57 @@
+{
+    "player_id": 77192,
+    "full_name": "Rich Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 10.6,
+            "APG": 1.4,
+            "RBG": 5.7,
+            "SPG": 1.1,
+            "BPG": 0.3,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 25.8,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.76,
+            "FGM": 134,
+            "FGA": 348,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 92,
+            "FTA": 121,
+            "GP": 34
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "NYN"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "58",
+        "Active": false
+    }
+}

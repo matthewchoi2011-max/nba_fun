@@ -1,0 +1,81 @@
+{
+    "player_id": 1061,
+    "full_name": "William Cunningham",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 1.1,
+            "APG": 0.1,
+            "RBG": 1.4,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 2.1,
+            "MPG": 5.6,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 7
+        },
+        "1998-99": {
+            "PPG": 0.4,
+            "APG": 0.1,
+            "RBG": 1.8,
+            "SPG": 0.1,
+            "BPG": 0.7,
+            "TPG": 0.3,
+            "PM": -2.9,
+            "MPG": 10.1,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 18,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "UTA",
+            "PHI",
+            "TOT",
+            "TOR",
+            "NJN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

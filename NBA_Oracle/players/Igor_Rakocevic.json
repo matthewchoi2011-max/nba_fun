@@ -1,0 +1,57 @@
+{
+    "player_id": 2080,
+    "full_name": "Igor Rakocevic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 1.9,
+            "APG": 0.8,
+            "RBG": 0.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 1.1,
+            "MPG": 5.8,
+            "FG_PCT": 0.379,
+            "FG3_PCT": 0.417,
+            "FT_PCT": 0.806,
+            "FGM": 22,
+            "FGA": 58,
+            "FG3M": 5,
+            "FG3A": 12,
+            "FTM": 29,
+            "FTA": 36,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "184",
+        "Position": "Guard",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "51",
+        "Active": false
+    }
+}

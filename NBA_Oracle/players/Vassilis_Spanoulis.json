@@ -1,0 +1,78 @@
+{
+    "player_id": 2779,
+    "full_name": "Vassilis Spanoulis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2006-07": {
+            "PPG": 2.7,
+            "APG": 0.9,
+            "RBG": 0.7,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": -1.0,
+            "MPG": 8.8,
+            "FG_PCT": 0.319,
+            "FG3_PCT": 0.172,
+            "FT_PCT": 0.81,
+            "FGM": 23,
+            "FGA": 72,
+            "FG3M": 5,
+            "FG3A": 29,
+            "FTM": 34,
+            "FTA": 42,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {
+        "2006-07": {
+            "PPG": 4.0,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 10.0,
+            "MPG": 3.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "50",
+        "Active": false
+    }
+}

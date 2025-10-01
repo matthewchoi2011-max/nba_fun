@@ -1,0 +1,80 @@
+{
+    "player_id": 76359,
+    "full_name": "Jake Carter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 3.4,
+            "APG": 1.0,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.307,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.679,
+            "FGM": 23,
+            "FGA": 75,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 36,
+            "FTA": 53,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 3,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "DN ",
+            "AND",
+            "TOT"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

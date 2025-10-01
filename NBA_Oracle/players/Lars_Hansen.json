@@ -1,0 +1,57 @@
+{
+    "player_id": 76941,
+    "full_name": "Lars Hansen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 5.1,
+            "APG": 0.9,
+            "RBG": 3.9,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 13.7,
+            "FG_PCT": 0.509,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.581,
+            "FGM": 29,
+            "FGA": 57,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 18,
+            "FTA": 31,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Center",
+        "Teams": [
+            "SEA"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "151",
+        "Active": false
+    }
+}

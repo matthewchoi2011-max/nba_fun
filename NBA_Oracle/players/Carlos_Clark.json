@@ -1,0 +1,120 @@
+{
+    "player_id": 76398,
+    "full_name": "Carlos Clark",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1983-84"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1983-84": {
+            "PPG": 1.7,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 4.1,
+            "FG_PCT": 0.365,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.889,
+            "FGM": 19,
+            "FGA": 52,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 16,
+            "FTA": 18,
+            "GP": 31
+        },
+        "1984-85": {
+            "PPG": 2.7,
+            "APG": 0.8,
+            "RBG": 1.1,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 9.1,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.774,
+            "FGM": 64,
+            "FGA": 152,
+            "FG3M": 0,
+            "FG3A": 5,
+            "FTM": 41,
+            "FTA": 53,
+            "GP": 62
+        }
+    },
+    "playoff_stats": {
+        "1983-84": {
+            "PPG": 1.1,
+            "APG": 0.1,
+            "RBG": 0.1,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.1,
+            "PM": NaN,
+            "MPG": 2.5,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 4,
+            "FGA": 10,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 8
+        },
+        "1984-85": {
+            "PPG": 2.7,
+            "APG": 1.0,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.7,
+            "FG_PCT": 0.6,
+            "FG3_PCT": NaN,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "91",
+        "Active": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "player_id": 77262,
+    "full_name": "Chad Kinch",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 2.9,
+            "APG": 1.1,
+            "RBG": 0.8,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 8.6,
+            "FG_PCT": 0.369,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.778,
+            "FGM": 52,
+            "FGA": 141,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 14,
+            "FTA": 18,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "CLE",
+            "DAL",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "22",
+        "Active": false
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "player_id": 76929,
+    "full_name": "Steve Hamilton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1958-59": {
+            "PPG": 4.4,
+            "APG": 0.5,
+            "RBG": 3.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.6,
+            "FG_PCT": 0.371,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.679,
+            "FGM": 109,
+            "FGA": 294,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 74,
+            "FTA": 109,
+            "GP": 67
+        },
+        "1959-60": {
+            "PPG": 5.1,
+            "APG": 0.5,
+            "RBG": 3.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 16.5,
+            "FG_PCT": 0.377,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.783,
+            "FGM": 29,
+            "FGA": 77,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 18,
+            "FTA": 23,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {
+        "1958-59": {
+            "PPG": 3.2,
+            "APG": 0.5,
+            "RBG": 3.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.7,
+            "FG_PCT": 0.279,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.8,
+            "FGM": 12,
+            "FGA": 43,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 10,
+            "GP": 10
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "MNL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "8",
+        "Active": false
+    }
+}

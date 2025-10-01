@@ -1,0 +1,57 @@
+{
+    "player_id": 77044,
+    "full_name": "Essie Hollis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 2.8,
+            "APG": 0.2,
+            "RBG": 1.8,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 6.2,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 30,
+            "FGA": 75,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 12,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "44",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 1630580,
+    "full_name": "Joe Wieskamp",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 2.1,
+            "APG": 0.3,
+            "RBG": 0.5,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.1,
+            "PM": 0.0,
+            "MPG": 7.1,
+            "FG_PCT": 0.357,
+            "FG3_PCT": 0.326,
+            "FT_PCT": 0.538,
+            "FGM": 20,
+            "FGA": 56,
+            "FG3M": 14,
+            "FG3A": 43,
+            "FTM": 7,
+            "FTA": 13,
+            "GP": 29
+        },
+        "2022-23": {
+            "PPG": 1.0,
+            "APG": 0.3,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.1,
+            "PM": 0.2,
+            "MPG": 5.6,
+            "FG_PCT": 0.214,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 14,
+            "FG3M": 3,
+            "FG3A": 12,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "205",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "SAS",
+            "TOR"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "41",
+        "Active": false
+    }
+}

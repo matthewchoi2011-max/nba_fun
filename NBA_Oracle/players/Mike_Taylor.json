@@ -1,0 +1,57 @@
+{
+    "player_id": 201446,
+    "full_name": "Mike Taylor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2008-09": {
+            "PPG": 5.7,
+            "APG": 2.1,
+            "RBG": 1.7,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 1.4,
+            "PM": -2.6,
+            "MPG": 15.1,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0.325,
+            "FT_PCT": 0.691,
+            "FGM": 110,
+            "FGA": 267,
+            "FG3M": 13,
+            "FG3A": 40,
+            "FTM": 56,
+            "FTA": 81,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "165",
+        "Position": "Guard",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "55",
+        "Active": false
+    }
+}

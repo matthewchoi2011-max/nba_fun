@@ -1,0 +1,79 @@
+{
+    "player_id": 78397,
+    "full_name": "John Vallely",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 3.7,
+            "APG": 0.9,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.4,
+            "FG_PCT": 0.358,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.763,
+            "FGM": 73,
+            "FGA": 204,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 45,
+            "FTA": 59,
+            "GP": 51
+        },
+        "1971-72": {
+            "PPG": 3.4,
+            "APG": 0.8,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.5,
+            "FG_PCT": 0.404,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 69,
+            "FGA": 171,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 30,
+            "FTA": 45,
+            "GP": 49
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "HOU",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "14",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1041,
+    "full_name": "Nate Driggers",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 2.4,
+            "APG": 0.4,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -4.5,
+            "MPG": 8.9,
+            "FG_PCT": 0.302,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 13,
+            "FGA": 43,
+            "FG3M": 0,
+            "FG3A": 9,
+            "FTM": 10,
+            "FTA": 14,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "215",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

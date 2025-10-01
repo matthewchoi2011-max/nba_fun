@@ -1,0 +1,99 @@
+{
+    "player_id": 1030,
+    "full_name": "Duane Cooper",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1992-93": {
+            "PPG": 2.4,
+            "APG": 2.3,
+            "RBG": 0.8,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 9.9,
+            "FG_PCT": 0.392,
+            "FG3_PCT": 0.233,
+            "FT_PCT": 0.714,
+            "FGM": 62,
+            "FGA": 158,
+            "FG3M": 7,
+            "FG3A": 30,
+            "FTM": 25,
+            "FTA": 35,
+            "GP": 65
+        },
+        "1993-94": {
+            "PPG": 2.1,
+            "APG": 1.2,
+            "RBG": 0.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 5.9,
+            "FG_PCT": 0.439,
+            "FG3_PCT": 0.143,
+            "FT_PCT": 0.733,
+            "FGM": 18,
+            "FGA": 41,
+            "FG3M": 1,
+            "FG3A": 7,
+            "FTM": 11,
+            "FTA": 15,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {
+        "1992-93": {
+            "PPG": 0.0,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "36",
+        "Active": false
+    }
+}

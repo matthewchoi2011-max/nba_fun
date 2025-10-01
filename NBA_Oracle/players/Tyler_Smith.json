@@ -1,0 +1,57 @@
+{
+    "player_id": 1641890,
+    "full_name": "Tyler Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 2.9,
+            "APG": 0.2,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": 0.3,
+            "MPG": 5.3,
+            "FG_PCT": 0.48,
+            "FG3_PCT": 0.433,
+            "FT_PCT": 0.75,
+            "FGM": 24,
+            "FGA": 50,
+            "FG3M": 13,
+            "FG3A": 30,
+            "FTM": 6,
+            "FTA": 8,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "224",
+        "Position": "Forward",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": true
+    }
+}

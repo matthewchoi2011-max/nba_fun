@@ -1,0 +1,78 @@
+{
+    "player_id": 76831,
+    "full_name": "Grant Gondrezick",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1986-87": {
+            "PPG": 5.5,
+            "APG": 1.3,
+            "RBG": 1.7,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 13.1,
+            "FG_PCT": 0.45,
+            "FG3_PCT": 0.235,
+            "FT_PCT": 0.701,
+            "FGM": 135,
+            "FGA": 300,
+            "FG3M": 4,
+            "FG3A": 17,
+            "FTM": 75,
+            "FTA": 107,
+            "GP": 64
+        },
+        "1988-89": {
+            "PPG": 3.9,
+            "APG": 1.3,
+            "RBG": 1.3,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 9.0,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.273,
+            "FT_PCT": 0.65,
+            "FGM": 38,
+            "FGA": 95,
+            "FG3M": 3,
+            "FG3A": 11,
+            "FTM": 26,
+            "FTA": 40,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "PHX",
+            "LAC"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "77",
+        "Active": false
+    }
+}

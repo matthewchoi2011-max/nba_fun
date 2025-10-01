@@ -1,0 +1,57 @@
+{
+    "player_id": 77649,
+    "full_name": "Mike Morrison",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 2.0,
+            "APG": 0.3,
+            "RBG": 0.6,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 4.2,
+            "FG_PCT": 0.338,
+            "FG3_PCT": 0.286,
+            "FT_PCT": 0.8,
+            "FGM": 23,
+            "FGA": 68,
+            "FG3M": 2,
+            "FG3A": 7,
+            "FTM": 24,
+            "FTA": 30,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "51",
+        "Active": false
+    }
+}

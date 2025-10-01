@@ -1,0 +1,57 @@
+{
+    "player_id": 1631338,
+    "full_name": "Mouhamadou Gueye",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 2.4,
+            "APG": 0.5,
+            "RBG": 2.1,
+            "SPG": 0.3,
+            "BPG": 1.6,
+            "TPG": 1.1,
+            "PM": -7.3,
+            "MPG": 10.9,
+            "FG_PCT": 0.289,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.444,
+            "FGM": 11,
+            "FGA": 38,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 4,
+            "FTA": 9,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "TOR"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

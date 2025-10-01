@@ -1,0 +1,77 @@
+{
+    "player_id": 2775,
+    "full_name": "Ha Seung-jin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2004-05": {
+            "PPG": 1.4,
+            "APG": 0.1,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.3,
+            "TPG": 0.6,
+            "PM": -0.6,
+            "MPG": 5.5,
+            "FG_PCT": 0.435,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.545,
+            "FGM": 10,
+            "FGA": 23,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 11,
+            "GP": 19
+        },
+        "2005-06": {
+            "PPG": 1.6,
+            "APG": 0.0,
+            "RBG": 1.8,
+            "SPG": 0.1,
+            "BPG": 0.3,
+            "TPG": 0.5,
+            "PM": -2.1,
+            "MPG": 7.9,
+            "FG_PCT": 0.581,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.471,
+            "FGM": 18,
+            "FGA": 31,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 17,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 87,
+        "Weight": "305",
+        "Position": "Center",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

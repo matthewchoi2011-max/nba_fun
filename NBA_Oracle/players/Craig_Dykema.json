@@ -1,0 +1,78 @@
+{
+    "player_id": 76625,
+    "full_name": "Craig Dykema",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 1.3,
+            "APG": 0.5,
+            "RBG": 0.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 3.2,
+            "FG_PCT": 0.459,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.778,
+            "FGM": 17,
+            "FGA": 37,
+            "FG3M": 2,
+            "FG3A": 4,
+            "FTM": 7,
+            "FTA": 9,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {
+        "1981-82": {
+            "PPG": 0.3,
+            "APG": 0.2,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "66",
+        "Active": false
+    }
+}

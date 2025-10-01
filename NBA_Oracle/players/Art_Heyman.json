@@ -1,0 +1,102 @@
+{
+    "player_id": 77015,
+    "full_name": "Art Heyman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "1963-64"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1963-64": {
+            "PPG": 15.4,
+            "APG": 3.4,
+            "RBG": 4.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 29.8,
+            "FG_PCT": 0.431,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.685,
+            "FGM": 432,
+            "FGA": 1003,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 289,
+            "FTA": 422,
+            "GP": 75
+        },
+        "1964-65": {
+            "PPG": 5.7,
+            "APG": 1.4,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.1,
+            "FG_PCT": 0.427,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 114,
+            "FGA": 267,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 88,
+            "FTA": 132,
+            "GP": 55
+        },
+        "1965-66": {
+            "PPG": 2.9,
+            "APG": 0.6,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.346,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.636,
+            "FGM": 18,
+            "FGA": 52,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 14,
+            "FTA": 22,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "NYK",
+            "CIN",
+            "PHL",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "1",
+        "Active": false
+    }
+}

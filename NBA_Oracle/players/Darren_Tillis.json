@@ -1,0 +1,80 @@
+{
+    "player_id": 78343,
+    "full_name": "Darren Tillis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 3.2,
+            "APG": 0.3,
+            "RBG": 2.5,
+            "SPG": 0.2,
+            "BPG": 0.6,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 10.1,
+            "FG_PCT": 0.42,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 76,
+            "FGA": 181,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 16,
+            "FTA": 28,
+            "GP": 52
+        },
+        "1983-84": {
+            "PPG": 3.6,
+            "APG": 0.3,
+            "RBG": 2.6,
+            "SPG": 0.2,
+            "BPG": 0.8,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 10.1,
+            "FG_PCT": 0.425,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.651,
+            "FGM": 108,
+            "FGA": 254,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 41,
+            "FTA": 63,
+            "GP": 72
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "215",
+        "Position": "Center",
+        "Teams": [
+            "BOS",
+            "CLE",
+            "TOT",
+            "GOS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "23",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1819,
+    "full_name": "John Turner",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 2.8,
+            "APG": 0.3,
+            "RBG": 1.9,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 8.2,
+            "FG_PCT": 0.439,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.525,
+            "FGM": 43,
+            "FGA": 98,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 31,
+            "FTA": 59,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "20",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76277,
+    "full_name": "Myron Brown",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 2.2,
+            "APG": 1.5,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 5.8,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 6,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Forward",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": false
+    }
+}

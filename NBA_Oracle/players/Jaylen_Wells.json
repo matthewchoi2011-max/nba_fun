@@ -1,0 +1,59 @@
+{
+    "player_id": 1642377,
+    "full_name": "Jaylen Wells",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2024-25"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 10.4,
+            "APG": 1.7,
+            "RBG": 3.4,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": 2.4,
+            "MPG": 25.9,
+            "FG_PCT": 0.425,
+            "FG3_PCT": 0.352,
+            "FT_PCT": 0.822,
+            "FGM": 287,
+            "FGA": 676,
+            "FG3M": 138,
+            "FG3A": 392,
+            "FTM": 111,
+            "FTA": 135,
+            "GP": 79
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "",
+        "Position": "Forward",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "39",
+        "Active": true
+    }
+}

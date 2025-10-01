@@ -1,0 +1,77 @@
+{
+    "player_id": 1630466,
+    "full_name": "Gabriel Deck",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 8.4,
+            "APG": 2.4,
+            "RBG": 4.0,
+            "SPG": 0.8,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": -5.1,
+            "MPG": 21.2,
+            "FG_PCT": 0.478,
+            "FG3_PCT": 0.133,
+            "FT_PCT": 0.818,
+            "FGM": 32,
+            "FGA": 67,
+            "FG3M": 2,
+            "FG3A": 15,
+            "FTM": 18,
+            "FTA": 22,
+            "GP": 10
+        },
+        "2021-22": {
+            "PPG": 2.6,
+            "APG": 0.7,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -2.0,
+            "MPG": 8.0,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0,
+            "FGM": 8,
+            "FGA": 14,
+            "FG3M": 2,
+            "FG3A": 4,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "231",
+        "Position": "Forward",
+        "Teams": [
+            "OKC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

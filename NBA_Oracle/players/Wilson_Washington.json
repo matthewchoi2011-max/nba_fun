@@ -1,0 +1,79 @@
+{
+    "player_id": 78471,
+    "full_name": "Wilson Washington",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 6.0,
+            "APG": 0.3,
+            "RBG": 4.1,
+            "SPG": 0.5,
+            "BPG": 1.0,
+            "TPG": 1.7,
+            "PM": NaN,
+            "MPG": 14.8,
+            "FG_PCT": 0.485,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.547,
+            "FGM": 100,
+            "FGA": 206,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 29,
+            "FTA": 53,
+            "GP": 38
+        },
+        "1978-79": {
+            "PPG": 8.1,
+            "APG": 0.8,
+            "RBG": 4.7,
+            "SPG": 0.5,
+            "BPG": 1.1,
+            "TPG": 1.6,
+            "PM": NaN,
+            "MPG": 18.4,
+            "FG_PCT": 0.502,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.635,
+            "FGM": 218,
+            "FGA": 434,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 66,
+            "FTA": 104,
+            "GP": 62
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "227",
+        "Position": "Forward",
+        "Teams": [
+            "PHL",
+            "NJN",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "25",
+        "Active": false
+    }
+}

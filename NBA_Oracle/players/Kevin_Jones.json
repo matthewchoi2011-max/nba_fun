@@ -1,0 +1,57 @@
+{
+    "player_id": 203158,
+    "full_name": "Kevin Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2012-13": {
+            "PPG": 3.0,
+            "APG": 0.3,
+            "RBG": 2.4,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": 1.7,
+            "MPG": 10.4,
+            "FG_PCT": 0.402,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 43,
+            "FGA": 107,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 9,
+            "FTA": 15,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "260",
+        "Position": "Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

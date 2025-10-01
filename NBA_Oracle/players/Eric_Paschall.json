@@ -1,0 +1,121 @@
+{
+    "player_id": 1629672,
+    "full_name": "Eric Paschall",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2019-20"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 13.9,
+            "APG": 2.1,
+            "RBG": 4.6,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 1.6,
+            "PM": -6.2,
+            "MPG": 27.6,
+            "FG_PCT": 0.497,
+            "FG3_PCT": 0.287,
+            "FT_PCT": 0.774,
+            "FGM": 318,
+            "FGA": 640,
+            "FG3M": 37,
+            "FG3A": 129,
+            "FTM": 164,
+            "FTA": 212,
+            "GP": 60
+        },
+        "2020-21": {
+            "PPG": 9.5,
+            "APG": 1.3,
+            "RBG": 3.2,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 1.1,
+            "PM": -2.8,
+            "MPG": 17.4,
+            "FG_PCT": 0.497,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.713,
+            "FGM": 148,
+            "FGA": 298,
+            "FG3M": 18,
+            "FG3A": 54,
+            "FTM": 67,
+            "FTA": 94,
+            "GP": 40
+        },
+        "2021-22": {
+            "PPG": 5.8,
+            "APG": 0.6,
+            "RBG": 1.8,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -0.3,
+            "MPG": 12.7,
+            "FG_PCT": 0.485,
+            "FG3_PCT": 0.37,
+            "FT_PCT": 0.767,
+            "FGM": 114,
+            "FGA": 235,
+            "FG3M": 40,
+            "FG3A": 108,
+            "FTM": 66,
+            "FTA": 86,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {
+        "2021-22": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 2.2,
+            "MPG": 6.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 6,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "255",
+        "Position": "Forward",
+        "Teams": [
+            "GSW",
+            "UTA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "41",
+        "Active": false
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "player_id": 78547,
+    "full_name": "Chuck Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 3.4,
+            "APG": 2.0,
+            "RBG": 1.6,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 13.3,
+            "FG_PCT": 0.371,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.782,
+            "FGM": 78,
+            "FGA": 210,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 68,
+            "FTA": 87,
+            "GP": 65
+        },
+        "1977-78": {
+            "PPG": 7.3,
+            "APG": 4.3,
+            "RBG": 1.9,
+            "SPG": 0.7,
+            "BPG": 0.1,
+            "TPG": 2.1,
+            "PM": NaN,
+            "MPG": 27.4,
+            "FG_PCT": 0.477,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.826,
+            "FGM": 208,
+            "FGA": 436,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 114,
+            "FTA": 138,
+            "GP": 73
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "DEN",
+            "BUF",
+            "TOT"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "76",
+        "Active": false
+    }
+}

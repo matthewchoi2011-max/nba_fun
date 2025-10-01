@@ -1,0 +1,57 @@
+{
+    "player_id": 1628409,
+    "full_name": "Alec Peters",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 4.1,
+            "APG": 0.6,
+            "RBG": 1.9,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": 1.8,
+            "MPG": 11.2,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0.31,
+            "FT_PCT": 0.8,
+            "FGM": 28,
+            "FGA": 74,
+            "FG3M": 18,
+            "FG3A": 58,
+            "FTM": 8,
+            "FTA": 10,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "54",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76041,
+    "full_name": "Kim Anderson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 3.0,
+            "APG": 0.7,
+            "RBG": 2.1,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 10.7,
+            "FG_PCT": 0.312,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.536,
+            "FGM": 24,
+            "FGA": 77,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 28,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "146",
+        "Active": false
+    }
+}

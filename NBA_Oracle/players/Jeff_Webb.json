@@ -1,0 +1,102 @@
+{
+    "player_id": 78477,
+    "full_name": "Jeff Webb",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1970-71"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 2.2,
+            "APG": 0.7,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.3,
+            "FG_PCT": 0.346,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.733,
+            "FGM": 27,
+            "FGA": 78,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 15,
+            "GP": 29
+        },
+        "1971-72": {
+            "PPG": 2.1,
+            "APG": 0.5,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.2,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.696,
+            "FGM": 40,
+            "FGA": 100,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 16,
+            "FTA": 23,
+            "GP": 46
+        }
+    },
+    "playoff_stats": {
+        "1970-71": {
+            "PPG": 1.2,
+            "APG": 0.2,
+            "RBG": 0.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.6,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 9
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "MIL",
+            "PHX",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

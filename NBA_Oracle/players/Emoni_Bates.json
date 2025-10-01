@@ -1,0 +1,77 @@
+{
+    "player_id": 1641734,
+    "full_name": "Emoni Bates",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 2.7,
+            "APG": 0.7,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -5.5,
+            "MPG": 8.9,
+            "FG_PCT": 0.306,
+            "FG3_PCT": 0.303,
+            "FT_PCT": 0.25,
+            "FGM": 15,
+            "FGA": 49,
+            "FG3M": 10,
+            "FG3A": 33,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 15
+        },
+        "2024-25": {
+            "PPG": 3.7,
+            "APG": 0.8,
+            "RBG": 0.7,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -3.4,
+            "MPG": 7.5,
+            "FG_PCT": 0.342,
+            "FG3_PCT": 0.367,
+            "FT_PCT": 0,
+            "FGM": 13,
+            "FGA": 38,
+            "FG3M": 11,
+            "FG3A": 30,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "202",
+        "Position": "Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "49",
+        "Active": true
+    }
+}

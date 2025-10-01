@@ -1,0 +1,98 @@
+{
+    "player_id": 1641757,
+    "full_name": "Jordan Miller",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 1.6,
+            "APG": 0.0,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.1,
+            "PM": -1.6,
+            "MPG": 3.5,
+            "FG_PCT": 0.556,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 1.0,
+            "FGM": 5,
+            "FGA": 9,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 8
+        },
+        "2024-25": {
+            "PPG": 4.1,
+            "APG": 0.9,
+            "RBG": 1.6,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -1.7,
+            "MPG": 11.4,
+            "FG_PCT": 0.433,
+            "FG3_PCT": 0.211,
+            "FT_PCT": 0.8,
+            "FGM": 58,
+            "FGA": 134,
+            "FG3M": 8,
+            "FG3A": 38,
+            "FTM": 28,
+            "FTA": 35,
+            "GP": 37
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 2.3,
+            "APG": 1.3,
+            "RBG": 0.7,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 6.0,
+            "MPG": 4.3,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 7,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "194",
+        "Position": "Guard",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "48",
+        "Active": true
+    }
+}

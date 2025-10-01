@@ -1,0 +1,99 @@
+{
+    "player_id": 77342,
+    "full_name": "Dave Lattin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1967-68": {
+            "PPG": 2.2,
+            "APG": 0.3,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.8,
+            "FG_PCT": 0.363,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.697,
+            "FGM": 37,
+            "FGA": 102,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 23,
+            "FTA": 33,
+            "GP": 44
+        },
+        "1968-69": {
+            "PPG": 6.0,
+            "APG": 0.7,
+            "RBG": 4.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.5,
+            "FG_PCT": 0.41,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.634,
+            "FGM": 150,
+            "FGA": 366,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 109,
+            "FTA": 172,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {
+        "1967-68": {
+            "PPG": 1.4,
+            "APG": 0.2,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.4,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.833,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "SFW",
+            "PHX"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "10",
+        "Active": false
+    }
+}

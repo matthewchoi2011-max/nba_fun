@@ -1,0 +1,78 @@
+{
+    "player_id": 77823,
+    "full_name": "Tom Payne",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1971-72": {
+            "PPG": 4.1,
+            "APG": 0.5,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.8,
+            "FG_PCT": 0.437,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.63,
+            "FGM": 45,
+            "FGA": 103,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 29,
+            "FTA": 46,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {
+        "1971-72": {
+            "PPG": 4.0,
+            "APG": 0.0,
+            "RBG": 4.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.4,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 5,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 86,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

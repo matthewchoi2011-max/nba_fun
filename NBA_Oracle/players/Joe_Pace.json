@@ -1,0 +1,100 @@
+{
+    "player_id": 77788,
+    "full_name": "Joe Pace",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1977-78"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 2.1,
+            "APG": 0.1,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.6,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0.436,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.552,
+            "FGM": 24,
+            "FGA": 55,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 16,
+            "FTA": 29,
+            "GP": 30
+        },
+        "1977-78": {
+            "PPG": 3.9,
+            "APG": 0.5,
+            "RBG": 2.7,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 8.9,
+            "FG_PCT": 0.479,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.613,
+            "FGM": 67,
+            "FGA": 140,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 57,
+            "FTA": 93,
+            "GP": 49
+        }
+    },
+    "playoff_stats": {
+        "1977-78": {
+            "PPG": 2.8,
+            "APG": 0.1,
+            "RBG": 2.2,
+            "SPG": 0.1,
+            "BPG": 0.7,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 5.8,
+            "FG_PCT": 0.7,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.733,
+            "FGM": 7,
+            "FGA": 10,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 15,
+            "GP": 9
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "220",
+        "Position": "Center",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 201203,
+    "full_name": "Mustafa Shakur",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 2.3,
+            "APG": 1.1,
+            "RBG": 1.0,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -0.3,
+            "MPG": 7.2,
+            "FG_PCT": 0.356,
+            "FG3_PCT": 0.1,
+            "FT_PCT": 0.533,
+            "FGM": 21,
+            "FGA": 59,
+            "FG3M": 1,
+            "FG3A": 10,
+            "FTM": 8,
+            "FTA": 15,
+            "GP": 22
+        },
+        "2013-14": {
+            "PPG": 0.3,
+            "APG": 1.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": -2.7,
+            "MPG": 3.7,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 0,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "WAS",
+            "OKC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

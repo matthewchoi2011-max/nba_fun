@@ -1,0 +1,98 @@
+{
+    "player_id": 77366,
+    "full_name": "Ed Leede",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 8.9,
+            "APG": 2.0,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.343,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.706,
+            "FGM": 174,
+            "FGA": 507,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 223,
+            "FTA": 316,
+            "GP": 64
+        },
+        "1950-51": {
+            "PPG": 6.6,
+            "APG": 1.7,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.322,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.741,
+            "FGM": 119,
+            "FGA": 370,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 140,
+            "FTA": 189,
+            "GP": 57
+        }
+    },
+    "playoff_stats": {
+        "1950-51": {
+            "PPG": 1.5,
+            "APG": 1.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 77229,
+    "full_name": "Clarence Kea",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 7.3,
+            "APG": 0.3,
+            "RBG": 4.2,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 12.4,
+            "FG_PCT": 0.457,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.694,
+            "FGM": 37,
+            "FGA": 81,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 43,
+            "FTA": 62,
+            "GP": 16
+        },
+        "1981-82": {
+            "PPG": 2.3,
+            "APG": 0.4,
+            "RBG": 1.7,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.531,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.69,
+            "FGM": 26,
+            "FGA": 49,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 29,
+            "FTA": 42,
+            "GP": 35
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "218",
+        "Position": "Forward",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "169",
+        "Active": false
+    }
+}

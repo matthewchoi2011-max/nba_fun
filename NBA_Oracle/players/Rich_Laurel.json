@@ -1,0 +1,57 @@
+{
+    "player_id": 77344,
+    "full_name": "Rich Laurel",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 2.4,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 5.7,
+            "FG_PCT": 0.323,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 10,
+            "FGA": 31,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 4,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "19",
+        "Active": false
+    }
+}

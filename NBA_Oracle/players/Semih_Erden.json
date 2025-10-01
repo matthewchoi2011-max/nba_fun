@@ -1,0 +1,79 @@
+{
+    "player_id": 201623,
+    "full_name": "Semih Erden",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 4.0,
+            "APG": 0.5,
+            "RBG": 2.9,
+            "SPG": 0.4,
+            "BPG": 0.6,
+            "TPG": 0.8,
+            "PM": -0.8,
+            "MPG": 14.5,
+            "FG_PCT": 0.559,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.65,
+            "FGM": 62,
+            "FGA": 111,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 39,
+            "FTA": 60,
+            "GP": 41
+        },
+        "2011-12": {
+            "PPG": 3.5,
+            "APG": 0.3,
+            "RBG": 2.6,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -2.9,
+            "MPG": 11.9,
+            "FG_PCT": 0.527,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.512,
+            "FGM": 39,
+            "FGA": 74,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 21,
+            "FTA": 41,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "BOS",
+            "CLE",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "60",
+        "Active": false
+    }
+}

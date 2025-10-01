@@ -1,0 +1,77 @@
+{
+    "player_id": 203921,
+    "full_name": "Cleanthony Early",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 5.4,
+            "APG": 0.9,
+            "RBG": 2.5,
+            "SPG": 0.6,
+            "BPG": 0.3,
+            "TPG": 1.0,
+            "PM": -4.2,
+            "MPG": 16.6,
+            "FG_PCT": 0.355,
+            "FG3_PCT": 0.262,
+            "FT_PCT": 0.75,
+            "FGM": 76,
+            "FGA": 214,
+            "FG3M": 22,
+            "FG3A": 84,
+            "FTM": 36,
+            "FTA": 48,
+            "GP": 39
+        },
+        "2015-16": {
+            "PPG": 1.8,
+            "APG": 0.4,
+            "RBG": 1.5,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": 0.0,
+            "MPG": 9.1,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0.267,
+            "FT_PCT": 0.75,
+            "FGM": 12,
+            "FGA": 40,
+            "FG3M": 4,
+            "FG3A": 15,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": false
+    }
+}

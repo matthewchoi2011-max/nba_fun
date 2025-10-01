@@ -1,0 +1,79 @@
+{
+    "player_id": 1641731,
+    "full_name": "Bilal Coulibaly",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [
+            "2024"
+        ],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 8.4,
+            "APG": 1.7,
+            "RBG": 4.1,
+            "SPG": 0.9,
+            "BPG": 0.8,
+            "TPG": 1.4,
+            "PM": -6.7,
+            "MPG": 27.2,
+            "FG_PCT": 0.435,
+            "FG3_PCT": 0.346,
+            "FT_PCT": 0.702,
+            "FGM": 188,
+            "FGA": 432,
+            "FG3M": 64,
+            "FG3A": 185,
+            "FTM": 92,
+            "FTA": 131,
+            "GP": 63
+        },
+        "2024-25": {
+            "PPG": 12.3,
+            "APG": 3.4,
+            "RBG": 5.0,
+            "SPG": 1.3,
+            "BPG": 0.7,
+            "TPG": 2.1,
+            "PM": -9.9,
+            "MPG": 33.0,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0.281,
+            "FT_PCT": 0.746,
+            "FGM": 263,
+            "FGA": 624,
+            "FG3M": 63,
+            "FG3A": 224,
+            "FTM": 138,
+            "FTA": 185,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "7",
+        "Active": true
+    }
+}

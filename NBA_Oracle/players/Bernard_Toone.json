@@ -1,0 +1,78 @@
+{
+    "player_id": 78356,
+    "full_name": "Bernard Toone",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 2.4,
+            "APG": 0.5,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 5.4,
+            "FG_PCT": 0.359,
+            "FG3_PCT": 0.143,
+            "FT_PCT": 0.8,
+            "FGM": 23,
+            "FGA": 64,
+            "FG3M": 1,
+            "FG3A": 7,
+            "FTM": 8,
+            "FTA": 10,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {
+        "1979-80": {
+            "PPG": 0.0,
+            "APG": 0.2,
+            "RBG": 0.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

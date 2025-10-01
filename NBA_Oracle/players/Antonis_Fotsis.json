@@ -1,0 +1,57 @@
+{
+    "player_id": 2238,
+    "full_name": "Antonis Fotsis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2001-02": {
+            "PPG": 3.9,
+            "APG": 0.4,
+            "RBG": 2.2,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.8,
+            "PM": -1.1,
+            "MPG": 11.3,
+            "FG_PCT": 0.404,
+            "FG3_PCT": 0.304,
+            "FT_PCT": 0.85,
+            "FGM": 42,
+            "FGA": 104,
+            "FG3M": 7,
+            "FG3A": 23,
+            "FTM": 17,
+            "FTA": 20,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "219",
+        "Position": "Forward",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "47",
+        "Active": false
+    }
+}

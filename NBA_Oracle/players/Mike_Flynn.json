@@ -1,0 +1,77 @@
+{
+    "player_id": 76727,
+    "full_name": "Mike Flynn",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 8.2,
+            "APG": 2.5,
+            "RBG": 2.6,
+            "SPG": 0.8,
+            "BPG": 0.1,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 18.1,
+            "FG_PCT": 0.436,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.711,
+            "FGM": 250,
+            "FGA": 573,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 101,
+            "FTA": 142,
+            "GP": 73
+        },
+        "1977-78": {
+            "PPG": 4.2,
+            "APG": 2.0,
+            "RBG": 1.6,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 13.5,
+            "FG_PCT": 0.449,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.567,
+            "FGM": 120,
+            "FGA": 267,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 55,
+            "FTA": 97,
+            "GP": 71
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "113",
+        "Active": false
+    }
+}

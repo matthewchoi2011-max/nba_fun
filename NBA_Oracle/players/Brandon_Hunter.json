@@ -1,0 +1,99 @@
+{
+    "player_id": 2599,
+    "full_name": "Brandon Hunter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 3.5,
+            "APG": 0.5,
+            "RBG": 3.3,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": -0.1,
+            "MPG": 11.2,
+            "FG_PCT": 0.457,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.442,
+            "FGM": 53,
+            "FGA": 116,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 19,
+            "FTA": 43,
+            "GP": 36
+        },
+        "2004-05": {
+            "PPG": 3.1,
+            "APG": 0.1,
+            "RBG": 2.2,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -0.6,
+            "MPG": 7.2,
+            "FG_PCT": 0.507,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.538,
+            "FGM": 37,
+            "FGA": 73,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 21,
+            "FTA": 39,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {
+        "2003-04": {
+            "PPG": 0.7,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": -3.7,
+            "MPG": 3.3,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "266",
+        "Position": "Forward",
+        "Teams": [
+            "BOS",
+            "ORL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

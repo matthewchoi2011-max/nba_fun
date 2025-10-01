@@ -1,0 +1,57 @@
+{
+    "player_id": 1629619,
+    "full_name": "Myles Powell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 1.2,
+            "APG": 0.3,
+            "RBG": 0.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -1.6,
+            "MPG": 4.7,
+            "FG_PCT": 0.294,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 1.0,
+            "FGM": 5,
+            "FGA": 17,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

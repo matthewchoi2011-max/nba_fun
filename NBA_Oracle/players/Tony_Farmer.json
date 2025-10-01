@@ -1,0 +1,78 @@
+{
+    "player_id": 1108,
+    "full_name": "Tony Farmer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 2.5,
+            "APG": 0.2,
+            "RBG": 1.2,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -0.7,
+            "MPG": 6.3,
+            "FG_PCT": 0.321,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.795,
+            "FGM": 17,
+            "FGA": 53,
+            "FG3M": 2,
+            "FG3A": 9,
+            "FTM": 31,
+            "FTA": 39,
+            "GP": 27
+        },
+        "1999-00": {
+            "PPG": 6.3,
+            "APG": 1.0,
+            "RBG": 4.0,
+            "SPG": 0.9,
+            "BPG": 0.2,
+            "TPG": 1.1,
+            "PM": -1.1,
+            "MPG": 16.2,
+            "FG_PCT": 0.407,
+            "FG3_PCT": 0.182,
+            "FT_PCT": 0.766,
+            "FGM": 127,
+            "FGA": 312,
+            "FG3M": 8,
+            "FG3A": 44,
+            "FTM": 203,
+            "FTA": 265,
+            "GP": 74
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "244",
+        "Position": "Forward",
+        "Teams": [
+            "CHH",
+            "GSW"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

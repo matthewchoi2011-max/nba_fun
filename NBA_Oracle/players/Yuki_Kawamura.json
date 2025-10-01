@@ -1,0 +1,57 @@
+{
+    "player_id": 1642530,
+    "full_name": "Yuki Kawamura",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 1.6,
+            "APG": 0.9,
+            "RBG": 0.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 1.2,
+            "MPG": 4.2,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0.304,
+            "FT_PCT": 0.778,
+            "FGM": 11,
+            "FGA": 30,
+            "FG3M": 7,
+            "FG3A": 23,
+            "FTM": 7,
+            "FTA": 9,
+            "GP": 22
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 68,
+        "Weight": "159",
+        "Position": "Guard",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

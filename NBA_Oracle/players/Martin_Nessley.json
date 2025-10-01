@@ -1,0 +1,59 @@
+{
+    "player_id": 77704,
+    "full_name": "Martin Nessley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 1.1,
+            "APG": 0.4,
+            "RBG": 1.9,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 7.6,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.444,
+            "FGM": 20,
+            "FGA": 52,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 18,
+            "GP": 44
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 86,
+        "Weight": "260",
+        "Position": "Forward",
+        "Teams": [
+            "LAC",
+            "SAC",
+            "TOT"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "116",
+        "Active": false
+    }
+}

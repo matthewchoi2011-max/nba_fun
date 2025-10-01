@@ -1,0 +1,57 @@
+{
+    "player_id": 76212,
+    "full_name": "Lawrence Boston",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 4.3,
+            "APG": 0.2,
+            "RBG": 3.0,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 9.6,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.615,
+            "FGM": 24,
+            "FGA": 52,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 13,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "81",
+        "Active": false
+    }
+}

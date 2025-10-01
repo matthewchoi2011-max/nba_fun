@@ -1,0 +1,98 @@
+{
+    "player_id": 1516,
+    "full_name": "Ed Gray",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 7.6,
+            "APG": 1.1,
+            "RBG": 1.5,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 1.0,
+            "PM": -2.5,
+            "MPG": 15.7,
+            "FG_PCT": 0.381,
+            "FG3_PCT": 0.391,
+            "FT_PCT": 0.846,
+            "FGM": 77,
+            "FGA": 202,
+            "FG3M": 18,
+            "FG3A": 46,
+            "FTM": 55,
+            "FTA": 65,
+            "GP": 30
+        },
+        "1998-99": {
+            "PPG": 4.9,
+            "APG": 0.4,
+            "RBG": 0.9,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -2.2,
+            "MPG": 11.2,
+            "FG_PCT": 0.291,
+            "FG3_PCT": 0.286,
+            "FT_PCT": 0.757,
+            "FGM": 53,
+            "FGA": 182,
+            "FG3M": 12,
+            "FG3A": 42,
+            "FTM": 28,
+            "FTA": 37,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {
+        "1998-99": {
+            "PPG": 5.5,
+            "APG": 0.5,
+            "RBG": 1.1,
+            "SPG": 0.8,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -1.4,
+            "MPG": 8.9,
+            "FG_PCT": 0.366,
+            "FG3_PCT": 0.364,
+            "FT_PCT": 0.909,
+            "FGM": 15,
+            "FGA": 41,
+            "FG3M": 4,
+            "FG3A": 11,
+            "FTM": 10,
+            "FTA": 11,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "22",
+        "Active": false
+    }
+}

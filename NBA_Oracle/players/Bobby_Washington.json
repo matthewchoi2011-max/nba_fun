@@ -1,0 +1,77 @@
+{
+    "player_id": 78469,
+    "full_name": "Bobby Washington",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 7.4,
+            "APG": 4.0,
+            "RBG": 2.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 17.5,
+            "FG_PCT": 0.397,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.743,
+            "FGM": 123,
+            "FGA": 310,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 104,
+            "FTA": 140,
+            "GP": 47
+        },
+        "1971-72": {
+            "PPG": 5.1,
+            "APG": 3.2,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.0,
+            "FG_PCT": 0.398,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.813,
+            "FGM": 123,
+            "FGA": 309,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 104,
+            "FTA": 128,
+            "GP": 69
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 71,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

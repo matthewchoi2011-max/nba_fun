@@ -1,0 +1,98 @@
+{
+    "player_id": 78568,
+    "full_name": "Sam Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 4.1,
+            "APG": 1.1,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.4,
+            "FG_PCT": 0.342,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.537,
+            "FGM": 78,
+            "FGA": 228,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 72,
+            "FTA": 134,
+            "GP": 55
+        },
+        "1969-70": {
+            "PPG": 2.5,
+            "APG": 0.3,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0.458,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.455,
+            "FGM": 11,
+            "FGA": 24,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 5,
+            "FTA": 11,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {
+        "1969-70": {
+            "PPG": 4.0,
+            "APG": 0.5,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "35",
+        "Active": false
+    }
+}

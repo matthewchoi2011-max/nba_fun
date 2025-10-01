@@ -1,0 +1,57 @@
+{
+    "player_id": 1528,
+    "full_name": "Bubba Wells",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 3.3,
+            "APG": 0.9,
+            "RBG": 1.7,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -2.4,
+            "MPG": 10.1,
+            "FG_PCT": 0.414,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.721,
+            "FGM": 48,
+            "FGA": 116,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 31,
+            "FTA": 43,
+            "GP": 39
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": false
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "player_id": 511,
+    "full_name": "Melvin Booker",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1995-96": {
+            "PPG": 4.0,
+            "APG": 1.9,
+            "RBG": 0.8,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 11.9,
+            "FG_PCT": 0.32,
+            "FG3_PCT": 0.158,
+            "FT_PCT": 0.818,
+            "FGM": 16,
+            "FGA": 50,
+            "FG3M": 3,
+            "FG3A": 19,
+            "FTM": 9,
+            "FTA": 11,
+            "GP": 11
+        },
+        "1996-97": {
+            "PPG": 5.8,
+            "APG": 2.5,
+            "RBG": 1.4,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 1.3,
+            "PM": 0.0,
+            "MPG": 20.3,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 0.324,
+            "FT_PCT": 0.9,
+            "FGM": 46,
+            "FGA": 105,
+            "FG3M": 12,
+            "FG3A": 37,
+            "FTM": 18,
+            "FTA": 20,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "HOU",
+            "DEN",
+            "GSW",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

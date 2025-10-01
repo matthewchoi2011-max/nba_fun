@@ -1,0 +1,78 @@
+{
+    "player_id": 1642263,
+    "full_name": "Reed Sheppard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.4,
+            "APG": 1.4,
+            "RBG": 1.5,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 0.7,
+            "PM": -1.0,
+            "MPG": 12.6,
+            "FG_PCT": 0.351,
+            "FG3_PCT": 0.338,
+            "FT_PCT": 0.813,
+            "FGM": 84,
+            "FGA": 239,
+            "FG3M": 48,
+            "FG3A": 142,
+            "FTM": 13,
+            "FTA": 16,
+            "GP": 52
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 0.0,
+            "APG": 0.3,
+            "RBG": 0.3,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": -8.7,
+            "MPG": 3.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "3",
+        "Active": true
+    }
+}

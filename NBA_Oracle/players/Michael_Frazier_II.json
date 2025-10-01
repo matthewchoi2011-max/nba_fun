@@ -1,0 +1,78 @@
+{
+    "player_id": 1626187,
+    "full_name": "Michael Frazier II",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 2.1,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": -4.5,
+            "MPG": 11.2,
+            "FG_PCT": 0.241,
+            "FG3_PCT": 0.174,
+            "FT_PCT": 0.643,
+            "FGM": 7,
+            "FGA": 29,
+            "FG3M": 4,
+            "FG3A": 23,
+            "FTM": 9,
+            "FTA": 14,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {
+        "2019-20": {
+            "PPG": 0.8,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 2.5,
+            "MPG": 3.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

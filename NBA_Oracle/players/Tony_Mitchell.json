@@ -1,0 +1,57 @@
+{
+    "player_id": 203502,
+    "full_name": "Tony Mitchell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2013-14": {
+            "PPG": 1.0,
+            "APG": 0.1,
+            "RBG": 1.2,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": 0.5,
+            "MPG": 3.8,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0.579,
+            "FGM": 5,
+            "FGA": 12,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 11,
+            "FTA": 19,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

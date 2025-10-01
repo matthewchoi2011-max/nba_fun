@@ -1,0 +1,57 @@
+{
+    "player_id": 76334,
+    "full_name": "Rick Calloway",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1990-91": {
+            "PPG": 3.2,
+            "APG": 1.0,
+            "RBG": 1.2,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 10.6,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.696,
+            "FGM": 75,
+            "FGA": 192,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 55,
+            "FTA": 79,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

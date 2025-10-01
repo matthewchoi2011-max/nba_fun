@@ -1,0 +1,78 @@
+{
+    "player_id": 2066,
+    "full_name": "Soumaila Samake",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2000-01": {
+            "PPG": 1.4,
+            "APG": 0.0,
+            "RBG": 1.6,
+            "SPG": 0.1,
+            "BPG": 0.4,
+            "TPG": 0.1,
+            "PM": -0.7,
+            "MPG": 6.6,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.417,
+            "FGM": 18,
+            "FGA": 48,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 10,
+            "FTA": 24,
+            "GP": 34
+        },
+        "2002-03": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.4,
+            "TPG": 0.2,
+            "PM": -1.2,
+            "MPG": 5.9,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 10,
+            "FGA": 24,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "NJN",
+            "LAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "36",
+        "Active": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "player_id": 77644,
+    "full_name": "Darren Morningstar",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 4.2,
+            "APG": 0.7,
+            "RBG": 3.5,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 16.0,
+            "FG_PCT": 0.476,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 39,
+            "FGA": 82,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 18,
+            "FTA": 30,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "DAL",
+            "UTH",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "47",
+        "Active": false
+    }
+}

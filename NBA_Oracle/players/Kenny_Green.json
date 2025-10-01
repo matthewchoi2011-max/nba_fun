@@ -1,0 +1,79 @@
+{
+    "player_id": 76869,
+    "full_name": "Kenny Green",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 4.9,
+            "APG": 0.2,
+            "RBG": 1.8,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 11.0,
+            "FG_PCT": 0.432,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 83,
+            "FGA": 192,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 35,
+            "FTA": 49,
+            "GP": 41
+        },
+        "1986-87": {
+            "PPG": 3.4,
+            "APG": 0.4,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 9.1,
+            "FG_PCT": 0.357,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.737,
+            "FGM": 25,
+            "FGA": 70,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 14,
+            "FTA": 19,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "PHL",
+            "WAS",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "12",
+        "Active": false
+    }
+}

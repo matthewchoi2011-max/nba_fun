@@ -1,0 +1,78 @@
+{
+    "player_id": 203139,
+    "full_name": "Viacheslav Kravtsov",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2012-13": {
+            "PPG": 3.1,
+            "APG": 0.4,
+            "RBG": 1.8,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.6,
+            "PM": -0.9,
+            "MPG": 9.0,
+            "FG_PCT": 0.717,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.297,
+            "FGM": 33,
+            "FGA": 46,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 11,
+            "FTA": 37,
+            "GP": 25
+        },
+        "2013-14": {
+            "PPG": 1.0,
+            "APG": 0.1,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": -2.3,
+            "MPG": 3.0,
+            "FG_PCT": 0.533,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 8,
+            "FGA": 15,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 8,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "254",
+        "Position": "Center",
+        "Teams": [
+            "DET",
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

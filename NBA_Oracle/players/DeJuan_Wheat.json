@@ -1,0 +1,99 @@
+{
+    "player_id": 1545,
+    "full_name": "DeJuan Wheat",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 1.7,
+            "APG": 0.7,
+            "RBG": 0.3,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -0.1,
+            "MPG": 4.4,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.471,
+            "FT_PCT": 0.6,
+            "FGM": 20,
+            "FGA": 50,
+            "FG3M": 8,
+            "FG3A": 17,
+            "FTM": 9,
+            "FTA": 15,
+            "GP": 34
+        },
+        "1998-99": {
+            "PPG": 4.5,
+            "APG": 2.2,
+            "RBG": 1.0,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -1.7,
+            "MPG": 12.8,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0.367,
+            "FT_PCT": 0.727,
+            "FGM": 73,
+            "FGA": 193,
+            "FG3M": 22,
+            "FG3A": 60,
+            "FTM": 40,
+            "FTA": 55,
+            "GP": 46
+        }
+    },
+    "playoff_stats": {
+        "1997-98": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 3.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "165",
+        "Position": "Guard",
+        "Teams": [
+            "MIN",
+            "VAN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "51",
+        "Active": false
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "player_id": 200816,
+    "full_name": "Jorge Garbajosa",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2006-07"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [
+            "2008"
+        ],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2006-07": {
+            "PPG": 8.5,
+            "APG": 1.9,
+            "RBG": 4.9,
+            "SPG": 1.2,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": 1.4,
+            "MPG": 28.5,
+            "FG_PCT": 0.42,
+            "FG3_PCT": 0.342,
+            "FT_PCT": 0.731,
+            "FGM": 222,
+            "FGA": 529,
+            "FG3M": 66,
+            "FG3A": 193,
+            "FTM": 57,
+            "FTA": 78,
+            "GP": 67
+        },
+        "2007-08": {
+            "PPG": 3.1,
+            "APG": 0.4,
+            "RBG": 2.1,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.1,
+            "PM": -1.6,
+            "MPG": 10.6,
+            "FG_PCT": 0.32,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0,
+            "FGM": 8,
+            "FGA": 25,
+            "FG3M": 6,
+            "FG3A": 16,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "TOR"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

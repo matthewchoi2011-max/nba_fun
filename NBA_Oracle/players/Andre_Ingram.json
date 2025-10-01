@@ -1,0 +1,77 @@
+{
+    "player_id": 201281,
+    "full_name": "Andre Ingram",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 12.0,
+            "APG": 3.5,
+            "RBG": 3.0,
+            "SPG": 1.5,
+            "BPG": 1.5,
+            "TPG": 1.5,
+            "PM": 10.0,
+            "MPG": 32.0,
+            "FG_PCT": 0.471,
+            "FG3_PCT": 0.556,
+            "FT_PCT": 1.0,
+            "FGM": 8,
+            "FGA": 17,
+            "FG3M": 5,
+            "FG3A": 9,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 2
+        },
+        "2018-19": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 1.2,
+            "MPG": 3.8,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

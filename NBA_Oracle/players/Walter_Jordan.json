@@ -1,0 +1,57 @@
+{
+    "player_id": 77209,
+    "full_name": "Walter Jordan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 2.3,
+            "APG": 0.4,
+            "RBG": 1.4,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 6.9,
+            "FG_PCT": 0.387,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.588,
+            "FGM": 29,
+            "FGA": 75,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 10,
+            "FTA": 17,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "198",
+        "Position": "Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "84",
+        "Active": false
+    }
+}

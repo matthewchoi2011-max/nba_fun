@@ -1,0 +1,57 @@
+{
+    "player_id": 77242,
+    "full_name": "Frank Kendrick",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 3.3,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.403,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.818,
+            "FGM": 31,
+            "FGA": 77,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 18,
+            "FTA": 22,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "198",
+        "Position": "Forward",
+        "Teams": [
+            "GOS"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "47",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 76239,
+    "full_name": "Brad Branson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 5.3,
+            "APG": 0.6,
+            "RBG": 3.3,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 1.3,
+            "PM": NaN,
+            "MPG": 17.6,
+            "FG_PCT": 0.404,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.917,
+            "FGM": 21,
+            "FGA": 52,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 11,
+            "FTA": 12,
+            "GP": 10
+        },
+        "1982-83": {
+            "PPG": 5.5,
+            "APG": 0.7,
+            "RBG": 2.8,
+            "SPG": 0.4,
+            "BPG": 0.4,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 11.0,
+            "FG_PCT": 0.425,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.704,
+            "FGM": 131,
+            "FGA": 308,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 76,
+            "FTA": 108,
+            "GP": 62
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "CLE",
+            "IND"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "45",
+        "Active": false
+    }
+}

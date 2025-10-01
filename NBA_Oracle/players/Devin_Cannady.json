@@ -1,0 +1,77 @@
+{
+    "player_id": 1629962,
+    "full_name": "Devin Cannady",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 4.2,
+            "APG": 0.1,
+            "RBG": 0.6,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -2.9,
+            "MPG": 9.2,
+            "FG_PCT": 0.393,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.857,
+            "FGM": 11,
+            "FGA": 28,
+            "FG3M": 6,
+            "FG3A": 16,
+            "FTM": 6,
+            "FTA": 7,
+            "GP": 8
+        },
+        "2021-22": {
+            "PPG": 10.0,
+            "APG": 2.0,
+            "RBG": 1.2,
+            "SPG": 1.0,
+            "BPG": 0.6,
+            "TPG": 1.0,
+            "PM": -2.2,
+            "MPG": 29.0,
+            "FG_PCT": 0.341,
+            "FG3_PCT": 0.405,
+            "FT_PCT": 0.714,
+            "FGM": 15,
+            "FGA": 44,
+            "FG3M": 15,
+            "FG3A": 37,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "183",
+        "Position": "Guard",
+        "Teams": [
+            "ORL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

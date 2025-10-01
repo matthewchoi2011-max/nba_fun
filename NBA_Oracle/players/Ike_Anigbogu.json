@@ -1,0 +1,77 @@
+{
+    "player_id": 1628387,
+    "full_name": "Ike Anigbogu",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.1,
+            "BPG": 0.3,
+            "TPG": 0.2,
+            "PM": -1.3,
+            "MPG": 2.7,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.833,
+            "FGM": 4,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 11
+        },
+        "2018-19": {
+            "PPG": 0.0,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": -0.7,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "250",
+        "Position": "Center",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "47",
+        "Active": false
+    }
+}

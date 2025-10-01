@@ -1,0 +1,99 @@
+{
+    "player_id": 76361,
+    "full_name": "Ron Carter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 3.1,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 7.2,
+            "FG_PCT": 0.435,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 54,
+            "FGA": 124,
+            "FG3M": NaN,
+            "FG3A": NaN,
+            "FTM": 36,
+            "FTA": 54,
+            "GP": 46
+        },
+        "1979-80": {
+            "PPG": 2.5,
+            "APG": 0.7,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 9.0,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.286,
+            "FGM": 15,
+            "FGA": 37,
+            "FG3M": 0.0,
+            "FG3A": 0.0,
+            "FTM": 2,
+            "FTA": 7,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {
+        "1978-79": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "IND"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "26",
+        "Active": false
+    }
+}

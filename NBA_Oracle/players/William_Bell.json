@@ -1,0 +1,77 @@
+{
+    "player_id": 76143,
+    "full_name": "William Bell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1959-60": {
+            "PPG": 5.4,
+            "APG": 1.8,
+            "RBG": 2.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.5,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.651,
+            "FGM": 70,
+            "FGA": 185,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 28,
+            "FTA": 43,
+            "GP": 31
+        },
+        "1960-61": {
+            "PPG": 3.0,
+            "APG": 0.2,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.0,
+            "FG_PCT": 0.389,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 7,
+            "FGA": 18,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "player_id": 76022,
+    "full_name": "Gary Alexander",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 1.7,
+            "APG": 0.2,
+            "RBG": 1.4,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 8,
+            "FGA": 14,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 3,
+            "FTA": 9,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "240",
+        "Position": "Forward",
+        "Teams": [
+            "MIA",
+            "CLE",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

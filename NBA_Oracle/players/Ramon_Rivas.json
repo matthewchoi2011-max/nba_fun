@@ -1,0 +1,57 @@
+{
+    "player_id": 77969,
+    "full_name": "Ramon Rivas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 1.4,
+            "APG": 0.1,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 3.2,
+            "FG_PCT": 0.387,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.64,
+            "FGM": 12,
+            "FGA": 31,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 16,
+            "FTA": 25,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "260",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

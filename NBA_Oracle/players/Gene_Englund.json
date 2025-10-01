@@ -1,0 +1,80 @@
+{
+    "player_id": 76677,
+    "full_name": "Gene Englund",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 7.8,
+            "APG": 0.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.38,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.792,
+            "FGM": 104,
+            "FGA": 274,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 152,
+            "FTA": 192,
+            "GP": 46
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 5.5,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.818,
+            "FGM": 1,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 11,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "TCB",
+            "BOS",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

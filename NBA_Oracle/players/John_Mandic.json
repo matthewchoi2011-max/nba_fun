@@ -1,0 +1,80 @@
+{
+    "player_id": 77452,
+    "full_name": "John Mandic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 4.8,
+            "APG": 1.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.321,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.652,
+            "FGM": 97,
+            "FGA": 302,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 75,
+            "FTA": 115,
+            "GP": 56
+        },
+        "1949-50": {
+            "PPG": 2.6,
+            "APG": 0.3,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.293,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.688,
+            "FGM": 22,
+            "FGA": 75,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 32,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "JET",
+            null,
+            "BAL",
+            "TOT"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

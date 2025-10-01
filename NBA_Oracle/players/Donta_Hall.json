@@ -1,0 +1,101 @@
+{
+    "player_id": 1629743,
+    "full_name": "Donta Hall",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 4.3,
+            "APG": 0.4,
+            "RBG": 4.2,
+            "SPG": 0.3,
+            "BPG": 0.7,
+            "TPG": 0.6,
+            "PM": -3.9,
+            "MPG": 14.8,
+            "FG_PCT": 0.682,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 15,
+            "FGA": 22,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 9,
+            "FTA": 18,
+            "GP": 9
+        },
+        "2020-21": {
+            "PPG": 5.6,
+            "APG": 0.8,
+            "RBG": 4.8,
+            "SPG": 0.4,
+            "BPG": 0.8,
+            "TPG": 0.6,
+            "PM": -1.5,
+            "MPG": 13.8,
+            "FG_PCT": 0.714,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.676,
+            "FGM": 25,
+            "FGA": 35,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 23,
+            "FTA": 34,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {
+        "2019-20": {
+            "PPG": 2.3,
+            "APG": 0.0,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.7,
+            "TPG": 0.3,
+            "PM": -5.7,
+            "MPG": 6.7,
+            "FG_PCT": 0.6,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 3,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "230",
+        "Position": "Center",
+        "Teams": [
+            "DET",
+            "BKN",
+            "TOT",
+            "ORL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

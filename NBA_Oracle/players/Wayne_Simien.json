@@ -1,0 +1,100 @@
+{
+    "player_id": 101134,
+    "full_name": "Wayne Simien",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "2005-06"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 3.4,
+            "APG": 0.2,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": -0.9,
+            "MPG": 9.6,
+            "FG_PCT": 0.483,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.882,
+            "FGM": 58,
+            "FGA": 120,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 30,
+            "FTA": 34,
+            "GP": 43
+        },
+        "2006-07": {
+            "PPG": 2.9,
+            "APG": 0.5,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": -3.1,
+            "MPG": 11.6,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 9,
+            "FGA": 23,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {
+        "2005-06": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 0.5,
+            "MPG": 3.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "250",
+        "Position": "Forward",
+        "Teams": [
+            "MIA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "29",
+        "Active": false
+    }
+}

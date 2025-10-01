@@ -1,0 +1,57 @@
+{
+    "player_id": 76646,
+    "full_name": "Bill Edwards",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 2.0,
+            "APG": 1.3,
+            "RBG": 4.7,
+            "SPG": 1.0,
+            "BPG": 0.3,
+            "TPG": 1.3,
+            "PM": NaN,
+            "MPG": 14.7,
+            "FG_PCT": 0.111,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.4,
+            "FGM": 2,
+            "FGA": 18,
+            "FG3M": 0,
+            "FG3A": 5,
+            "FTM": 2,
+            "FTA": 5,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

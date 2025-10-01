@@ -1,0 +1,77 @@
+{
+    "player_id": 101152,
+    "full_name": "Bracey Wright",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2005-06": {
+            "PPG": 8.9,
+            "APG": 0.7,
+            "RBG": 2.6,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 1.1,
+            "PM": -1.1,
+            "MPG": 19.3,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0.353,
+            "FT_PCT": 0.875,
+            "FGM": 21,
+            "FGA": 51,
+            "FG3M": 6,
+            "FG3A": 17,
+            "FTM": 14,
+            "FTA": 16,
+            "GP": 7
+        },
+        "2006-07": {
+            "PPG": 3.5,
+            "APG": 0.8,
+            "RBG": 1.1,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": 2.7,
+            "MPG": 10.0,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.3,
+            "FT_PCT": 0.722,
+            "FGM": 24,
+            "FGA": 60,
+            "FG3M": 6,
+            "FG3A": 20,
+            "FTM": 13,
+            "FTA": 18,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "201",
+        "Position": "Guard",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "47",
+        "Active": false
+    }
+}

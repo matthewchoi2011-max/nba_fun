@@ -1,0 +1,60 @@
+{
+    "player_id": 1628502,
+    "full_name": "Nigel Hayes",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 3.0,
+            "APG": 0.7,
+            "RBG": 2.4,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.2,
+            "PM": 1.0,
+            "MPG": 13.6,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.333,
+            "FGM": 11,
+            "FGA": 33,
+            "FG3M": 4,
+            "FG3A": 16,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "254",
+        "Position": "Forward",
+        "Teams": [
+            "LAL",
+            "TOR",
+            "SAC",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

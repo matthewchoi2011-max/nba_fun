@@ -1,0 +1,120 @@
+{
+    "player_id": 77090,
+    "full_name": "Joe Hutton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1951-52"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1950-51": {
+            "PPG": 2.5,
+            "APG": 0.9,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.328,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.674,
+            "FGM": 59,
+            "FGA": 180,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 29,
+            "FTA": 43,
+            "GP": 60
+        },
+        "1951-52": {
+            "PPG": 2.6,
+            "APG": 1.0,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.1,
+            "FG_PCT": 0.335,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.7,
+            "FGM": 53,
+            "FGA": 158,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 49,
+            "FTA": 70,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {
+        "1950-51": {
+            "PPG": 0.3,
+            "APG": 0.1,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 0,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 7
+        },
+        "1951-52": {
+            "PPG": 2.8,
+            "APG": 1.0,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.6,
+            "FG_PCT": 0.414,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.643,
+            "FGM": 12,
+            "FGA": 29,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 14,
+            "GP": 12
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "MNL"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

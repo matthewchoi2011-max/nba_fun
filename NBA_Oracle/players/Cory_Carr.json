@@ -1,0 +1,57 @@
+{
+    "player_id": 1757,
+    "full_name": "Cory Carr",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1998-99": {
+            "PPG": 4.1,
+            "APG": 1.6,
+            "RBG": 1.2,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 1.1,
+            "PM": -3.6,
+            "MPG": 14.9,
+            "FG_PCT": 0.329,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.75,
+            "FGM": 71,
+            "FGA": 216,
+            "FG3M": 5,
+            "FG3A": 30,
+            "FTM": 24,
+            "FTA": 32,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "49",
+        "Active": false
+    }
+}

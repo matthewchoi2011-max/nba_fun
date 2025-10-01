@@ -1,0 +1,57 @@
+{
+    "player_id": 76128,
+    "full_name": "Sergei Bazarevich",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1994-95": {
+            "PPG": 3.0,
+            "APG": 1.4,
+            "RBG": 0.7,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 7.4,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.778,
+            "FGM": 11,
+            "FGA": 22,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 7,
+            "FTA": 9,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "168",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

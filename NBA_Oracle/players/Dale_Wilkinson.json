@@ -1,0 +1,59 @@
+{
+    "player_id": 78538,
+    "full_name": "Dale Wilkinson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1984-85": {
+            "PPG": 1.2,
+            "APG": 0.2,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 3.8,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.857,
+            "FGM": 4,
+            "FGA": 16,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 6,
+            "FTA": 7,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "DET",
+            "LAC",
+            "TOT"
+        ],
+        "DraftRound": "10",
+        "DraftNumber": "221",
+        "Active": false
+    }
+}

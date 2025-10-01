@@ -1,0 +1,57 @@
+{
+    "player_id": 78541,
+    "full_name": "Chuckie Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 0.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.298,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 14,
+            "FGA": 47,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 12,
+            "GP": 22
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "15",
+        "Active": false
+    }
+}

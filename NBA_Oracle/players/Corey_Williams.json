@@ -1,0 +1,78 @@
+{
+    "player_id": 101258,
+    "full_name": "Corey Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1992-93": {
+            "PPG": 2.3,
+            "APG": 0.7,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 6.9,
+            "FG_PCT": 0.365,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.818,
+            "FGM": 31,
+            "FGA": 85,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 18,
+            "FTA": 22,
+            "GP": 35
+        },
+        "1993-94": {
+            "PPG": 2.8,
+            "APG": 1.5,
+            "RBG": 1.5,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 11.5,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 5,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "CHI",
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

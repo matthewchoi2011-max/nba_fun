@@ -1,0 +1,78 @@
+{
+    "player_id": 76134,
+    "full_name": "Byron Beck",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 4.7,
+            "APG": 0.6,
+            "RBG": 1.8,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.1,
+            "FG_PCT": 0.435,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.818,
+            "FGM": 107,
+            "FGA": 246,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 36,
+            "FTA": 44,
+            "GP": 53
+        }
+    },
+    "playoff_stats": {
+        "1976-77": {
+            "PPG": 1.6,
+            "APG": 0.2,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.8,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 9,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Center",
+        "Teams": [
+            "DEN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "15",
+        "Active": false
+    }
+}

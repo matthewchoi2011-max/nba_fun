@@ -1,0 +1,78 @@
+{
+    "player_id": 76757,
+    "full_name": "Frido Frey",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 3.8,
+            "APG": 0.6,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.289,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 28,
+            "FGA": 97,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 32,
+            "FTA": 56,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 2.0,
+            "APG": 1.4,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.158,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.364,
+            "FGM": 3,
+            "FGA": 19,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 11,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

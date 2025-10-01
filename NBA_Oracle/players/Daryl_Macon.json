@@ -1,0 +1,78 @@
+{
+    "player_id": 1629133,
+    "full_name": "Daryl Macon",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 3.6,
+            "APG": 0.9,
+            "RBG": 1.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -0.8,
+            "MPG": 11.2,
+            "FG_PCT": 0.37,
+            "FG3_PCT": 0.455,
+            "FT_PCT": 0.571,
+            "FGM": 10,
+            "FGA": 27,
+            "FG3M": 5,
+            "FG3A": 11,
+            "FTM": 4,
+            "FTA": 7,
+            "GP": 8
+        },
+        "2019-20": {
+            "PPG": 0.8,
+            "APG": 0.2,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 0.0,
+            "MPG": 3.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "DAL",
+            "MIA"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

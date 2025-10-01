@@ -1,0 +1,57 @@
+{
+    "player_id": 76446,
+    "full_name": "Tom Copa",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 1.5,
+            "APG": 0.1,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0.55,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.308,
+            "FGM": 22,
+            "FGA": 40,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 13,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "275",
+        "Position": "Forward",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

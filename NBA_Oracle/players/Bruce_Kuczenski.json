@@ -1,0 +1,60 @@
+{
+    "player_id": 77318,
+    "full_name": "Bruce Kuczenski",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1983-84": {
+            "PPG": 1.9,
+            "APG": 0.5,
+            "RBG": 1.5,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 7.9,
+            "FG_PCT": 0.27,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 10,
+            "FGA": 37,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 12,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "NJN",
+            "PHL",
+            "IND",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "59",
+        "Active": false
+    }
+}

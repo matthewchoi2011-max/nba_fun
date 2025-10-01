@@ -1,0 +1,57 @@
+{
+    "player_id": 76034,
+    "full_name": "Bob Anderegg",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1959-60": {
+            "PPG": 4.0,
+            "APG": 0.9,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.3,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.548,
+            "FGM": 55,
+            "FGA": 143,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 23,
+            "FTA": 42,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "20",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76637,
+    "full_name": "Kent Edelin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1984-85": {
+            "PPG": 1.1,
+            "APG": 1.0,
+            "RBG": 2.6,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 14.3,
+            "FG_PCT": 0.308,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.375,
+            "FGM": 4,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 3,
+            "FTA": 8,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "140",
+        "Active": false
+    }
+}

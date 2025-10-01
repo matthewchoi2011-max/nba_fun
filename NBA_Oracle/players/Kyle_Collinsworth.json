@@ -1,0 +1,57 @@
+{
+    "player_id": 1627858,
+    "full_name": "Kyle Collinsworth",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 3.2,
+            "APG": 1.8,
+            "RBG": 3.3,
+            "SPG": 0.5,
+            "BPG": 0.3,
+            "TPG": 0.8,
+            "PM": -0.9,
+            "MPG": 15.0,
+            "FG_PCT": 0.384,
+            "FG3_PCT": 0.235,
+            "FT_PCT": 0.525,
+            "FGM": 38,
+            "FGA": 99,
+            "FG3M": 4,
+            "FG3A": 17,
+            "FTM": 21,
+            "FTA": 40,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

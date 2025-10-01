@@ -1,0 +1,57 @@
+{
+    "player_id": 1764,
+    "full_name": "J.R. Henderson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1998-99": {
+            "PPG": 3.2,
+            "APG": 0.7,
+            "RBG": 1.6,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -1.6,
+            "MPG": 11.0,
+            "FG_PCT": 0.365,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.556,
+            "FGM": 35,
+            "FGA": 96,
+            "FG3M": 2,
+            "FG3A": 5,
+            "FTM": 25,
+            "FTA": 45,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "233",
+        "Position": "Forward",
+        "Teams": [
+            "VAN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

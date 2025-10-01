@@ -1,0 +1,98 @@
+{
+    "player_id": 77301,
+    "full_name": "Frank Kornet",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 2.0,
+            "APG": 0.4,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 7.7,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.615,
+            "FGM": 42,
+            "FGA": 114,
+            "FG3M": 5,
+            "FG3A": 20,
+            "FTM": 24,
+            "FTA": 39,
+            "GP": 57
+        },
+        "1990-91": {
+            "PPG": 1.8,
+            "APG": 0.3,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 4.9,
+            "FG_PCT": 0.371,
+            "FG3_PCT": 0.278,
+            "FT_PCT": 0.538,
+            "FGM": 23,
+            "FGA": 62,
+            "FG3M": 5,
+            "FG3A": 18,
+            "FTM": 7,
+            "FTA": 13,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {
+        "1989-90": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "30",
+        "Active": false
+    }
+}

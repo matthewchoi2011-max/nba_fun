@@ -1,0 +1,57 @@
+{
+    "player_id": 76209,
+    "full_name": "Costic Borsavage",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1950-51": {
+            "PPG": 2.7,
+            "APG": 0.2,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.351,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 26,
+            "FGA": 74,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 12,
+            "FTA": 18,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "220",
+        "Position": "Center",
+        "Teams": [
+            "PHW"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 76008,
+    "full_name": "Donald Ackerman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1953-54": {
+            "PPG": 1.5,
+            "APG": 0.8,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.9,
+            "FG_PCT": 0.222,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.536,
+            "FGM": 14,
+            "FGA": 63,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 28,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {
+        "1953-54": {
+            "PPG": 0.5,
+            "APG": 0.2,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "183",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

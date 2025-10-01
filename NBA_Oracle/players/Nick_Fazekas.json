@@ -1,0 +1,59 @@
+{
+    "player_id": 201174,
+    "full_name": "Nick Fazekas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2007-08": {
+            "PPG": 4.1,
+            "APG": 0.4,
+            "RBG": 3.4,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.5,
+            "PM": 0.5,
+            "MPG": 10.3,
+            "FG_PCT": 0.561,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.682,
+            "FGM": 46,
+            "FGA": 82,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 15,
+            "FTA": 22,
+            "GP": 26
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "DAL",
+            "LAC",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": false
+    }
+}

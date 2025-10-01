@@ -1,0 +1,100 @@
+{
+    "player_id": 1641764,
+    "full_name": "Brandin Podziemski",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2023-24"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 9.2,
+            "APG": 3.7,
+            "RBG": 5.8,
+            "SPG": 0.8,
+            "BPG": 0.2,
+            "TPG": 1.2,
+            "PM": 3.6,
+            "MPG": 26.6,
+            "FG_PCT": 0.454,
+            "FG3_PCT": 0.385,
+            "FT_PCT": 0.633,
+            "FGM": 271,
+            "FGA": 597,
+            "FG3M": 90,
+            "FG3A": 234,
+            "FTM": 50,
+            "FTA": 79,
+            "GP": 74
+        },
+        "2024-25": {
+            "PPG": 11.7,
+            "APG": 3.4,
+            "RBG": 5.1,
+            "SPG": 1.1,
+            "BPG": 0.2,
+            "TPG": 1.2,
+            "PM": 4.1,
+            "MPG": 26.8,
+            "FG_PCT": 0.445,
+            "FG3_PCT": 0.372,
+            "FT_PCT": 0.758,
+            "FGM": 280,
+            "FGA": 629,
+            "FG3M": 115,
+            "FG3A": 309,
+            "FTM": 72,
+            "FTA": 95,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 11.2,
+            "APG": 3.1,
+            "RBG": 5.0,
+            "SPG": 1.2,
+            "BPG": 0.2,
+            "TPG": 1.5,
+            "PM": -0.8,
+            "MPG": 32.1,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0.328,
+            "FT_PCT": 0.708,
+            "FGM": 48,
+            "FGA": 132,
+            "FG3M": 22,
+            "FG3A": 67,
+            "FTM": 17,
+            "FTA": 24,
+            "GP": 12
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "19",
+        "Active": true
+    }
+}

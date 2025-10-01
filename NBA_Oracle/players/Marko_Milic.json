@@ -1,0 +1,98 @@
+{
+    "player_id": 1527,
+    "full_name": "Marko Milic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 2.8,
+            "APG": 0.4,
+            "RBG": 0.8,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": 0.7,
+            "MPG": 4.9,
+            "FG_PCT": 0.609,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.647,
+            "FGM": 39,
+            "FGA": 64,
+            "FG3M": 3,
+            "FG3A": 6,
+            "FTM": 11,
+            "FTA": 17,
+            "GP": 33
+        },
+        "1998-99": {
+            "PPG": 1.5,
+            "APG": 0.2,
+            "RBG": 0.5,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -1.7,
+            "MPG": 4.8,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 8,
+            "FGA": 20,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {
+        "1997-98": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 3.5,
+            "MPG": 2.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "235",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

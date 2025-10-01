@@ -1,0 +1,77 @@
+{
+    "player_id": 77288,
+    "full_name": "Ron Knight",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 4.2,
+            "APG": 1.0,
+            "RBG": 3.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.7,
+            "FG_PCT": 0.43,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 99,
+            "FGA": 230,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 19,
+            "FTA": 38,
+            "GP": 52
+        },
+        "1971-72": {
+            "PPG": 5.2,
+            "APG": 0.7,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.9,
+            "FG_PCT": 0.436,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 112,
+            "FGA": 257,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 31,
+            "FTA": 62,
+            "GP": 49
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "76",
+        "Active": false
+    }
+}

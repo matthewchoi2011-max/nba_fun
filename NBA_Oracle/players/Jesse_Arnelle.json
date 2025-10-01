@@ -1,0 +1,57 @@
+{
+    "player_id": 76062,
+    "full_name": "Jesse Arnelle",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1955-56": {
+            "PPG": 4.7,
+            "APG": 0.6,
+            "RBG": 5.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.2,
+            "FG_PCT": 0.317,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.623,
+            "FGM": 52,
+            "FGA": 164,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 43,
+            "FTA": 69,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "FTW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "13",
+        "Active": false
+    }
+}

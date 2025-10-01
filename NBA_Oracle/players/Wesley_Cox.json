@@ -1,0 +1,77 @@
+{
+    "player_id": 76465,
+    "full_name": "Wesley Cox",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 4.6,
+            "APG": 0.3,
+            "RBG": 3.3,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 10.5,
+            "FG_PCT": 0.399,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.58,
+            "FGM": 69,
+            "FGA": 173,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 58,
+            "FTA": 100,
+            "GP": 43
+        },
+        "1978-79": {
+            "PPG": 4.7,
+            "APG": 0.4,
+            "RBG": 2.0,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 1.4,
+            "PM": NaN,
+            "MPG": 11.6,
+            "FG_PCT": 0.431,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.435,
+            "FGM": 53,
+            "FGA": 123,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 40,
+            "FTA": 92,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "GOS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "18",
+        "Active": false
+    }
+}

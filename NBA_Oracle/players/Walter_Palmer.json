@@ -1,0 +1,99 @@
+{
+    "player_id": 77794,
+    "full_name": "Walter Palmer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1990-91": {
+            "PPG": 1.4,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 15,
+            "FGA": 45,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 10,
+            "FTA": 15,
+            "GP": 28
+        },
+        "1992-93": {
+            "PPG": 3.0,
+            "APG": 0.2,
+            "RBG": 2.2,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 6.2,
+            "FG_PCT": 0.474,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 27,
+            "FGA": 57,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 9,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {
+        "1990-91": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 85,
+        "Weight": "215",
+        "Position": "Center",
+        "Teams": [
+            "UTH",
+            "DAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 2471,
+    "full_name": "Mike Batiste",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 6.4,
+            "APG": 0.7,
+            "RBG": 3.4,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.9,
+            "PM": -1.9,
+            "MPG": 16.6,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.784,
+            "FGM": 197,
+            "FGA": 467,
+            "FG3M": 18,
+            "FG3A": 81,
+            "FTM": 69,
+            "FTA": 88,
+            "GP": 75
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

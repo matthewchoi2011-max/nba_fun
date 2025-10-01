@@ -1,0 +1,57 @@
+{
+    "player_id": 202077,
+    "full_name": "Jerel McNeal",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 1.5,
+            "APG": 0.3,
+            "RBG": 0.5,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -0.5,
+            "MPG": 6.0,
+            "FG_PCT": 0.273,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 11,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

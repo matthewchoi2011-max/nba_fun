@@ -1,0 +1,57 @@
+{
+    "player_id": 1641737,
+    "full_name": "Adem Bona",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 5.8,
+            "APG": 0.5,
+            "RBG": 4.2,
+            "SPG": 0.4,
+            "BPG": 1.2,
+            "TPG": 1.1,
+            "PM": -1.9,
+            "MPG": 15.6,
+            "FG_PCT": 0.703,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.67,
+            "FGM": 135,
+            "FGA": 192,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 67,
+            "FTA": 100,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "41",
+        "Active": true
+    }
+}

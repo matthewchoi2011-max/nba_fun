@@ -1,0 +1,80 @@
+{
+    "player_id": 78177,
+    "full_name": "Jack Smiley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 6.7,
+            "APG": 2.3,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.247,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.683,
+            "FGM": 141,
+            "FGA": 571,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 112,
+            "FTA": 164,
+            "GP": 59
+        },
+        "1949-50": {
+            "PPG": 5.6,
+            "APG": 2.7,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.269,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.677,
+            "FGM": 98,
+            "FGA": 364,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 136,
+            "FTA": 201,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "FTW",
+            "AND",
+            "WAT",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76481,
+    "full_name": "Mark Crow",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 5.6,
+            "APG": 0.5,
+            "RBG": 1.8,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 10.3,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.7,
+            "FGM": 35,
+            "FGA": 80,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 14,
+            "FTA": 20,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "NJN"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "111",
+        "Active": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 77771,
+    "full_name": "Jose Ortiz",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 2.8,
+            "APG": 0.2,
+            "RBG": 1.1,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 6.4,
+            "FG_PCT": 0.44,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.596,
+            "FGM": 55,
+            "FGA": 125,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 31,
+            "FTA": 52,
+            "GP": 51
+        },
+        "1989-90": {
+            "PPG": 3.2,
+            "APG": 0.5,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 4.9,
+            "FG_PCT": 0.452,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.6,
+            "FGM": 19,
+            "FGA": 42,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "UTH"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "15",
+        "Active": false
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "player_id": 78380,
+    "full_name": "Jack Turner",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1954-55": {
+            "PPG": 4.3,
+            "APG": 1.2,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.2,
+            "FG_PCT": 0.36,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.789,
+            "FGM": 111,
+            "FGA": 308,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 60,
+            "FTA": 76,
+            "GP": 65
+        },
+        "1961-62": {
+            "PPG": 4.8,
+            "APG": 1.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.5,
+            "FG_PCT": 0.38,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.762,
+            "FGM": 84,
+            "FGA": 221,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 32,
+            "FTA": 42,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {
+        "1954-55": {
+            "PPG": 2.5,
+            "APG": 1.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 2,
+            "FGA": 6,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "CHP"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "18",
+        "Active": false
+    }
+}

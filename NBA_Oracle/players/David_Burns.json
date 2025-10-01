@@ -1,0 +1,59 @@
+{
+    "player_id": 76307,
+    "full_name": "David Burns",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 2.6,
+            "APG": 1.7,
+            "RBG": 0.6,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 1.4,
+            "PM": NaN,
+            "MPG": 9.7,
+            "FG_PCT": 0.438,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.6,
+            "FGM": 7,
+            "FGA": 16,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 9,
+            "FTA": 15,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "NJN",
+            "DEN",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "49",
+        "Active": false
+    }
+}

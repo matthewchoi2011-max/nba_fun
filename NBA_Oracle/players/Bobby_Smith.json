@@ -1,0 +1,78 @@
+{
+    "player_id": 78203,
+    "full_name": "Bobby Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1959-60": {
+            "PPG": 3.7,
+            "APG": 1.4,
+            "RBG": 3.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.0,
+            "FG_PCT": 0.241,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.688,
+            "FGM": 13,
+            "FGA": 54,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 16,
+            "GP": 10
+        },
+        "1961-62": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "MNL",
+            "LAL"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "18",
+        "Active": false
+    }
+}

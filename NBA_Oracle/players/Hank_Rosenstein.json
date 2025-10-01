@@ -1,0 +1,59 @@
+{
+    "player_id": 78019,
+    "full_name": "Hank Rosenstein",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 6.4,
+            "APG": 0.6,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.305,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.64,
+            "FGM": 119,
+            "FGA": 390,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 144,
+            "FTA": 225,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Forward",
+        "Teams": [
+            "NYK",
+            "PRO",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

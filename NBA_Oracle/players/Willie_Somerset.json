@@ -1,0 +1,57 @@
+{
+    "player_id": 78219,
+    "full_name": "Willie Somerset",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1965-66": {
+            "PPG": 5.6,
+            "APG": 1.1,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.2,
+            "FG_PCT": 0.419,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.818,
+            "FGM": 18,
+            "FGA": 43,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 11,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 68,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "BLT"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

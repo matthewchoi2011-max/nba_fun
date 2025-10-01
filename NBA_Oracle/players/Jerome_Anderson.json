@@ -1,0 +1,101 @@
+{
+    "player_id": 76040,
+    "full_name": "Jerome Anderson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1975-76"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1975-76": {
+            "PPG": 2.8,
+            "APG": 0.3,
+            "RBG": 0.6,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.7,
+            "FG_PCT": 0.556,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.688,
+            "FGM": 25,
+            "FGA": 45,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 16,
+            "GP": 22
+        },
+        "1976-77": {
+            "PPG": 2.4,
+            "APG": 0.4,
+            "RBG": 0.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.1,
+            "FG_PCT": 0.441,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.7,
+            "FGM": 26,
+            "FGA": 59,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 14,
+            "FTA": 20,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {
+        "1975-76": {
+            "PPG": 0.5,
+            "APG": 0.2,
+            "RBG": 0.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.2,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "BOS",
+            "IND"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "53",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 78630,
+    "full_name": "Wayne Yates",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 1.9,
+            "APG": 0.4,
+            "RBG": 2.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.295,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.455,
+            "FGM": 31,
+            "FGA": 105,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 10,
+            "FTA": 22,
+            "GP": 37
+        }
+    },
+    "playoff_stats": {
+        "1961-62": {
+            "PPG": 1.8,
+            "APG": 0.2,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 8,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "235",
+        "Position": "Center",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "5",
+        "Active": false
+    }
+}

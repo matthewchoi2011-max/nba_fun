@@ -1,0 +1,57 @@
+{
+    "player_id": 200786,
+    "full_name": "David Noel",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2006-07": {
+            "PPG": 2.7,
+            "APG": 1.0,
+            "RBG": 1.8,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -2.6,
+            "MPG": 11.6,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0.321,
+            "FT_PCT": 0.86,
+            "FGM": 65,
+            "FGA": 177,
+            "FG3M": 17,
+            "FG3A": 53,
+            "FTM": 37,
+            "FTA": 43,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "230",
+        "Position": "Forward-Guard",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "39",
+        "Active": false
+    }
+}

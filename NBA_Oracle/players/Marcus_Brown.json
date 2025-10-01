@@ -1,0 +1,78 @@
+{
+    "player_id": 992,
+    "full_name": "Marcus Brown",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 3.9,
+            "APG": 1.0,
+            "RBG": 0.7,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": 1.0,
+            "MPG": 8.7,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.406,
+            "FT_PCT": 0.684,
+            "FGM": 28,
+            "FGA": 70,
+            "FG3M": 13,
+            "FG3A": 32,
+            "FTM": 13,
+            "FTA": 19,
+            "GP": 21
+        },
+        "1999-00": {
+            "PPG": 1.7,
+            "APG": 0.5,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -6.5,
+            "MPG": 7.5,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 14,
+            "FG3M": 0,
+            "FG3A": 7,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "POR",
+            "DET"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 1631248,
+    "full_name": "Baylor Scheierman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 3.6,
+            "APG": 1.1,
+            "RBG": 2.1,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": 0.9,
+            "MPG": 12.4,
+            "FG_PCT": 0.355,
+            "FG3_PCT": 0.317,
+            "FT_PCT": 0.75,
+            "FGM": 39,
+            "FGA": 110,
+            "FG3M": 26,
+            "FG3A": 82,
+            "FTM": 9,
+            "FTA": 12,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -0.2,
+            "MPG": 5.5,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 10,
+            "FG3M": 2,
+            "FG3A": 5,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "30",
+        "Active": true
+    }
+}

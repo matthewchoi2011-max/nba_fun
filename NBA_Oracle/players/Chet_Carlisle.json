@@ -1,0 +1,78 @@
+{
+    "player_id": 76341,
+    "full_name": "Chet Carlisle",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 5.0,
+            "APG": 0.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.268,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.609,
+            "FGM": 100,
+            "FGA": 373,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 56,
+            "FTA": 92,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 5.6,
+            "APG": 0.2,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.227,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 20,
+            "FGA": 88,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 16,
+            "FTA": 28,
+            "GP": 10
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "CHS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

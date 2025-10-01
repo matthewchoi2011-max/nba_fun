@@ -1,0 +1,77 @@
+{
+    "player_id": 1628469,
+    "full_name": "Antonio Blakeney",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 7.9,
+            "APG": 1.1,
+            "RBG": 1.7,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -0.3,
+            "MPG": 16.5,
+            "FG_PCT": 0.371,
+            "FG3_PCT": 0.288,
+            "FT_PCT": 0.769,
+            "FGM": 53,
+            "FGA": 143,
+            "FG3M": 15,
+            "FG3A": 52,
+            "FTM": 30,
+            "FTA": 39,
+            "GP": 19
+        },
+        "2018-19": {
+            "PPG": 7.3,
+            "APG": 0.7,
+            "RBG": 1.9,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -2.6,
+            "MPG": 14.5,
+            "FG_PCT": 0.419,
+            "FG3_PCT": 0.396,
+            "FT_PCT": 0.658,
+            "FGM": 166,
+            "FGA": 396,
+            "FG3M": 36,
+            "FG3A": 91,
+            "FTM": 50,
+            "FTA": 76,
+            "GP": 57
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "192",
+        "Position": "Guard",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "player_id": 706,
+    "full_name": "Jerome Allen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1995-96": {
+            "PPG": 2.6,
+            "APG": 1.2,
+            "RBG": 0.6,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 8.8,
+            "FG_PCT": 0.343,
+            "FG3_PCT": 0.303,
+            "FT_PCT": 0.722,
+            "FGM": 36,
+            "FGA": 105,
+            "FG3M": 10,
+            "FG3A": 33,
+            "FTM": 26,
+            "FTA": 36,
+            "GP": 41
+        },
+        "1996-97": {
+            "PPG": 3.0,
+            "APG": 2.0,
+            "RBG": 1.3,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": -1.1,
+            "MPG": 12.4,
+            "FG_PCT": 0.353,
+            "FG3_PCT": 0.323,
+            "FT_PCT": 0.583,
+            "FGM": 78,
+            "FGA": 221,
+            "FG3M": 30,
+            "FG3A": 93,
+            "FTM": 42,
+            "FTA": 72,
+            "GP": 76
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "184",
+        "Position": "Guard",
+        "Teams": [
+            "MIN",
+            "IND",
+            "DEN",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "49",
+        "Active": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "player_id": 77624,
+    "full_name": "Jack Molinas",
+    "awards": {
+        "NBA All-Star": [
+            "1953-54"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1953-54": {
+            "PPG": 12.1,
+            "APG": 1.6,
+            "RBG": 7.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 34.2,
+            "FG_PCT": 0.388,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.761,
+            "FGM": 108,
+            "FGA": 278,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 134,
+            "FTA": 176,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "FTW"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "3",
+        "Active": false
+    }
+}

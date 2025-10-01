@@ -1,0 +1,77 @@
+{
+    "player_id": 76036,
+    "full_name": "Daniel Anderson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 2.8,
+            "APG": 1.9,
+            "RBG": 0.7,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.5,
+            "FG_PCT": 0.448,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.867,
+            "FGM": 47,
+            "FGA": 105,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 26,
+            "FTA": 30,
+            "GP": 43
+        },
+        "1975-76": {
+            "PPG": 4.4,
+            "APG": 1.6,
+            "RBG": 1.2,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.8,
+            "FG_PCT": 0.486,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.836,
+            "FGM": 88,
+            "FGA": 181,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 51,
+            "FTA": 61,
+            "GP": 52
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "92",
+        "Active": false
+    }
+}

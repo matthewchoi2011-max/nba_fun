@@ -1,0 +1,78 @@
+{
+    "player_id": 201199,
+    "full_name": "DJ Strawberry",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2007-08": {
+            "PPG": 2.2,
+            "APG": 0.9,
+            "RBG": 0.8,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": -1.2,
+            "MPG": 8.2,
+            "FG_PCT": 0.315,
+            "FG3_PCT": 0.24,
+            "FT_PCT": 0.474,
+            "FGM": 29,
+            "FGA": 92,
+            "FG3M": 6,
+            "FG3A": 25,
+            "FTM": 9,
+            "FTA": 19,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {
+        "2007-08": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -9.0,
+            "MPG": 5.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "201",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "59",
+        "Active": false
+    }
+}

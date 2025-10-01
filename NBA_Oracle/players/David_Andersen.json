@@ -1,0 +1,80 @@
+{
+    "player_id": 2431,
+    "full_name": "David Andersen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2009-10": {
+            "PPG": 5.8,
+            "APG": 0.7,
+            "RBG": 3.3,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": 0.5,
+            "MPG": 14.1,
+            "FG_PCT": 0.432,
+            "FG3_PCT": 0.346,
+            "FT_PCT": 0.687,
+            "FGM": 147,
+            "FGA": 340,
+            "FG3M": 27,
+            "FG3A": 78,
+            "FTM": 46,
+            "FTA": 67,
+            "GP": 63
+        },
+        "2010-11": {
+            "PPG": 3.4,
+            "APG": 0.3,
+            "RBG": 2.1,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": 0.5,
+            "MPG": 9.3,
+            "FG_PCT": 0.463,
+            "FG3_PCT": 0.348,
+            "FT_PCT": 0.636,
+            "FGM": 56,
+            "FGA": 121,
+            "FG3M": 8,
+            "FG3A": 23,
+            "FTM": 14,
+            "FTA": 22,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "HOU",
+            "TOR",
+            "NOH",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "36",
+        "Active": false
+    }
+}

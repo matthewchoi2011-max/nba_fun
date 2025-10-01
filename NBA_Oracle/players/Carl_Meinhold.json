@@ -1,0 +1,103 @@
+{
+    "player_id": 77574,
+    "full_name": "Carl Meinhold",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1947-48"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1947-48": {
+            "PPG": 5.3,
+            "APG": 0.3,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.303,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.617,
+            "FGM": 108,
+            "FGA": 356,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 37,
+            "FTA": 60,
+            "GP": 48
+        },
+        "1948-49": {
+            "PPG": 5.3,
+            "APG": 0.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.33,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.635,
+            "FGM": 101,
+            "FGA": 306,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 61,
+            "FTA": 96,
+            "GP": 50
+        }
+    },
+    "playoff_stats": {
+        "1947-48": {
+            "PPG": 3.6,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.254,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.462,
+            "FGM": 17,
+            "FGA": 67,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 13,
+            "GP": 11
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "BAL",
+            "PRO",
+            "CHS",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

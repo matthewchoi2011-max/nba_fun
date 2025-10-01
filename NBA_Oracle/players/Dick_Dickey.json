@@ -1,0 +1,78 @@
+{
+    "player_id": 76565,
+    "full_name": "Dick Dickey",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1951-52": {
+            "PPG": 2.8,
+            "APG": 1.1,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.8,
+            "FG_PCT": 0.294,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.681,
+            "FGM": 40,
+            "FGA": 136,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 47,
+            "FTA": 69,
+            "GP": 45
+        }
+    },
+    "playoff_stats": {
+        "1951-52": {
+            "PPG": 2.7,
+            "APG": 1.7,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.3,
+            "FG_PCT": 0.125,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.857,
+            "FGM": 1,
+            "FGA": 8,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 7,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

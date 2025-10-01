@@ -1,0 +1,78 @@
+{
+    "player_id": 204037,
+    "full_name": "Travis Wear",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 3.9,
+            "APG": 0.8,
+            "RBG": 2.1,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -1.6,
+            "MPG": 13.2,
+            "FG_PCT": 0.402,
+            "FG3_PCT": 0.367,
+            "FT_PCT": 0.769,
+            "FGM": 84,
+            "FGA": 209,
+            "FG3M": 11,
+            "FG3A": 30,
+            "FTM": 20,
+            "FTA": 26,
+            "GP": 51
+        },
+        "2017-18": {
+            "PPG": 4.4,
+            "APG": 0.4,
+            "RBG": 2.2,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.4,
+            "PM": 0.6,
+            "MPG": 13.4,
+            "FG_PCT": 0.347,
+            "FG3_PCT": 0.362,
+            "FT_PCT": 1.0,
+            "FGM": 25,
+            "FGA": 72,
+            "FG3M": 17,
+            "FG3A": 47,
+            "FTM": 8,
+            "FTA": 8,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "NYK",
+            "LAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

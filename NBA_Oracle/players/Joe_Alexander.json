@@ -1,0 +1,78 @@
+{
+    "player_id": 201570,
+    "full_name": "Joe Alexander",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2008-09": {
+            "PPG": 4.7,
+            "APG": 0.7,
+            "RBG": 1.9,
+            "SPG": 0.3,
+            "BPG": 0.5,
+            "TPG": 0.9,
+            "PM": -0.5,
+            "MPG": 12.1,
+            "FG_PCT": 0.416,
+            "FG3_PCT": 0.348,
+            "FT_PCT": 0.699,
+            "FGM": 102,
+            "FGA": 245,
+            "FG3M": 16,
+            "FG3A": 46,
+            "FTM": 58,
+            "FTA": 83,
+            "GP": 59
+        },
+        "2009-10": {
+            "PPG": 0.5,
+            "APG": 0.2,
+            "RBG": 0.6,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": -1.2,
+            "MPG": 3.6,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 1,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "MIL",
+            "CHI"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "8",
+        "Active": false
+    }
+}

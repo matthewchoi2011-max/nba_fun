@@ -1,0 +1,78 @@
+{
+    "player_id": 78191,
+    "full_name": "Jim Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 2.9,
+            "APG": 0.6,
+            "RBG": 2.5,
+            "SPG": 0.3,
+            "BPG": 0.7,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 11.9,
+            "FG_PCT": 0.509,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.459,
+            "FGM": 86,
+            "FGA": 169,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 39,
+            "FTA": 85,
+            "GP": 72
+        },
+        "1982-83": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.5,
+            "FG_PCT": 0.75,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "SDC",
+            "DET"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "54",
+        "Active": false
+    }
+}

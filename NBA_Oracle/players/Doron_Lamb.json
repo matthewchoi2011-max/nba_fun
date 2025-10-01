@@ -1,0 +1,79 @@
+{
+    "player_id": 203117,
+    "full_name": "Doron Lamb",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2012-13": {
+            "PPG": 3.3,
+            "APG": 0.7,
+            "RBG": 1.0,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": -1.8,
+            "MPG": 12.3,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0.378,
+            "FT_PCT": 0.588,
+            "FGM": 60,
+            "FGA": 163,
+            "FG3M": 14,
+            "FG3A": 37,
+            "FTM": 20,
+            "FTA": 34,
+            "GP": 47
+        },
+        "2013-14": {
+            "PPG": 3.6,
+            "APG": 0.8,
+            "RBG": 0.9,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -0.0,
+            "MPG": 13.1,
+            "FG_PCT": 0.394,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.806,
+            "FGM": 63,
+            "FGA": 160,
+            "FG3M": 36,
+            "FG3A": 90,
+            "FTM": 29,
+            "FTA": 36,
+            "GP": 53
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "MIL",
+            "ORL",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "42",
+        "Active": false
+    }
+}

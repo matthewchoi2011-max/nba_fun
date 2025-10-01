@@ -1,0 +1,78 @@
+{
+    "player_id": 1627850,
+    "full_name": "Marshall Plumlee",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 1.9,
+            "APG": 0.5,
+            "RBG": 2.4,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -0.1,
+            "MPG": 8.1,
+            "FG_PCT": 0.533,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.421,
+            "FGM": 16,
+            "FGA": 30,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 19,
+            "GP": 21
+        },
+        "2017-18": {
+            "PPG": 1.8,
+            "APG": 0.2,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -0.1,
+            "MPG": 6.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 12,
+            "FTA": 16,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "250",
+        "Position": "Center",
+        "Teams": [
+            "NYK",
+            "MIL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

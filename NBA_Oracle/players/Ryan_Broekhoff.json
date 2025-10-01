@@ -1,0 +1,77 @@
+{
+    "player_id": 1629151,
+    "full_name": "Ryan Broekhoff",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 4.0,
+            "APG": 0.5,
+            "RBG": 1.5,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": 1.7,
+            "MPG": 10.8,
+            "FG_PCT": 0.452,
+            "FG3_PCT": 0.409,
+            "FT_PCT": 0.789,
+            "FGM": 57,
+            "FGA": 126,
+            "FG3M": 38,
+            "FG3A": 93,
+            "FTM": 15,
+            "FTA": 19,
+            "GP": 42
+        },
+        "2019-20": {
+            "PPG": 4.2,
+            "APG": 0.6,
+            "RBG": 2.5,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": 0.5,
+            "MPG": 10.6,
+            "FG_PCT": 0.373,
+            "FG3_PCT": 0.392,
+            "FT_PCT": 0.875,
+            "FGM": 22,
+            "FGA": 59,
+            "FG3M": 20,
+            "FG3A": 51,
+            "FTM": 7,
+            "FTA": 8,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

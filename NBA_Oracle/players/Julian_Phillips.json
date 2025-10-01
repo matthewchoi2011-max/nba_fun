@@ -1,0 +1,77 @@
+{
+    "player_id": 1641763,
+    "full_name": "Julian Phillips",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 2.2,
+            "APG": 0.3,
+            "RBG": 0.9,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": -0.2,
+            "MPG": 8.1,
+            "FG_PCT": 0.416,
+            "FG3_PCT": 0.316,
+            "FT_PCT": 0.684,
+            "FGM": 32,
+            "FGA": 77,
+            "FG3M": 12,
+            "FG3A": 38,
+            "FTM": 13,
+            "FTA": 19,
+            "GP": 40
+        },
+        "2024-25": {
+            "PPG": 4.6,
+            "APG": 0.5,
+            "RBG": 2.1,
+            "SPG": 0.5,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": 0.4,
+            "MPG": 14.2,
+            "FG_PCT": 0.446,
+            "FG3_PCT": 0.327,
+            "FT_PCT": 0.789,
+            "FGM": 128,
+            "FGA": 287,
+            "FG3M": 50,
+            "FG3A": 153,
+            "FTM": 60,
+            "FTA": 76,
+            "GP": 79
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "198",
+        "Position": "Forward",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": true
+    }
+}

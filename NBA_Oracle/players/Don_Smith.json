@@ -1,0 +1,57 @@
+{
+    "player_id": 78184,
+    "full_name": "Don Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 5.2,
+            "APG": 0.9,
+            "RBG": 0.6,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.0,
+            "FG_PCT": 0.408,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 131,
+            "FGA": 321,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 21,
+            "FTA": 21,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "160",
+        "Position": "Guard",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "19",
+        "Active": false
+    }
+}

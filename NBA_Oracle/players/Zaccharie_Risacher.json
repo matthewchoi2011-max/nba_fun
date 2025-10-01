@@ -1,0 +1,59 @@
+{
+    "player_id": 1642258,
+    "full_name": "Zaccharie Risacher",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2024-25"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 12.6,
+            "APG": 1.2,
+            "RBG": 3.6,
+            "SPG": 0.7,
+            "BPG": 0.5,
+            "TPG": 1.2,
+            "PM": -1.6,
+            "MPG": 24.6,
+            "FG_PCT": 0.458,
+            "FG3_PCT": 0.355,
+            "FT_PCT": 0.711,
+            "FGM": 357,
+            "FGA": 779,
+            "FG3M": 122,
+            "FG3A": 344,
+            "FTM": 106,
+            "FTA": 149,
+            "GP": 75
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "1",
+        "Active": true
+    }
+}

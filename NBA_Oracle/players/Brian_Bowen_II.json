@@ -1,0 +1,77 @@
+{
+    "player_id": 1628968,
+    "full_name": "Brian Bowen II",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": 2.2,
+            "MPG": 5.2,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 10,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 6
+        },
+        "2020-21": {
+            "PPG": 0.5,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.5,
+            "MPG": 2.5,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "190",
+        "Position": "Forward-Guard",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

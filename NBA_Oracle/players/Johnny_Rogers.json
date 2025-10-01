@@ -1,0 +1,78 @@
+{
+    "player_id": 78007,
+    "full_name": "Johnny Rogers",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1986-87": {
+            "PPG": 4.2,
+            "APG": 0.6,
+            "RBG": 1.7,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 10.4,
+            "FG_PCT": 0.486,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 90,
+            "FGA": 185,
+            "FG3M": 0,
+            "FG3A": 5,
+            "FTM": 9,
+            "FTA": 15,
+            "GP": 45
+        },
+        "1987-88": {
+            "PPG": 2.6,
+            "APG": 0.1,
+            "RBG": 1.1,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.426,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.769,
+            "FGM": 26,
+            "FGA": 61,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 10,
+            "FTA": 13,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "SAC",
+            "CLE"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "34",
+        "Active": false
+    }
+}

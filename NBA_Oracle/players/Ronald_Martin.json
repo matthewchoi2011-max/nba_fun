@@ -1,0 +1,57 @@
+{
+    "player_id": 77479,
+    "full_name": "Ronald Martin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 3.4,
+            "APG": 1.7,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.4,
+            "FG_PCT": 0.325,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.673,
+            "FGM": 95,
+            "FGA": 292,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 37,
+            "FTA": 55,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "10",
+        "Active": false
+    }
+}

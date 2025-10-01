@@ -1,0 +1,57 @@
+{
+    "player_id": 78445,
+    "full_name": "Jamie Waller",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 4.7,
+            "APG": 0.3,
+            "RBG": 1.4,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": NaN,
+            "MPG": 10.1,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.556,
+            "FGM": 16,
+            "FGA": 40,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 10,
+            "FTA": 18,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "NJN"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

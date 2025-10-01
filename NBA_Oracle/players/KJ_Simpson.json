@@ -1,0 +1,57 @@
+{
+    "player_id": 1642354,
+    "full_name": "KJ Simpson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 7.8,
+            "APG": 3.1,
+            "RBG": 3.0,
+            "SPG": 0.9,
+            "BPG": 0.2,
+            "TPG": 1.6,
+            "PM": -7.7,
+            "MPG": 23.4,
+            "FG_PCT": 0.346,
+            "FG3_PCT": 0.254,
+            "FT_PCT": 0.82,
+            "FGM": 104,
+            "FGA": 301,
+            "FG3M": 33,
+            "FG3A": 130,
+            "FTM": 41,
+            "FTA": 50,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "189",
+        "Position": "Guard",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "42",
+        "Active": true
+    }
+}

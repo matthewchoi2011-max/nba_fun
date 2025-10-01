@@ -1,0 +1,78 @@
+{
+    "player_id": 1630585,
+    "full_name": "Marcus Garrett",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 1.1,
+            "APG": 0.6,
+            "RBG": 1.9,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": 1.4,
+            "MPG": 10.7,
+            "FG_PCT": 0.238,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.4,
+            "FGM": 5,
+            "FGA": 21,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 2,
+            "FTA": 5,
+            "GP": 12
+        },
+        "2024-25": {
+            "PPG": 7.0,
+            "APG": 3.2,
+            "RBG": 1.5,
+            "SPG": 0.8,
+            "BPG": 0.5,
+            "TPG": 1.5,
+            "PM": -9.8,
+            "MPG": 19.8,
+            "FG_PCT": 0.407,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.75,
+            "FGM": 11,
+            "FGA": 27,
+            "FG3M": 3,
+            "FG3A": 8,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "MIA",
+            "CHA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

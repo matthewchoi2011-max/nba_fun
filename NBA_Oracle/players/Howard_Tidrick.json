@@ -1,0 +1,80 @@
+{
+    "player_id": 78341,
+    "full_name": "Howard Tidrick",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 9.0,
+            "APG": 1.7,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.315,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.8,
+            "FGM": 194,
+            "FGA": 616,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 164,
+            "FTA": 205,
+            "GP": 61
+        }
+    },
+    "playoff_stats": {
+        "1948-49": {
+            "PPG": 4.3,
+            "APG": 0.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.263,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 5,
+            "FGA": 19,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "BAL",
+            "JET",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

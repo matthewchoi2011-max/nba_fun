@@ -1,0 +1,78 @@
+{
+    "player_id": 1642277,
+    "full_name": "Johnny Furphy",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 2.1,
+            "APG": 0.4,
+            "RBG": 1.4,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": 0.4,
+            "MPG": 7.6,
+            "FG_PCT": 0.38,
+            "FG3_PCT": 0.3,
+            "FT_PCT": 0.818,
+            "FGM": 35,
+            "FGA": 92,
+            "FG3M": 15,
+            "FG3A": 50,
+            "FTM": 18,
+            "FTA": 22,
+            "GP": 50
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 0.2,
+            "APG": 0.1,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.1,
+            "PM": -0.8,
+            "MPG": 3.2,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 1,
+            "GP": 11
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": true
+    }
+}

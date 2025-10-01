@@ -1,0 +1,57 @@
+{
+    "player_id": 1627773,
+    "full_name": "AJ Hammons",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 2.2,
+            "APG": 0.2,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.6,
+            "TPG": 0.5,
+            "PM": -0.2,
+            "MPG": 7.4,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.45,
+            "FGM": 17,
+            "FGA": 42,
+            "FG3M": 5,
+            "FG3A": 10,
+            "FTM": 9,
+            "FTA": 20,
+            "GP": 22
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "260",
+        "Position": "Center",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

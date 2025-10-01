@@ -1,0 +1,80 @@
+{
+    "player_id": 77170,
+    "full_name": "Nate Johnston",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 2.2,
+            "APG": 0.0,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.4,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 4.1,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.692,
+            "FGM": 18,
+            "FGA": 48,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 9,
+            "FTA": 13,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {
+        "1989-90": {
+            "PPG": 4.3,
+            "APG": 0.3,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.3,
+            "FG_PCT": 0.545,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 6,
+            "FGA": 11,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "210",
+        "Position": "Center",
+        "Teams": [
+            "UTH",
+            "POR",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "59",
+        "Active": false
+    }
+}

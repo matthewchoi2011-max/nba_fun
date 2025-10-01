@@ -1,0 +1,57 @@
+{
+    "player_id": 77025,
+    "full_name": "Cleo Hill",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 5.5,
+            "APG": 2.0,
+            "RBG": 3.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 18.1,
+            "FG_PCT": 0.346,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.774,
+            "FGM": 107,
+            "FGA": 309,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 106,
+            "FTA": 137,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "STL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "8",
+        "Active": false
+    }
+}

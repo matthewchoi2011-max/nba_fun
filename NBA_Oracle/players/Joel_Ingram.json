@@ -1,0 +1,57 @@
+{
+    "player_id": 77095,
+    "full_name": "Joel Ingram",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1957-58": {
+            "PPG": 2.8,
+            "APG": 0.8,
+            "RBG": 4.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.1,
+            "FG_PCT": 0.262,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.464,
+            "FGM": 27,
+            "FGA": 103,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 13,
+            "FTA": 28,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "MNL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

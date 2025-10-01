@@ -1,0 +1,57 @@
+{
+    "player_id": 1629102,
+    "full_name": "Brandon Sampson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 5.1,
+            "APG": 0.7,
+            "RBG": 1.1,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.9,
+            "PM": -2.0,
+            "MPG": 15.3,
+            "FG_PCT": 0.467,
+            "FG3_PCT": 0.379,
+            "FT_PCT": 0.667,
+            "FGM": 28,
+            "FGA": 60,
+            "FG3M": 11,
+            "FG3A": 29,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "184",
+        "Position": "Guard",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

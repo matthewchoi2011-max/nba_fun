@@ -1,0 +1,57 @@
+{
+    "player_id": 76544,
+    "full_name": "Greg Deane",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 1.4,
+            "APG": 0.9,
+            "RBG": 0.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 6.9,
+            "FG_PCT": 0.182,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0.714,
+            "FGM": 2,
+            "FGA": 11,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "UTH"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "67",
+        "Active": false
+    }
+}

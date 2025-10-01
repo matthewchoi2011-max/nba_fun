@@ -1,0 +1,57 @@
+{
+    "player_id": 76952,
+    "full_name": "Jerome Harmon",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1994-95": {
+            "PPG": 4.6,
+            "APG": 1.2,
+            "RBG": 2.3,
+            "SPG": 0.9,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 15.8,
+            "FG_PCT": 0.396,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0.5,
+            "FGM": 21,
+            "FGA": 53,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

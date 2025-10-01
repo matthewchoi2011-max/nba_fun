@@ -1,0 +1,57 @@
+{
+    "player_id": 76463,
+    "full_name": "John Cox",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 4.1,
+            "APG": 0.9,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 1.3,
+            "PM": NaN,
+            "MPG": 11.1,
+            "FG_PCT": 0.351,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 13,
+            "FGA": 37,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "159",
+        "Active": false
+    }
+}

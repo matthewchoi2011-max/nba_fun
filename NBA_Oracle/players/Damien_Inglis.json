@@ -1,0 +1,57 @@
+{
+    "player_id": 203996,
+    "full_name": "Damien Inglis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2015-16": {
+            "PPG": 1.8,
+            "APG": 0.5,
+            "RBG": 1.6,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -2.2,
+            "MPG": 7.8,
+            "FG_PCT": 0.351,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0.875,
+            "FGM": 13,
+            "FGA": 37,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 7,
+            "FTA": 8,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "246",
+        "Position": "Forward",
+        "Teams": [
+            "MIL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

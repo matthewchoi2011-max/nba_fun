@@ -1,0 +1,57 @@
+{
+    "player_id": 76765,
+    "full_name": "Tony Fuller",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 4.0,
+            "APG": 1.9,
+            "RBG": 2.8,
+            "SPG": 0.7,
+            "BPG": 0.1,
+            "TPG": 1.5,
+            "PM": NaN,
+            "MPG": 16.5,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 24,
+            "FGA": 66,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 12,
+            "FTA": 16,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "DET"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "93",
+        "Active": false
+    }
+}

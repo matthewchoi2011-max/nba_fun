@@ -1,0 +1,99 @@
+{
+    "player_id": 76145,
+    "full_name": "Irv Bemoras",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1953-54": {
+            "PPG": 7.4,
+            "APG": 1.1,
+            "RBG": 3.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 21.7,
+            "FG_PCT": 0.366,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.668,
+            "FGM": 185,
+            "FGA": 505,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 139,
+            "FTA": 208,
+            "GP": 69
+        },
+        "1956-57": {
+            "PPG": 5.1,
+            "APG": 0.7,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.9,
+            "FG_PCT": 0.322,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.68,
+            "FGM": 124,
+            "FGA": 385,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 70,
+            "FTA": 103,
+            "GP": 62
+        }
+    },
+    "playoff_stats": {
+        "1956-57": {
+            "PPG": 3.0,
+            "APG": 0.3,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.7,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 8,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Forward",
+        "Teams": [
+            "MIH",
+            "STL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

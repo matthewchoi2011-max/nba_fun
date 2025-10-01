@@ -1,0 +1,98 @@
+{
+    "player_id": 77556,
+    "full_name": "Mal McMullan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 5.6,
+            "APG": 1.5,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.324,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.546,
+            "FGM": 123,
+            "FGA": 380,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 77,
+            "FTA": 141,
+            "GP": 58
+        },
+        "1950-51": {
+            "PPG": 4.0,
+            "APG": 0.6,
+            "RBG": 2.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.282,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.585,
+            "FGM": 78,
+            "FGA": 277,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 48,
+            "FTA": 82,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 2.3,
+            "APG": 1.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.19,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 4,
+            "FGA": 21,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 9,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "INO"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

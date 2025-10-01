@@ -1,0 +1,77 @@
+{
+    "player_id": 1641871,
+    "full_name": "Duop Reath",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 9.1,
+            "APG": 1.0,
+            "RBG": 3.7,
+            "SPG": 0.5,
+            "BPG": 0.6,
+            "TPG": 0.8,
+            "PM": -2.8,
+            "MPG": 17.9,
+            "FG_PCT": 0.461,
+            "FG3_PCT": 0.359,
+            "FT_PCT": 0.742,
+            "FGM": 230,
+            "FGA": 499,
+            "FG3M": 88,
+            "FG3A": 245,
+            "FTM": 69,
+            "FTA": 93,
+            "GP": 68
+        },
+        "2024-25": {
+            "PPG": 4.2,
+            "APG": 0.6,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": -1.2,
+            "MPG": 10.2,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0.321,
+            "FT_PCT": 0.909,
+            "FGM": 70,
+            "FGA": 166,
+            "FG3M": 34,
+            "FG3A": 106,
+            "FTM": 20,
+            "FTA": 22,
+            "GP": 46
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "245",
+        "Position": "Center",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

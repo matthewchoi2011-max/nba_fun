@@ -1,0 +1,78 @@
+{
+    "player_id": 202874,
+    "full_name": "Chris Wright",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2011-12": {
+            "PPG": 2.9,
+            "APG": 0.2,
+            "RBG": 1.9,
+            "SPG": 0.3,
+            "BPG": 0.5,
+            "TPG": 0.3,
+            "PM": -0.9,
+            "MPG": 7.8,
+            "FG_PCT": 0.511,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.774,
+            "FGM": 23,
+            "FGA": 45,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 24,
+            "FTA": 31,
+            "GP": 24
+        },
+        "2013-14": {
+            "PPG": 6.0,
+            "APG": 0.6,
+            "RBG": 2.5,
+            "SPG": 0.9,
+            "BPG": 0.6,
+            "TPG": 0.6,
+            "PM": -3.1,
+            "MPG": 15.8,
+            "FG_PCT": 0.6,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.4,
+            "FGM": 21,
+            "FGA": 35,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 6,
+            "FTA": 15,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "226",
+        "Position": "Forward",
+        "Teams": [
+            "GSW",
+            "MIL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "player_id": 1630648,
+    "full_name": "Jordan Schakel",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 0.5,
+            "MPG": 7.5,
+            "FG_PCT": 0.091,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 11,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 4
+        },
+        "2022-23": {
+            "PPG": 1.5,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 3.0,
+            "MPG": 3.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

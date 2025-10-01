@@ -1,0 +1,98 @@
+{
+    "player_id": 78641,
+    "full_name": "Gary Zeller",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 1.7,
+            "APG": 0.1,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.5,
+            "FG_PCT": 0.296,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.536,
+            "FGM": 34,
+            "FGA": 115,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 15,
+            "FTA": 28,
+            "GP": 50
+        },
+        "1971-72": {
+            "PPG": 6.7,
+            "APG": 1.1,
+            "RBG": 2.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 16.8,
+            "FG_PCT": 0.362,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.629,
+            "FGM": 83,
+            "FGA": 229,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 35,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {
+        "1970-71": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 0.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.5,
+            "FG_PCT": 0.343,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.286,
+            "FGM": 12,
+            "FGA": 35,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 7,
+            "GP": 15
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "BLT"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "83",
+        "Active": false
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "player_id": 1641721,
+    "full_name": "Maxwell Lewis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 0.3,
+            "APG": 0.2,
+            "RBG": 0.1,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -2.1,
+            "MPG": 3.0,
+            "FG_PCT": 0.19,
+            "FG3_PCT": 0.111,
+            "FT_PCT": 0.667,
+            "FGM": 4,
+            "FGA": 21,
+            "FG3M": 1,
+            "FG3A": 9,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 34
+        },
+        "2024-25": {
+            "PPG": 4.1,
+            "APG": 0.7,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": -2.4,
+            "MPG": 11.7,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0.38,
+            "FT_PCT": 0.7,
+            "FGM": 45,
+            "FGA": 108,
+            "FG3M": 19,
+            "FG3A": 50,
+            "FTM": 7,
+            "FTA": 10,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "LAL",
+            "BKN",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "40",
+        "Active": true
+    }
+}

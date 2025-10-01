@@ -1,0 +1,57 @@
+{
+    "player_id": 77441,
+    "full_name": "Norm Mager",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1950-51": {
+            "PPG": 5.2,
+            "APG": 0.9,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.282,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.786,
+            "FGM": 40,
+            "FGA": 142,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 44,
+            "FTA": 56,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "185",
+        "Position": "Forward",
+        "Teams": [
+            "BAL"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

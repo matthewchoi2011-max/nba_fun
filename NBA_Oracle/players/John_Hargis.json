@@ -1,0 +1,99 @@
+{
+    "player_id": 76949,
+    "full_name": "John Hargis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 10.7,
+            "APG": 1.7,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.711,
+            "FGM": 223,
+            "FGA": 550,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 197,
+            "FTA": 277,
+            "GP": 60
+        },
+        "1950-51": {
+            "PPG": 4.8,
+            "APG": 0.6,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.379,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.708,
+            "FGM": 25,
+            "FGA": 66,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 17,
+            "FTA": 24,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 12.4,
+            "APG": 1.6,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.36,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.745,
+            "FGM": 32,
+            "FGA": 89,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 35,
+            "FTA": 47,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "AND",
+            "TCB"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

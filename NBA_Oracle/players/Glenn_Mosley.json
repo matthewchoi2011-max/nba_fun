@@ -1,0 +1,99 @@
+{
+    "player_id": 77653,
+    "full_name": "Glenn Mosley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 2.2,
+            "APG": 0.3,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 3.5,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.429,
+            "FGM": 5,
+            "FGA": 13,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 7,
+            "GP": 6
+        },
+        "1978-79": {
+            "PPG": 3.3,
+            "APG": 0.7,
+            "RBG": 2.5,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 8.5,
+            "FG_PCT": 0.413,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.605,
+            "FGM": 31,
+            "FGA": 75,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 23,
+            "FTA": 38,
+            "GP": 26
+        }
+    },
+    "playoff_stats": {
+        "1978-79": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.3,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 3,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "PHL",
+            "SAN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "20",
+        "Active": false
+    }
+}

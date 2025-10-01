@@ -1,0 +1,57 @@
+{
+    "player_id": 1642403,
+    "full_name": "Isaac Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 3.4,
+            "APG": 0.3,
+            "RBG": 1.4,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": -1.6,
+            "MPG": 7.6,
+            "FG_PCT": 0.651,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.639,
+            "FGM": 54,
+            "FGA": 83,
+            "FG3M": 3,
+            "FG3A": 8,
+            "FTM": 23,
+            "FTA": 36,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

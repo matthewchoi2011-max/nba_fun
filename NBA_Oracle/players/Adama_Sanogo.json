@@ -1,0 +1,77 @@
+{
+    "player_id": 1641766,
+    "full_name": "Adama Sanogo",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 4.0,
+            "APG": 0.0,
+            "RBG": 4.0,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": 3.8,
+            "MPG": 7.3,
+            "FG_PCT": 0.519,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 14,
+            "FGA": 27,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 12,
+            "GP": 9
+        },
+        "2024-25": {
+            "PPG": 2.0,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -1.2,
+            "MPG": 5.5,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 7,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

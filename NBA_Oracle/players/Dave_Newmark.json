@@ -1,0 +1,99 @@
+{
+    "player_id": 77712,
+    "full_name": "Dave Newmark",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 5.6,
+            "APG": 0.7,
+            "RBG": 4.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.3,
+            "FG_PCT": 0.389,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.619,
+            "FGM": 185,
+            "FGA": 475,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 86,
+            "FTA": 139,
+            "GP": 81
+        },
+        "1969-70": {
+            "PPG": 4.9,
+            "APG": 0.7,
+            "RBG": 2.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.6,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.766,
+            "FGM": 127,
+            "FGA": 296,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 59,
+            "FTA": 77,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "1969-70": {
+            "PPG": 5.7,
+            "APG": 0.3,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.455,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 15,
+            "FGA": 33,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 4,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 84,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "CHI",
+            "ATL"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

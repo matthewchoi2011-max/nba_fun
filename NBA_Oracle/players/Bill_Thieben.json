@@ -1,0 +1,99 @@
+{
+    "player_id": 78312,
+    "full_name": "Bill Thieben",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1956-57": {
+            "PPG": 4.1,
+            "APG": 0.3,
+            "RBG": 3.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.9,
+            "FG_PCT": 0.352,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.655,
+            "FGM": 90,
+            "FGA": 256,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 57,
+            "FTA": 87,
+            "GP": 58
+        },
+        "1957-58": {
+            "PPG": 3.7,
+            "APG": 0.3,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.0,
+            "FG_PCT": 0.294,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.593,
+            "FGM": 42,
+            "FGA": 143,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 16,
+            "FTA": 27,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {
+        "1956-57": {
+            "PPG": 7.0,
+            "APG": 1.5,
+            "RBG": 3.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.0,
+            "FG_PCT": 0.857,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 6,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 6,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "FTW",
+            "DET"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

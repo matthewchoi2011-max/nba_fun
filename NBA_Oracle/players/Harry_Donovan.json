@@ -1,0 +1,78 @@
+{
+    "player_id": 76585,
+    "full_name": "Harry Donovan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 5.6,
+            "APG": 0.8,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.327,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.689,
+            "FGM": 90,
+            "FGA": 275,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 73,
+            "FTA": 106,
+            "GP": 45
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 0.7,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

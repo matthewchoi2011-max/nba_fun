@@ -1,0 +1,78 @@
+{
+    "player_id": 1612,
+    "full_name": "Chris Garner",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 1.4,
+            "APG": 1.2,
+            "RBG": 0.6,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -2.5,
+            "MPG": 7.7,
+            "FG_PCT": 0.329,
+            "FG3_PCT": 0.286,
+            "FT_PCT": 0.429,
+            "FGM": 23,
+            "FGA": 70,
+            "FG3M": 4,
+            "FG3A": 14,
+            "FTM": 3,
+            "FTA": 7,
+            "GP": 38
+        },
+        "2000-01": {
+            "PPG": 2.4,
+            "APG": 2.2,
+            "RBG": 1.5,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": -2.1,
+            "MPG": 18.6,
+            "FG_PCT": 0.189,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.833,
+            "FGM": 7,
+            "FGA": 37,
+            "FG3M": 0,
+            "FG3A": 7,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 70,
+        "Weight": "156",
+        "Position": "Guard",
+        "Teams": [
+            "TOR",
+            "GSW"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

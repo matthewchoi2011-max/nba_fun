@@ -1,0 +1,120 @@
+{
+    "player_id": 1631097,
+    "full_name": "Bennedict Mathurin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2022-23"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 16.7,
+            "APG": 1.5,
+            "RBG": 4.1,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 1.9,
+            "PM": -2.3,
+            "MPG": 28.5,
+            "FG_PCT": 0.434,
+            "FG3_PCT": 0.323,
+            "FT_PCT": 0.828,
+            "FGM": 413,
+            "FGA": 951,
+            "FG3M": 100,
+            "FG3A": 310,
+            "FTM": 376,
+            "FTA": 454,
+            "GP": 78
+        },
+        "2023-24": {
+            "PPG": 14.5,
+            "APG": 2.0,
+            "RBG": 4.0,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 1.6,
+            "PM": -1.6,
+            "MPG": 26.1,
+            "FG_PCT": 0.446,
+            "FG3_PCT": 0.374,
+            "FT_PCT": 0.821,
+            "FGM": 296,
+            "FGA": 663,
+            "FG3M": 80,
+            "FG3A": 214,
+            "FTM": 184,
+            "FTA": 224,
+            "GP": 59
+        },
+        "2024-25": {
+            "PPG": 16.1,
+            "APG": 1.9,
+            "RBG": 5.3,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 1.9,
+            "PM": 1.3,
+            "MPG": 29.8,
+            "FG_PCT": 0.458,
+            "FG3_PCT": 0.34,
+            "FT_PCT": 0.831,
+            "FGM": 391,
+            "FGA": 853,
+            "FG3M": 98,
+            "FG3A": 288,
+            "FTM": 276,
+            "FTA": 332,
+            "GP": 72
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 11.0,
+            "APG": 0.9,
+            "RBG": 3.3,
+            "SPG": 0.4,
+            "BPG": 0.3,
+            "TPG": 1.2,
+            "PM": -3.5,
+            "MPG": 17.5,
+            "FG_PCT": 0.459,
+            "FG3_PCT": 0.3,
+            "FT_PCT": 0.864,
+            "FGM": 68,
+            "FGA": 148,
+            "FG3M": 18,
+            "FG3A": 60,
+            "FTM": 89,
+            "FTA": 103,
+            "GP": 22
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "210",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "6",
+        "Active": true
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 1845,
+    "full_name": "Andrew Gaze",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1993-94": {
+            "PPG": 3.1,
+            "APG": 0.7,
+            "RBG": 1.0,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 10.0,
+            "FG_PCT": 0.471,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 1.0,
+            "FGM": 8,
+            "FGA": 17,
+            "FG3M": 4,
+            "FG3A": 8,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 7
+        },
+        "1998-99": {
+            "PPG": 1.1,
+            "APG": 0.3,
+            "RBG": 0.3,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": 1.7,
+            "MPG": 3.1,
+            "FG_PCT": 0.32,
+            "FG3_PCT": 0.313,
+            "FT_PCT": 0,
+            "FGM": 8,
+            "FGA": 25,
+            "FG3M": 5,
+            "FG3A": 16,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": null,
+        "Weight": "",
+        "Position": "",
+        "Teams": [
+            "WAS",
+            "SAS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

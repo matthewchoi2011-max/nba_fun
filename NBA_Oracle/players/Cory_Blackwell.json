@@ -1,0 +1,57 @@
+{
+    "player_id": 76177,
+    "full_name": "Cory Blackwell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1984-85": {
+            "PPG": 3.4,
+            "APG": 0.4,
+            "RBG": 1.6,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 9.2,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.509,
+            "FGM": 87,
+            "FGA": 237,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 28,
+            "FTA": 55,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "SEA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "28",
+        "Active": false
+    }
+}

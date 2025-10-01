@@ -1,0 +1,80 @@
+{
+    "player_id": 76998,
+    "full_name": "Larry Hennessy",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1955-56"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1955-56": {
+            "PPG": 3.7,
+            "APG": 0.9,
+            "RBG": 0.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.4,
+            "FG_PCT": 0.344,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.813,
+            "FGM": 85,
+            "FGA": 247,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 26,
+            "FTA": 32,
+            "GP": 53
+        }
+    },
+    "playoff_stats": {
+        "1955-56": {
+            "PPG": 0.0,
+            "APG": 0.7,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.7,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 9,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "PHW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

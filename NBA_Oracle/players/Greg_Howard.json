@@ -1,0 +1,78 @@
+{
+    "player_id": 77066,
+    "full_name": "Greg Howard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 3.9,
+            "APG": 0.6,
+            "RBG": 2.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.7,
+            "FG_PCT": 0.393,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.638,
+            "FGM": 68,
+            "FGA": 173,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 37,
+            "FTA": 58,
+            "GP": 44
+        },
+        "1971-72": {
+            "PPG": 2.9,
+            "APG": 0.6,
+            "RBG": 2.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.9,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.765,
+            "FGM": 50,
+            "FGA": 131,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 39,
+            "FTA": 51,
+            "GP": 48
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "PHX",
+            "CLE"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "10",
+        "Active": false
+    }
+}

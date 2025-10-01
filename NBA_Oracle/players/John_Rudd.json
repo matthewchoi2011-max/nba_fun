@@ -1,0 +1,57 @@
+{
+    "player_id": 78036,
+    "full_name": "John Rudd",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 3.2,
+            "APG": 0.6,
+            "RBG": 2.9,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 12.5,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.71,
+            "FGM": 59,
+            "FGA": 133,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 66,
+            "FTA": 93,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "32",
+        "Active": false
+    }
+}

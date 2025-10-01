@@ -1,0 +1,77 @@
+{
+    "player_id": 76581,
+    "full_name": "Joe Dolhon",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 6.9,
+            "APG": 2.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.312,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.734,
+            "FGM": 143,
+            "FGA": 458,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 157,
+            "FTA": 214,
+            "GP": 64
+        },
+        "1950-51": {
+            "PPG": 3.9,
+            "APG": 1.5,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.304,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.739,
+            "FGM": 17,
+            "FGA": 56,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 17,
+            "FTA": 23,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "BAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

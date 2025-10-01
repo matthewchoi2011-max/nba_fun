@@ -1,0 +1,77 @@
+{
+    "player_id": 1628462,
+    "full_name": "Milos Teodosic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 9.5,
+            "APG": 4.6,
+            "RBG": 2.8,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 2.2,
+            "PM": 1.9,
+            "MPG": 25.2,
+            "FG_PCT": 0.419,
+            "FG3_PCT": 0.379,
+            "FT_PCT": 0.848,
+            "FGM": 151,
+            "FGA": 360,
+            "FG3M": 88,
+            "FG3A": 232,
+            "FTM": 39,
+            "FTA": 46,
+            "GP": 45
+        },
+        "2018-19": {
+            "PPG": 3.2,
+            "APG": 2.1,
+            "RBG": 1.1,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 1.4,
+            "PM": 0.9,
+            "MPG": 10.0,
+            "FG_PCT": 0.425,
+            "FG3_PCT": 0.37,
+            "FT_PCT": 0.571,
+            "FGM": 17,
+            "FGA": 40,
+            "FG3M": 10,
+            "FG3A": 27,
+            "FTM": 4,
+            "FTA": 7,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "196",
+        "Position": "Guard",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

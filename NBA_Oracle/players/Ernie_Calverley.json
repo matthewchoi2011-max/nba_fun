@@ -1,0 +1,99 @@
+{
+    "player_id": 76335,
+    "full_name": "Ernie Calverley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [
+            "1946-47"
+        ],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 14.3,
+            "APG": 3.4,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.293,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.703,
+            "FGM": 323,
+            "FGA": 1102,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 199,
+            "FTA": 283,
+            "GP": 59
+        },
+        "1947-48": {
+            "PPG": 11.9,
+            "APG": 2.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.271,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.665,
+            "FGM": 226,
+            "FGA": 835,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 107,
+            "FTA": 161,
+            "GP": 47
+        },
+        "1948-49": {
+            "PPG": 9.4,
+            "APG": 4.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.313,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.756,
+            "FGM": 218,
+            "FGA": 696,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 121,
+            "FTA": 160,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 70,
+        "Weight": "145",
+        "Position": "Guard",
+        "Teams": [
+            "PRO"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

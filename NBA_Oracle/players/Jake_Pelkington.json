@@ -1,0 +1,80 @@
+{
+    "player_id": 77828,
+    "full_name": "Jake Pelkington",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 11.1,
+            "APG": 2.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.79,
+            "FGM": 193,
+            "FGA": 469,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 211,
+            "FTA": 267,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {
+        "1948-49": {
+            "PPG": 17.7,
+            "APG": 1.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.394,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.771,
+            "FGM": 13,
+            "FGA": 33,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 27,
+            "FTA": 35,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Center",
+        "Teams": [
+            "BAL",
+            "FTW",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

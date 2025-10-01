@@ -1,0 +1,61 @@
+{
+    "player_id": 1642264,
+    "full_name": "Stephon Castle",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [
+            "2024-25"
+        ],
+        "All-Rookie-First": [
+            "2024-25"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 14.7,
+            "APG": 4.1,
+            "RBG": 3.7,
+            "SPG": 0.9,
+            "BPG": 0.3,
+            "TPG": 2.2,
+            "PM": -3.0,
+            "MPG": 26.7,
+            "FG_PCT": 0.428,
+            "FG3_PCT": 0.285,
+            "FT_PCT": 0.724,
+            "FGM": 423,
+            "FGA": 988,
+            "FG3M": 95,
+            "FG3A": 333,
+            "FTM": 249,
+            "FTA": 344,
+            "GP": 81
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Guard",
+        "Teams": [
+            "SAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "4",
+        "Active": true
+    }
+}

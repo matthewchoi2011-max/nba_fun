@@ -1,0 +1,57 @@
+{
+    "player_id": 77255,
+    "full_name": "Irv Kiffin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 3.2,
+            "APG": 0.7,
+            "RBG": 1.5,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": NaN,
+            "MPG": 8.2,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.72,
+            "FGM": 32,
+            "FGA": 96,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 18,
+            "FTA": 25,
+            "GP": 26
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

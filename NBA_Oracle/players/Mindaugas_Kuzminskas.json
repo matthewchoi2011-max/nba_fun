@@ -1,0 +1,77 @@
+{
+    "player_id": 1627851,
+    "full_name": "Mindaugas Kuzminskas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 6.2,
+            "APG": 1.0,
+            "RBG": 1.9,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -0.0,
+            "MPG": 14.9,
+            "FG_PCT": 0.428,
+            "FG3_PCT": 0.321,
+            "FT_PCT": 0.809,
+            "FGM": 158,
+            "FGA": 369,
+            "FG3M": 54,
+            "FG3A": 168,
+            "FTM": 55,
+            "FTA": 68,
+            "GP": 68
+        },
+        "2017-18": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

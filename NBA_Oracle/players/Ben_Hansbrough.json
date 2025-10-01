@@ -1,0 +1,78 @@
+{
+    "player_id": 203162,
+    "full_name": "Ben Hansbrough",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2012-13": {
+            "PPG": 2.0,
+            "APG": 0.8,
+            "RBG": 0.6,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -1.1,
+            "MPG": 7.1,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.261,
+            "FT_PCT": 0.778,
+            "FGM": 15,
+            "FGA": 45,
+            "FG3M": 6,
+            "FG3A": 23,
+            "FTM": 21,
+            "FTA": 27,
+            "GP": 28
+        }
+    },
+    "playoff_stats": {
+        "2012-13": {
+            "PPG": 0.0,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": -2.5,
+            "MPG": 3.7,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "203",
+        "Position": "Guard",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

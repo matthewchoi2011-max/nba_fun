@@ -1,0 +1,77 @@
+{
+    "player_id": 77575,
+    "full_name": "Gary Melchionni",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1973-74": {
+            "PPG": 7.2,
+            "APG": 2.1,
+            "RBG": 2.1,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 18.1,
+            "FG_PCT": 0.46,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.86,
+            "FGM": 202,
+            "FGA": 439,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 92,
+            "FTA": 107,
+            "GP": 69
+        },
+        "1974-75": {
+            "PPG": 8.5,
+            "APG": 2.3,
+            "RBG": 2.8,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 22.5,
+            "FG_PCT": 0.43,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.809,
+            "FGM": 232,
+            "FGA": 539,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 114,
+            "FTA": 141,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

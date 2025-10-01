@@ -1,0 +1,99 @@
+{
+    "player_id": 77427,
+    "full_name": "Mike Lynn",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1969-70": {
+            "PPG": 2.7,
+            "APG": 0.7,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.2,
+            "FG_PCT": 0.331,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.646,
+            "FGM": 44,
+            "FGA": 133,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 31,
+            "FTA": 48,
+            "GP": 44
+        },
+        "1970-71": {
+            "PPG": 1.4,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 2,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {
+        "1969-70": {
+            "PPG": 1.3,
+            "APG": 0.3,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "LAL",
+            "BUF"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "39",
+        "Active": false
+    }
+}

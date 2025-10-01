@@ -1,0 +1,60 @@
+{
+    "player_id": 2652,
+    "full_name": "Shelton Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 4.8,
+            "APG": 0.8,
+            "RBG": 2.2,
+            "SPG": 0.4,
+            "BPG": 0.3,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 13.4,
+            "FG_PCT": 0.445,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.725,
+            "FGM": 93,
+            "FGA": 209,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 58,
+            "FTA": 80,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "SAN",
+            "GOS",
+            "PHL",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "27",
+        "Active": false
+    }
+}

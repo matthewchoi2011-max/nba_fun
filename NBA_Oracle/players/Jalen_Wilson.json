@@ -1,0 +1,77 @@
+{
+    "player_id": 1630592,
+    "full_name": "Jalen Wilson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 5.0,
+            "APG": 1.0,
+            "RBG": 3.0,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -0.0,
+            "MPG": 15.5,
+            "FG_PCT": 0.425,
+            "FG3_PCT": 0.324,
+            "FT_PCT": 0.826,
+            "FGM": 76,
+            "FGA": 179,
+            "FG3M": 24,
+            "FG3A": 74,
+            "FTM": 38,
+            "FTA": 46,
+            "GP": 43
+        },
+        "2024-25": {
+            "PPG": 9.5,
+            "APG": 1.8,
+            "RBG": 3.4,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": -3.3,
+            "MPG": 25.7,
+            "FG_PCT": 0.397,
+            "FG3_PCT": 0.337,
+            "FT_PCT": 0.818,
+            "FGM": 246,
+            "FGA": 620,
+            "FG3M": 122,
+            "FG3A": 362,
+            "FTM": 135,
+            "FTA": 165,
+            "GP": 79
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "BKN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "51",
+        "Active": true
+    }
+}

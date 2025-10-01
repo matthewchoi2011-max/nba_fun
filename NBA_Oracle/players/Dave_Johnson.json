@@ -1,0 +1,78 @@
+{
+    "player_id": 77138,
+    "full_name": "Dave Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1992-93": {
+            "PPG": 3.7,
+            "APG": 0.3,
+            "RBG": 1.1,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 8.5,
+            "FG_PCT": 0.383,
+            "FG3_PCT": 0.214,
+            "FT_PCT": 0.678,
+            "FGM": 57,
+            "FGA": 149,
+            "FG3M": 3,
+            "FG3A": 14,
+            "FTM": 40,
+            "FTA": 59,
+            "GP": 42
+        },
+        "1993-94": {
+            "PPG": 2.8,
+            "APG": 0.2,
+            "RBG": 0.9,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.315,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.619,
+            "FGM": 17,
+            "FGA": 54,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 13,
+            "FTA": 21,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "POR",
+            "CHI"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "26",
+        "Active": false
+    }
+}

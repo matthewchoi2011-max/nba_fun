@@ -1,0 +1,78 @@
+{
+    "player_id": 78214,
+    "full_name": "George Sobek",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 5.8,
+            "APG": 1.6,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.761,
+            "FGM": 95,
+            "FGA": 251,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 156,
+            "FTA": 205,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 10.7,
+            "APG": 1.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 10,
+            "FGA": 20,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 12,
+            "FTA": 16,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "SHE"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

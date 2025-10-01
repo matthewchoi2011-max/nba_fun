@@ -1,0 +1,77 @@
+{
+    "player_id": 1628221,
+    "full_name": "Gabe York",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 4.0,
+            "APG": 2.0,
+            "RBG": 1.0,
+            "SPG": 1.0,
+            "BPG": 0.5,
+            "TPG": 0.5,
+            "PM": -2.0,
+            "MPG": 10.5,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.6,
+            "FGM": 2,
+            "FGA": 7,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 2
+        },
+        "2022-23": {
+            "PPG": 8.0,
+            "APG": 1.7,
+            "RBG": 2.0,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 8.0,
+            "MPG": 18.7,
+            "FG_PCT": 0.381,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 1.0,
+            "FGM": 8,
+            "FGA": 21,
+            "FG3M": 6,
+            "FG3A": 18,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

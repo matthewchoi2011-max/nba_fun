@@ -1,0 +1,80 @@
+{
+    "player_id": 77821,
+    "full_name": "Johnny Payak",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 6.1,
+            "APG": 1.7,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.296,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.699,
+            "FGM": 98,
+            "FGA": 331,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 121,
+            "FTA": 173,
+            "GP": 52
+        },
+        "1952-53": {
+            "PPG": 6.4,
+            "APG": 2.1,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 21.6,
+            "FG_PCT": 0.343,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.726,
+            "FGM": 128,
+            "FGA": 373,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 180,
+            "FTA": 248,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "174",
+        "Position": "Guard",
+        "Teams": [
+            "PHW",
+            "WAT",
+            "TOT",
+            "MIH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

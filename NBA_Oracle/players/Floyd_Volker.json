@@ -1,0 +1,59 @@
+{
+    "player_id": 78420,
+    "full_name": "Floyd Volker",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 7.4,
+            "APG": 2.1,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.309,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.55,
+            "FGM": 163,
+            "FGA": 527,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 71,
+            "FTA": 129,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "INO",
+            "DN ",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

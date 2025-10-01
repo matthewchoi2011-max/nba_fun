@@ -1,0 +1,78 @@
+{
+    "player_id": 76092,
+    "full_name": "Herschel Baltimore",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 2.4,
+            "APG": 0.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.202,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.464,
+            "FGM": 53,
+            "FGA": 263,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 32,
+            "FTA": 69,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {
+        "1946-47": {
+            "PPG": 1.3,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 10,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 1,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "BOM"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

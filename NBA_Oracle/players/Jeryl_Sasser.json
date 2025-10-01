@@ -1,0 +1,98 @@
+{
+    "player_id": 2219,
+    "full_name": "Jeryl Sasser",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2001-02": {
+            "PPG": 1.4,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -2.3,
+            "MPG": 4.9,
+            "FG_PCT": 0.214,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.8,
+            "FGM": 3,
+            "FGA": 14,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 5,
+            "GP": 7
+        },
+        "2002-03": {
+            "PPG": 2.6,
+            "APG": 0.9,
+            "RBG": 2.5,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": -3.3,
+            "MPG": 13.7,
+            "FG_PCT": 0.309,
+            "FG3_PCT": 0.295,
+            "FT_PCT": 0.679,
+            "FGM": 64,
+            "FGA": 207,
+            "FG3M": 13,
+            "FG3A": 44,
+            "FTM": 53,
+            "FTA": 78,
+            "GP": 75
+        }
+    },
+    "playoff_stats": {
+        "2002-03": {
+            "PPG": 0.8,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": -1.0,
+            "MPG": 4.2,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 7,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "ORL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "22",
+        "Active": false
+    }
+}

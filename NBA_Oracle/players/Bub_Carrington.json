@@ -1,0 +1,59 @@
+{
+    "player_id": 1642267,
+    "full_name": "Bub Carrington",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2024-25"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 9.8,
+            "APG": 4.4,
+            "RBG": 4.2,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 1.7,
+            "PM": -9.7,
+            "MPG": 30.0,
+            "FG_PCT": 0.401,
+            "FG3_PCT": 0.339,
+            "FT_PCT": 0.812,
+            "FGM": 300,
+            "FGA": 748,
+            "FG3M": 138,
+            "FG3A": 407,
+            "FTM": 69,
+            "FTA": 85,
+            "GP": 82
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "14",
+        "Active": true
+    }
+}

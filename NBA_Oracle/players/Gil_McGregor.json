@@ -1,0 +1,57 @@
+{
+    "player_id": 77534,
+    "full_name": "Gil McGregor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1971-72": {
+            "PPG": 4.1,
+            "APG": 0.4,
+            "RBG": 3.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.7,
+            "FG_PCT": 0.363,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.696,
+            "FGM": 66,
+            "FGA": 182,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 39,
+            "FTA": 56,
+            "GP": 42
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "240",
+        "Position": "Forward",
+        "Teams": [
+            "CIN"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "89",
+        "Active": false
+    }
+}

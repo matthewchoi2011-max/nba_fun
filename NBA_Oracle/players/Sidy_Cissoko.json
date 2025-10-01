@@ -1,0 +1,79 @@
+{
+    "player_id": 1631321,
+    "full_name": "Sidy Cissoko",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.8,
+            "APG": 0.8,
+            "RBG": 1.8,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": 2.1,
+            "MPG": 11.8,
+            "FG_PCT": 0.485,
+            "FG3_PCT": 0.083,
+            "FT_PCT": 0.8,
+            "FGM": 16,
+            "FGA": 33,
+            "FG3M": 1,
+            "FG3A": 12,
+            "FTM": 12,
+            "FTA": 15,
+            "GP": 12
+        },
+        "2024-25": {
+            "PPG": 1.5,
+            "APG": 0.7,
+            "RBG": 1.0,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 0.4,
+            "MPG": 5.2,
+            "FG_PCT": 0.433,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0.333,
+            "FGM": 13,
+            "FGA": 30,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 3,
+            "FTA": 9,
+            "GP": 22
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "SAS",
+            "POR",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "44",
+        "Active": true
+    }
+}

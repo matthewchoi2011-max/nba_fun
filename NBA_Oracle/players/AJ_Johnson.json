@@ -1,0 +1,59 @@
+{
+    "player_id": 1642358,
+    "full_name": "AJ Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 7.6,
+            "APG": 2.6,
+            "RBG": 2.0,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": -5.2,
+            "MPG": 22.0,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0.267,
+            "FT_PCT": 0.865,
+            "FGM": 82,
+            "FGA": 213,
+            "FG3M": 24,
+            "FG3A": 90,
+            "FTM": 32,
+            "FTA": 37,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "160",
+        "Position": "Guard",
+        "Teams": [
+            "MIL",
+            "WAS",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "23",
+        "Active": true
+    }
+}

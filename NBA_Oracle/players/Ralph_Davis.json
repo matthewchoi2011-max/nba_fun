@@ -1,0 +1,78 @@
+{
+    "player_id": 76532,
+    "full_name": "Ralph Davis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1960-61": {
+            "PPG": 5.4,
+            "APG": 2.4,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 16.6,
+            "FG_PCT": 0.401,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.654,
+            "FGM": 181,
+            "FGA": 451,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 34,
+            "FTA": 52,
+            "GP": 73
+        },
+        "1961-62": {
+            "PPG": 10.4,
+            "APG": 3.2,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 25.9,
+            "FG_PCT": 0.413,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.689,
+            "FGM": 364,
+            "FGA": 881,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 71,
+            "FTA": 103,
+            "GP": 77
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "CIN",
+            "CHP"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "17",
+        "Active": false
+    }
+}

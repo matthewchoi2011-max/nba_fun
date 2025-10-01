@@ -1,0 +1,57 @@
+{
+    "player_id": 1627779,
+    "full_name": "Marcus Paige",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 2.4,
+            "APG": 0.6,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 1.6,
+            "MPG": 5.6,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 14,
+            "FG3M": 2,
+            "FG3A": 8,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "164",
+        "Position": "Guard",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "55",
+        "Active": false
+    }
+}

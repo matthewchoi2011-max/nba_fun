@@ -1,0 +1,57 @@
+{
+    "player_id": 2128,
+    "full_name": "David Vanterpool",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2000-01": {
+            "PPG": 5.5,
+            "APG": 3.0,
+            "RBG": 1.7,
+            "SPG": 1.0,
+            "BPG": 0.1,
+            "TPG": 1.7,
+            "PM": -0.1,
+            "MPG": 18.7,
+            "FG_PCT": 0.418,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 46,
+            "FGA": 110,
+            "FG3M": 0,
+            "FG3A": 6,
+            "FTM": 30,
+            "FTA": 50,
+            "GP": 22
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

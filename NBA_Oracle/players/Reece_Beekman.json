@@ -1,0 +1,59 @@
+{
+    "player_id": 1641736,
+    "full_name": "Reece Beekman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 2.6,
+            "APG": 1.8,
+            "RBG": 1.1,
+            "SPG": 0.9,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -3.2,
+            "MPG": 13.0,
+            "FG_PCT": 0.327,
+            "FG3_PCT": 0.175,
+            "FT_PCT": 0.762,
+            "FGM": 35,
+            "FGA": 107,
+            "FG3M": 7,
+            "FG3A": 40,
+            "FTM": 16,
+            "FTA": 21,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "GSW",
+            "BKN",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

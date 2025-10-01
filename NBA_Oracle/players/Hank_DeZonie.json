@@ -1,0 +1,57 @@
+{
+    "player_id": 76562,
+    "full_name": "Hank DeZonie",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1950-51": {
+            "PPG": 3.4,
+            "APG": 1.8,
+            "RBG": 3.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.24,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 6,
+            "FGA": 25,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "TCB"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1642272,
+    "full_name": "Jared McCain",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 15.3,
+            "APG": 2.6,
+            "RBG": 2.4,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 1.6,
+            "PM": -1.2,
+            "MPG": 25.7,
+            "FG_PCT": 0.46,
+            "FG3_PCT": 0.383,
+            "FT_PCT": 0.875,
+            "FGM": 126,
+            "FGA": 274,
+            "FG3M": 51,
+            "FG3A": 133,
+            "FTM": 49,
+            "FTA": 56,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "16",
+        "Active": true
+    }
+}

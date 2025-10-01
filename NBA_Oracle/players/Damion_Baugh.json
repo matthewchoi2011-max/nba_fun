@@ -1,0 +1,57 @@
+{
+    "player_id": 1641878,
+    "full_name": "Damion Baugh",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 7.3,
+            "APG": 3.7,
+            "RBG": 3.3,
+            "SPG": 1.0,
+            "BPG": 0.1,
+            "TPG": 2.1,
+            "PM": -11.3,
+            "MPG": 24.7,
+            "FG_PCT": 0.323,
+            "FG3_PCT": 0.214,
+            "FT_PCT": 0.867,
+            "FGM": 42,
+            "FGA": 130,
+            "FG3M": 12,
+            "FG3A": 56,
+            "FTM": 13,
+            "FTA": 15,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "194",
+        "Position": "Guard",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

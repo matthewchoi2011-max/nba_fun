@@ -1,0 +1,78 @@
+{
+    "player_id": 77076,
+    "full_name": "Alfredrick Hughes",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 5.2,
+            "APG": 0.9,
+            "RBG": 1.7,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 12.7,
+            "FG_PCT": 0.409,
+            "FG3_PCT": 0.176,
+            "FT_PCT": 0.583,
+            "FGM": 152,
+            "FGA": 372,
+            "FG3M": 3,
+            "FG3A": 17,
+            "FTM": 49,
+            "FTA": 84,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {
+        "1985-86": {
+            "PPG": 2.7,
+            "APG": 0.3,
+            "RBG": 0.0,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "14",
+        "Active": false
+    }
+}

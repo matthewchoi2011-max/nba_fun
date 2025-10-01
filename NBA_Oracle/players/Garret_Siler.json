@@ -1,0 +1,57 @@
+{
+    "player_id": 202081,
+    "full_name": "Garret Siler",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 2.1,
+            "APG": 0.1,
+            "RBG": 1.3,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": -0.8,
+            "MPG": 4.8,
+            "FG_PCT": 0.548,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 17,
+            "FGA": 31,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 11,
+            "FTA": 22,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "305",
+        "Position": "Center",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

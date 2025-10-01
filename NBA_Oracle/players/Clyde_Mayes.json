@@ -1,0 +1,102 @@
+{
+    "player_id": 77492,
+    "full_name": "Clyde Mayes",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1975-76": {
+            "PPG": 4.4,
+            "APG": 0.6,
+            "RBG": 4.0,
+            "SPG": 0.1,
+            "BPG": 0.6,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.6,
+            "FG_PCT": 0.46,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.577,
+            "FGM": 114,
+            "FGA": 248,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 56,
+            "FTA": 97,
+            "GP": 65
+        },
+        "1976-77": {
+            "PPG": 1.4,
+            "APG": 0.3,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.4,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.8,
+            "FG_PCT": 0.263,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.429,
+            "FGM": 5,
+            "FGA": 19,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 7,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {
+        "1975-76": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.7,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "MIL",
+            "IND",
+            "BUF",
+            "POR",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "22",
+        "Active": false
+    }
+}

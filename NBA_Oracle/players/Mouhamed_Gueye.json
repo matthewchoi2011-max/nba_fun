@@ -1,0 +1,77 @@
+{
+    "player_id": 1631243,
+    "full_name": "Mouhamed Gueye",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 4.0,
+            "APG": 0.7,
+            "RBG": 3.7,
+            "SPG": 0.8,
+            "BPG": 0.7,
+            "TPG": 0.2,
+            "PM": -6.8,
+            "MPG": 12.2,
+            "FG_PCT": 0.348,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.833,
+            "FGM": 8,
+            "FGA": 23,
+            "FG3M": 3,
+            "FG3A": 9,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 6
+        },
+        "2024-25": {
+            "PPG": 6.0,
+            "APG": 0.8,
+            "RBG": 4.2,
+            "SPG": 0.8,
+            "BPG": 1.0,
+            "TPG": 0.5,
+            "PM": 2.6,
+            "MPG": 16.2,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0.259,
+            "FT_PCT": 0.762,
+            "FGM": 72,
+            "FGA": 171,
+            "FG3M": 21,
+            "FG3A": 81,
+            "FTM": 32,
+            "FTA": 42,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "39",
+        "Active": true
+    }
+}

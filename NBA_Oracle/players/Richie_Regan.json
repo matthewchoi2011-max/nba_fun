@@ -1,0 +1,121 @@
+{
+    "player_id": 77932,
+    "full_name": "Richie Regan",
+    "awards": {
+        "NBA All-Star": [
+            "1956-57"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1955-56": {
+            "PPG": 7.8,
+            "APG": 3.1,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 24.2,
+            "FG_PCT": 0.352,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.639,
+            "FGM": 240,
+            "FGA": 681,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 85,
+            "FTA": 133,
+            "GP": 72
+        },
+        "1956-57": {
+            "PPG": 9.8,
+            "APG": 3.1,
+            "RBG": 2.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 29.6,
+            "FG_PCT": 0.329,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.774,
+            "FGM": 257,
+            "FGA": 780,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 182,
+            "FTA": 235,
+            "GP": 71
+        },
+        "1957-58": {
+            "PPG": 7.3,
+            "APG": 2.6,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 22.9,
+            "FG_PCT": 0.355,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.698,
+            "FGM": 202,
+            "FGA": 569,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 120,
+            "FTA": 172,
+            "GP": 72
+        }
+    },
+    "playoff_stats": {
+        "1957-58": {
+            "PPG": 12.0,
+            "APG": 1.5,
+            "RBG": 4.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 31.5,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 12,
+            "FGA": 26,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 1,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "ROC",
+            "CIN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "4",
+        "Active": false
+    }
+}

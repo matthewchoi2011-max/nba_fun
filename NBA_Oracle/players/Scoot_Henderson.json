@@ -1,0 +1,77 @@
+{
+    "player_id": 1630703,
+    "full_name": "Scoot Henderson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 14.0,
+            "APG": 5.4,
+            "RBG": 3.1,
+            "SPG": 0.8,
+            "BPG": 0.2,
+            "TPG": 3.4,
+            "PM": -8.0,
+            "MPG": 28.5,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0.325,
+            "FT_PCT": 0.819,
+            "FGM": 307,
+            "FGA": 797,
+            "FG3M": 87,
+            "FG3A": 268,
+            "FTM": 167,
+            "FTA": 204,
+            "GP": 62
+        },
+        "2024-25": {
+            "PPG": 12.7,
+            "APG": 5.1,
+            "RBG": 3.0,
+            "SPG": 1.0,
+            "BPG": 0.2,
+            "TPG": 2.7,
+            "PM": -0.6,
+            "MPG": 26.7,
+            "FG_PCT": 0.419,
+            "FG3_PCT": 0.354,
+            "FT_PCT": 0.767,
+            "FGM": 287,
+            "FGA": 685,
+            "FG3M": 105,
+            "FG3A": 297,
+            "FTM": 158,
+            "FTA": 206,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "206",
+        "Position": "Guard",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "3",
+        "Active": true
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 76575,
+    "full_name": "Jackie Dinkins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1971-72": {
+            "PPG": 2.5,
+            "APG": 0.4,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.9,
+            "FG_PCT": 0.415,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.55,
+            "FGM": 17,
+            "FGA": 41,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 20,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {
+        "1971-72": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "9",
+        "DraftNumber": "150",
+        "Active": false
+    }
+}

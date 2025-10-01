@@ -1,0 +1,78 @@
+{
+    "player_id": 203902,
+    "full_name": "Semaj Christon",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 2.9,
+            "APG": 2.0,
+            "RBG": 1.4,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -2.2,
+            "MPG": 15.2,
+            "FG_PCT": 0.345,
+            "FG3_PCT": 0.19,
+            "FT_PCT": 0.548,
+            "FGM": 77,
+            "FGA": 223,
+            "FG3M": 12,
+            "FG3A": 63,
+            "FTM": 17,
+            "FTA": 31,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "2016-17": {
+            "PPG": 2.5,
+            "APG": 2.5,
+            "RBG": 1.5,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -10.5,
+            "MPG": 10.5,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 5,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "OKC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "55",
+        "Active": false
+    }
+}

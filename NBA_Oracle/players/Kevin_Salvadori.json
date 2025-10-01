@@ -1,0 +1,77 @@
+{
+    "player_id": 1089,
+    "full_name": "Kevin Salvadori",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 1.6,
+            "APG": 0.4,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.6,
+            "TPG": 0.5,
+            "PM": 0.6,
+            "MPG": 6.7,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.722,
+            "FGM": 12,
+            "FGA": 33,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 13,
+            "FTA": 18,
+            "GP": 23
+        },
+        "1997-98": {
+            "PPG": 0.3,
+            "APG": 0.2,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.7,
+            "TPG": 0.3,
+            "PM": -1.1,
+            "MPG": 5.4,
+            "FG_PCT": 0.077,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "231",
+        "Position": "Center",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

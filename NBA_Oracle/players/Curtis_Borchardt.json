@@ -1,0 +1,77 @@
+{
+    "player_id": 2414,
+    "full_name": "Curtis Borchardt",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 3.6,
+            "APG": 0.9,
+            "RBG": 3.4,
+            "SPG": 0.2,
+            "BPG": 0.9,
+            "TPG": 1.1,
+            "PM": -1.8,
+            "MPG": 16.2,
+            "FG_PCT": 0.393,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.778,
+            "FGM": 22,
+            "FGA": 56,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 14,
+            "FTA": 18,
+            "GP": 16
+        },
+        "2004-05": {
+            "PPG": 3.0,
+            "APG": 0.7,
+            "RBG": 3.3,
+            "SPG": 0.1,
+            "BPG": 0.5,
+            "TPG": 0.8,
+            "PM": -2.0,
+            "MPG": 12.8,
+            "FG_PCT": 0.43,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.732,
+            "FGM": 74,
+            "FGA": 172,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 52,
+            "FTA": 71,
+            "GP": 67
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "242",
+        "Position": "Center",
+        "Teams": [
+            "UTA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "18",
+        "Active": false
+    }
+}

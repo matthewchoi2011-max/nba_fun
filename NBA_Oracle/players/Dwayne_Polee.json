@@ -1,0 +1,57 @@
+{
+    "player_id": 77866,
+    "full_name": "Dwayne Polee",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1986-87": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "180",
+        "Position": "Forward",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "54",
+        "Active": false
+    }
+}

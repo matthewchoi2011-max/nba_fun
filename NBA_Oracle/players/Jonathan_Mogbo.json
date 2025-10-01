@@ -1,0 +1,57 @@
+{
+    "player_id": 1642367,
+    "full_name": "Jonathan Mogbo",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 6.2,
+            "APG": 2.3,
+            "RBG": 4.9,
+            "SPG": 0.9,
+            "BPG": 0.5,
+            "TPG": 1.1,
+            "PM": -3.8,
+            "MPG": 20.4,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 0.243,
+            "FT_PCT": 0.732,
+            "FGM": 156,
+            "FGA": 356,
+            "FG3M": 17,
+            "FG3A": 70,
+            "FTM": 60,
+            "FTA": 82,
+            "GP": 63
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "TOR"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": true
+    }
+}

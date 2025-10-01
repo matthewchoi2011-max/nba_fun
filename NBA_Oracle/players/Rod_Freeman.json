@@ -1,0 +1,57 @@
+{
+    "player_id": 76756,
+    "full_name": "Rod Freeman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1973-74": {
+            "PPG": 3.0,
+            "APG": 0.4,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.6,
+            "FG_PCT": 0.379,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.683,
+            "FGM": 39,
+            "FGA": 103,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 28,
+            "FTA": 41,
+            "GP": 35
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "11",
+        "DraftNumber": "166",
+        "Active": false
+    }
+}

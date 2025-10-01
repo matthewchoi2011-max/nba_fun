@@ -1,0 +1,57 @@
+{
+    "player_id": 202717,
+    "full_name": "Trey Thompkins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2011-12": {
+            "PPG": 2.4,
+            "APG": 0.1,
+            "RBG": 1.0,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -2.4,
+            "MPG": 5.0,
+            "FG_PCT": 0.393,
+            "FG3_PCT": 0.308,
+            "FT_PCT": 0.714,
+            "FGM": 24,
+            "FGA": 61,
+            "FG3M": 4,
+            "FG3A": 13,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "245",
+        "Position": "Forward",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "player_id": 201814,
+    "full_name": "Gary Forbes",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 5.2,
+            "APG": 0.8,
+            "RBG": 1.8,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -0.5,
+            "MPG": 12.6,
+            "FG_PCT": 0.454,
+            "FG3_PCT": 0.328,
+            "FT_PCT": 0.678,
+            "FGM": 124,
+            "FGA": 273,
+            "FG3M": 19,
+            "FG3A": 58,
+            "FTM": 59,
+            "FTA": 87,
+            "GP": 63
+        },
+        "2011-12": {
+            "PPG": 6.6,
+            "APG": 1.1,
+            "RBG": 2.1,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": -1.2,
+            "MPG": 14.9,
+            "FG_PCT": 0.413,
+            "FG3_PCT": 0.349,
+            "FT_PCT": 0.725,
+            "FGM": 112,
+            "FGA": 271,
+            "FG3M": 29,
+            "FG3A": 83,
+            "FTM": 66,
+            "FTA": 91,
+            "GP": 48
+        }
+    },
+    "playoff_stats": {
+        "2010-11": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 2.0,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "DEN",
+            "TOR"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

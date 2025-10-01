@@ -1,0 +1,103 @@
+{
+    "player_id": 2452,
+    "full_name": "J.R. Bremer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2002-03"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 8.2,
+            "APG": 2.6,
+            "RBG": 2.3,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": -1.2,
+            "MPG": 23.5,
+            "FG_PCT": 0.369,
+            "FG3_PCT": 0.353,
+            "FT_PCT": 0.766,
+            "FGM": 171,
+            "FGA": 464,
+            "FG3M": 101,
+            "FG3A": 286,
+            "FTM": 85,
+            "FTA": 111,
+            "GP": 64
+        },
+        "2003-04": {
+            "PPG": 3.3,
+            "APG": 1.4,
+            "RBG": 1.0,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -1.5,
+            "MPG": 12.3,
+            "FG_PCT": 0.272,
+            "FG3_PCT": 0.257,
+            "FT_PCT": 0.65,
+            "FGM": 43,
+            "FGA": 158,
+            "FG3M": 19,
+            "FG3A": 74,
+            "FTM": 13,
+            "FTA": 20,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {
+        "2002-03": {
+            "PPG": 4.7,
+            "APG": 1.2,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -3.2,
+            "MPG": 14.7,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.875,
+            "FGM": 16,
+            "FGA": 56,
+            "FG3M": 8,
+            "FG3A": 32,
+            "FTM": 7,
+            "FTA": 8,
+            "GP": 10
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "BOS",
+            "CLE",
+            "GSW",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

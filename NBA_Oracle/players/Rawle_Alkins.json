@@ -1,0 +1,57 @@
+{
+    "player_id": 1628959,
+    "full_name": "Rawle Alkins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 3.7,
+            "APG": 1.3,
+            "RBG": 2.6,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -1.3,
+            "MPG": 12.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.667,
+            "FGM": 13,
+            "FGA": 39,
+            "FG3M": 3,
+            "FG3A": 12,
+            "FTM": 8,
+            "FTA": 12,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "225",
+        "Position": "Guard",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

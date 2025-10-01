@@ -1,0 +1,79 @@
+{
+    "player_id": 77038,
+    "full_name": "Paul Hogue",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1962-63": {
+            "PPG": 7.7,
+            "APG": 0.8,
+            "RBG": 8.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 26.8,
+            "FG_PCT": 0.363,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.454,
+            "FGM": 152,
+            "FGA": 419,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 79,
+            "FTA": 174,
+            "GP": 50
+        },
+        "1963-64": {
+            "PPG": 1.7,
+            "APG": 0.4,
+            "RBG": 2.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.8,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.286,
+            "FGM": 12,
+            "FGA": 30,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 7,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "240",
+        "Position": "Center",
+        "Teams": [
+            "NYK",
+            "BLT",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "2",
+        "Active": false
+    }
+}

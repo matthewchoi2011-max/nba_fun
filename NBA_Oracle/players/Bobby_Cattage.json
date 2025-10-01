@@ -1,0 +1,78 @@
+{
+    "player_id": 76368,
+    "full_name": "Bobby Cattage",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 3.1,
+            "APG": 0.1,
+            "RBG": 1.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 6.9,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.732,
+            "FGM": 60,
+            "FGA": 135,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 30,
+            "FTA": 41,
+            "GP": 49
+        },
+        "1985-86": {
+            "PPG": 3.2,
+            "APG": 0.1,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 6.4,
+            "FG_PCT": 0.337,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.795,
+            "FGM": 28,
+            "FGA": 83,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 35,
+            "FTA": 44,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "250",
+        "Position": "Forward",
+        "Teams": [
+            "UTH",
+            "NJN"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "165",
+        "Active": false
+    }
+}

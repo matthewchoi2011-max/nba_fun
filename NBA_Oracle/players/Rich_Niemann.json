@@ -1,0 +1,80 @@
+{
+    "player_id": 77716,
+    "full_name": "Rich Niemann",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 3.1,
+            "APG": 0.5,
+            "RBG": 2.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.415,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.76,
+            "FGM": 44,
+            "FGA": 106,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 19,
+            "FTA": 25,
+            "GP": 34
+        },
+        "1969-70": {
+            "PPG": 1.0,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 2,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "245",
+        "Position": "Center",
+        "Teams": [
+            "DET",
+            "MIL",
+            "TOT",
+            "BOS"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "42",
+        "Active": false
+    }
+}

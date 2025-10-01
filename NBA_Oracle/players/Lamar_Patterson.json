@@ -1,0 +1,98 @@
+{
+    "player_id": 203934,
+    "full_name": "Lamar Patterson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2015-16": {
+            "PPG": 2.4,
+            "APG": 1.1,
+            "RBG": 1.4,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": 0.9,
+            "MPG": 11.3,
+            "FG_PCT": 0.35,
+            "FG3_PCT": 0.245,
+            "FT_PCT": 0.727,
+            "FGM": 28,
+            "FGA": 80,
+            "FG3M": 12,
+            "FG3A": 49,
+            "FTM": 16,
+            "FTA": 22,
+            "GP": 35
+        },
+        "2016-17": {
+            "PPG": 1.8,
+            "APG": 1.2,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": 2.6,
+            "MPG": 8.0,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.667,
+            "FGM": 3,
+            "FGA": 15,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {
+        "2015-16": {
+            "PPG": 1.5,
+            "APG": 0.8,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": 1.2,
+            "MPG": 5.0,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 1.0,
+            "FGM": 2,
+            "FGA": 7,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "225",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

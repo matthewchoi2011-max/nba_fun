@@ -1,0 +1,57 @@
+{
+    "player_id": 77939,
+    "full_name": "Richard Rellford",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 4.0,
+            "APG": 0.2,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.8,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 10.5,
+            "FG_PCT": 0.625,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 5,
+            "FGA": 8,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 8,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "95",
+        "Active": false
+    }
+}

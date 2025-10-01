@@ -1,0 +1,78 @@
+{
+    "player_id": 76438,
+    "full_name": "Bobby Cook",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 11.5,
+            "APG": 3.1,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.358,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.79,
+            "FGM": 222,
+            "FGA": 620,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 143,
+            "FTA": 181,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 3.0,
+            "APG": 2.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 10,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 70,
+        "Weight": "155",
+        "Position": "Guard",
+        "Teams": [
+            "SHE"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1630542,
+    "full_name": "Marcus Bagley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 6.7,
+            "APG": 1.0,
+            "RBG": 7.0,
+            "SPG": 0.9,
+            "BPG": 1.2,
+            "TPG": 0.7,
+            "PM": -8.4,
+            "MPG": 25.3,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0.156,
+            "FT_PCT": 0.8,
+            "FGM": 27,
+            "FGA": 69,
+            "FG3M": 5,
+            "FG3A": 32,
+            "FTM": 8,
+            "FTA": 10,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "217",
+        "Position": "Forward",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1641931,
+    "full_name": "Onuralp Bitim",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.5,
+            "APG": 0.6,
+            "RBG": 1.4,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -2.0,
+            "MPG": 11.7,
+            "FG_PCT": 0.381,
+            "FG3_PCT": 0.273,
+            "FT_PCT": 0.8,
+            "FGM": 32,
+            "FGA": 84,
+            "FG3M": 12,
+            "FG3A": 44,
+            "FTM": 4,
+            "FTA": 5,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

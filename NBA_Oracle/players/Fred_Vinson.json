@@ -1,0 +1,78 @@
+{
+    "player_id": 1844,
+    "full_name": "Fred Vinson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1994-95": {
+            "PPG": 0.8,
+            "APG": 0.2,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 5.4,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 7,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 5
+        },
+        "1999-00": {
+            "PPG": 1.6,
+            "APG": 0.0,
+            "RBG": 0.1,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 2.8,
+            "MPG": 5.0,
+            "FG_PCT": 0.294,
+            "FG3_PCT": 0.286,
+            "FT_PCT": 0.5,
+            "FGM": 5,
+            "FGA": 17,
+            "FG3M": 2,
+            "FG3A": 7,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "SEA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

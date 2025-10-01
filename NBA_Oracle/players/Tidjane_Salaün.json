@@ -1,0 +1,57 @@
+{
+    "player_id": 1642275,
+    "full_name": "Tidjane Salaün",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 5.9,
+            "APG": 1.2,
+            "RBG": 4.7,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": -5.4,
+            "MPG": 20.7,
+            "FG_PCT": 0.33,
+            "FG3_PCT": 0.283,
+            "FT_PCT": 0.713,
+            "FGM": 114,
+            "FGA": 345,
+            "FG3M": 58,
+            "FG3A": 205,
+            "FTM": 67,
+            "FTA": 94,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "207",
+        "Position": "Forward",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "6",
+        "Active": true
+    }
+}

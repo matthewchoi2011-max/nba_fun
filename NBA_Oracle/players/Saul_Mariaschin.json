@@ -1,0 +1,78 @@
+{
+    "player_id": 77462,
+    "full_name": "Saul Mariaschin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1947-48": {
+            "PPG": 7.7,
+            "APG": 1.4,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.27,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.709,
+            "FGM": 125,
+            "FGA": 463,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 83,
+            "FTA": 117,
+            "GP": 43
+        }
+    },
+    "playoff_stats": {
+        "1947-48": {
+            "PPG": 9.7,
+            "APG": 0.3,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.238,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.643,
+            "FGM": 10,
+            "FGA": 42,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 14,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 71,
+        "Weight": "165",
+        "Position": "Guard",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

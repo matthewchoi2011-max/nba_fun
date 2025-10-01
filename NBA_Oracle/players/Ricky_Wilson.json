@@ -1,0 +1,80 @@
+{
+    "player_id": 78584,
+    "full_name": "Ricky Wilson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 5.2,
+            "APG": 2.9,
+            "RBG": 1.1,
+            "SPG": 1.0,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 17.5,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0.385,
+            "FT_PCT": 0.725,
+            "FGM": 43,
+            "FGA": 110,
+            "FG3M": 10,
+            "FG3A": 26,
+            "FTM": 29,
+            "FTA": 40,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {
+        "1987-88": {
+            "PPG": 0.0,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 4.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "NJN",
+            "SAN",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "52",
+        "Active": false
+    }
+}

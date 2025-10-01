@@ -1,0 +1,77 @@
+{
+    "player_id": 1629019,
+    "full_name": "Allonzo Trier",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 10.9,
+            "APG": 1.9,
+            "RBG": 3.1,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 1.8,
+            "PM": -3.3,
+            "MPG": 22.8,
+            "FG_PCT": 0.448,
+            "FG3_PCT": 0.394,
+            "FT_PCT": 0.803,
+            "FGM": 232,
+            "FGA": 518,
+            "FG3M": 52,
+            "FG3A": 132,
+            "FTM": 179,
+            "FTA": 223,
+            "GP": 64
+        },
+        "2019-20": {
+            "PPG": 6.5,
+            "APG": 1.2,
+            "RBG": 1.2,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.9,
+            "PM": -2.9,
+            "MPG": 12.1,
+            "FG_PCT": 0.481,
+            "FG3_PCT": 0.358,
+            "FT_PCT": 0.791,
+            "FGM": 51,
+            "FGA": 106,
+            "FG3M": 19,
+            "FG3A": 53,
+            "FTM": 34,
+            "FTA": 43,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

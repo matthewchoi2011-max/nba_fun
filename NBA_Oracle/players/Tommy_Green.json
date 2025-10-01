@@ -1,0 +1,57 @@
+{
+    "player_id": 76879,
+    "full_name": "Tommy Green",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 3.9,
+            "APG": 2.4,
+            "RBG": 1.2,
+            "SPG": 1.0,
+            "BPG": 0.1,
+            "TPG": 1.5,
+            "PM": NaN,
+            "MPG": 13.7,
+            "FG_PCT": 0.388,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.762,
+            "FGM": 92,
+            "FGA": 237,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 48,
+            "FTA": 63,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "NOJ"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": false
+    }
+}

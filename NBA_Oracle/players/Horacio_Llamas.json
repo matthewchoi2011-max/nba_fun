@@ -1,0 +1,77 @@
+{
+    "player_id": 1024,
+    "full_name": "Horacio Llamas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 1.7,
+            "APG": 0.2,
+            "RBG": 0.9,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": 1.0,
+            "MPG": 5.0,
+            "FG_PCT": 0.536,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 15,
+            "FGA": 28,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 4,
+            "FTA": 8,
+            "GP": 20
+        },
+        "1997-98": {
+            "PPG": 3.0,
+            "APG": 0.1,
+            "RBG": 2.2,
+            "SPG": 0.1,
+            "BPG": 0.4,
+            "TPG": 1.1,
+            "PM": 2.1,
+            "MPG": 5.2,
+            "FG_PCT": 0.381,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.7,
+            "FGM": 8,
+            "FGA": 21,
+            "FG3M": 1,
+            "FG3A": 3,
+            "FTM": 7,
+            "FTA": 10,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "285",
+        "Position": "Center",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

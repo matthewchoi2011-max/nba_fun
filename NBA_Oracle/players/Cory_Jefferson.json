@@ -1,0 +1,78 @@
+{
+    "player_id": 203928,
+    "full_name": "Cory Jefferson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2014-15": {
+            "PPG": 3.7,
+            "APG": 0.3,
+            "RBG": 2.9,
+            "SPG": 0.2,
+            "BPG": 0.4,
+            "TPG": 0.4,
+            "PM": 1.5,
+            "MPG": 10.6,
+            "FG_PCT": 0.449,
+            "FG3_PCT": 0.133,
+            "FT_PCT": 0.574,
+            "FGM": 75,
+            "FGA": 167,
+            "FG3M": 2,
+            "FG3A": 15,
+            "FTM": 31,
+            "FTA": 54,
+            "GP": 50
+        },
+        "2015-16": {
+            "PPG": 2.8,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": -0.8,
+            "MPG": 6.2,
+            "FG_PCT": 0.409,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 9,
+            "FGA": 22,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "218",
+        "Position": "Forward",
+        "Teams": [
+            "BKN",
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "60",
+        "Active": false
+    }
+}

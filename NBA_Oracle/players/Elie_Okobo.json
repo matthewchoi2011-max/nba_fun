@@ -1,0 +1,77 @@
+{
+    "player_id": 1629059,
+    "full_name": "Elie Okobo",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2018-19": {
+            "PPG": 5.7,
+            "APG": 2.4,
+            "RBG": 1.8,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.3,
+            "PM": -4.0,
+            "MPG": 18.1,
+            "FG_PCT": 0.393,
+            "FG3_PCT": 0.295,
+            "FT_PCT": 0.787,
+            "FGM": 114,
+            "FGA": 290,
+            "FG3M": 39,
+            "FG3A": 132,
+            "FTM": 37,
+            "FTA": 47,
+            "GP": 53
+        },
+        "2019-20": {
+            "PPG": 4.0,
+            "APG": 2.1,
+            "RBG": 1.6,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.7,
+            "PM": -1.1,
+            "MPG": 13.1,
+            "FG_PCT": 0.398,
+            "FG3_PCT": 0.352,
+            "FT_PCT": 0.704,
+            "FGM": 72,
+            "FGA": 181,
+            "FG3M": 25,
+            "FG3A": 71,
+            "FTM": 50,
+            "FTA": 71,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Forward-Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

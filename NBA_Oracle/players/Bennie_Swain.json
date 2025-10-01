@@ -1,0 +1,80 @@
+{
+    "player_id": 78283,
+    "full_name": "Bennie Swain",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1958-59"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1958-59": {
+            "PPG": 4.6,
+            "APG": 0.5,
+            "RBG": 4.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.2,
+            "FG_PCT": 0.406,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.609,
+            "FGM": 99,
+            "FGA": 244,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 67,
+            "FTA": 110,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {
+        "1958-59": {
+            "PPG": 1.0,
+            "APG": 0.2,
+            "RBG": 2.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.4,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 2,
+            "FGA": 6,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "7",
+        "Active": false
+    }
+}

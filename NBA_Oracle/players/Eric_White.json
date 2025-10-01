@@ -1,0 +1,79 @@
+{
+    "player_id": 78507,
+    "full_name": "Eric White",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 10.5,
+            "APG": 0.5,
+            "RBG": 3.6,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 1.2,
+            "PM": NaN,
+            "MPG": 20.7,
+            "FG_PCT": 0.532,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0.789,
+            "FGM": 66,
+            "FGA": 124,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 45,
+            "FTA": 57,
+            "GP": 17
+        },
+        "1988-89": {
+            "PPG": 4.2,
+            "APG": 0.4,
+            "RBG": 1.8,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 11.5,
+            "FG_PCT": 0.517,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.81,
+            "FGM": 62,
+            "FGA": 120,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 34,
+            "FTA": 42,
+            "GP": 38
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "LAC",
+            "UTH",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "65",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1641772,
+    "full_name": "Nae'Qwan Tomlin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 7.2,
+            "APG": 0.4,
+            "RBG": 4.2,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": 1.4,
+            "MPG": 12.6,
+            "FG_PCT": 0.406,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.727,
+            "FGM": 13,
+            "FGA": 32,
+            "FG3M": 2,
+            "FG3A": 10,
+            "FTM": 8,
+            "FTA": 11,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

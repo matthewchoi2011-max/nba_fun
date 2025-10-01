@@ -1,0 +1,77 @@
+{
+    "player_id": 76472,
+    "full_name": "Winston Crite",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 3.0,
+            "APG": 0.5,
+            "RBG": 2.2,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 8.9,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.76,
+            "FGM": 34,
+            "FGA": 68,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 19,
+            "FTA": 25,
+            "GP": 29
+        },
+        "1988-89": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "233",
+        "Position": "Forward",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "53",
+        "Active": false
+    }
+}

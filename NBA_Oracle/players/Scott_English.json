@@ -1,0 +1,57 @@
+{
+    "player_id": 76675,
+    "full_name": "Scott English",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1972-73": {
+            "PPG": 3.2,
+            "APG": 0.5,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.8,
+            "FG_PCT": 0.387,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.724,
+            "FGM": 36,
+            "FGA": 93,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 21,
+            "FTA": 29,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

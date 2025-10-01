@@ -1,0 +1,57 @@
+{
+    "player_id": 1478,
+    "full_name": "Stevin Smith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 1.8,
+            "APG": 0.5,
+            "RBG": 1.2,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -1.1,
+            "MPG": 7.6,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 1.0,
+            "FGM": 6,
+            "FGA": 18,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "208",
+        "Position": "Guard",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

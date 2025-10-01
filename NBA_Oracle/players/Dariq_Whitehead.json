@@ -1,0 +1,77 @@
+{
+    "player_id": 1641727,
+    "full_name": "Dariq Whitehead",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 1.5,
+            "APG": 1.5,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.5,
+            "TPG": 0.0,
+            "PM": -11.0,
+            "MPG": 12.0,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 2
+        },
+        "2024-25": {
+            "PPG": 5.7,
+            "APG": 0.6,
+            "RBG": 1.4,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -3.2,
+            "MPG": 12.3,
+            "FG_PCT": 0.406,
+            "FG3_PCT": 0.446,
+            "FT_PCT": 0.6,
+            "FGM": 39,
+            "FGA": 96,
+            "FG3M": 33,
+            "FG3A": 74,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "220",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "BKN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "22",
+        "Active": true
+    }
+}

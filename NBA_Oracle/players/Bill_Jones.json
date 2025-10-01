@@ -1,0 +1,57 @@
+{
+    "player_id": 77180,
+    "full_name": "Bill Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1988-89": {
+            "PPG": 3.5,
+            "APG": 0.5,
+            "RBG": 1.3,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 8.3,
+            "FG_PCT": 0.49,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.674,
+            "FGM": 50,
+            "FGA": 102,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 29,
+            "FTA": 43,
+            "GP": 37
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "175",
+        "Position": "Forward",
+        "Teams": [
+            "NJN"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "90",
+        "Active": false
+    }
+}

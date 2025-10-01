@@ -1,0 +1,78 @@
+{
+    "player_id": 76020,
+    "full_name": "Gary Alcorn",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1959-60": {
+            "PPG": 4.0,
+            "APG": 0.4,
+            "RBG": 4.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.6,
+            "FG_PCT": 0.292,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 91,
+            "FGA": 312,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 48,
+            "FTA": 84,
+            "GP": 58
+        },
+        "1960-61": {
+            "PPG": 1.6,
+            "APG": 0.1,
+            "RBG": 2.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.7,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.875,
+            "FGM": 12,
+            "FGA": 40,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 7,
+            "FTA": 8,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Center",
+        "Teams": [
+            "DET",
+            "LAL"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "16",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 77886,
+    "full_name": "Bob Priddy",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1952-53": {
+            "PPG": 2.2,
+            "APG": 0.4,
+            "RBG": 2.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.3,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 14,
+            "FGA": 38,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 14,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {
+        "1952-53": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "BAL"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

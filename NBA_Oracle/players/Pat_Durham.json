@@ -1,0 +1,78 @@
+{
+    "player_id": 1090,
+    "full_name": "Pat Durham",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1992-93": {
+            "PPG": 4.2,
+            "APG": 0.8,
+            "RBG": 2.8,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 1.4,
+            "PM": NaN,
+            "MPG": 15.6,
+            "FG_PCT": 0.24,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 6,
+            "FGA": 25,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 9,
+            "FTA": 12,
+            "GP": 5
+        },
+        "1994-95": {
+            "PPG": 5.1,
+            "APG": 0.9,
+            "RBG": 1.6,
+            "SPG": 0.6,
+            "BPG": 0.5,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 14.4,
+            "FG_PCT": 0.494,
+            "FG3_PCT": 0.192,
+            "FT_PCT": 0.656,
+            "FGM": 117,
+            "FGA": 237,
+            "FG3M": 5,
+            "FG3A": 26,
+            "FTM": 63,
+            "FTA": 96,
+            "GP": 59
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "GOS",
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 77782,
+    "full_name": "Eddie Owens",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1977-78": {
+            "PPG": 2.6,
+            "APG": 0.6,
+            "RBG": 1.2,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 7.9,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 9,
+            "FGA": 21,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "BUF"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "player_id": 982,
+    "full_name": "Martin Muursepp",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 3.7,
+            "APG": 0.5,
+            "RBG": 1.6,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.4,
+            "PM": -2.0,
+            "MPG": 8.3,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.629,
+            "FGM": 54,
+            "FGA": 131,
+            "FG3M": 4,
+            "FG3A": 24,
+            "FTM": 44,
+            "FTA": 70,
+            "GP": 42
+        },
+        "1997-98": {
+            "PPG": 5.7,
+            "APG": 0.7,
+            "RBG": 2.8,
+            "SPG": 0.7,
+            "BPG": 0.3,
+            "TPG": 0.7,
+            "PM": -0.4,
+            "MPG": 14.7,
+            "FG_PCT": 0.435,
+            "FG3_PCT": 0.421,
+            "FT_PCT": 0.761,
+            "FGM": 83,
+            "FGA": 191,
+            "FG3M": 16,
+            "FG3A": 38,
+            "FTM": 51,
+            "FTA": 67,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "MIA",
+            "DAL",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "25",
+        "Active": false
+    }
+}

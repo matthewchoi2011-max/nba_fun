@@ -1,0 +1,98 @@
+{
+    "player_id": 202729,
+    "full_name": "Josh Selby",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2011-12": {
+            "PPG": 2.2,
+            "APG": 1.1,
+            "RBG": 0.5,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -1.4,
+            "MPG": 8.5,
+            "FG_PCT": 0.347,
+            "FG3_PCT": 0.133,
+            "FT_PCT": 0.786,
+            "FGM": 25,
+            "FGA": 72,
+            "FG3M": 2,
+            "FG3A": 15,
+            "FTM": 11,
+            "FTA": 14,
+            "GP": 28
+        },
+        "2012-13": {
+            "PPG": 2.0,
+            "APG": 0.4,
+            "RBG": 0.5,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": -4.0,
+            "MPG": 5.9,
+            "FG_PCT": 0.273,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.636,
+            "FGM": 6,
+            "FGA": 22,
+            "FG3M": 1,
+            "FG3A": 6,
+            "FTM": 7,
+            "FTA": 11,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {
+        "2011-12": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "183",
+        "Position": "Guard",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "49",
+        "Active": false
+    }
+}

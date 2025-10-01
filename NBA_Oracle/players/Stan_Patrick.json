@@ -1,0 +1,80 @@
+{
+    "player_id": 77809,
+    "full_name": "Stan Patrick",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 6.1,
+            "APG": 1.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.395,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.605,
+            "FGM": 116,
+            "FGA": 294,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 89,
+            "FTA": 147,
+            "GP": 53
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 5.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 4,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Forward",
+        "Teams": [
+            "SHE",
+            "WAT",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

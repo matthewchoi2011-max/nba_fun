@@ -1,0 +1,101 @@
+{
+    "player_id": 1631254,
+    "full_name": "Kenneth Lofton Jr.",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 5.0,
+            "APG": 0.8,
+            "RBG": 2.1,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -2.0,
+            "MPG": 7.3,
+            "FG_PCT": 0.527,
+            "FG3_PCT": 0.353,
+            "FT_PCT": 0.593,
+            "FGM": 49,
+            "FGA": 93,
+            "FG3M": 6,
+            "FG3A": 17,
+            "FTM": 16,
+            "FTA": 27,
+            "GP": 24
+        },
+        "2023-24": {
+            "PPG": 4.6,
+            "APG": 1.6,
+            "RBG": 1.8,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -0.5,
+            "MPG": 9.4,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0.292,
+            "FT_PCT": 0.654,
+            "FGM": 36,
+            "FGA": 78,
+            "FG3M": 7,
+            "FG3A": 24,
+            "FTM": 17,
+            "FTA": 26,
+            "GP": 21
+        }
+    },
+    "playoff_stats": {
+        "2022-23": {
+            "PPG": 1.8,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -2.2,
+            "MPG": 3.0,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 8,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "275",
+        "Position": "Forward",
+        "Teams": [
+            "MEM",
+            "PHI",
+            "UTA",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

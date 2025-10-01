@@ -1,0 +1,82 @@
+{
+    "player_id": 203995,
+    "full_name": "Vasilije Micić",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": [
+            "2024"
+        ]
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 7.0,
+            "APG": 4.4,
+            "RBG": 1.5,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.6,
+            "PM": -1.2,
+            "MPG": 19.6,
+            "FG_PCT": 0.43,
+            "FG3_PCT": 0.279,
+            "FT_PCT": 0.813,
+            "FGM": 159,
+            "FGA": 370,
+            "FG3M": 43,
+            "FG3A": 154,
+            "FTM": 61,
+            "FTA": 75,
+            "GP": 60
+        },
+        "2024-25": {
+            "PPG": 6.6,
+            "APG": 3.1,
+            "RBG": 2.2,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 1.9,
+            "PM": -3.0,
+            "MPG": 19.1,
+            "FG_PCT": 0.348,
+            "FG3_PCT": 0.36,
+            "FT_PCT": 0.829,
+            "FGM": 95,
+            "FGA": 273,
+            "FG3M": 45,
+            "FG3A": 125,
+            "FTM": 34,
+            "FTA": 41,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "188",
+        "Position": "Guard",
+        "Teams": [
+            "OKC",
+            "CHA",
+            "TOT",
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "52",
+        "Active": true
+    }
+}

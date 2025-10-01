@@ -1,0 +1,98 @@
+{
+    "player_id": 76954,
+    "full_name": "Mike Harper",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 2.7,
+            "APG": 0.3,
+            "RBG": 1.7,
+            "SPG": 0.4,
+            "BPG": 0.4,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 8.4,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.435,
+            "FGM": 56,
+            "FGA": 136,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 37,
+            "FTA": 85,
+            "GP": 55
+        },
+        "1981-82": {
+            "PPG": 6.8,
+            "APG": 0.8,
+            "RBG": 5.0,
+            "SPG": 0.8,
+            "BPG": 1.2,
+            "TPG": 1.4,
+            "PM": NaN,
+            "MPG": 21.1,
+            "FG_PCT": 0.497,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.627,
+            "FGM": 184,
+            "FGA": 370,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 96,
+            "FTA": 153,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {
+        "1980-81": {
+            "PPG": 3.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "195",
+        "Position": "Center",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

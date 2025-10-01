@@ -1,0 +1,77 @@
+{
+    "player_id": 77098,
+    "full_name": "Mike Iuzzolino",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 9.3,
+            "APG": 3.7,
+            "RBG": 1.9,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 1.8,
+            "PM": NaN,
+            "MPG": 24.6,
+            "FG_PCT": 0.451,
+            "FG3_PCT": 0.434,
+            "FT_PCT": 0.836,
+            "FGM": 160,
+            "FGA": 355,
+            "FG3M": 59,
+            "FG3A": 136,
+            "FTM": 107,
+            "FTA": 128,
+            "GP": 52
+        },
+        "1992-93": {
+            "PPG": 8.7,
+            "APG": 4.7,
+            "RBG": 2.0,
+            "SPG": 0.7,
+            "BPG": 0.1,
+            "TPG": 1.8,
+            "PM": NaN,
+            "MPG": 25.3,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.765,
+            "FGM": 221,
+            "FGA": 478,
+            "FG3M": 54,
+            "FG3A": 144,
+            "FTM": 114,
+            "FTA": 149,
+            "GP": 70
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 70,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "35",
+        "Active": false
+    }
+}

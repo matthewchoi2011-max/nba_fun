@@ -1,0 +1,77 @@
+{
+    "player_id": 76432,
+    "full_name": "Chuck Connors",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 4.6,
+            "APG": 0.8,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.247,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.464,
+            "FGM": 94,
+            "FGA": 380,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 39,
+            "FTA": 84,
+            "GP": 49
+        },
+        "1947-48": {
+            "PPG": 3.0,
+            "APG": 0.2,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.385,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 5,
+            "FGA": 13,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

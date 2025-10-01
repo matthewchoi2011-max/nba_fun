@@ -1,0 +1,79 @@
+{
+    "player_id": 76076,
+    "full_name": "William Averitt",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 7.9,
+            "APG": 1.8,
+            "RBG": 1.0,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 15.1,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.716,
+            "FGM": 234,
+            "FGA": 619,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 121,
+            "FTA": 169,
+            "GP": 75
+        },
+        "1977-78": {
+            "PPG": 9.0,
+            "APG": 3.6,
+            "RBG": 1.5,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 2.6,
+            "PM": NaN,
+            "MPG": 19.7,
+            "FG_PCT": 0.409,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.709,
+            "FGM": 198,
+            "FGA": 484,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 100,
+            "FTA": 141,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "BUF",
+            "NJN",
+            "TOT"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "55",
+        "Active": false
+    }
+}

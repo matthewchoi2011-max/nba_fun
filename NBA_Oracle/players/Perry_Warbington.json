@@ -1,0 +1,57 @@
+{
+    "player_id": 78454,
+    "full_name": "Perry Warbington",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 2.0,
+            "APG": 3.2,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.0,
+            "FG_PCT": 0.19,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 21,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "165",
+        "Position": "Guard",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "9",
+        "DraftNumber": "145",
+        "Active": false
+    }
+}

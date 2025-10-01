@@ -1,0 +1,101 @@
+{
+    "player_id": 77705,
+    "full_name": "Johnny Neumann",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 6.0,
+            "APG": 2.2,
+            "RBG": 1.1,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 14.9,
+            "FG_PCT": 0.406,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.678,
+            "FGM": 161,
+            "FGA": 397,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 59,
+            "FTA": 87,
+            "GP": 63
+        },
+        "1977-78": {
+            "PPG": 4.2,
+            "APG": 1.4,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 10.8,
+            "FG_PCT": 0.407,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.722,
+            "FGM": 35,
+            "FGA": 86,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 13,
+            "FTA": 18,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {
+        "1976-77": {
+            "PPG": 4.0,
+            "APG": 1.5,
+            "RBG": 0.3,
+            "SPG": 0.5,
+            "BPG": 0.3,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.3,
+            "FG_PCT": 0.379,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 11,
+            "FGA": 29,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "BUF",
+            "TOT",
+            "IND"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "98",
+        "Active": false
+    }
+}

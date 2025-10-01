@@ -1,0 +1,78 @@
+{
+    "player_id": 1631221,
+    "full_name": "Collin Gillespie",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.6,
+            "APG": 1.1,
+            "RBG": 0.9,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": 0.6,
+            "MPG": 9.4,
+            "FG_PCT": 0.464,
+            "FG3_PCT": 0.395,
+            "FT_PCT": 0.667,
+            "FGM": 32,
+            "FGA": 69,
+            "FG3M": 15,
+            "FG3A": 38,
+            "FTM": 8,
+            "FTA": 12,
+            "GP": 24
+        },
+        "2024-25": {
+            "PPG": 5.9,
+            "APG": 2.4,
+            "RBG": 2.4,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": -0.9,
+            "MPG": 14.0,
+            "FG_PCT": 0.43,
+            "FG3_PCT": 0.433,
+            "FT_PCT": 0.864,
+            "FGM": 68,
+            "FGA": 158,
+            "FG3M": 39,
+            "FG3A": 90,
+            "FTM": 19,
+            "FTA": 22,
+            "GP": 33
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "DEN",
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

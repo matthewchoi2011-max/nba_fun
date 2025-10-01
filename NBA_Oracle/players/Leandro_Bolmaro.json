@@ -1,0 +1,78 @@
+{
+    "player_id": 1630195,
+    "full_name": "Leandro Bolmaro",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 1.4,
+            "APG": 0.6,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": 0.1,
+            "MPG": 6.9,
+            "FG_PCT": 0.315,
+            "FG3_PCT": 0.278,
+            "FT_PCT": 0.846,
+            "FGM": 17,
+            "FGA": 54,
+            "FG3M": 5,
+            "FG3A": 18,
+            "FTM": 11,
+            "FTA": 13,
+            "GP": 35
+        },
+        "2022-23": {
+            "PPG": 0.4,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": 0.1,
+            "MPG": 4.9,
+            "FG_PCT": 0.15,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 3,
+            "FGA": 20,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "MIN",
+            "UTA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "23",
+        "Active": false
+    }
+}

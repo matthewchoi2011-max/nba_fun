@@ -1,0 +1,57 @@
+{
+    "player_id": 76950,
+    "full_name": "Jerry Harkness",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1963-64": {
+            "PPG": 5.8,
+            "APG": 1.2,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.8,
+            "FG_PCT": 0.433,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.375,
+            "FGM": 13,
+            "FGA": 30,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 8,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "9",
+        "Active": false
+    }
+}

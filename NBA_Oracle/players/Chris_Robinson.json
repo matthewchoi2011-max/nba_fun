@@ -1,0 +1,79 @@
+{
+    "player_id": 997,
+    "full_name": "Chris Robinson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1996-97": {
+            "PPG": 4.6,
+            "APG": 1.6,
+            "RBG": 1.7,
+            "SPG": 0.7,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -3.8,
+            "MPG": 16.6,
+            "FG_PCT": 0.379,
+            "FG3_PCT": 0.382,
+            "FT_PCT": 0.615,
+            "FGM": 69,
+            "FGA": 182,
+            "FG3M": 34,
+            "FG3A": 89,
+            "FTM": 16,
+            "FTA": 26,
+            "GP": 41
+        },
+        "1997-98": {
+            "PPG": 4.6,
+            "APG": 1.1,
+            "RBG": 1.3,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": -1.7,
+            "MPG": 11.8,
+            "FG_PCT": 0.374,
+            "FG3_PCT": 0.364,
+            "FT_PCT": 0.5,
+            "FGM": 65,
+            "FGA": 174,
+            "FG3M": 24,
+            "FG3A": 66,
+            "FTM": 8,
+            "FTA": 16,
+            "GP": 35
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "VAN",
+            "SAC",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "51",
+        "Active": false
+    }
+}

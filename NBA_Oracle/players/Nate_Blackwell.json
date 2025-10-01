@@ -1,0 +1,57 @@
+{
+    "player_id": 76179,
+    "full_name": "Nate Blackwell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 3.7,
+            "APG": 1.8,
+            "RBG": 0.6,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": NaN,
+            "MPG": 11.2,
+            "FG_PCT": 0.366,
+            "FG3_PCT": 0.182,
+            "FT_PCT": 0.833,
+            "FGM": 15,
+            "FGA": 41,
+            "FG3M": 2,
+            "FG3A": 11,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "27",
+        "Active": false
+    }
+}

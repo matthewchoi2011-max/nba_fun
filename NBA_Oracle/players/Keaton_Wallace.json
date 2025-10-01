@@ -1,0 +1,57 @@
+{
+    "player_id": 1630811,
+    "full_name": "Keaton Wallace",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 5.4,
+            "APG": 2.6,
+            "RBG": 1.6,
+            "SPG": 0.9,
+            "BPG": 0.3,
+            "TPG": 1.1,
+            "PM": -0.6,
+            "MPG": 16.2,
+            "FG_PCT": 0.401,
+            "FG3_PCT": 0.329,
+            "FT_PCT": 1.0,
+            "FGM": 65,
+            "FGA": 162,
+            "FG3M": 27,
+            "FG3A": 82,
+            "FTM": 11,
+            "FTA": 11,
+            "GP": 31
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 1630545,
+    "full_name": "Terrence Shannon Jr.",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.3,
+            "APG": 1.0,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": 0.3,
+            "MPG": 10.6,
+            "FG_PCT": 0.482,
+            "FG3_PCT": 0.355,
+            "FT_PCT": 0.81,
+            "FGM": 55,
+            "FGA": 114,
+            "FG3M": 11,
+            "FG3A": 31,
+            "FTM": 17,
+            "FTA": 21,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 4.6,
+            "APG": 0.3,
+            "RBG": 1.1,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": 0.4,
+            "MPG": 6.3,
+            "FG_PCT": 0.481,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 1.0,
+            "FGM": 13,
+            "FGA": 27,
+            "FG3M": 3,
+            "FG3A": 8,
+            "FTM": 12,
+            "FTA": 12,
+            "GP": 9
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "27",
+        "Active": true
+    }
+}

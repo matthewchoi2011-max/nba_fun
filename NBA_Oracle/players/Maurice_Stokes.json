@@ -1,0 +1,129 @@
+{
+    "player_id": 600016,
+    "full_name": "Maurice Stokes",
+    "awards": {
+        "NBA All-Star": [
+            "1955-56",
+            "1956-57",
+            "1957-58"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [
+            "1955-56",
+            "1956-57",
+            "1957-58"
+        ],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [
+            "1955-56"
+        ],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1955-56": {
+            "PPG": 16.8,
+            "APG": 4.9,
+            "RBG": 16.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 34.7,
+            "FG_PCT": 0.354,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 403,
+            "FGA": 1137,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 319,
+            "FTA": 447,
+            "GP": 67
+        },
+        "1956-57": {
+            "PPG": 15.6,
+            "APG": 4.6,
+            "RBG": 17.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 38.3,
+            "FG_PCT": 0.347,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.665,
+            "FGM": 434,
+            "FGA": 1249,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 256,
+            "FTA": 385,
+            "GP": 72
+        },
+        "1957-58": {
+            "PPG": 16.9,
+            "APG": 6.4,
+            "RBG": 18.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 39.0,
+            "FG_PCT": 0.351,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.715,
+            "FGM": 414,
+            "FGA": 1181,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 238,
+            "FTA": 333,
+            "GP": 63
+        }
+    },
+    "playoff_stats": {
+        "1957-58": {
+            "PPG": 12.0,
+            "APG": 2.0,
+            "RBG": 15.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 39.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.857,
+            "FGM": 3,
+            "FGA": 12,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 6,
+            "FTA": 7,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "232",
+        "Position": "Forward",
+        "Teams": [
+            "ROC",
+            "CIN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "2",
+        "Active": false
+    }
+}

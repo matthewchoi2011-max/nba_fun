@@ -1,0 +1,120 @@
+{
+    "player_id": 1631099,
+    "full_name": "Keegan Murray",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2022-23"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 12.2,
+            "APG": 1.2,
+            "RBG": 4.6,
+            "SPG": 0.8,
+            "BPG": 0.5,
+            "TPG": 0.8,
+            "PM": 1.2,
+            "MPG": 29.8,
+            "FG_PCT": 0.453,
+            "FG3_PCT": 0.411,
+            "FT_PCT": 0.765,
+            "FGM": 354,
+            "FGA": 782,
+            "FG3M": 206,
+            "FG3A": 501,
+            "FTM": 62,
+            "FTA": 81,
+            "GP": 80
+        },
+        "2023-24": {
+            "PPG": 15.2,
+            "APG": 1.7,
+            "RBG": 5.5,
+            "SPG": 1.0,
+            "BPG": 0.8,
+            "TPG": 0.8,
+            "PM": 1.8,
+            "MPG": 33.6,
+            "FG_PCT": 0.454,
+            "FG3_PCT": 0.358,
+            "FT_PCT": 0.831,
+            "FGM": 443,
+            "FGA": 975,
+            "FG3M": 183,
+            "FG3A": 511,
+            "FTM": 103,
+            "FTA": 124,
+            "GP": 77
+        },
+        "2024-25": {
+            "PPG": 12.4,
+            "APG": 1.4,
+            "RBG": 6.7,
+            "SPG": 0.8,
+            "BPG": 0.9,
+            "TPG": 0.8,
+            "PM": 0.6,
+            "MPG": 34.3,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0.343,
+            "FT_PCT": 0.833,
+            "FGM": 364,
+            "FGA": 820,
+            "FG3M": 154,
+            "FG3A": 449,
+            "FTM": 60,
+            "FTA": 72,
+            "GP": 76
+        }
+    },
+    "playoff_stats": {
+        "2022-23": {
+            "PPG": 9.7,
+            "APG": 0.7,
+            "RBG": 6.3,
+            "SPG": 0.6,
+            "BPG": 0.3,
+            "TPG": 0.6,
+            "PM": -1.7,
+            "MPG": 27.7,
+            "FG_PCT": 0.448,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.667,
+            "FGM": 26,
+            "FGA": 58,
+            "FG3M": 12,
+            "FG3A": 32,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 7
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "4",
+        "Active": true
+    }
+}

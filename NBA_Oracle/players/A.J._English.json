@@ -1,0 +1,77 @@
+{
+    "player_id": 76672,
+    "full_name": "A.J. English",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1990-91": {
+            "PPG": 8.8,
+            "APG": 2.5,
+            "RBG": 2.1,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 1.6,
+            "PM": NaN,
+            "MPG": 20.6,
+            "FG_PCT": 0.439,
+            "FG3_PCT": 0.097,
+            "FT_PCT": 0.707,
+            "FGM": 251,
+            "FGA": 572,
+            "FG3M": 3,
+            "FG3A": 31,
+            "FTM": 111,
+            "FTA": 157,
+            "GP": 70
+        },
+        "1991-92": {
+            "PPG": 10.9,
+            "APG": 1.8,
+            "RBG": 2.1,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 20.6,
+            "FG_PCT": 0.433,
+            "FG3_PCT": 0.176,
+            "FT_PCT": 0.841,
+            "FGM": 366,
+            "FGA": 846,
+            "FG3M": 6,
+            "FG3A": 34,
+            "FTM": 148,
+            "FTA": 176,
+            "GP": 81
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

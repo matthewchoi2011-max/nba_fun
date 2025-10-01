@@ -1,0 +1,57 @@
+{
+    "player_id": 201805,
+    "full_name": "Chris Hunter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2009-10": {
+            "PPG": 4.5,
+            "APG": 0.6,
+            "RBG": 2.8,
+            "SPG": 0.2,
+            "BPG": 0.6,
+            "TPG": 0.5,
+            "PM": 0.0,
+            "MPG": 13.1,
+            "FG_PCT": 0.502,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.754,
+            "FGM": 109,
+            "FGA": 217,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 52,
+            "FTA": 69,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "240",
+        "Position": "Center-Forward",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

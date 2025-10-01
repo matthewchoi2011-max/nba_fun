@@ -1,0 +1,57 @@
+{
+    "player_id": 76057,
+    "full_name": "Joe Arlauckas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1987-88": {
+            "PPG": 3.8,
+            "APG": 0.9,
+            "RBG": 1.4,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 9.4,
+            "FG_PCT": 0.326,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 14,
+            "FGA": 43,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 8,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "74",
+        "Active": false
+    }
+}

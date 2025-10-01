@@ -1,0 +1,57 @@
+{
+    "player_id": 1630994,
+    "full_name": "Gabriel Lundberg",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 3.2,
+            "APG": 2.8,
+            "RBG": 1.8,
+            "SPG": 0.8,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": 4.8,
+            "MPG": 11.0,
+            "FG_PCT": 0.263,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0,
+            "FGM": 5,
+            "FGA": 19,
+            "FG3M": 3,
+            "FG3A": 8,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "203",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

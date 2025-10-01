@@ -1,0 +1,57 @@
+{
+    "player_id": 189,
+    "full_name": "B.J. Tyler",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1994-95": {
+            "PPG": 3.5,
+            "APG": 3.2,
+            "RBG": 1.1,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 1.8,
+            "PM": NaN,
+            "MPG": 14.7,
+            "FG_PCT": 0.381,
+            "FG3_PCT": 0.314,
+            "FT_PCT": 0.7,
+            "FGM": 72,
+            "FGA": 189,
+            "FG3M": 16,
+            "FG3A": 51,
+            "FTM": 35,
+            "FTA": 50,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "20",
+        "Active": false
+    }
+}

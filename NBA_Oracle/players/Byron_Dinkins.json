@@ -1,0 +1,80 @@
+{
+    "player_id": 76574,
+    "full_name": "Byron Dinkins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 3.5,
+            "APG": 2.3,
+            "RBG": 1.2,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 11.0,
+            "FG_PCT": 0.404,
+            "FG3_PCT": 0.111,
+            "FT_PCT": 0.867,
+            "FGM": 44,
+            "FGA": 109,
+            "FG3M": 1,
+            "FG3A": 9,
+            "FTM": 26,
+            "FTA": 30,
+            "GP": 33
+        },
+        "1990-91": {
+            "PPG": 3.0,
+            "APG": 1.6,
+            "RBG": 1.0,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 12.4,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.889,
+            "FGM": 14,
+            "FGA": 34,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 9,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "HOU",
+            "SAN",
+            "IND",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

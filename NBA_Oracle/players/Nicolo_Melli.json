@@ -1,0 +1,100 @@
+{
+    "player_id": 1629740,
+    "full_name": "Nicolo Melli",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 6.6,
+            "APG": 1.4,
+            "RBG": 3.0,
+            "SPG": 0.6,
+            "BPG": 0.4,
+            "TPG": 0.8,
+            "PM": -1.5,
+            "MPG": 17.4,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0.335,
+            "FT_PCT": 0.74,
+            "FGM": 136,
+            "FGA": 323,
+            "FG3M": 69,
+            "FG3A": 206,
+            "FTM": 54,
+            "FTA": 73,
+            "GP": 60
+        },
+        "2020-21": {
+            "PPG": 3.0,
+            "APG": 1.0,
+            "RBG": 2.7,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": 0.5,
+            "MPG": 12.6,
+            "FG_PCT": 0.326,
+            "FG3_PCT": 0.271,
+            "FT_PCT": 0.76,
+            "FGM": 46,
+            "FGA": 141,
+            "FG3M": 23,
+            "FG3A": 85,
+            "FTM": 19,
+            "FTA": 25,
+            "GP": 45
+        }
+    },
+    "playoff_stats": {
+        "2020-21": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -5.7,
+            "MPG": 6.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "236",
+        "Position": "Forward",
+        "Teams": [
+            "NOP",
+            "DAL",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

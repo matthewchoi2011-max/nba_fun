@@ -1,0 +1,98 @@
+{
+    "player_id": 78120,
+    "full_name": "Carl Shaeffer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 3.5,
+            "APG": 0.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.369,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.561,
+            "FGM": 59,
+            "FGA": 160,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 32,
+            "FTA": 57,
+            "GP": 43
+        },
+        "1950-51": {
+            "PPG": 1.5,
+            "APG": 0.6,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.273,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 6,
+            "FGA": 22,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 3.5,
+            "APG": 1.2,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 7,
+            "FGA": 21,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 7,
+            "FTA": 14,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "INO"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

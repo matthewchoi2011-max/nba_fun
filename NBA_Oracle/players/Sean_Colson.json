@@ -1,0 +1,59 @@
+{
+    "player_id": 2173,
+    "full_name": "Sean Colson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2000-01": {
+            "PPG": 1.2,
+            "APG": 0.8,
+            "RBG": 0.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -2.6,
+            "MPG": 3.4,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.5,
+            "FGM": 6,
+            "FGA": 24,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 2,
+            "FTA": 4,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "HOU",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

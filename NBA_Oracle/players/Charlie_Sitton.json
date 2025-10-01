@@ -1,0 +1,57 @@
+{
+    "player_id": 78164,
+    "full_name": "Charlie Sitton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1984-85": {
+            "PPG": 2.1,
+            "APG": 0.6,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.415,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.52,
+            "FGM": 39,
+            "FGA": 94,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 13,
+            "FTA": 25,
+            "GP": 43
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "38",
+        "Active": false
+    }
+}

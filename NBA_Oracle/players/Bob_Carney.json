@@ -1,0 +1,78 @@
+{
+    "player_id": 76345,
+    "full_name": "Bob Carney",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1954-55": {
+            "PPG": 3.6,
+            "APG": 0.8,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.8,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.525,
+            "FGM": 24,
+            "FGA": 64,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 21,
+            "FTA": 40,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {
+        "1954-55": {
+            "PPG": 1.4,
+            "APG": 0.4,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.9,
+            "FG_PCT": 0.125,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.889,
+            "FGM": 1,
+            "FGA": 8,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 9,
+            "GP": 7
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "170",
+        "Position": "Center",
+        "Teams": [
+            "MNL"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "47",
+        "Active": false
+    }
+}

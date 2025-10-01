@@ -1,0 +1,57 @@
+{
+    "player_id": 1631262,
+    "full_name": "Jules Bernard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.9,
+            "APG": 0.8,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": 1.4,
+            "MPG": 7.8,
+            "FG_PCT": 0.453,
+            "FG3_PCT": 0.379,
+            "FT_PCT": 0.556,
+            "FGM": 29,
+            "FGA": 64,
+            "FG3M": 11,
+            "FG3A": 29,
+            "FTM": 5,
+            "FTA": 9,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

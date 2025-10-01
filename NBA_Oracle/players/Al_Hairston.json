@@ -1,0 +1,77 @@
+{
+    "player_id": 76915,
+    "full_name": "Al Hairston",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 2.2,
+            "APG": 1.0,
+            "RBG": 0.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 38,
+            "FGA": 114,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 14,
+            "GP": 39
+        },
+        "1969-70": {
+            "PPG": 2.3,
+            "APG": 2.0,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.7,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 8,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "SEA"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "52",
+        "Active": false
+    }
+}

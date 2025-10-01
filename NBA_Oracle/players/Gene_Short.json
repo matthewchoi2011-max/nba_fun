@@ -1,0 +1,59 @@
+{
+    "player_id": 78138,
+    "full_name": "Gene Short",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1975-76": {
+            "PPG": 2.5,
+            "APG": 0.3,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.5,
+            "FG_PCT": 0.352,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.625,
+            "FGM": 32,
+            "FGA": 91,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 20,
+            "FTA": 32,
+            "GP": 34
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "SEA",
+            "NYK",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "9",
+        "Active": false
+    }
+}

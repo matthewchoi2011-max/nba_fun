@@ -1,0 +1,77 @@
+{
+    "player_id": 1628421,
+    "full_name": "Devin Robinson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 5.0,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 10.0,
+            "MPG": 13.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        },
+        "2018-19": {
+            "PPG": 6.7,
+            "APG": 0.9,
+            "RBG": 2.9,
+            "SPG": 0.6,
+            "BPG": 0.9,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 13.6,
+            "FG_PCT": 0.594,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.643,
+            "FGM": 19,
+            "FGA": 32,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 9,
+            "FTA": 14,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

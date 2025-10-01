@@ -1,0 +1,78 @@
+{
+    "player_id": 76810,
+    "full_name": "Mike Gibson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1983-84": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 2.1,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 7.2,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.647,
+            "FGM": 21,
+            "FGA": 55,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 11,
+            "FTA": 17,
+            "GP": 32
+        },
+        "1985-86": {
+            "PPG": 1.5,
+            "APG": 0.2,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.392,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.727,
+            "FGM": 20,
+            "FGA": 51,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 11,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "WAS",
+            "DET"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "44",
+        "Active": false
+    }
+}

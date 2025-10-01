@@ -1,0 +1,57 @@
+{
+    "player_id": 78545,
+    "full_name": "Don Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1979-80": {
+            "PPG": 6.6,
+            "APG": 2.4,
+            "RBG": 1.4,
+            "SPG": 1.3,
+            "BPG": 0.1,
+            "TPG": 1.4,
+            "PM": NaN,
+            "MPG": 23.3,
+            "FG_PCT": 0.447,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.7,
+            "FGM": 232,
+            "FGA": 519,
+            "FG3M": 0,
+            "FG3A": 12,
+            "FTM": 42,
+            "FTA": 60,
+            "GP": 77
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "UTH"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "96",
+        "Active": false
+    }
+}

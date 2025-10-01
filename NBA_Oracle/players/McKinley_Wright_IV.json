@@ -1,0 +1,78 @@
+{
+    "player_id": 1630593,
+    "full_name": "McKinley Wright IV",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 1.0,
+            "APG": 0.6,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -1.4,
+            "MPG": 3.8,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 5
+        },
+        "2022-23": {
+            "PPG": 4.2,
+            "APG": 2.1,
+            "RBG": 1.7,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -4.1,
+            "MPG": 12.4,
+            "FG_PCT": 0.469,
+            "FG3_PCT": 0.321,
+            "FT_PCT": 0.684,
+            "FGM": 46,
+            "FGA": 98,
+            "FG3M": 9,
+            "FG3A": 28,
+            "FTM": 13,
+            "FTA": 19,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 71,
+        "Weight": "192",
+        "Position": "Guard",
+        "Teams": [
+            "MIN",
+            "DAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

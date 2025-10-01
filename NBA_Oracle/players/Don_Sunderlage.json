@@ -1,0 +1,80 @@
+{
+    "player_id": 78278,
+    "full_name": "Don Sunderlage",
+    "awards": {
+        "NBA All-Star": [
+            "1953-54"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1953-54": {
+            "PPG": 11.2,
+            "APG": 2.8,
+            "RBG": 3.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 32.8,
+            "FG_PCT": 0.34,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.748,
+            "FGM": 254,
+            "FGA": 748,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 252,
+            "FTA": 337,
+            "GP": 68
+        },
+        "1954-55": {
+            "PPG": 2.5,
+            "APG": 0.8,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.0,
+            "FG_PCT": 0.248,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.658,
+            "FGM": 33,
+            "FGA": 133,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 48,
+            "FTA": 73,
+            "GP": 45
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "MIH",
+            "MNL"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "9",
+        "Active": false
+    }
+}

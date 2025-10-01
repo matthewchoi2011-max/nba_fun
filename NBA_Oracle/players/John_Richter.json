@@ -1,0 +1,80 @@
+{
+    "player_id": 77954,
+    "full_name": "John Richter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1959-60"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1959-60": {
+            "PPG": 4.3,
+            "APG": 0.4,
+            "RBG": 4.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.2,
+            "FG_PCT": 0.34,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.504,
+            "FGM": 113,
+            "FGA": 332,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 59,
+            "FTA": 117,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {
+        "1959-60": {
+            "PPG": 4.4,
+            "APG": 0.2,
+            "RBG": 3.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.9,
+            "FG_PCT": 0.395,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.357,
+            "FGM": 15,
+            "FGA": 38,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 5,
+            "FTA": 14,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "6",
+        "Active": false
+    }
+}

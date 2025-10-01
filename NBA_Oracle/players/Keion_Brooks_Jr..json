@@ -1,0 +1,57 @@
+{
+    "player_id": 1631232,
+    "full_name": "Keion Brooks Jr.",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 10.1,
+            "APG": 0.9,
+            "RBG": 4.1,
+            "SPG": 0.7,
+            "BPG": 0.7,
+            "TPG": 0.9,
+            "PM": -10.4,
+            "MPG": 23.7,
+            "FG_PCT": 0.486,
+            "FG3_PCT": 0.326,
+            "FT_PCT": 0.733,
+            "FGM": 53,
+            "FGA": 109,
+            "FG3M": 14,
+            "FG3A": 43,
+            "FTM": 22,
+            "FTA": 30,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "NOP"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

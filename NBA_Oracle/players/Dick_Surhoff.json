@@ -1,0 +1,99 @@
+{
+    "player_id": 78280,
+    "full_name": "Dick Surhoff",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1952-53": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.2,
+            "FG_PCT": 0.213,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.633,
+            "FGM": 13,
+            "FGA": 61,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 19,
+            "FTA": 30,
+            "GP": 26
+        },
+        "1953-54": {
+            "PPG": 4.2,
+            "APG": 0.7,
+            "RBG": 2.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.2,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.758,
+            "FGM": 43,
+            "FGA": 129,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 47,
+            "FTA": 62,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {
+        "1952-53": {
+            "PPG": 1.0,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.2,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 4,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "NYK",
+            "MIH"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

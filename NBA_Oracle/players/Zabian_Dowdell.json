@@ -1,0 +1,57 @@
+{
+    "player_id": 202220,
+    "full_name": "Zabian Dowdell",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 5.0,
+            "APG": 2.1,
+            "RBG": 0.8,
+            "SPG": 0.8,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": -1.9,
+            "MPG": 12.2,
+            "FG_PCT": 0.408,
+            "FG3_PCT": 0.3,
+            "FT_PCT": 0.941,
+            "FGM": 51,
+            "FGA": 125,
+            "FG3M": 3,
+            "FG3A": 10,
+            "FTM": 16,
+            "FTA": 17,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "191",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

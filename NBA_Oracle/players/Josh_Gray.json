@@ -1,0 +1,78 @@
+{
+    "player_id": 1627982,
+    "full_name": "Josh Gray",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 6.4,
+            "APG": 2.4,
+            "RBG": 2.0,
+            "SPG": 1.6,
+            "BPG": 0.4,
+            "TPG": 1.4,
+            "PM": -13.8,
+            "MPG": 17.2,
+            "FG_PCT": 0.268,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0.636,
+            "FGM": 11,
+            "FGA": 41,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 7,
+            "FTA": 11,
+            "GP": 5
+        },
+        "2019-20": {
+            "PPG": 1.0,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 2.5,
+            "PM": -3.5,
+            "MPG": 11.5,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 72,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "PHX",
+            "NOP"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

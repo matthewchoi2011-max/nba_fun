@@ -1,0 +1,57 @@
+{
+    "player_id": 1642013,
+    "full_name": "Malik Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 2.7,
+            "APG": 0.3,
+            "RBG": 5.4,
+            "SPG": 0.4,
+            "BPG": 0.6,
+            "TPG": 0.4,
+            "PM": -8.0,
+            "MPG": 15.3,
+            "FG_PCT": 0.265,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0,
+            "FGM": 9,
+            "FGA": 34,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 83,
+        "Weight": "250",
+        "Position": "Center",
+        "Teams": [
+            "TOR"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "player_id": 77035,
+    "full_name": "Adolph Hoefer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 6.1,
+            "APG": 0.6,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.253,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.655,
+            "FGM": 130,
+            "FGA": 514,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 91,
+            "FTA": 139,
+            "GP": 58
+        },
+        "1947-48": {
+            "PPG": 1.4,
+            "APG": 0.4,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.158,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 19,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 8,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 69,
+        "Weight": "158",
+        "Position": "Guard",
+        "Teams": [
+            "HUS",
+            "BOS",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "player_id": 77164,
+    "full_name": "Rich Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1968-69"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 2.2,
+            "APG": 0.2,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.3,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.478,
+            "FGM": 29,
+            "FGA": 76,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 23,
+            "GP": 31
+        },
+        "1969-70": {
+            "PPG": 5.8,
+            "APG": 0.5,
+            "RBG": 3.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.8,
+            "FG_PCT": 0.463,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.657,
+            "FGM": 167,
+            "FGA": 361,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 46,
+            "FTA": 70,
+            "GP": 65
+        },
+        "1970-71": {
+            "PPG": 8.0,
+            "APG": 0.0,
+            "RBG": 5.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.0,
+            "FG_PCT": 0.8,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 4,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "playoff_stats": {
+        "1968-69": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Center",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": "46",
+        "Active": false
+    }
+}

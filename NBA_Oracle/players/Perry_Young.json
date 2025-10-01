@@ -1,0 +1,59 @@
+{
+    "player_id": 78635,
+    "full_name": "Perry Young",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1986-87": {
+            "PPG": 1.4,
+            "APG": 0.8,
+            "RBG": 0.9,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 6,
+            "FGA": 21,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "CHI",
+            "POR",
+            "TOT"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "61",
+        "Active": false
+    }
+}

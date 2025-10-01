@@ -1,0 +1,78 @@
+{
+    "player_id": 1630204,
+    "full_name": "Ashton Hagans",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -1.5,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        },
+        "2023-24": {
+            "PPG": 4.2,
+            "APG": 2.8,
+            "RBG": 2.4,
+            "SPG": 0.6,
+            "BPG": 0.5,
+            "TPG": 1.6,
+            "PM": -0.2,
+            "MPG": 16.6,
+            "FG_PCT": 0.408,
+            "FG3_PCT": 0.32,
+            "FT_PCT": 0.824,
+            "FGM": 29,
+            "FGA": 71,
+            "FG3M": 8,
+            "FG3A": 25,
+            "FTM": 14,
+            "FTA": 17,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "MIN",
+            "POR"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

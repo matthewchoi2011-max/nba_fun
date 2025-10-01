@@ -1,0 +1,80 @@
+{
+    "player_id": 2466,
+    "full_name": "Maurice Carter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 4.2,
+            "APG": 0.4,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": 0.8,
+            "MPG": 11.0,
+            "FG_PCT": 0.314,
+            "FG3_PCT": 0.364,
+            "FT_PCT": 0.8,
+            "FGM": 11,
+            "FGA": 35,
+            "FG3M": 4,
+            "FG3A": 11,
+            "FTM": 16,
+            "FTA": 20,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {
+        "2003-04": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -2.0,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "NOH",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

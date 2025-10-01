@@ -1,0 +1,82 @@
+{
+    "player_id": 2143,
+    "full_name": "Pepe Sanchez",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [
+            "2004"
+        ],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2000-01": {
+            "PPG": 0.7,
+            "APG": 1.4,
+            "RBG": 0.5,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": -0.3,
+            "MPG": 5.2,
+            "FG_PCT": 0.321,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 9,
+            "FGA": 28,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 29
+        },
+        "2002-03": {
+            "PPG": 0.0,
+            "APG": 0.9,
+            "RBG": 0.7,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 0.6,
+            "MPG": 4.1,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "ATL",
+            "PHI",
+            "TOT",
+            "DET"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

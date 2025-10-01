@@ -1,0 +1,78 @@
+{
+    "player_id": 1629665,
+    "full_name": "Jalen Lecque",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 2.0,
+            "APG": 0.4,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": -4.0,
+            "MPG": 6.4,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 10,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 5
+        },
+        "2020-21": {
+            "PPG": 1.2,
+            "APG": 0.5,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -1.0,
+            "MPG": 3.0,
+            "FG_PCT": 0.111,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 9,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "PHX",
+            "IND"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

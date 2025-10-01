@@ -1,0 +1,189 @@
+{
+    "player_id": 1630596,
+    "full_name": "Evan Mobley",
+    "awards": {
+        "NBA All-Star": [
+            "2024-25"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [
+            "2024-25"
+        ],
+        "All-NBA-Third": [],
+        "DPOY": [
+            "2024-25"
+        ],
+        "All-Defensive-First": [
+            "2022-23",
+            "2024-25"
+        ],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2021-22"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 15.0,
+            "APG": 2.5,
+            "RBG": 8.3,
+            "SPG": 0.8,
+            "BPG": 1.7,
+            "TPG": 1.9,
+            "PM": 1.4,
+            "MPG": 33.8,
+            "FG_PCT": 0.508,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.663,
+            "FGM": 422,
+            "FGA": 830,
+            "FG3M": 23,
+            "FG3A": 92,
+            "FTM": 167,
+            "FTA": 252,
+            "GP": 69
+        },
+        "2022-23": {
+            "PPG": 16.2,
+            "APG": 2.8,
+            "RBG": 9.0,
+            "SPG": 0.8,
+            "BPG": 1.5,
+            "TPG": 1.8,
+            "PM": 4.3,
+            "MPG": 34.4,
+            "FG_PCT": 0.554,
+            "FG3_PCT": 0.216,
+            "FT_PCT": 0.674,
+            "FGM": 525,
+            "FGA": 947,
+            "FG3M": 22,
+            "FG3A": 102,
+            "FTM": 205,
+            "FTA": 304,
+            "GP": 79
+        },
+        "2023-24": {
+            "PPG": 15.7,
+            "APG": 3.2,
+            "RBG": 9.4,
+            "SPG": 0.9,
+            "BPG": 1.4,
+            "TPG": 1.8,
+            "PM": 0.7,
+            "MPG": 30.6,
+            "FG_PCT": 0.58,
+            "FG3_PCT": 0.373,
+            "FT_PCT": 0.719,
+            "FGM": 320,
+            "FGA": 552,
+            "FG3M": 22,
+            "FG3A": 59,
+            "FTM": 123,
+            "FTA": 171,
+            "GP": 50
+        },
+        "2024-25": {
+            "PPG": 18.5,
+            "APG": 3.2,
+            "RBG": 9.3,
+            "SPG": 0.9,
+            "BPG": 1.6,
+            "TPG": 2.0,
+            "PM": 7.7,
+            "MPG": 30.5,
+            "FG_PCT": 0.557,
+            "FG3_PCT": 0.37,
+            "FT_PCT": 0.725,
+            "FGM": 505,
+            "FGA": 906,
+            "FG3M": 85,
+            "FG3A": 230,
+            "FTM": 221,
+            "FTA": 305,
+            "GP": 71
+        }
+    },
+    "playoff_stats": {
+        "2022-23": {
+            "PPG": 9.8,
+            "APG": 2.0,
+            "RBG": 10.0,
+            "SPG": 0.6,
+            "BPG": 1.2,
+            "TPG": 2.4,
+            "PM": -0.8,
+            "MPG": 37.6,
+            "FG_PCT": 0.458,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.625,
+            "FGM": 22,
+            "FGA": 48,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 5,
+            "FTA": 8,
+            "GP": 5
+        },
+        "2023-24": {
+            "PPG": 16.0,
+            "APG": 2.3,
+            "RBG": 9.2,
+            "SPG": 0.8,
+            "BPG": 2.2,
+            "TPG": 1.8,
+            "PM": -2.7,
+            "MPG": 35.2,
+            "FG_PCT": 0.555,
+            "FG3_PCT": 0.278,
+            "FT_PCT": 0.694,
+            "FGM": 81,
+            "FGA": 146,
+            "FG3M": 5,
+            "FG3A": 18,
+            "FTM": 25,
+            "FTA": 36,
+            "GP": 12
+        },
+        "2024-25": {
+            "PPG": 17.1,
+            "APG": 1.6,
+            "RBG": 8.1,
+            "SPG": 1.1,
+            "BPG": 1.0,
+            "TPG": 1.4,
+            "PM": 1.4,
+            "MPG": 32.1,
+            "FG_PCT": 0.586,
+            "FG3_PCT": 0.452,
+            "FT_PCT": 0.84,
+            "FGM": 51,
+            "FGA": 87,
+            "FG3M": 14,
+            "FG3A": 31,
+            "FTM": 21,
+            "FTA": 25,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 83,
+        "Weight": "215",
+        "Position": "Center",
+        "Teams": [
+            "CLE"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "3",
+        "Active": true
+    }
+}

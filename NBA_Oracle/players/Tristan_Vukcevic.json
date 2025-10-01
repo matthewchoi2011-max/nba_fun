@@ -1,0 +1,77 @@
+{
+    "player_id": 1641774,
+    "full_name": "Tristan Vukcevic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 8.5,
+            "APG": 1.3,
+            "RBG": 3.6,
+            "SPG": 0.5,
+            "BPG": 0.7,
+            "TPG": 1.0,
+            "PM": 3.2,
+            "MPG": 15.3,
+            "FG_PCT": 0.433,
+            "FG3_PCT": 0.278,
+            "FT_PCT": 0.773,
+            "FGM": 29,
+            "FGA": 67,
+            "FG3M": 10,
+            "FG3A": 36,
+            "FTM": 17,
+            "FTA": 22,
+            "GP": 10
+        },
+        "2024-25": {
+            "PPG": 9.4,
+            "APG": 1.1,
+            "RBG": 3.7,
+            "SPG": 0.3,
+            "BPG": 0.7,
+            "TPG": 1.2,
+            "PM": -3.6,
+            "MPG": 14.7,
+            "FG_PCT": 0.496,
+            "FG3_PCT": 0.373,
+            "FT_PCT": 0.776,
+            "FGM": 120,
+            "FGA": 242,
+            "FG3M": 38,
+            "FG3A": 102,
+            "FTM": 52,
+            "FTA": 67,
+            "GP": 35
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "42",
+        "Active": true
+    }
+}

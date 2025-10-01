@@ -1,0 +1,77 @@
+{
+    "player_id": 78379,
+    "full_name": "Henry Turner",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 4.3,
+            "APG": 0.6,
+            "RBG": 1.4,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 8.8,
+            "FG_PCT": 0.475,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.615,
+            "FGM": 58,
+            "FGA": 122,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 40,
+            "FTA": 65,
+            "GP": 36
+        },
+        "1994-95": {
+            "PPG": 2.3,
+            "APG": 0.2,
+            "RBG": 0.9,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.404,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.571,
+            "FGM": 23,
+            "FGA": 57,
+            "FG3M": 2,
+            "FG3A": 5,
+            "FTM": 20,
+            "FTA": 35,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "200",
+        "Position": "Guard",
+        "Teams": [
+            "SAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

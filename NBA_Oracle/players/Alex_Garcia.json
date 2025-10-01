@@ -1,0 +1,78 @@
+{
+    "player_id": 2682,
+    "full_name": "Alex Garcia",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 1.5,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 1.5,
+            "MPG": 6.5,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 1,
+            "FGA": 7,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 2
+        },
+        "2004-05": {
+            "PPG": 5.5,
+            "APG": 2.2,
+            "RBG": 1.9,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": -4.6,
+            "MPG": 18.2,
+            "FG_PCT": 0.346,
+            "FG3_PCT": 0.278,
+            "FT_PCT": 0.75,
+            "FGM": 18,
+            "FGA": 52,
+            "FG3M": 5,
+            "FG3A": 18,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "SAS",
+            "NOH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

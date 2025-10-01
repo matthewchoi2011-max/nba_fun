@@ -1,0 +1,99 @@
+{
+    "player_id": 77369,
+    "full_name": "George Lehmann",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1967-68": {
+            "PPG": 2.8,
+            "APG": 1.7,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.0,
+            "FG_PCT": 0.343,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.814,
+            "FGM": 59,
+            "FGA": 172,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 35,
+            "FTA": 43,
+            "GP": 55
+        },
+        "1968-69": {
+            "PPG": 5.5,
+            "APG": 2.5,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 12.5,
+            "FG_PCT": 0.388,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 26,
+            "FGA": 67,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 12,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {
+        "1967-68": {
+            "PPG": 0.0,
+            "APG": 2.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 72,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "STL",
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

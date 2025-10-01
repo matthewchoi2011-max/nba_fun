@@ -1,0 +1,78 @@
+{
+    "player_id": 2823,
+    "full_name": "John Edwards",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2004-05": {
+            "PPG": 1.2,
+            "APG": 0.1,
+            "RBG": 0.8,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": -2.8,
+            "MPG": 5.6,
+            "FG_PCT": 0.367,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 11,
+            "FGA": 30,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 7,
+            "FTA": 14,
+            "GP": 25
+        },
+        "2005-06": {
+            "PPG": 1.8,
+            "APG": 0.1,
+            "RBG": 1.2,
+            "SPG": 0.1,
+            "BPG": 0.4,
+            "TPG": 0.3,
+            "PM": -2.2,
+            "MPG": 7.4,
+            "FG_PCT": 0.484,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.727,
+            "FGM": 31,
+            "FGA": 64,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 8,
+            "FTA": 11,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "275",
+        "Position": "Center",
+        "Teams": [
+            "IND",
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

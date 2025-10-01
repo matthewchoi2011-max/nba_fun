@@ -1,0 +1,80 @@
+{
+    "player_id": 1641794,
+    "full_name": "Dillon Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "2024-25"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 2.5,
+            "APG": 1.1,
+            "RBG": 2.2,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": 1.4,
+            "MPG": 10.2,
+            "FG_PCT": 0.383,
+            "FG3_PCT": 0.254,
+            "FT_PCT": 0.607,
+            "FGM": 51,
+            "FGA": 133,
+            "FG3M": 16,
+            "FG3A": 63,
+            "FTM": 17,
+            "FTA": 28,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 2.3,
+            "APG": 0.5,
+            "RBG": 0.9,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -0.7,
+            "MPG": 4.6,
+            "FG_PCT": 0.818,
+            "FG3_PCT": 0.75,
+            "FT_PCT": 1.0,
+            "FGM": 9,
+            "FGA": 11,
+            "FG3M": 3,
+            "FG3A": 4,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 10
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "OKC"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "26",
+        "Active": true
+    }
+}

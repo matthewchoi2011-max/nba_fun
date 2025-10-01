@@ -1,0 +1,80 @@
+{
+    "player_id": 1630606,
+    "full_name": "Javonte Smart",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 3.0,
+            "APG": 0.9,
+            "RBG": 1.4,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -2.5,
+            "MPG": 11.8,
+            "FG_PCT": 0.317,
+            "FG3_PCT": 0.296,
+            "FT_PCT": 0.833,
+            "FGM": 19,
+            "FGA": 60,
+            "FG3M": 8,
+            "FG3A": 27,
+            "FTM": 5,
+            "FTA": 6,
+            "GP": 17
+        },
+        "2023-24": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -3.0,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "MIL",
+            "MIA",
+            "TOT",
+            "PHI"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

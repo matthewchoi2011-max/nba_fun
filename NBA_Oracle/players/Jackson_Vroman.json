@@ -1,0 +1,80 @@
+{
+    "player_id": 2761,
+    "full_name": "Jackson Vroman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2004-05": {
+            "PPG": 4.6,
+            "APG": 0.9,
+            "RBG": 3.8,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 1.4,
+            "PM": -1.4,
+            "MPG": 15.3,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.64,
+            "FGM": 82,
+            "FGA": 199,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 48,
+            "FTA": 75,
+            "GP": 46
+        },
+        "2005-06": {
+            "PPG": 1.8,
+            "APG": 0.3,
+            "RBG": 2.1,
+            "SPG": 0.3,
+            "BPG": 0.3,
+            "TPG": 0.5,
+            "PM": 0.6,
+            "MPG": 9.9,
+            "FG_PCT": 0.394,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.477,
+            "FGM": 26,
+            "FGA": 66,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 21,
+            "FTA": 44,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "220",
+        "Position": "Forward-Center",
+        "Teams": [
+            "PHX",
+            "NOH",
+            "TOT",
+            "NOK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

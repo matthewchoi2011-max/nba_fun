@@ -1,0 +1,148 @@
+{
+    "player_id": 1631114,
+    "full_name": "Jalen Williams",
+    "awards": {
+        "NBA All-Star": [
+            "2024-25"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [
+            "2024-25"
+        ],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [
+            "2024-25"
+        ],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2022-23"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "2024-25"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 14.1,
+            "APG": 3.3,
+            "RBG": 4.5,
+            "SPG": 1.4,
+            "BPG": 0.5,
+            "TPG": 1.6,
+            "PM": -0.7,
+            "MPG": 30.3,
+            "FG_PCT": 0.521,
+            "FG3_PCT": 0.356,
+            "FT_PCT": 0.812,
+            "FGM": 414,
+            "FGA": 794,
+            "FG3M": 73,
+            "FG3A": 205,
+            "FTM": 155,
+            "FTA": 191,
+            "GP": 75
+        },
+        "2023-24": {
+            "PPG": 19.1,
+            "APG": 4.5,
+            "RBG": 4.0,
+            "SPG": 1.1,
+            "BPG": 0.6,
+            "TPG": 1.7,
+            "PM": 5.4,
+            "MPG": 31.3,
+            "FG_PCT": 0.54,
+            "FG3_PCT": 0.427,
+            "FT_PCT": 0.814,
+            "FGM": 536,
+            "FGA": 993,
+            "FG3M": 103,
+            "FG3A": 241,
+            "FTM": 180,
+            "FTA": 221,
+            "GP": 71
+        },
+        "2024-25": {
+            "PPG": 21.6,
+            "APG": 5.1,
+            "RBG": 5.3,
+            "SPG": 1.6,
+            "BPG": 0.7,
+            "TPG": 2.2,
+            "PM": 6.6,
+            "MPG": 32.4,
+            "FG_PCT": 0.484,
+            "FG3_PCT": 0.365,
+            "FT_PCT": 0.789,
+            "FGM": 565,
+            "FGA": 1168,
+            "FG3M": 124,
+            "FG3A": 340,
+            "FTM": 236,
+            "FTA": 299,
+            "GP": 69
+        }
+    },
+    "playoff_stats": {
+        "2023-24": {
+            "PPG": 18.7,
+            "APG": 5.4,
+            "RBG": 6.8,
+            "SPG": 1.7,
+            "BPG": 0.5,
+            "TPG": 1.9,
+            "PM": 6.6,
+            "MPG": 37.7,
+            "FG_PCT": 0.469,
+            "FG3_PCT": 0.385,
+            "FT_PCT": 0.815,
+            "FGM": 75,
+            "FGA": 160,
+            "FG3M": 15,
+            "FG3A": 39,
+            "FTM": 22,
+            "FTA": 27,
+            "GP": 10
+        },
+        "2024-25": {
+            "PPG": 21.4,
+            "APG": 4.8,
+            "RBG": 5.5,
+            "SPG": 1.4,
+            "BPG": 0.4,
+            "TPG": 1.8,
+            "PM": 4.8,
+            "MPG": 34.6,
+            "FG_PCT": 0.449,
+            "FG3_PCT": 0.304,
+            "FT_PCT": 0.789,
+            "FGM": 178,
+            "FGA": 396,
+            "FG3M": 35,
+            "FG3A": 115,
+            "FTM": 101,
+            "FTA": 128,
+            "GP": 23
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "211",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "OKC"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "12",
+        "Active": true
+    }
+}

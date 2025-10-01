@@ -1,0 +1,77 @@
+{
+    "player_id": 1630225,
+    "full_name": "Isaiah Todd",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 1.7,
+            "APG": 0.3,
+            "RBG": 1.0,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.3,
+            "PM": -2.0,
+            "MPG": 6.2,
+            "FG_PCT": 0.269,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.333,
+            "FGM": 7,
+            "FGA": 26,
+            "FG3M": 4,
+            "FG3A": 16,
+            "FTM": 2,
+            "FTA": 6,
+            "GP": 12
+        },
+        "2022-23": {
+            "PPG": 1.5,
+            "APG": 0.7,
+            "RBG": 2.0,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": -1.2,
+            "MPG": 10.2,
+            "FG_PCT": 0.158,
+            "FG3_PCT": 0.1,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 19,
+            "FG3M": 1,
+            "FG3A": 10,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "219",
+        "Position": "Forward",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

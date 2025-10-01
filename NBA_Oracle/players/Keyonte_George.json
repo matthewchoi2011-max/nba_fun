@@ -1,0 +1,79 @@
+{
+    "player_id": 1641718,
+    "full_name": "Keyonte George",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2023-24"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 13.0,
+            "APG": 4.4,
+            "RBG": 2.8,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 2.5,
+            "PM": -5.0,
+            "MPG": 27.0,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0.334,
+            "FT_PCT": 0.848,
+            "FGM": 319,
+            "FGA": 815,
+            "FG3M": 147,
+            "FG3A": 440,
+            "FTM": 189,
+            "FTA": 223,
+            "GP": 75
+        },
+        "2024-25": {
+            "PPG": 16.8,
+            "APG": 5.6,
+            "RBG": 3.8,
+            "SPG": 0.7,
+            "BPG": 0.1,
+            "TPG": 2.7,
+            "PM": -7.6,
+            "MPG": 31.5,
+            "FG_PCT": 0.391,
+            "FG3_PCT": 0.343,
+            "FT_PCT": 0.818,
+            "FGM": 359,
+            "FGA": 919,
+            "FG3M": 174,
+            "FG3A": 507,
+            "FTM": 233,
+            "FTA": 285,
+            "GP": 67
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "UTA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "16",
+        "Active": true
+    }
+}

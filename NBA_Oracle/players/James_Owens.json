@@ -1,0 +1,101 @@
+{
+    "player_id": 77783,
+    "full_name": "James Owens",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 3.9,
+            "APG": 1.2,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.299,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.673,
+            "FGM": 86,
+            "FGA": 288,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 68,
+            "FTA": 101,
+            "GP": 61
+        },
+        "1951-52": {
+            "PPG": 7.9,
+            "APG": 2.2,
+            "RBG": 3.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 21.6,
+            "FG_PCT": 0.329,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.561,
+            "FGM": 83,
+            "FGA": 252,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 64,
+            "FTA": 114,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 10.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.683,
+            "FGM": 26,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 28,
+            "FTA": 41,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "TCB",
+            "AND",
+            "TOT",
+            "MIH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

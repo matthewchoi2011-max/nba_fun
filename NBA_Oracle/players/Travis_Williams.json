@@ -1,0 +1,98 @@
+{
+    "player_id": 1576,
+    "full_name": "Travis Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 3.5,
+            "APG": 0.5,
+            "RBG": 2.4,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -0.9,
+            "MPG": 9.4,
+            "FG_PCT": 0.471,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.522,
+            "FGM": 56,
+            "FGA": 119,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 24,
+            "FTA": 46,
+            "GP": 39
+        },
+        "1998-99": {
+            "PPG": 1.9,
+            "APG": 0.2,
+            "RBG": 2.4,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -4.1,
+            "MPG": 7.8,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 6,
+            "FGA": 13,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {
+        "1997-98": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 1.2,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": 0.2,
+            "MPG": 4.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "CHH"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

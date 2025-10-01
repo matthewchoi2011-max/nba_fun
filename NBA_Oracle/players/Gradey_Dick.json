@@ -1,0 +1,77 @@
+{
+    "player_id": 1641711,
+    "full_name": "Gradey Dick",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 8.5,
+            "APG": 1.1,
+            "RBG": 2.2,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.8,
+            "PM": -6.3,
+            "MPG": 21.1,
+            "FG_PCT": 0.425,
+            "FG3_PCT": 0.365,
+            "FT_PCT": 0.863,
+            "FGM": 189,
+            "FGA": 445,
+            "FG3M": 88,
+            "FG3A": 241,
+            "FTM": 44,
+            "FTA": 51,
+            "GP": 60
+        },
+        "2024-25": {
+            "PPG": 14.4,
+            "APG": 1.8,
+            "RBG": 3.6,
+            "SPG": 0.9,
+            "BPG": 0.2,
+            "TPG": 1.5,
+            "PM": -3.9,
+            "MPG": 29.4,
+            "FG_PCT": 0.41,
+            "FG3_PCT": 0.35,
+            "FT_PCT": 0.858,
+            "FGM": 265,
+            "FGA": 647,
+            "FG3M": 114,
+            "FG3A": 326,
+            "FTM": 133,
+            "FTA": 155,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "200",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "TOR"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "13",
+        "Active": true
+    }
+}

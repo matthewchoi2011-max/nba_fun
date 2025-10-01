@@ -1,0 +1,77 @@
+{
+    "player_id": 77486,
+    "full_name": "Marlon Maxey",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1992-93": {
+            "PPG": 5.4,
+            "APG": 0.3,
+            "RBG": 3.8,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 12.1,
+            "FG_PCT": 0.55,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.643,
+            "FGM": 93,
+            "FGA": 169,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 45,
+            "FTA": 70,
+            "GP": 43
+        },
+        "1993-94": {
+            "PPG": 4.5,
+            "APG": 0.2,
+            "RBG": 3.6,
+            "SPG": 0.3,
+            "BPG": 0.6,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 11.4,
+            "FG_PCT": 0.533,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 89,
+            "FGA": 167,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 70,
+            "FTA": 98,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "250",
+        "Position": "Forward",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "28",
+        "Active": false
+    }
+}

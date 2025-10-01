@@ -1,0 +1,78 @@
+{
+    "player_id": 76384,
+    "full_name": "Lorenzo Charles",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 3.4,
+            "APG": 0.2,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 7.6,
+            "FG_PCT": 0.557,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 49,
+            "FGA": 88,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 24,
+            "FTA": 36,
+            "GP": 36
+        }
+    },
+    "playoff_stats": {
+        "1985-86": {
+            "PPG": 1.8,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.8,
+            "FG_PCT": 0.75,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 4,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 1,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "41",
+        "Active": false
+    }
+}

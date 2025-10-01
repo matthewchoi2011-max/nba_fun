@@ -1,0 +1,120 @@
+{
+    "player_id": 76850,
+    "full_name": "Bud Grant",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1949-50"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 2.6,
+            "APG": 0.5,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.365,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.412,
+            "FGM": 42,
+            "FGA": 115,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 7,
+            "FTA": 17,
+            "GP": 35
+        },
+        "1950-51": {
+            "PPG": 2.6,
+            "APG": 1.2,
+            "RBG": 1.9,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.288,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.627,
+            "FGM": 53,
+            "FGA": 184,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 52,
+            "FTA": 83,
+            "GP": 61
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 3.9,
+            "APG": 0.6,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 18,
+            "FGA": 45,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 7,
+            "FTA": 14,
+            "GP": 11
+        },
+        "1950-51": {
+            "PPG": 1.8,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 4,
+            "FGA": 11,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "MNL"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

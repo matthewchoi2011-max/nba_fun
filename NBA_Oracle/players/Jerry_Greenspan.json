@@ -1,0 +1,77 @@
+{
+    "player_id": 76880,
+    "full_name": "Jerry Greenspan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1963-64": {
+            "PPG": 4.9,
+            "APG": 0.6,
+            "RBG": 3.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.0,
+            "FG_PCT": 0.356,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.68,
+            "FGM": 32,
+            "FGA": 90,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 34,
+            "FTA": 50,
+            "GP": 20
+        },
+        "1964-65": {
+            "PPG": 4.8,
+            "APG": 0.0,
+            "RBG": 2.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.8,
+            "FG_PCT": 0.615,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 8,
+            "FGA": 13,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 8,
+            "FTA": 8,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Forward",
+        "Teams": [
+            "PHL"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "24",
+        "Active": false
+    }
+}

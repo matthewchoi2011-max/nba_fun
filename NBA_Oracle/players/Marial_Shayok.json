@@ -1,0 +1,57 @@
+{
+    "player_id": 1629621,
+    "full_name": "Marial Shayok",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 2.8,
+            "APG": 0.2,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -3.2,
+            "MPG": 7.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.75,
+            "FGM": 3,
+            "FGA": 12,
+            "FG3M": 2,
+            "FG3A": 6,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "198",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "PHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "54",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 76488,
+    "full_name": "Radisav Curcic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1992-93": {
+            "PPG": 2.9,
+            "APG": 0.6,
+            "RBG": 2.5,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": NaN,
+            "MPG": 8.3,
+            "FG_PCT": 0.39,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.722,
+            "FGM": 16,
+            "FGA": 41,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 26,
+            "FTA": 36,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "275",
+        "Position": "Center",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

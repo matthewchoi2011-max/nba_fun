@@ -1,0 +1,78 @@
+{
+    "player_id": 1627215,
+    "full_name": "Walt Lemon Jr.",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 3.4,
+            "APG": 1.0,
+            "RBG": 0.4,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.8,
+            "PM": -3.0,
+            "MPG": 7.0,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0.667,
+            "FGM": 7,
+            "FGA": 16,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 5
+        },
+        "2018-19": {
+            "PPG": 14.3,
+            "APG": 5.0,
+            "RBG": 4.5,
+            "SPG": 1.8,
+            "BPG": 0.2,
+            "TPG": 1.7,
+            "PM": -3.8,
+            "MPG": 27.8,
+            "FG_PCT": 0.437,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.727,
+            "FGM": 38,
+            "FGA": 87,
+            "FG3M": 2,
+            "FG3A": 5,
+            "FTM": 8,
+            "FTA": 11,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "NOP",
+            "CHI"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

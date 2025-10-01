@@ -1,0 +1,80 @@
+{
+    "player_id": 76738,
+    "full_name": "Donnie Forman",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1948-49"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 4.1,
+            "APG": 1.7,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.294,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.642,
+            "FGM": 68,
+            "FGA": 231,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 43,
+            "FTA": 67,
+            "GP": 44
+        }
+    },
+    "playoff_stats": {
+        "1948-49": {
+            "PPG": 1.4,
+            "APG": 0.8,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.15,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.636,
+            "FGM": 3,
+            "FGA": 20,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 7,
+            "FTA": 11,
+            "GP": 9
+        }
+    },
+    "specs": {
+        "Height": 70,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "MNL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

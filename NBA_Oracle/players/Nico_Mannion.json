@@ -1,0 +1,57 @@
+{
+    "player_id": 1630185,
+    "full_name": "Nico Mannion",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 4.1,
+            "APG": 2.3,
+            "RBG": 1.5,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": -2.5,
+            "MPG": 12.1,
+            "FG_PCT": 0.342,
+            "FG3_PCT": 0.367,
+            "FT_PCT": 0.821,
+            "FGM": 39,
+            "FGA": 114,
+            "FG3M": 22,
+            "FG3A": 60,
+            "FTM": 23,
+            "FTA": 28,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "48",
+        "Active": false
+    }
+}

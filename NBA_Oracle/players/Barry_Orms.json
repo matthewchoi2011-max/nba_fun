@@ -1,0 +1,78 @@
+{
+    "player_id": 77768,
+    "full_name": "Barry Orms",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 2.8,
+            "APG": 0.8,
+            "RBG": 2.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 14.3,
+            "FG_PCT": 0.309,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.483,
+            "FGM": 76,
+            "FGA": 246,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 29,
+            "FTA": 60,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "1968-69": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.3,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "BLT"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "96",
+        "Active": false
+    }
+}

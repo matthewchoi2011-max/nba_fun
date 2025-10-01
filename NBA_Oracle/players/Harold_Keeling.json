@@ -1,0 +1,78 @@
+{
+    "player_id": 77233,
+    "full_name": "Harold Keeling",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1985-86": {
+            "PPG": 2.2,
+            "APG": 0.5,
+            "RBG": 0.3,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": NaN,
+            "MPG": 3.8,
+            "FG_PCT": 0.436,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 17,
+            "FGA": 39,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 10,
+            "FTA": 14,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {
+        "1985-86": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 1.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "63",
+        "Active": false
+    }
+}

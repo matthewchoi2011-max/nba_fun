@@ -1,0 +1,77 @@
+{
+    "player_id": 76939,
+    "full_name": "Rollen Hans",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1953-54": {
+            "PPG": 7.2,
+            "APG": 2.7,
+            "RBG": 2.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 23.2,
+            "FG_PCT": 0.371,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.561,
+            "FGM": 191,
+            "FGA": 515,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 101,
+            "FTA": 180,
+            "GP": 67
+        },
+        "1954-55": {
+            "PPG": 5.6,
+            "APG": 2.0,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.7,
+            "FG_PCT": 0.448,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.52,
+            "FGM": 30,
+            "FGA": 67,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 13,
+            "FTA": 25,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "BAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

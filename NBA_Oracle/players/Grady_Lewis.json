@@ -1,0 +1,123 @@
+{
+    "player_id": 77381,
+    "full_name": "Grady Lewis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1947-48"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 4.8,
+            "APG": 0.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.204,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.543,
+            "FGM": 106,
+            "FGA": 520,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 75,
+            "FTA": 138,
+            "GP": 60
+        },
+        "1947-48": {
+            "PPG": 7.0,
+            "APG": 0.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.268,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.644,
+            "FGM": 114,
+            "FGA": 425,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 87,
+            "FTA": 135,
+            "GP": 45
+        },
+        "1948-49": {
+            "PPG": 4.4,
+            "APG": 1.1,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": NaN,
+            "FG_PCT": 0.387,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 53,
+            "FGA": 137,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 42,
+            "FTA": 70,
+            "GP": 34
+        }
+    },
+    "playoff_stats": {
+        "1947-48": {
+            "PPG": 6.2,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.211,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.733,
+            "FGM": 23,
+            "FGA": 95,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 30,
+            "GP": 11
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "DEF",
+            "BAL",
+            "BOM",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "player_id": 76594,
+    "full_name": "Steve Downing",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1973-74"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1973-74": {
+            "PPG": 2.7,
+            "APG": 0.5,
+            "RBG": 1.6,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.7,
+            "FG_PCT": 0.328,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.579,
+            "FGM": 21,
+            "FGA": 64,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 22,
+            "FTA": 38,
+            "GP": 24
+        },
+        "1974-75": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {
+        "1973-74": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "225",
+        "Position": "Center",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "17",
+        "Active": false
+    }
+}

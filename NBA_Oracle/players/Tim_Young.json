@@ -1,0 +1,57 @@
+{
+    "player_id": 1937,
+    "full_name": "Tim Young",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1999-00": {
+            "PPG": 2.2,
+            "APG": 0.2,
+            "RBG": 1.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": 0.0,
+            "MPG": 5.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.778,
+            "FGM": 13,
+            "FGA": 39,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 28,
+            "FTA": 36,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 86,
+        "Weight": "270",
+        "Position": "Center",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

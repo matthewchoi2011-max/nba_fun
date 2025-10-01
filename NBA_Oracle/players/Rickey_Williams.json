@@ -1,0 +1,57 @@
+{
+    "player_id": 78563,
+    "full_name": "Rickey Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1982-83": {
+            "PPG": 3.3,
+            "APG": 0.8,
+            "RBG": 0.9,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 7.9,
+            "FG_PCT": 0.415,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.66,
+            "FGM": 56,
+            "FGA": 135,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 35,
+            "FTA": 53,
+            "GP": 44
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "UTH"
+        ],
+        "DraftRound": "10",
+        "DraftNumber": "190",
+        "Active": false
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "player_id": 2042,
+    "full_name": "Courtney Alexander",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [
+            "2000-01"
+        ],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2000-01": {
+            "PPG": 9.5,
+            "APG": 1.0,
+            "RBG": 2.2,
+            "SPG": 0.7,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": -4.4,
+            "MPG": 21.3,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0.37,
+            "FT_PCT": 0.82,
+            "FGM": 239,
+            "FGA": 573,
+            "FG3M": 17,
+            "FG3A": 46,
+            "FTM": 123,
+            "FTA": 150,
+            "GP": 65
+        },
+        "2001-02": {
+            "PPG": 9.8,
+            "APG": 1.5,
+            "RBG": 2.6,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": -3.0,
+            "MPG": 23.7,
+            "FG_PCT": 0.47,
+            "FG3_PCT": 0.278,
+            "FT_PCT": 0.81,
+            "FGM": 223,
+            "FGA": 474,
+            "FG3M": 5,
+            "FG3A": 18,
+            "FTM": 98,
+            "FTA": 121,
+            "GP": 56
+        },
+        "2002-03": {
+            "PPG": 7.9,
+            "APG": 1.2,
+            "RBG": 1.8,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": -0.1,
+            "MPG": 20.6,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.808,
+            "FGM": 193,
+            "FGA": 505,
+            "FG3M": 19,
+            "FG3A": 57,
+            "FTM": 118,
+            "FTA": 146,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {
+        "2002-03": {
+            "PPG": 3.6,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 0.4,
+            "MPG": 7.8,
+            "FG_PCT": 0.438,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0.75,
+            "FGM": 7,
+            "FGA": 16,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 77,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "DAL",
+            "WAS",
+            "TOT",
+            "NOH"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "13",
+        "Active": false
+    }
+}

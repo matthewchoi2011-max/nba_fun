@@ -1,0 +1,98 @@
+{
+    "player_id": 76293,
+    "full_name": "Joe Buckhalter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 5.9,
+            "APG": 0.7,
+            "RBG": 4.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.6,
+            "FG_PCT": 0.458,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.62,
+            "FGM": 153,
+            "FGA": 334,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 67,
+            "FTA": 108,
+            "GP": 63
+        },
+        "1962-63": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 0,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {
+        "1961-62": {
+            "PPG": 8.5,
+            "APG": 1.0,
+            "RBG": 5.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 15.0,
+            "FG_PCT": 0.421,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 16,
+            "FGA": 38,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "CIN"
+        ],
+        "DraftRound": "12",
+        "DraftNumber": "81",
+        "Active": false
+    }
+}

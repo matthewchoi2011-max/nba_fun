@@ -1,0 +1,77 @@
+{
+    "player_id": 1630284,
+    "full_name": "Kevon Harris",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2022-23": {
+            "PPG": 4.1,
+            "APG": 0.5,
+            "RBG": 2.1,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": 0.0,
+            "MPG": 13.4,
+            "FG_PCT": 0.439,
+            "FG3_PCT": 0.372,
+            "FT_PCT": 0.756,
+            "FGM": 47,
+            "FGA": 107,
+            "FG3M": 16,
+            "FG3A": 43,
+            "FTM": 31,
+            "FTA": 41,
+            "GP": 34
+        },
+        "2023-24": {
+            "PPG": 2.0,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": 0.0,
+            "MPG": 3.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "216",
+        "Position": "Guard",
+        "Teams": [
+            "ORL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

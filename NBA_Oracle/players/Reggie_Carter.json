@@ -1,0 +1,98 @@
+{
+    "player_id": 76360,
+    "full_name": "Reggie Carter",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 2.8,
+            "APG": 1.3,
+            "RBG": 1.1,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 8.9,
+            "FG_PCT": 0.33,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.739,
+            "FGM": 59,
+            "FGA": 179,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 51,
+            "FTA": 69,
+            "GP": 60
+        },
+        "1981-82": {
+            "PPG": 4.0,
+            "APG": 1.7,
+            "RBG": 1.3,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 12.3,
+            "FG_PCT": 0.425,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.8,
+            "FGM": 119,
+            "FGA": 280,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 64,
+            "FTA": 80,
+            "GP": 75
+        }
+    },
+    "playoff_stats": {
+        "1980-81": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "27",
+        "Active": false
+    }
+}

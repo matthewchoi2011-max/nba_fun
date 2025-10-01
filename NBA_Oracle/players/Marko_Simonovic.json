@@ -1,0 +1,77 @@
+{
+    "player_id": 1630250,
+    "full_name": "Marko Simonovic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2021-22": {
+            "PPG": 1.9,
+            "APG": 0.0,
+            "RBG": 1.1,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": 0.3,
+            "MPG": 3.9,
+            "FG_PCT": 0.267,
+            "FG3_PCT": 0.2,
+            "FT_PCT": 0.727,
+            "FGM": 4,
+            "FGA": 15,
+            "FG3M": 1,
+            "FG3A": 5,
+            "FTM": 8,
+            "FTA": 11,
+            "GP": 9
+        },
+        "2022-23": {
+            "PPG": 0.9,
+            "APG": 0.0,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 2.1,
+            "MPG": 2.9,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.5,
+            "FGM": 2,
+            "FGA": 7,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 7
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "220",
+        "Position": "Center",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "44",
+        "Active": false
+    }
+}

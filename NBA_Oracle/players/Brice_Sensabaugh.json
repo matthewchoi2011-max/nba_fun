@@ -1,0 +1,77 @@
+{
+    "player_id": 1641729,
+    "full_name": "Brice Sensabaugh",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 7.5,
+            "APG": 1.7,
+            "RBG": 3.2,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 1.5,
+            "PM": -5.4,
+            "MPG": 18.2,
+            "FG_PCT": 0.39,
+            "FG3_PCT": 0.296,
+            "FT_PCT": 0.902,
+            "FGM": 85,
+            "FGA": 218,
+            "FG3M": 34,
+            "FG3A": 115,
+            "FTM": 37,
+            "FTA": 41,
+            "GP": 32
+        },
+        "2024-25": {
+            "PPG": 10.9,
+            "APG": 1.5,
+            "RBG": 3.0,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.5,
+            "PM": -4.0,
+            "MPG": 20.2,
+            "FG_PCT": 0.459,
+            "FG3_PCT": 0.422,
+            "FT_PCT": 0.89,
+            "FGM": 275,
+            "FGA": 599,
+            "FG3M": 157,
+            "FG3A": 372,
+            "FTM": 65,
+            "FTA": 73,
+            "GP": 71
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "UTA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "28",
+        "Active": true
+    }
+}

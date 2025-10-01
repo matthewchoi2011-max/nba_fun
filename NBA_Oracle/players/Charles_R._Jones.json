@@ -1,0 +1,78 @@
+{
+    "player_id": 1869,
+    "full_name": "Charles R. Jones",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1998-99": {
+            "PPG": 3.7,
+            "APG": 1.4,
+            "RBG": 1.4,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 1.0,
+            "PM": -4.0,
+            "MPG": 16.4,
+            "FG_PCT": 0.317,
+            "FG3_PCT": 0.311,
+            "FT_PCT": 0.5,
+            "FGM": 39,
+            "FGA": 123,
+            "FG3M": 19,
+            "FG3A": 61,
+            "FTM": 11,
+            "FTA": 22,
+            "GP": 29
+        },
+        "1999-00": {
+            "PPG": 3.4,
+            "APG": 1.7,
+            "RBG": 1.1,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -3.2,
+            "MPG": 11.8,
+            "FG_PCT": 0.328,
+            "FG3_PCT": 0.331,
+            "FT_PCT": 0.739,
+            "FGM": 66,
+            "FGA": 201,
+            "FG3M": 39,
+            "FG3A": 118,
+            "FTM": 17,
+            "FTA": 23,
+            "GP": 56
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "CHI",
+            "LAC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

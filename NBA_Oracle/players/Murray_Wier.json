@@ -1,0 +1,78 @@
+{
+    "player_id": 78521,
+    "full_name": "Murray Wier",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 7.7,
+            "APG": 1.9,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.327,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.693,
+            "FGM": 157,
+            "FGA": 480,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 115,
+            "FTA": 166,
+            "GP": 56
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 3.3,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 9,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 8,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 69,
+        "Weight": "155",
+        "Position": "Guard",
+        "Teams": [
+            "TCB"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

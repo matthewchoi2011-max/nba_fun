@@ -1,0 +1,57 @@
+{
+    "player_id": 2580,
+    "full_name": "Travis Hansen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 3.0,
+            "APG": 0.5,
+            "RBG": 1.7,
+            "SPG": 0.2,
+            "BPG": 0.2,
+            "TPG": 0.4,
+            "PM": -0.2,
+            "MPG": 12.4,
+            "FG_PCT": 0.354,
+            "FG3_PCT": 0.3,
+            "FT_PCT": 0.815,
+            "FGM": 46,
+            "FGA": 130,
+            "FG3M": 9,
+            "FG3A": 30,
+            "FTM": 22,
+            "FTA": 27,
+            "GP": 41
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "205",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "37",
+        "Active": false
+    }
+}

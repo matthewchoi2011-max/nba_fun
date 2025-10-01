@@ -1,0 +1,77 @@
+{
+    "player_id": 1629346,
+    "full_name": "Alen Smailagic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2019-20": {
+            "PPG": 4.2,
+            "APG": 0.9,
+            "RBG": 1.9,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.8,
+            "PM": -0.6,
+            "MPG": 9.9,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0.842,
+            "FGM": 20,
+            "FGA": 40,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 16,
+            "FTA": 19,
+            "GP": 14
+        },
+        "2020-21": {
+            "PPG": 1.9,
+            "APG": 0.3,
+            "RBG": 1.1,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.3,
+            "PM": -2.1,
+            "MPG": 5.6,
+            "FG_PCT": 0.407,
+            "FG3_PCT": 0.4,
+            "FT_PCT": 0.333,
+            "FGM": 11,
+            "FGA": 27,
+            "FG3M": 4,
+            "FG3A": 10,
+            "FTM": 2,
+            "FTA": 6,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 82,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "39",
+        "Active": false
+    }
+}

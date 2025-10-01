@@ -1,0 +1,57 @@
+{
+    "player_id": 1630189,
+    "full_name": "Tyler Bey",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 1.0,
+            "APG": 0.2,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -2.1,
+            "MPG": 3.9,
+            "FG_PCT": 0.318,
+            "FG3_PCT": 0.25,
+            "FT_PCT": 0.6,
+            "FGM": 7,
+            "FGA": 22,
+            "FG3M": 1,
+            "FG3A": 4,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "36",
+        "Active": false
+    }
+}

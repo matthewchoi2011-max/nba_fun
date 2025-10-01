@@ -1,0 +1,78 @@
+{
+    "player_id": 1630199,
+    "full_name": "Cassius Stanley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 1.5,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": 0.8,
+            "MPG": 3.9,
+            "FG_PCT": 0.302,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0.778,
+            "FGM": 13,
+            "FGA": 43,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 7,
+            "FTA": 9,
+            "GP": 24
+        },
+        "2021-22": {
+            "PPG": 5.8,
+            "APG": 0.4,
+            "RBG": 2.1,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -1.7,
+            "MPG": 17.2,
+            "FG_PCT": 0.413,
+            "FG3_PCT": 0.235,
+            "FT_PCT": 1.0,
+            "FGM": 19,
+            "FGA": 46,
+            "FG3M": 4,
+            "FG3A": 17,
+            "FTM": 10,
+            "FTA": 10,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "IND",
+            "DET"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "54",
+        "Active": false
+    }
+}

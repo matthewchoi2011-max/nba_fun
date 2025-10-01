@@ -1,0 +1,98 @@
+{
+    "player_id": 77302,
+    "full_name": "Len Kosmalski",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1974-75": {
+            "PPG": 1.3,
+            "APG": 0.6,
+            "RBG": 1.8,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.2,
+            "FG_PCT": 0.398,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.828,
+            "FGM": 33,
+            "FGA": 83,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 24,
+            "FTA": 29,
+            "GP": 67
+        },
+        "1975-76": {
+            "PPG": 2.2,
+            "APG": 1.3,
+            "RBG": 2.8,
+            "SPG": 0.3,
+            "BPG": 0.4,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.3,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 8,
+            "FGA": 20,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 7,
+            "GP": 9
+        }
+    },
+    "playoff_stats": {
+        "1974-75": {
+            "PPG": 1.0,
+            "APG": 0.8,
+            "RBG": 1.7,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.8,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 3,
+            "GP": 6
+        }
+    },
+    "specs": {
+        "Height": 83,
+        "Weight": "245",
+        "Position": "Center",
+        "Teams": [
+            "KCK"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "24",
+        "Active": false
+    }
+}

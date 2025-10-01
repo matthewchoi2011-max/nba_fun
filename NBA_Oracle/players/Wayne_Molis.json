@@ -1,0 +1,78 @@
+{
+    "player_id": 77625,
+    "full_name": "Wayne Molis",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1966-67": {
+            "PPG": 3.5,
+            "APG": 0.2,
+            "RBG": 1.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.8,
+            "FG_PCT": 0.373,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.538,
+            "FGM": 19,
+            "FGA": 51,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 7,
+            "FTA": 13,
+            "GP": 13
+        }
+    },
+    "playoff_stats": {
+        "1966-67": {
+            "PPG": 0.0,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "10",
+        "DraftNumber": "75",
+        "Active": false
+    }
+}

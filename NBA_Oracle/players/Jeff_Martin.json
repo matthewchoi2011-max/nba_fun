@@ -1,0 +1,77 @@
+{
+    "player_id": 77474,
+    "full_name": "Jeff Martin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1989-90": {
+            "PPG": 6.3,
+            "APG": 0.6,
+            "RBG": 2.3,
+            "SPG": 0.6,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 19.6,
+            "FG_PCT": 0.411,
+            "FG3_PCT": 0.133,
+            "FT_PCT": 0.705,
+            "FGM": 170,
+            "FGA": 414,
+            "FG3M": 2,
+            "FG3A": 15,
+            "FTM": 91,
+            "FTA": 129,
+            "GP": 69
+        },
+        "1990-91": {
+            "PPG": 7.1,
+            "APG": 0.9,
+            "RBG": 1.8,
+            "SPG": 0.5,
+            "BPG": 0.4,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 18.0,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0.307,
+            "FT_PCT": 0.68,
+            "FGM": 214,
+            "FGA": 507,
+            "FG3M": 27,
+            "FG3A": 88,
+            "FTM": 68,
+            "FTA": 100,
+            "GP": 74
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

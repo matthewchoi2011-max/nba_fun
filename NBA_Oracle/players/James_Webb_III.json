@@ -1,0 +1,57 @@
+{
+    "player_id": 1627821,
+    "full_name": "James Webb III",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2017-18": {
+            "PPG": 1.6,
+            "APG": 0.4,
+            "RBG": 2.4,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 0.4,
+            "PM": -2.6,
+            "MPG": 12.0,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0.211,
+            "FT_PCT": 0,
+            "FGM": 6,
+            "FGA": 24,
+            "FG3M": 4,
+            "FG3A": 19,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "202",
+        "Position": "Forward",
+        "Teams": [
+            "BKN"
+        ],
+        "DraftRound": null,
+        "DraftNumber": null,
+        "Active": false
+    }
+}

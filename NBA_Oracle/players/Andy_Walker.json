@@ -1,0 +1,57 @@
+{
+    "player_id": 78433,
+    "full_name": "Andy Walker",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 4.5,
+            "APG": 0.8,
+            "RBG": 1.9,
+            "SPG": 0.5,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.9,
+            "FG_PCT": 0.462,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.766,
+            "FGM": 72,
+            "FGA": 156,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 36,
+            "FTA": 47,
+            "GP": 40
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "NOJ"
+        ],
+        "DraftRound": "7",
+        "DraftNumber": "111",
+        "Active": false
+    }
+}

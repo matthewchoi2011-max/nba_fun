@@ -1,0 +1,121 @@
+{
+    "player_id": 78328,
+    "full_name": "John Thompson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1964-65",
+            "1965-66"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1964-65": {
+            "PPG": 3.6,
+            "APG": 0.2,
+            "RBG": 3.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.9,
+            "FG_PCT": 0.402,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.59,
+            "FGM": 84,
+            "FGA": 209,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 62,
+            "FTA": 105,
+            "GP": 64
+        },
+        "1965-66": {
+            "PPG": 3.2,
+            "APG": 0.3,
+            "RBG": 3.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.2,
+            "FG_PCT": 0.467,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.667,
+            "FGM": 14,
+            "FGA": 30,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 6,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {
+        "1964-65": {
+            "PPG": 3.7,
+            "APG": 0.3,
+            "RBG": 4.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.286,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 2,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 7,
+            "FTA": 7,
+            "GP": 3
+        },
+        "1965-66": {
+            "PPG": 0.7,
+            "APG": 0.0,
+            "RBG": 1.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 3.7,
+            "FG_PCT": 0.143,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 1,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 82,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "25",
+        "Active": false
+    }
+}

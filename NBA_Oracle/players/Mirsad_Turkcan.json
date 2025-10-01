@@ -1,0 +1,80 @@
+{
+    "player_id": 1726,
+    "full_name": "Mirsad Turkcan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1999-00": {
+            "PPG": 1.9,
+            "APG": 0.3,
+            "RBG": 1.9,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -2.4,
+            "MPG": 5.3,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.625,
+            "FGM": 14,
+            "FGA": 38,
+            "FG3M": 0,
+            "FG3A": 6,
+            "FTM": 5,
+            "FTA": 8,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {
+        "1999-00": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 1.5,
+            "PM": -12.0,
+            "MPG": 5.0,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "216",
+        "Position": "Forward",
+        "Teams": [
+            "NYK",
+            "MIL",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "18",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1642285,
+    "full_name": "Cam Spencer",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.2,
+            "APG": 1.4,
+            "RBG": 1.2,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 0.2,
+            "PM": 1.6,
+            "MPG": 10.1,
+            "FG_PCT": 0.415,
+            "FG3_PCT": 0.365,
+            "FT_PCT": 1.0,
+            "FGM": 34,
+            "FGA": 82,
+            "FG3M": 19,
+            "FG3A": 52,
+            "FTM": 19,
+            "FTA": 19,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "MEM"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "53",
+        "Active": true
+    }
+}

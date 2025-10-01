@@ -1,0 +1,78 @@
+{
+    "player_id": 2241,
+    "full_name": "Omar Cook",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2003-04": {
+            "PPG": 0.8,
+            "APG": 1.4,
+            "RBG": 0.4,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": -1.4,
+            "MPG": 8.2,
+            "FG_PCT": 0.259,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 7,
+            "FGA": 27,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 17
+        },
+        "2004-05": {
+            "PPG": 4.6,
+            "APG": 4.4,
+            "RBG": 1.4,
+            "SPG": 1.2,
+            "BPG": 0.2,
+            "TPG": 1.2,
+            "PM": 4.2,
+            "MPG": 15.0,
+            "FG_PCT": 0.417,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 10,
+            "FGA": 24,
+            "FG3M": 0,
+            "FG3A": 4,
+            "FTM": 3,
+            "FTA": 6,
+            "GP": 5
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 73,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "POR",
+            "TOR"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "31",
+        "Active": false
+    }
+}

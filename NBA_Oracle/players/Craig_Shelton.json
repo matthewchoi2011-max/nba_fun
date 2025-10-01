@@ -1,0 +1,77 @@
+{
+    "player_id": 78132,
+    "full_name": "Craig Shelton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 4.3,
+            "APG": 0.5,
+            "RBG": 2.5,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 1.1,
+            "PM": NaN,
+            "MPG": 10.7,
+            "FG_PCT": 0.457,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.603,
+            "FGM": 100,
+            "FGA": 219,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 35,
+            "FTA": 58,
+            "GP": 55
+        },
+        "1981-82": {
+            "PPG": 1.2,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.2,
+            "FG_PCT": 0.333,
+            "FG3_PCT": NaN,
+            "FT_PCT": 0.5,
+            "FGM": 2,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 4
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "28",
+        "Active": false
+    }
+}

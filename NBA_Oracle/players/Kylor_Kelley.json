@@ -1,0 +1,59 @@
+{
+    "player_id": 1630283,
+    "full_name": "Kylor Kelley",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 3.1,
+            "APG": 0.5,
+            "RBG": 3.5,
+            "SPG": 0.1,
+            "BPG": 0.3,
+            "TPG": 0.4,
+            "PM": -6.8,
+            "MPG": 11.5,
+            "FG_PCT": 0.636,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 14,
+            "FGA": 22,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 6,
+            "FTA": 10,
+            "GP": 11
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "215",
+        "Position": "Center",
+        "Teams": [
+            "DAL",
+            "NOP",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

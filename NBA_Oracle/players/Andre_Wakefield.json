@@ -1,0 +1,80 @@
+{
+    "player_id": 78431,
+    "full_name": "Andre Wakefield",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1978-79": {
+            "PPG": 2.4,
+            "APG": 1.0,
+            "RBG": 1.0,
+            "SPG": 0.3,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.35,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.696,
+            "FGM": 62,
+            "FGA": 177,
+            "FG3M": NaN,
+            "FG3A": NaN,
+            "FTM": 48,
+            "FTA": 69,
+            "GP": 73
+        },
+        "1979-80": {
+            "PPG": 1.9,
+            "APG": 0.4,
+            "RBG": 0.5,
+            "SPG": 0.1,
+            "BPG": 0.0,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 5.9,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 6,
+            "FGA": 15,
+            "FG3M": 0.0,
+            "FG3A": 0.0,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 8
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "CHI",
+            "DET",
+            "TOT",
+            "UTH"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "107",
+        "Active": false
+    }
+}

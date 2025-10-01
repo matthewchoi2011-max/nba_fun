@@ -1,0 +1,80 @@
+{
+    "player_id": 1627770,
+    "full_name": "Kay Felder",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 4.0,
+            "APG": 1.4,
+            "RBG": 1.0,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": -1.2,
+            "MPG": 9.2,
+            "FG_PCT": 0.392,
+            "FG3_PCT": 0.318,
+            "FT_PCT": 0.714,
+            "FGM": 62,
+            "FGA": 158,
+            "FG3M": 7,
+            "FG3A": 22,
+            "FTM": 35,
+            "FTA": 49,
+            "GP": 42
+        },
+        "2017-18": {
+            "PPG": 3.6,
+            "APG": 1.2,
+            "RBG": 1.1,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": -3.0,
+            "MPG": 8.8,
+            "FG_PCT": 0.3,
+            "FG3_PCT": 0.211,
+            "FT_PCT": 0.917,
+            "FGM": 21,
+            "FGA": 70,
+            "FG3M": 4,
+            "FG3A": 19,
+            "FTM": 11,
+            "FTA": 12,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 69,
+        "Weight": "176",
+        "Position": "Guard",
+        "Teams": [
+            "CLE",
+            "CHI",
+            "DET",
+            "TOT"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "54",
+        "Active": false
+    }
+}

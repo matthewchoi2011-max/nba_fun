@@ -1,0 +1,99 @@
+{
+    "player_id": 77346,
+    "full_name": "Tony Lavelli",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 8.8,
+            "APG": 0.7,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.372,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.853,
+            "FGM": 162,
+            "FGA": 436,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 168,
+            "FTA": 197,
+            "GP": 56
+        },
+        "1950-51": {
+            "PPG": 3.3,
+            "APG": 0.8,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.344,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.854,
+            "FGM": 32,
+            "FGA": 93,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 35,
+            "FTA": 41,
+            "GP": 30
+        }
+    },
+    "playoff_stats": {
+        "1950-51": {
+            "PPG": 2.0,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 1,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Forward",
+        "Teams": [
+            "BOS",
+            "NYK"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "4",
+        "Active": false
+    }
+}

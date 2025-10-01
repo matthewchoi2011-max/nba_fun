@@ -1,0 +1,77 @@
+{
+    "player_id": 78519,
+    "full_name": "Charles Whitney",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1980-81": {
+            "PPG": 7.4,
+            "APG": 1.4,
+            "RBG": 2.3,
+            "SPG": 1.0,
+            "BPG": 0.1,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 16.6,
+            "FG_PCT": 0.487,
+            "FG3_PCT": 0.333,
+            "FT_PCT": 0.769,
+            "FGM": 149,
+            "FGA": 306,
+            "FG3M": 2,
+            "FG3A": 6,
+            "FTM": 50,
+            "FTA": 65,
+            "GP": 47
+        },
+        "1981-82": {
+            "PPG": 2.3,
+            "APG": 0.8,
+            "RBG": 1.7,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 11.6,
+            "FG_PCT": 0.352,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.571,
+            "FGM": 25,
+            "FGA": 71,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 4,
+            "FTA": 7,
+            "GP": 23
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "KCK"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "16",
+        "Active": false
+    }
+}

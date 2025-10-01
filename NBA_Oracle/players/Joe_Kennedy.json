@@ -1,0 +1,77 @@
+{
+    "player_id": 77244,
+    "full_name": "Joe Kennedy",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1968-69": {
+            "PPG": 6.2,
+            "APG": 0.8,
+            "RBG": 3.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 17.2,
+            "FG_PCT": 0.395,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.79,
+            "FGM": 174,
+            "FGA": 441,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 98,
+            "FTA": 124,
+            "GP": 72
+        },
+        "1969-70": {
+            "PPG": 0.6,
+            "APG": 0.5,
+            "RBG": 1.4,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.9,
+            "FG_PCT": 0.088,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 3,
+            "FGA": 34,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 14
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "SEA"
+        ],
+        "DraftRound": "10",
+        "DraftNumber": "122",
+        "Active": false
+    }
+}

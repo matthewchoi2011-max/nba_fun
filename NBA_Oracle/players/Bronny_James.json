@@ -1,0 +1,78 @@
+{
+    "player_id": 1642355,
+    "full_name": "Bronny James",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 2.3,
+            "APG": 0.8,
+            "RBG": 0.7,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": -2.6,
+            "MPG": 6.7,
+            "FG_PCT": 0.313,
+            "FG3_PCT": 0.281,
+            "FT_PCT": 0.786,
+            "FGM": 21,
+            "FGA": 67,
+            "FG3M": 9,
+            "FG3A": 32,
+            "FTM": 11,
+            "FTA": 14,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.5,
+            "MPG": 2.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 2,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "LAL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "55",
+        "Active": true
+    }
+}

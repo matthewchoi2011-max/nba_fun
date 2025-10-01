@@ -1,0 +1,101 @@
+{
+    "player_id": 77017,
+    "full_name": "Phil Hicks",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 2.5,
+            "APG": 0.6,
+            "RBG": 1.8,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": NaN,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.461,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.846,
+            "FGM": 41,
+            "FGA": 89,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 11,
+            "FTA": 13,
+            "GP": 37
+        },
+        "1978-79": {
+            "PPG": 1.9,
+            "APG": 0.4,
+            "RBG": 1.4,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 6.4,
+            "FG_PCT": 0.419,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 18,
+            "FGA": 43,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {
+        "1976-77": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 3.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "CHI",
+            "HOU",
+            "TOT",
+            "DEN"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "27",
+        "Active": false
+    }
+}

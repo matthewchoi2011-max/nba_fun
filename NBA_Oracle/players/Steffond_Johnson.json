@@ -1,0 +1,57 @@
+{
+    "player_id": 77166,
+    "full_name": "Steffond Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1986-87": {
+            "PPG": 2.6,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 8.1,
+            "FG_PCT": 0.422,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.526,
+            "FGM": 27,
+            "FGA": 64,
+            "FG3M": 0,
+            "FG3A": 3,
+            "FTM": 20,
+            "FTA": 38,
+            "GP": 29
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "240",
+        "Position": "Forward",
+        "Teams": [
+            "LAC"
+        ],
+        "DraftRound": "5",
+        "DraftNumber": "100",
+        "Active": false
+    }
+}

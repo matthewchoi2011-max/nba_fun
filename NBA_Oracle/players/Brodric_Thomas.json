@@ -1,0 +1,80 @@
+{
+    "player_id": 1630271,
+    "full_name": "Brodric Thomas",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 3.9,
+            "APG": 0.9,
+            "RBG": 1.7,
+            "SPG": 0.5,
+            "BPG": 0.3,
+            "TPG": 0.7,
+            "PM": -1.5,
+            "MPG": 12.5,
+            "FG_PCT": 0.361,
+            "FG3_PCT": 0.271,
+            "FT_PCT": 0.674,
+            "FGM": 39,
+            "FGA": 108,
+            "FG3M": 16,
+            "FG3A": 59,
+            "FTM": 31,
+            "FTA": 46,
+            "GP": 32
+        },
+        "2021-22": {
+            "PPG": 1.8,
+            "APG": 0.9,
+            "RBG": 0.8,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": 0.2,
+            "MPG": 5.0,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.6,
+            "FGM": 8,
+            "FGA": 18,
+            "FG3M": 2,
+            "FG3A": 9,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 12
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "HOU",
+            "CLE",
+            "TOT",
+            "BOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

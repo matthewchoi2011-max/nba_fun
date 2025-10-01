@@ -1,0 +1,57 @@
+{
+    "player_id": 77091,
+    "full_name": "Greg Hyder",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 5.4,
+            "APG": 0.6,
+            "RBG": 4.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 17.6,
+            "FG_PCT": 0.447,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.718,
+            "FGM": 183,
+            "FGA": 409,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 51,
+            "FTA": 71,
+            "GP": 77
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "215",
+        "Position": "Forward",
+        "Teams": [
+            "CIN"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "39",
+        "Active": false
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "player_id": 1641720,
+    "full_name": "Jalen Hood-Schifino",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 1.6,
+            "APG": 0.4,
+            "RBG": 0.6,
+            "SPG": 0.1,
+            "BPG": 0.1,
+            "TPG": 0.4,
+            "PM": -2.6,
+            "MPG": 5.2,
+            "FG_PCT": 0.222,
+            "FG3_PCT": 0.133,
+            "FT_PCT": 0.6,
+            "FGM": 10,
+            "FGA": 45,
+            "FG3M": 2,
+            "FG3A": 15,
+            "FTM": 12,
+            "FTA": 20,
+            "GP": 21
+        },
+        "2024-25": {
+            "PPG": 7.1,
+            "APG": 2.5,
+            "RBG": 1.8,
+            "SPG": 0.3,
+            "BPG": 0.5,
+            "TPG": 1.2,
+            "PM": -6.4,
+            "MPG": 21.0,
+            "FG_PCT": 0.378,
+            "FG3_PCT": 0.304,
+            "FT_PCT": 0.857,
+            "FGM": 37,
+            "FGA": 98,
+            "FG3M": 14,
+            "FG3A": 46,
+            "FTM": 18,
+            "FTA": 21,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 77,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "LAL",
+            "PHI",
+            "TOT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "17",
+        "Active": true
+    }
+}

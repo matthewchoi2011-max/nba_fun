@@ -1,0 +1,57 @@
+{
+    "player_id": 78259,
+    "full_name": "Sam Stith",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 4.4,
+            "APG": 1.9,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 13.8,
+            "FG_PCT": 0.364,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.605,
+            "FGM": 59,
+            "FGA": 162,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 23,
+            "FTA": 38,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "NYK"
+        ],
+        "DraftRound": "8",
+        "DraftNumber": "56",
+        "Active": false
+    }
+}

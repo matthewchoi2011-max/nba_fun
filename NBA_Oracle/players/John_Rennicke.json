@@ -1,0 +1,57 @@
+{
+    "player_id": 77941,
+    "full_name": "John Rennicke",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1951-52": {
+            "PPG": 1.8,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 9.0,
+            "FG_PCT": 0.222,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 4,
+            "FGA": 18,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 9,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "MIH"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "51",
+        "Active": false
+    }
+}

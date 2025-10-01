@@ -1,0 +1,80 @@
+{
+    "player_id": 76624,
+    "full_name": "Jack Dwan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [
+            "1948-49"
+        ],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1948-49": {
+            "PPG": 4.6,
+            "APG": 2.1,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.318,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.493,
+            "FGM": 121,
+            "FGA": 380,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 34,
+            "FTA": 69,
+            "GP": 60
+        }
+    },
+    "playoff_stats": {
+        "1948-49": {
+            "PPG": 1.8,
+            "APG": 0.9,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.241,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.444,
+            "FGM": 7,
+            "FGA": 29,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 9,
+            "GP": 10
+        }
+    },
+    "specs": {
+        "Height": 76,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "MNL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

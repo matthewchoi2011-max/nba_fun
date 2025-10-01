@@ -1,0 +1,80 @@
+{
+    "player_id": 203517,
+    "full_name": "Nemanja Nedovic",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [
+            "2016"
+        ],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2013-14": {
+            "PPG": 1.1,
+            "APG": 0.5,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -2.9,
+            "MPG": 5.9,
+            "FG_PCT": 0.205,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.875,
+            "FGM": 8,
+            "FGA": 39,
+            "FG3M": 3,
+            "FG3A": 18,
+            "FTM": 7,
+            "FTA": 8,
+            "GP": 24
+        }
+    },
+    "playoff_stats": {
+        "2013-14": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -2.0,
+            "MPG": 0.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "192",
+        "Position": "Guard",
+        "Teams": [
+            "GSW"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "30",
+        "Active": false
+    }
+}

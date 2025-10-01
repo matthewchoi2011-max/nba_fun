@@ -1,0 +1,99 @@
+{
+    "player_id": 77421,
+    "full_name": "Ted Luckenbill",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1961-62": {
+            "PPG": 2.0,
+            "APG": 0.4,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.9,
+            "FG_PCT": 0.358,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.645,
+            "FGM": 43,
+            "FGA": 120,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 49,
+            "FTA": 76,
+            "GP": 67
+        },
+        "1962-63": {
+            "PPG": 3.0,
+            "APG": 0.4,
+            "RBG": 2.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.1,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.45,
+            "FGM": 26,
+            "FGA": 68,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 20,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {
+        "1961-62": {
+            "PPG": 0.5,
+            "APG": 0.2,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.2,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.4,
+            "FGM": 0,
+            "FGA": 5,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 5,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 78,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "PHW",
+            "SFW"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "15",
+        "Active": false
+    }
+}

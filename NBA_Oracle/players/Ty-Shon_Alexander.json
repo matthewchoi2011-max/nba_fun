@@ -1,0 +1,78 @@
+{
+    "player_id": 1630234,
+    "full_name": "Ty-Shon Alexander",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 0.6,
+            "APG": 0.4,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.1,
+            "TPG": 0.2,
+            "PM": -0.5,
+            "MPG": 3.1,
+            "FG_PCT": 0.25,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 12,
+            "FG3M": 2,
+            "FG3A": 9,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 15
+        }
+    },
+    "playoff_stats": {
+        "2020-21": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -1.0,
+            "MPG": 1.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "195",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

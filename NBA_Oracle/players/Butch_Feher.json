@@ -1,0 +1,57 @@
+{
+    "player_id": 76699,
+    "full_name": "Butch Feher",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1976-77": {
+            "PPG": 5.2,
+            "APG": 0.8,
+            "RBG": 1.5,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 10.1,
+            "FG_PCT": 0.531,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.768,
+            "FGM": 86,
+            "FGA": 162,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 76,
+            "FTA": 99,
+            "GP": 48
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "PHX"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "33",
+        "Active": false
+    }
+}

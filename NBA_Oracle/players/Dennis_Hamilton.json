@@ -1,0 +1,99 @@
+{
+    "player_id": 76926,
+    "full_name": "Dennis Hamilton",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1967-68": {
+            "PPG": 2.8,
+            "APG": 0.7,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.6,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 54,
+            "FGA": 108,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 13,
+            "FTA": 13,
+            "GP": 44
+        },
+        "1968-69": {
+            "PPG": 3.0,
+            "APG": 0.3,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.6,
+            "FG_PCT": 0.552,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.4,
+            "FGM": 37,
+            "FGA": 67,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 5,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {
+        "1967-68": {
+            "PPG": 1.0,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.5,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "LAL",
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

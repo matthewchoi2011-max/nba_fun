@@ -1,0 +1,57 @@
+{
+    "player_id": 2081,
+    "full_name": "Ernest Brown",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2001-02": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.3,
+            "TPG": 1.0,
+            "PM": -7.3,
+            "MPG": 7.0,
+            "FG_PCT": 0.167,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.25,
+            "FGM": 1,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 1,
+            "FTA": 4,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 84,
+        "Weight": "244",
+        "Position": "Center",
+        "Teams": [
+            "MIA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "52",
+        "Active": false
+    }
+}

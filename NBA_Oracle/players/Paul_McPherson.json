@@ -1,0 +1,59 @@
+{
+    "player_id": 2101,
+    "full_name": "Paul McPherson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2000-01": {
+            "PPG": 4.8,
+            "APG": 0.7,
+            "RBG": 1.4,
+            "SPG": 0.5,
+            "BPG": 0.1,
+            "TPG": 0.9,
+            "PM": -0.2,
+            "MPG": 10.8,
+            "FG_PCT": 0.505,
+            "FG3_PCT": 0.167,
+            "FT_PCT": 0.724,
+            "FGM": 109,
+            "FGA": 216,
+            "FG3M": 2,
+            "FG3A": 12,
+            "FTM": 42,
+            "FTA": 58,
+            "GP": 55
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "210",
+        "Position": "Guard",
+        "Teams": [
+            "PHX",
+            "GSW",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 1642265,
+    "full_name": "Rob Dillingham",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.5,
+            "APG": 2.0,
+            "RBG": 1.0,
+            "SPG": 0.4,
+            "BPG": 0.0,
+            "TPG": 1.1,
+            "PM": 0.4,
+            "MPG": 10.5,
+            "FG_PCT": 0.441,
+            "FG3_PCT": 0.338,
+            "FT_PCT": 0.533,
+            "FGM": 93,
+            "FGA": 211,
+            "FG3M": 25,
+            "FG3A": 74,
+            "FTM": 8,
+            "FTA": 15,
+            "GP": 49
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 2.7,
+            "APG": 2.3,
+            "RBG": 0.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -0.7,
+            "MPG": 5.3,
+            "FG_PCT": 0.375,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 8,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "MIN"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "8",
+        "Active": true
+    }
+}

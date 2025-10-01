@@ -1,0 +1,98 @@
+{
+    "player_id": 1641715,
+    "full_name": "Cam Whitmore",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 12.3,
+            "APG": 0.7,
+            "RBG": 3.8,
+            "SPG": 0.6,
+            "BPG": 0.4,
+            "TPG": 1.0,
+            "PM": -0.6,
+            "MPG": 18.7,
+            "FG_PCT": 0.454,
+            "FG3_PCT": 0.359,
+            "FT_PCT": 0.679,
+            "FGM": 212,
+            "FGA": 467,
+            "FG3M": 79,
+            "FG3A": 220,
+            "FTM": 76,
+            "FTA": 112,
+            "GP": 47
+        },
+        "2024-25": {
+            "PPG": 9.4,
+            "APG": 1.0,
+            "RBG": 3.0,
+            "SPG": 0.6,
+            "BPG": 0.3,
+            "TPG": 0.9,
+            "PM": -0.0,
+            "MPG": 16.2,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0.355,
+            "FT_PCT": 0.75,
+            "FGM": 179,
+            "FGA": 403,
+            "FG3M": 65,
+            "FG3A": 183,
+            "FTM": 54,
+            "FTA": 72,
+            "GP": 51
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -5.3,
+            "MPG": 1.7,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "230",
+        "Position": "Forward",
+        "Teams": [
+            "HOU"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "20",
+        "Active": true
+    }
+}

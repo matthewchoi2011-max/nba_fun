@@ -1,0 +1,77 @@
+{
+    "player_id": 76262,
+    "full_name": "Jim Brogan",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 6.3,
+            "APG": 2.5,
+            "RBG": 1.9,
+            "SPG": 0.8,
+            "BPG": 0.2,
+            "TPG": 1.3,
+            "PM": NaN,
+            "MPG": 16.3,
+            "FG_PCT": 0.453,
+            "FG3_PCT": 0.281,
+            "FT_PCT": 0.726,
+            "FGM": 165,
+            "FGA": 364,
+            "FG3M": 9,
+            "FG3A": 32,
+            "FTM": 61,
+            "FTA": 84,
+            "GP": 63
+        },
+        "1982-83": {
+            "PPG": 3.8,
+            "APG": 1.1,
+            "RBG": 1.1,
+            "SPG": 0.4,
+            "BPG": 0.2,
+            "TPG": 0.7,
+            "PM": NaN,
+            "MPG": 8.0,
+            "FG_PCT": 0.427,
+            "FG3_PCT": 0.231,
+            "FT_PCT": 0.791,
+            "FGM": 91,
+            "FGA": 213,
+            "FG3M": 3,
+            "FG3A": 13,
+            "FTM": 34,
+            "FTA": 43,
+            "GP": 58
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 76,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "SDC"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

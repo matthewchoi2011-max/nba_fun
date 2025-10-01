@@ -1,0 +1,77 @@
+{
+    "player_id": 1641809,
+    "full_name": "Drew Peterson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 3.7,
+            "APG": 0.3,
+            "RBG": 0.3,
+            "SPG": 0.7,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": 2.7,
+            "MPG": 7.7,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0.6,
+            "FT_PCT": 0,
+            "FGM": 4,
+            "FGA": 6,
+            "FG3M": 3,
+            "FG3A": 5,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        },
+        "2024-25": {
+            "PPG": 2.2,
+            "APG": 0.5,
+            "RBG": 1.6,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.3,
+            "PM": 1.8,
+            "MPG": 7.4,
+            "FG_PCT": 0.415,
+            "FG3_PCT": 0.394,
+            "FT_PCT": 0.778,
+            "FGM": 17,
+            "FGA": 41,
+            "FG3M": 13,
+            "FG3A": 33,
+            "FTM": 7,
+            "FTA": 9,
+            "GP": 25
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 81,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "BOS"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

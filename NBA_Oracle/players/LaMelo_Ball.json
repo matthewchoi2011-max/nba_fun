@@ -1,0 +1,143 @@
+{
+    "player_id": 1630163,
+    "full_name": "LaMelo Ball",
+    "awards": {
+        "NBA All-Star": [
+            "2021-22"
+        ],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [
+            "2020-21"
+        ],
+        "All-Rookie-First": [
+            "2020-21"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2020-21": {
+            "PPG": 15.7,
+            "APG": 6.1,
+            "RBG": 5.9,
+            "SPG": 1.6,
+            "BPG": 0.4,
+            "TPG": 2.8,
+            "PM": -1.7,
+            "MPG": 28.8,
+            "FG_PCT": 0.436,
+            "FG3_PCT": 0.352,
+            "FT_PCT": 0.758,
+            "FGM": 293,
+            "FGA": 672,
+            "FG3M": 92,
+            "FG3A": 261,
+            "FTM": 125,
+            "FTA": 165,
+            "GP": 51
+        },
+        "2021-22": {
+            "PPG": 20.1,
+            "APG": 7.6,
+            "RBG": 6.7,
+            "SPG": 1.6,
+            "BPG": 0.4,
+            "TPG": 3.3,
+            "PM": 1.3,
+            "MPG": 32.3,
+            "FG_PCT": 0.429,
+            "FG3_PCT": 0.389,
+            "FT_PCT": 0.872,
+            "FGM": 538,
+            "FGA": 1254,
+            "FG3M": 220,
+            "FG3A": 565,
+            "FTM": 212,
+            "FTA": 243,
+            "GP": 75
+        },
+        "2022-23": {
+            "PPG": 23.3,
+            "APG": 8.4,
+            "RBG": 6.4,
+            "SPG": 1.3,
+            "BPG": 0.3,
+            "TPG": 3.6,
+            "PM": -4.2,
+            "MPG": 35.2,
+            "FG_PCT": 0.411,
+            "FG3_PCT": 0.376,
+            "FT_PCT": 0.836,
+            "FGM": 296,
+            "FGA": 721,
+            "FG3M": 144,
+            "FG3A": 383,
+            "FTM": 102,
+            "FTA": 122,
+            "GP": 36
+        },
+        "2023-24": {
+            "PPG": 23.9,
+            "APG": 8.0,
+            "RBG": 5.1,
+            "SPG": 1.8,
+            "BPG": 0.2,
+            "TPG": 3.8,
+            "PM": -6.3,
+            "MPG": 32.3,
+            "FG_PCT": 0.433,
+            "FG3_PCT": 0.355,
+            "FT_PCT": 0.865,
+            "FGM": 183,
+            "FGA": 423,
+            "FG3M": 70,
+            "FG3A": 197,
+            "FTM": 90,
+            "FTA": 104,
+            "GP": 22
+        },
+        "2024-25": {
+            "PPG": 25.2,
+            "APG": 7.4,
+            "RBG": 4.9,
+            "SPG": 1.1,
+            "BPG": 0.3,
+            "TPG": 3.6,
+            "PM": -2.8,
+            "MPG": 32.0,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0.339,
+            "FT_PCT": 0.843,
+            "FGM": 406,
+            "FGA": 1003,
+            "FG3M": 179,
+            "FG3A": 528,
+            "FTM": 193,
+            "FTA": 229,
+            "GP": 47
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "180",
+        "Position": "Guard",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "3",
+        "Active": true
+    }
+}

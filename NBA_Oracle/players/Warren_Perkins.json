@@ -1,0 +1,98 @@
+{
+    "player_id": 77834,
+    "full_name": "Warren Perkins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1949-50": {
+            "PPG": 6.2,
+            "APG": 1.9,
+            "RBG": NaN,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.303,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.59,
+            "FGM": 128,
+            "FGA": 422,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 115,
+            "FTA": 195,
+            "GP": 60
+        },
+        "1950-51": {
+            "PPG": 6.0,
+            "APG": 2.2,
+            "RBG": 4.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.315,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.646,
+            "FGM": 135,
+            "FGA": 428,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 126,
+            "FTA": 195,
+            "GP": 66
+        }
+    },
+    "playoff_stats": {
+        "1949-50": {
+            "PPG": 1.0,
+            "APG": 0.5,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "TCB"
+        ],
+        "DraftRound": "4",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

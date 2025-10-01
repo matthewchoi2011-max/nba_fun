@@ -1,0 +1,57 @@
+{
+    "player_id": 77628,
+    "full_name": "Rodney Monroe",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 3.4,
+            "APG": 0.7,
+            "RBG": 0.9,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 8.2,
+            "FG_PCT": 0.368,
+            "FG3_PCT": 0.222,
+            "FT_PCT": 0.826,
+            "FGM": 53,
+            "FGA": 144,
+            "FG3M": 6,
+            "FG3A": 27,
+            "FTM": 19,
+            "FTA": 23,
+            "GP": 38
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "30",
+        "Active": false
+    }
+}

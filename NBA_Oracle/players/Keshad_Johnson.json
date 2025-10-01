@@ -1,0 +1,78 @@
+{
+    "player_id": 1642352,
+    "full_name": "Keshad Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 2.7,
+            "APG": 0.2,
+            "RBG": 1.8,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": 0.3,
+            "MPG": 6.1,
+            "FG_PCT": 0.692,
+            "FG3_PCT": 0.429,
+            "FT_PCT": 0.444,
+            "FGM": 18,
+            "FGA": 26,
+            "FG3M": 3,
+            "FG3A": 7,
+            "FTM": 4,
+            "FTA": 9,
+            "GP": 16
+        }
+    },
+    "playoff_stats": {
+        "2024-25": {
+            "PPG": 1.0,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -0.5,
+            "MPG": 4.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 1,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 79,
+        "Weight": "225",
+        "Position": "Forward",
+        "Teams": [
+            "MIA"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": true
+    }
+}

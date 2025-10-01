@@ -1,0 +1,78 @@
+{
+    "player_id": 1619,
+    "full_name": "Kiwane Garris",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1997-98": {
+            "PPG": 2.4,
+            "APG": 1.0,
+            "RBG": 0.7,
+            "SPG": 0.2,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": -2.2,
+            "MPG": 8.0,
+            "FG_PCT": 0.338,
+            "FG3_PCT": 0.357,
+            "FT_PCT": 0.76,
+            "FGM": 22,
+            "FGA": 65,
+            "FG3M": 5,
+            "FG3A": 14,
+            "FTM": 19,
+            "FTA": 25,
+            "GP": 28
+        },
+        "1999-00": {
+            "PPG": 1.3,
+            "APG": 0.7,
+            "RBG": 0.3,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.3,
+            "PM": 4.0,
+            "MPG": 7.7,
+            "FG_PCT": 0.2,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 2,
+            "FGA": 10,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 74,
+        "Weight": "183",
+        "Position": "Guard",
+        "Teams": [
+            "DEN",
+            "ORL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

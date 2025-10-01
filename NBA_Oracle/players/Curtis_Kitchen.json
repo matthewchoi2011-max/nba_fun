@@ -1,0 +1,78 @@
+{
+    "player_id": 77280,
+    "full_name": "Curtis Kitchen",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1986-87": {
+            "PPG": 1.5,
+            "APG": 0.2,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.5,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.2,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 3,
+            "FGA": 6,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 6
+        }
+    },
+    "playoff_stats": {
+        "1986-87": {
+            "PPG": 0.2,
+            "APG": 0.0,
+            "RBG": 0.8,
+            "SPG": 0.0,
+            "BPG": 0.2,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.9,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 4,
+            "GP": 8
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "235",
+        "Position": "Forward",
+        "Teams": [
+            "SEA"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": "122",
+        "Active": false
+    }
+}

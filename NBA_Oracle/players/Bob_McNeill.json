@@ -1,0 +1,99 @@
+{
+    "player_id": 77562,
+    "full_name": "Bob McNeill",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1960-61": {
+            "PPG": 5.8,
+            "APG": 3.2,
+            "RBG": 1.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 18.5,
+            "FG_PCT": 0.389,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.833,
+            "FGM": 166,
+            "FGA": 427,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 105,
+            "FTA": 126,
+            "GP": 75
+        },
+        "1961-62": {
+            "PPG": 2.8,
+            "APG": 1.8,
+            "RBG": 1.1,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.8,
+            "FG_PCT": 0.412,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.765,
+            "FGM": 56,
+            "FGA": 136,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 26,
+            "FTA": 34,
+            "GP": 50
+        }
+    },
+    "playoff_stats": {
+        "1961-62": {
+            "PPG": 1.8,
+            "APG": 1.0,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 6.0,
+            "FG_PCT": 0.571,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.5,
+            "FGM": 4,
+            "FGA": 7,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 5
+        }
+    },
+    "specs": {
+        "Height": 73,
+        "Weight": "170",
+        "Position": "Guard",
+        "Teams": [
+            "NYK",
+            "LAL"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "19",
+        "Active": false
+    }
+}

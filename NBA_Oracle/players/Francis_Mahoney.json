@@ -1,0 +1,99 @@
+{
+    "player_id": 77444,
+    "full_name": "Francis Mahoney",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1952-53": {
+            "PPG": 2.0,
+            "APG": 0.2,
+            "RBG": 1.2,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.7,
+            "FG_PCT": 0.4,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.8,
+            "FGM": 4,
+            "FGA": 10,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 4,
+            "FTA": 5,
+            "GP": 6
+        },
+        "1953-54": {
+            "PPG": 0.0,
+            "APG": 0.5,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": NaN,
+            "FGM": 0,
+            "FGA": 2,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "playoff_stats": {
+        "1952-53": {
+            "PPG": 2.2,
+            "APG": 0.5,
+            "RBG": 1.8,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 11.2,
+            "FG_PCT": 0.214,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.6,
+            "FGM": 3,
+            "FGA": 14,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 5,
+            "GP": 4
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "205",
+        "Position": "Forward",
+        "Teams": [
+            "BOS",
+            "BAL"
+        ],
+        "DraftRound": "6",
+        "DraftNumber": null,
+        "Active": false
+    }
+}

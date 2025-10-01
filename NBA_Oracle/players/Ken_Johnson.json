@@ -1,0 +1,98 @@
+{
+    "player_id": 2256,
+    "full_name": "Ken Johnson",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2002-03": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.1,
+            "BPG": 0.8,
+            "TPG": 0.4,
+            "PM": -0.9,
+            "MPG": 9.8,
+            "FG_PCT": 0.405,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.333,
+            "FGM": 15,
+            "FGA": 37,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 2,
+            "FTA": 6,
+            "GP": 16
+        },
+        "1985-86": {
+            "PPG": 4.1,
+            "APG": 0.3,
+            "RBG": 3.8,
+            "SPG": 0.2,
+            "BPG": 0.3,
+            "TPG": 0.9,
+            "PM": NaN,
+            "MPG": 12.7,
+            "FG_PCT": 0.528,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.435,
+            "FGM": 113,
+            "FGA": 214,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 37,
+            "FTA": 85,
+            "GP": 64
+        }
+    },
+    "playoff_stats": {
+        "1985-86": {
+            "PPG": 0.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 1.0,
+            "BPG": 0.0,
+            "TPG": 0.5,
+            "PM": NaN,
+            "MPG": 5.5,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 0,
+            "FGA": 0,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "240",
+        "Position": "Forward",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "28",
+        "Active": false
+    }
+}

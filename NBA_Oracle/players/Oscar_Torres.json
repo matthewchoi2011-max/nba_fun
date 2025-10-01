@@ -1,0 +1,78 @@
+{
+    "player_id": 2351,
+    "full_name": "Oscar Torres",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2001-02": {
+            "PPG": 6.0,
+            "APG": 0.6,
+            "RBG": 1.9,
+            "SPG": 0.4,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -2.5,
+            "MPG": 16.6,
+            "FG_PCT": 0.396,
+            "FG3_PCT": 0.294,
+            "FT_PCT": 0.781,
+            "FGM": 135,
+            "FGA": 341,
+            "FG3M": 37,
+            "FG3A": 126,
+            "FTM": 82,
+            "FTA": 105,
+            "GP": 65
+        },
+        "2002-03": {
+            "PPG": 3.1,
+            "APG": 0.2,
+            "RBG": 0.7,
+            "SPG": 0.2,
+            "BPG": 0.1,
+            "TPG": 0.5,
+            "PM": 0.6,
+            "MPG": 6.4,
+            "FG_PCT": 0.444,
+            "FG3_PCT": 0.538,
+            "FT_PCT": 0.7,
+            "FGM": 16,
+            "FGA": 36,
+            "FG3M": 7,
+            "FG3A": 13,
+            "FTM": 14,
+            "FTA": 20,
+            "GP": 17
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "210",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "HOU",
+            "GSW"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

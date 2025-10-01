@@ -1,0 +1,98 @@
+{
+    "player_id": 1627098,
+    "full_name": "Malcolm Delaney",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2016-17": {
+            "PPG": 5.4,
+            "APG": 2.6,
+            "RBG": 1.7,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 1.3,
+            "PM": 0.4,
+            "MPG": 17.1,
+            "FG_PCT": 0.374,
+            "FG3_PCT": 0.236,
+            "FT_PCT": 0.806,
+            "FGM": 145,
+            "FGA": 388,
+            "FG3M": 26,
+            "FG3A": 110,
+            "FTM": 75,
+            "FTA": 93,
+            "GP": 73
+        },
+        "2017-18": {
+            "PPG": 6.3,
+            "APG": 3.0,
+            "RBG": 1.9,
+            "SPG": 0.6,
+            "BPG": 0.1,
+            "TPG": 1.2,
+            "PM": -2.0,
+            "MPG": 18.8,
+            "FG_PCT": 0.382,
+            "FG3_PCT": 0.371,
+            "FT_PCT": 0.804,
+            "FGM": 109,
+            "FGA": 285,
+            "FG3M": 46,
+            "FG3A": 124,
+            "FTM": 74,
+            "FTA": 92,
+            "GP": 54
+        }
+    },
+    "playoff_stats": {
+        "2016-17": {
+            "PPG": 8.0,
+            "APG": 0.0,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": 0.0,
+            "MPG": 3.0,
+            "FG_PCT": 1.0,
+            "FG3_PCT": 1.0,
+            "FT_PCT": 0.5,
+            "FGM": 3,
+            "FGA": 3,
+            "FG3M": 1,
+            "FG3A": 1,
+            "FTM": 1,
+            "FTA": 2,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 75,
+        "Weight": "190",
+        "Position": "Guard",
+        "Teams": [
+            "ATL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

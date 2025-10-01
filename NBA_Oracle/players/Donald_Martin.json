@@ -1,0 +1,77 @@
+{
+    "player_id": 77471,
+    "full_name": "Donald Martin",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1946-47": {
+            "PPG": 12.2,
+            "APG": 1.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.304,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.661,
+            "FGM": 311,
+            "FGA": 1022,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 111,
+            "FTA": 168,
+            "GP": 60
+        },
+        "1947-48": {
+            "PPG": 3.2,
+            "APG": 0.4,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 0.0,
+            "FG_PCT": 0.238,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.45,
+            "FGM": 46,
+            "FGA": 193,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 9,
+            "FTA": 20,
+            "GP": 32
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 68,
+        "Weight": "160",
+        "Position": "Guard",
+        "Teams": [
+            "PRO"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "player_id": 1642273,
+    "full_name": "Kyshawn George",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 8.7,
+            "APG": 2.5,
+            "RBG": 4.2,
+            "SPG": 1.0,
+            "BPG": 0.7,
+            "TPG": 1.4,
+            "PM": -5.3,
+            "MPG": 26.5,
+            "FG_PCT": 0.372,
+            "FG3_PCT": 0.322,
+            "FT_PCT": 0.753,
+            "FGM": 203,
+            "FGA": 546,
+            "FG3M": 114,
+            "FG3A": 354,
+            "FTM": 70,
+            "FTA": 93,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 80,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "WAS"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "24",
+        "Active": true
+    }
+}

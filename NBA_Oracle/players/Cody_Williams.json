@@ -1,0 +1,57 @@
+{
+    "player_id": 1642262,
+    "full_name": "Cody Williams",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2024-25": {
+            "PPG": 4.6,
+            "APG": 1.2,
+            "RBG": 2.3,
+            "SPG": 0.5,
+            "BPG": 0.3,
+            "TPG": 0.9,
+            "PM": -6.8,
+            "MPG": 21.2,
+            "FG_PCT": 0.323,
+            "FG3_PCT": 0.259,
+            "FT_PCT": 0.725,
+            "FGM": 83,
+            "FGA": 257,
+            "FG3M": 35,
+            "FG3A": 135,
+            "FTM": 29,
+            "FTA": 40,
+            "GP": 50
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "190",
+        "Position": "Forward",
+        "Teams": [
+            "UTA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "10",
+        "Active": true
+    }
+}

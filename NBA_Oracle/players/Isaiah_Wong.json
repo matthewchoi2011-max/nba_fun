@@ -1,0 +1,78 @@
+{
+    "player_id": 1631209,
+    "full_name": "Isaiah Wong",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 2.0,
+            "APG": 0.0,
+            "RBG": 0.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": -5.0,
+            "MPG": 4.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 3,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 1
+        },
+        "2024-25": {
+            "PPG": 6.0,
+            "APG": 1.4,
+            "RBG": 1.6,
+            "SPG": 0.6,
+            "BPG": 0.0,
+            "TPG": 0.9,
+            "PM": -0.3,
+            "MPG": 13.3,
+            "FG_PCT": 0.39,
+            "FG3_PCT": 0.394,
+            "FT_PCT": 0.735,
+            "FGM": 41,
+            "FGA": 105,
+            "FG3M": 13,
+            "FG3A": 33,
+            "FTM": 25,
+            "FTA": 34,
+            "GP": 20
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "185",
+        "Position": "Guard",
+        "Teams": [
+            "IND",
+            "CHA"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "55",
+        "Active": true
+    }
+}

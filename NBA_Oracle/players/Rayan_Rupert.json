@@ -1,0 +1,77 @@
+{
+    "player_id": 1641712,
+    "full_name": "Rayan Rupert",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 4.0,
+            "APG": 1.6,
+            "RBG": 2.4,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.8,
+            "PM": -3.2,
+            "MPG": 16.2,
+            "FG_PCT": 0.335,
+            "FG3_PCT": 0.359,
+            "FT_PCT": 0.76,
+            "FGM": 54,
+            "FGA": 161,
+            "FG3M": 28,
+            "FG3A": 78,
+            "FTM": 19,
+            "FTA": 25,
+            "GP": 39
+        },
+        "2024-25": {
+            "PPG": 3.0,
+            "APG": 0.5,
+            "RBG": 1.3,
+            "SPG": 0.3,
+            "BPG": 0.1,
+            "TPG": 0.6,
+            "PM": -1.7,
+            "MPG": 8.8,
+            "FG_PCT": 0.408,
+            "FG3_PCT": 0.271,
+            "FT_PCT": 0.767,
+            "FGM": 58,
+            "FGA": 142,
+            "FG3M": 16,
+            "FG3A": 59,
+            "FTM": 23,
+            "FTA": 30,
+            "GP": 52
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "195",
+        "Position": "Guard-Forward",
+        "Teams": [
+            "POR"
+        ],
+        "DraftRound": "2",
+        "DraftNumber": "43",
+        "Active": true
+    }
+}

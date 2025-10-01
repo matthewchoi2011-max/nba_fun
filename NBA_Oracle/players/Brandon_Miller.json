@@ -1,0 +1,79 @@
+{
+    "player_id": 1641706,
+    "full_name": "Brandon Miller",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [
+            "2023-24"
+        ],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2023-24": {
+            "PPG": 17.3,
+            "APG": 2.4,
+            "RBG": 4.3,
+            "SPG": 0.9,
+            "BPG": 0.6,
+            "TPG": 1.8,
+            "PM": -6.9,
+            "MPG": 32.2,
+            "FG_PCT": 0.44,
+            "FG3_PCT": 0.373,
+            "FT_PCT": 0.827,
+            "FGM": 476,
+            "FGA": 1083,
+            "FG3M": 184,
+            "FG3A": 493,
+            "FTM": 143,
+            "FTA": 173,
+            "GP": 74
+        },
+        "2024-25": {
+            "PPG": 21.0,
+            "APG": 3.6,
+            "RBG": 4.9,
+            "SPG": 1.1,
+            "BPG": 0.7,
+            "TPG": 2.8,
+            "PM": -4.6,
+            "MPG": 34.2,
+            "FG_PCT": 0.403,
+            "FG3_PCT": 0.355,
+            "FT_PCT": 0.861,
+            "FGM": 198,
+            "FGA": 491,
+            "FG3M": 104,
+            "FG3A": 293,
+            "FTM": 68,
+            "FTA": 79,
+            "GP": 27
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 79,
+        "Weight": "200",
+        "Position": "Forward",
+        "Teams": [
+            "CHA"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "2",
+        "Active": true
+    }
+}

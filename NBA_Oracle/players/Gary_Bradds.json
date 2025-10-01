@@ -1,0 +1,98 @@
+{
+    "player_id": 76227,
+    "full_name": "Gary Bradds",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1964-65": {
+            "PPG": 3.3,
+            "APG": 0.5,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.2,
+            "FG_PCT": 0.414,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 46,
+            "FGA": 111,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 45,
+            "FTA": 63,
+            "GP": 41
+        },
+        "1965-66": {
+            "PPG": 2.3,
+            "APG": 0.3,
+            "RBG": 2.7,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.333,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.75,
+            "FGM": 2,
+            "FGA": 6,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 4,
+            "GP": 3
+        }
+    },
+    "playoff_stats": {
+        "1964-65": {
+            "PPG": 6.0,
+            "APG": 0.0,
+            "RBG": 2.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 5.0,
+            "FG_PCT": 0.667,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 2,
+            "FGA": 3,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 2,
+            "FTA": 2,
+            "GP": 1
+        }
+    },
+    "specs": {
+        "Height": 80,
+        "Weight": "210",
+        "Position": "Forward",
+        "Teams": [
+            "BLT"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "3",
+        "Active": false
+    }
+}

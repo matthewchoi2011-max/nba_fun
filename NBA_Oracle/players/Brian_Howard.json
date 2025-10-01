@@ -1,0 +1,77 @@
+{
+    "player_id": 77065,
+    "full_name": "Brian Howard",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1991-92": {
+            "PPG": 4.9,
+            "APG": 0.5,
+            "RBG": 1.9,
+            "SPG": 0.4,
+            "BPG": 0.3,
+            "TPG": 0.6,
+            "PM": NaN,
+            "MPG": 11.8,
+            "FG_PCT": 0.519,
+            "FG3_PCT": 0.5,
+            "FT_PCT": 0.71,
+            "FGM": 54,
+            "FGA": 104,
+            "FG3M": 1,
+            "FG3A": 2,
+            "FTM": 22,
+            "FTA": 31,
+            "GP": 27
+        },
+        "1992-93": {
+            "PPG": 6.5,
+            "APG": 1.0,
+            "RBG": 3.1,
+            "SPG": 0.8,
+            "BPG": 0.5,
+            "TPG": 1.0,
+            "PM": NaN,
+            "MPG": 19.0,
+            "FG_PCT": 0.442,
+            "FG3_PCT": 0.143,
+            "FT_PCT": 0.766,
+            "FGM": 183,
+            "FGA": 414,
+            "FG3M": 1,
+            "FG3A": 7,
+            "FTM": 72,
+            "FTA": 94,
+            "GP": 68
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 78,
+        "Weight": "204",
+        "Position": "Forward",
+        "Teams": [
+            "DAL"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

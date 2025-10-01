@@ -1,0 +1,80 @@
+{
+    "player_id": 202386,
+    "full_name": "Ben Uzoh",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "2010-11": {
+            "PPG": 3.8,
+            "APG": 1.6,
+            "RBG": 1.5,
+            "SPG": 0.3,
+            "BPG": 0.2,
+            "TPG": 0.6,
+            "PM": -2.0,
+            "MPG": 10.4,
+            "FG_PCT": 0.424,
+            "FG3_PCT": 0.375,
+            "FT_PCT": 0.589,
+            "FGM": 61,
+            "FGA": 144,
+            "FG3M": 3,
+            "FG3A": 8,
+            "FTM": 33,
+            "FTA": 56,
+            "GP": 42
+        },
+        "2011-12": {
+            "PPG": 4.5,
+            "APG": 3.4,
+            "RBG": 3.7,
+            "SPG": 0.9,
+            "BPG": 0.2,
+            "TPG": 1.1,
+            "PM": 0.5,
+            "MPG": 20.6,
+            "FG_PCT": 0.354,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.579,
+            "FGM": 35,
+            "FGA": 99,
+            "FG3M": 0,
+            "FG3A": 1,
+            "FTM": 11,
+            "FTA": 19,
+            "GP": 18
+        }
+    },
+    "playoff_stats": {},
+    "specs": {
+        "Height": 75,
+        "Weight": "205",
+        "Position": "Guard",
+        "Teams": [
+            "NJN",
+            "CLE",
+            "TOR",
+            "TOT"
+        ],
+        "DraftRound": "Undrafted",
+        "DraftNumber": "Undrafted",
+        "Active": false
+    }
+}

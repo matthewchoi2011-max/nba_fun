@@ -1,0 +1,78 @@
+{
+    "player_id": 78632,
+    "full_name": "Rich Yonakor",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1981-82": {
+            "PPG": 3.3,
+            "APG": 0.3,
+            "RBG": 2.7,
+            "SPG": 0.1,
+            "BPG": 0.2,
+            "TPG": 0.2,
+            "PM": NaN,
+            "MPG": 7.0,
+            "FG_PCT": 0.538,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.714,
+            "FGM": 14,
+            "FGA": 26,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 5,
+            "FTA": 7,
+            "GP": 10
+        }
+    },
+    "playoff_stats": {
+        "1981-82": {
+            "PPG": 1.0,
+            "APG": 0.5,
+            "RBG": 0.5,
+            "SPG": 0.5,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 2.0,
+            "FG_PCT": 0.5,
+            "FG3_PCT": 0,
+            "FT_PCT": 0,
+            "FGM": 1,
+            "FGA": 2,
+            "FG3M": 0,
+            "FG3A": 0,
+            "FTM": 0,
+            "FTA": 0,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 81,
+        "Weight": "220",
+        "Position": "Forward",
+        "Teams": [
+            "SAN"
+        ],
+        "DraftRound": "3",
+        "DraftNumber": "61",
+        "Active": false
+    }
+}

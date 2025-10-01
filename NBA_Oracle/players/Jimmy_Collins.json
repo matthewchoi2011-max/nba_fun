@@ -1,0 +1,98 @@
+{
+    "player_id": 76419,
+    "full_name": "Jimmy Collins",
+    "awards": {
+        "NBA All-Star": [],
+        "NBA All-Star Game MVP": [],
+        "MVP": [],
+        "All-NBA-First": [],
+        "All-NBA-Second": [],
+        "All-NBA-Third": [],
+        "DPOY": [],
+        "All-Defensive-First": [],
+        "All-Defensive-Second": [],
+        "ROY": [],
+        "All-Rookie-First": [],
+        "All-Rookie-Second": [],
+        "Championships": [],
+        "FMVP": [],
+        "Olympic Gold": [],
+        "Olympic Silver": [],
+        "Olympic Bronze": []
+    },
+    "season_stats": {
+        "1970-71": {
+            "PPG": 4.0,
+            "APG": 1.1,
+            "RBG": 1.0,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 8.7,
+            "FG_PCT": 0.43,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.778,
+            "FGM": 92,
+            "FGA": 214,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 35,
+            "FTA": 45,
+            "GP": 55
+        },
+        "1971-72": {
+            "PPG": 3.3,
+            "APG": 0.5,
+            "RBG": 0.6,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 7.1,
+            "FG_PCT": 0.366,
+            "FG3_PCT": 0,
+            "FT_PCT": 0.909,
+            "FGM": 26,
+            "FGA": 71,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 10,
+            "FTA": 11,
+            "GP": 19
+        }
+    },
+    "playoff_stats": {
+        "1970-71": {
+            "PPG": 1.5,
+            "APG": 0.0,
+            "RBG": 0.5,
+            "SPG": 0.0,
+            "BPG": 0.0,
+            "TPG": 0.0,
+            "PM": NaN,
+            "MPG": 4.0,
+            "FG_PCT": 0,
+            "FG3_PCT": 0,
+            "FT_PCT": 1.0,
+            "FGM": 0,
+            "FGA": 1,
+            "FG3M": null,
+            "FG3A": null,
+            "FTM": 3,
+            "FTA": 3,
+            "GP": 2
+        }
+    },
+    "specs": {
+        "Height": 74,
+        "Weight": "175",
+        "Position": "Guard",
+        "Teams": [
+            "CHI"
+        ],
+        "DraftRound": "1",
+        "DraftNumber": "11",
+        "Active": false
+    }
+}
