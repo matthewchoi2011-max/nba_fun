@@ -4,7 +4,7 @@ import random
 import math
 
 #get all players from nba_dataset.csv 
-players_df = pd.read_csv('nba_dataset.csv', encoding='latin1')
+players_df = pd.read_csv('nba_dataset.csv', encoding='utf8')
 
 #convert csv to be comma space instead
 
@@ -319,7 +319,7 @@ class Game:
                     b = getattr(p, "box", None)
                     if b:
                         print(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
-                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}")
+                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, STL {b.stl}, BLK {b.blk}")
                 print("\n")
 
             print_box(self.team1, "Team1")
@@ -336,57 +336,43 @@ class Game:
 
     def simulate_possession(self):
         """
-        Simulate a full basketball possession for the current team with:
+        Simulate a full basketball possession for the current team:
         - 24-second shot clock
-        - Passes, assists, and turnovers tracked
+        - Passes, assists, turnovers tracked
+        - Steals and blocks tracked with defenders' SPG/BPG weights
         - 2-point vs 3-point shot accuracy
-        - End-of-quarter last-second shot
+        - Last-second shot if quarter ends
         """
-        # Determine team in possession
         team = self.team1 if self.curr_possession == 'Team1' else self.team2
-        defence = self.team2 if self.curr_possession == 'Team1' else self.team1
+        defense = self.team2 if self.curr_possession == 'Team1' else self.team1
 
-        # Choose ball handler: starter with highest APG
-        starters = team.starters
-        if not starters:
-            ball_handler = random.choice(list(team.players.values()))
-        else:
-            ball_handler = max(starters, key=lambda p: p.apg)
+        ball_handler = max(team.starters, key=lambda p: p.apg) if team.starters else random.choice(list(team.players.values()))
+        players_on_court = team.starters
+        defenders_on_court = defense.starters
 
-        # Initialize possession
         shot_clock = 24
         actions = [f"{ball_handler.name} starts with the ball"]
         passes = 0
         last_passer = None
         points = 0
         result = None
-        players_on_court = team.starters  # could include bench if desired
 
         while shot_clock > 0:
-            # Each action takes 1-4 seconds (weighted toward faster actions)
+            # Weighted action time
             possible_times = [1, 2, 3, 4]
-            weights = [0.45, 0.3, 0.15, 0.1]  # 1 sec most likely
+            weights = [0.45, 0.3, 0.15, 0.1]
             action_time = random.choices(possible_times, weights=weights, k=1)[0]
 
-            # Check if end-of-quarter triggers last shot
-            if shot_clock <= action_time or self.time_left <= action_time:
-                action_time = max(1, shot_clock)  # use remaining time for final action
-                last_shot = True
-            else:
-                last_shot = False
-
+            last_shot = shot_clock <= action_time or self.time_left <= action_time
             shot_clock -= action_time
 
-            # Probabilities
-            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp, 1) + 0.05, 0.25)  # higher turnover chance
-
-            # Shooting tendency: efficiency + volume + PPG bias
+            # Probabilities for action
+            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp, 1) + 0.05, 0.25)
             shooting_volume = ball_handler.FGM / max(ball_handler.gp, 1)
             shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA, 1) if ball_handler.FGA else 0.45
             volume_f = min(shooting_volume / 20, 1)
             efficiency_f = shooting_efficiency
             low_volume_boost = (1 - volume_f) * efficiency_f * 0.3
-
             base_shot_prob = 0.25 + 0.6 * efficiency_f + 0.3 * volume_f + low_volume_boost
             assist_factor = ball_handler.apg / max(ball_handler.gp, 1)
             inefficiency_penalty = (1 - efficiency_f) * (ball_handler.FGA / max(ball_handler.gp, 1) / 20)
@@ -396,47 +382,77 @@ class Game:
             shot_prob = base_shot_prob * (1 - pass_bias)
             dribble_prob = 1 - (pass_prob + shot_prob + turnover_prob)
 
-            # Select action
             action = random.choices(
                 ["pass", "dribble", "shot", "turnover"],
                 weights=[pass_prob, dribble_prob, shot_prob, turnover_prob],
                 k=1
             )[0]
 
+            # --- PASS ACTION ---
             if action == "pass":
+                # Steal chance by defenders' SPG
+                steal_weights = [p.spg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
+                if random.random() < 0.05:
+                    stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
+                    stealer.box.stl += 1
+                    ball_handler.box.tov += 1
+                    actions.append(f"{stealer.name} steals the ball from {ball_handler.name}!")
+                    result = "steal"
+                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
+                    break
+
                 passes += 1
                 last_passer = ball_handler
                 new_handler = random.choice([p for p in players_on_court if p != ball_handler])
                 actions.append(f"{ball_handler.name} passes to {new_handler.name} ({action_time}s)")
                 ball_handler = new_handler
 
+            # --- DRIBBLE ACTION ---
             elif action == "dribble":
+                steal_weights = [p.spg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
+                if random.random() < 0.03:
+                    stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
+                    stealer.box.stl += 1
+                    ball_handler.box.tov += 1
+                    actions.append(f"{stealer.name} steals the ball from {ball_handler.name} while dribbling!")
+                    result = "steal"
+                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
+                    break
+
                 actions.append(f"{ball_handler.name} dribbles ({action_time}s)")
 
+            # --- SHOT ACTION ---
             elif action == "shot" or last_shot:
-                # Decide shooter (weighted by efficiency, PPG, and 3-point rate)
+                # Select shooter
                 shooting_weights = {}
                 for p in team.starters:
                     three_point_rate = p.FG3A / max(p.FGA, 1) if p.FGA else 0.1
                     eff = p.FGM / max(p.FGA, 1) if p.FGA else 0.45
                     ppg_factor = min(p.ppg / 30, 1)
                     weight = (eff ** 2) * (1 - min(p.FGA / 25, 1)) + three_point_rate + 0.5 * ppg_factor
-                    weight *= 1.3  # increase high PPG shooters
+                    weight *= 1.3
                     shooting_weights[p] = max(weight, 0.01)
 
                 shooter = random.choices(list(shooting_weights.keys()), weights=list(shooting_weights.values()), k=1)[0]
-
-                # Decide shot type
                 three_point_rate = shooter.FG3A / max(shooter.FGA, 1) if shooter.FGA else 0.1
                 is_three = random.random() < three_point_rate
                 points = 3 if is_three else 2
-
                 fg_chance = shooter.FG3_PCT if is_three and shooter.FG3_PCT else shooter.FG_PCT
                 fg_chance = fg_chance if fg_chance else 0.45
 
-                # Simulate make
-                made = random.random() < fg_chance + random.uniform(0.05, 0.25)  # increase scoring variability
+                # Block chance weighted by defenders' BPG
+                block_weights = [p.bpg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
+                if random.random() < 0.05:
+                    points = 0
+                    blocker = random.choices(defenders_on_court, weights=block_weights, k=1)[0]
+                    blocker.box.blk += 1
+                    shooter.box.fga += 1
+                    actions.append(f"{blocker.name} blocks the shot of {shooter.name}!")
+                    result = "block"
+                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
+                    break
 
+                made = random.random() < fg_chance + random.uniform(0.05, 0.25)
                 if made:
                     actions.append(f"{shooter.name} makes a {points}-point shot! ({action_time}s)")
                     result = "score"
@@ -448,36 +464,37 @@ class Game:
                         shooter.box.tpa += 1
                     if passes > 0 and last_passer and last_passer != shooter:
                         last_passer.box.ast += 1
+                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                 else:
                     actions.append(f"{shooter.name} misses a {points}-point shot ({action_time}s)")
-                    result = "miss"
-                    points = 0
                     shooter.box.fga += 1
                     if is_three:
                         shooter.box.tpa += 1
-
+                    result = "miss"
+                    points = 0
+                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                 break
 
+            # --- TURNOVER ACTION ---
             elif action == "turnover":
                 actions.append(f"{ball_handler.name} turns the ball over ({action_time}s)")
                 ball_handler.box.tov += 1
                 result = "turnover"
+                self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                 break
 
-        # Update score if any points
+        # Update score
         if points > 0:
             if self.curr_possession == 'Team1':
                 self.team1_score += points
             else:
                 self.team2_score += points
 
-        # Switch possession
-        self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
-
-        # Print action log
+        # Print actions
         for act in actions:
             print(act)
         print(f"Possession result: {result}, Points scored: {points}\n")
+
 
 
 
