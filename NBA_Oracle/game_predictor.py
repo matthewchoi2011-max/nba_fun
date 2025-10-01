@@ -14,22 +14,41 @@ players_df = pd.read_csv('nba_dataset.csv', encoding='latin1')
 
 #make a team with 15 different players and assign minutes to them accordingly
 
-def make_team():
-    total_minutes = 240 #5 players * 48 minutes
+def make_team(player_names=None):
+    """
+    Build a team from a given list of players.
+    If no players are specified, fill with random players.
+    """
+    total_minutes = 240  # 5 players * 48 minutes
     team = []
     team_stats = {}
 
+    if player_names:
+        # Pick players by name
+        for name in player_names:
+            player_row = players_df.loc[players_df['full_name'] == name]
+            if not player_row.empty:
+                player_stats = player_row.iloc[0].to_dict()
+                team_stats[player_stats['player_id']] = player_stats
+                team.append(player_stats['player_id'])
+    else:
+        # Random fill (your original behavior)
+        while len(team) < 15:
+            player = players_df['player_id'].dropna().sample(n=1).iloc[0]
+            if player not in team:
+                team.append(player)
+                player_stats = players_df.loc[players_df['player_id'] == player].iloc[0].to_dict()
+                team_stats[player] = player_stats
+
+    # Ensure roster size = 15 (pad randomly if fewer were specified)
     while len(team) < 15:
-        player = players_df['player_id'].dropna().sample(n=1).iloc[0]
-        if player not in team:
-            team.append(player)
-            player_stats = players_df.loc[players_df['player_id'] == player].iloc[0].to_dict()
-            team_stats[player] = player_stats
-            
-    #print(team_stats)
-    new_team_stats = pd.DataFrame.from_dict(team_stats, orient='index')
-    #new_team_stats.to_csv('team_stats.csv', index=False)
-    return new_team_stats
+        filler = players_df['player_id'].dropna().sample(n=1).iloc[0]
+        if filler not in team:
+            team.append(filler)
+            filler_stats = players_df.loc[players_df['player_id'] == filler].iloc[0].to_dict()
+            team_stats[filler] = filler_stats
+
+    return pd.DataFrame.from_dict(team_stats, orient='index')
 
 
 
@@ -364,28 +383,35 @@ class Game:
             efficiency_f = shooting_efficiency
             #low volume booster
             low_volume_boost = (1 - volume_f) * efficiency_f * 0.3
-            
             #penalize high volume shooters
-            high_volume_penalty = volume_f ** 2 * (1 - efficiency_f) * 0.3
+            #high_volume_penalty = volume_f ** 2 * (1 - efficiency_f) * 0.3/2
+            shot_prob = 0.15 + 0.4 * efficiency_f + 0.15 * volume_f + low_volume_boost
 
-            shot_prob = 0.15 + 0.4 * efficiency_f + 0.15 * volume_f + low_volume_boost - high_volume_penalty
 
-            #manipulate pass probability as a function of assist probability 
-            playmaking_factor = min(ball_handler.apg/10,1)
+            #passing tendency factors
+            assist_factor = ball_handler.apg / max(ball_handler.gp, 1)  # assists per game
+            efficiency = ball_handler.FGM / max(ball_handler.FGA, 1) if ball_handler.FGA else 0
+            volume = ball_handler.FGA / max(ball_handler.gp, 1)
 
-            safety_factor = 1 - min(ball_handler.tpg/5,1)
+            # If player is inefficient & shoots a lot, increase pass tendency
+            inefficiency_penalty = (1 - efficiency) * (volume / 20)
 
-            pass_prob = 0.2 + 0.5 * playmaking_factor + 0.3 * safety_factor
-            pass_prob = min(max(pass_prob,0.05),0.75)
+            # Weighted probability setup
+            base_shot_prob = 0.2 + 0.5 * efficiency + 0.3 * min(volume / 20, 1)
+            pass_bias = assist_factor / 10  # more assists → higher pass rate
+            pass_bias += inefficiency_penalty  # bad/inefficient shooters → pass more
 
-            dribble_prob = 0.4
+            # Normalize into probabilities
+            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp, 1), 0.25)
+            pass_prob = 0.2 + pass_bias
+            shot_prob = base_shot_prob * (1 - pass_bias)  # efficient shooters keep higher chance
 
-            #normalize values to 1
-            total = shot_prob + pass_prob + turnover_prob + dribble_prob
-            shot_prob /= total
+            # Make sure they sum up to 1
+            total = pass_prob + shot_prob + turnover_prob + 0.3  # add dribble baseline
             pass_prob /= total
+            shot_prob /= total
             turnover_prob /= total
-            dribble_prob /= total
+            dribble_prob = 1 - (pass_prob + shot_prob + turnover_prob)
 
             action = random.choices(
                 ["pass", "dribble", "shot", "turnover"],
@@ -404,35 +430,47 @@ class Game:
                 actions.append(f"{ball_handler.name} dribbles ({action_time}s)")
 
             elif action == "shot":
+                # Calculate 3-point attempt rate (how often this player takes threes)
+                three_point_rate = ball_handler.FG3A / max(ball_handler.FGA, 1)
 
-                # Decide 3-pointer or 2-pointer
-                is_three = ball_handler.FG3_PCT and random.random() < 0.3
+                # Decide if the shot is a 3-pointer or 2-pointer
+                is_three = random.random() < three_point_rate
                 points = 3 if is_three else 2
-                fg_chance = ball_handler.FG3_PCT if is_three else ball_handler.FG_PCT
-                made = random.choices([True, False], weights=[fg_chance, 1 - fg_chance])[0]
+
+                # Pick correct FG% depending on shot type
+                if is_three and ball_handler.FG3_PCT is not None and ball_handler.FG3_PCT > 0:
+                    fg_chance = ball_handler.FG3_PCT
+                else:
+                    fg_chance = ball_handler.FG_PCT if ball_handler.FG_PCT else 0.45  # fallback avg FG%
+
+                # Simulate make or miss
+                made = random.random() < fg_chance
 
                 if made:
                     actions.append(f"{ball_handler.name} makes a {points}-point shot! ({action_time}s)")
                     result = "score"
                     ball_handler.box.fgm += 1
                     ball_handler.box.fga += 1
-                    if not is_three:
-                        ball_handler.box.points += 2
+                    ball_handler.box.points += points
+
                     if is_three:
                         ball_handler.box.tpm += 1
                         ball_handler.box.tpa += 1
-                        ball_handler.box.points += 3
+                    else:
+                        # could add FG2 tracking later if you want
+                        pass
+
                     if passes > 0 and last_passer:
-                        last_passer.box.ast += 1  # assist credited
+                        last_passer.box.ast += 1  # credit assist
 
                 else:
                     actions.append(f"{ball_handler.name} misses a {points}-point shot ({action_time}s)")
-                    points = 0
                     result = "miss"
                     ball_handler.box.fga += 1
                     if is_three:
                         ball_handler.box.tpa += 1
                 break
+
 
             elif action == "turnover":
                 actions.append(f"{ball_handler.name} turns the ball over ({action_time}s)")
@@ -458,8 +496,16 @@ class Game:
 
 
 if __name__ == "__main__":
-    team1 = make_team()
-    team2 = make_team()
+    cavs_2016 = [
+        "LeBron James", "Kyrie Irving", "Kevin Love", "Tristan Thompson", "J.R. Smith",
+        "Richard Jefferson", "Channing Frye", "Matthew Dellavedova",
+        # add 7 more role players from the 2016 Cavs or random fill
+        "Iman Shumpert", "Mo Williams", "Timofey Mozgov", "James Jones", "Sasha Kaun",
+        "Jordan McRae", "Dahntay Jones"
+    ]
+
+    team1 = make_team(cavs_2016)   # Cavs 2016 roster
+    team2 = make_team()  
     #print(team1)
     #print(team2)
     sorted_team1 = determine_minutes(team1)
