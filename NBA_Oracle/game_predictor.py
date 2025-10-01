@@ -233,6 +233,7 @@ class Player:
         self.FTA = player_df['season_FTA']
         self.FT_PCT = player_df['season_FT_PCT']
         self.role = player_df['role']
+        self.position = player_df['Position']
         
         #calculate tendencies
         '''
@@ -240,8 +241,10 @@ class Player:
         self.three_point_tendency = self.FG3M / self.FGA if self.FGA > 0 else 0
 
         ''' 
-        self.minutes = player_df['minutes']
+        self.seconds = 0
         self.box = PlayerBoxScore(self.id,self.name)
+
+        self.time_played = 0
 
 
 class Team:
@@ -257,7 +260,10 @@ class Game:
     def __init__(self,team1,team2,minutes):
         self.team1 = team1
         self.team2 = team2
+
         self.time_left = 60 * 48 #48 minutes * 60 secs/min
+        self.timer = 0
+
         self.team1_score = 0
         self.team2_score = 0
         self.team1_total_timeouts = 7
@@ -265,6 +271,9 @@ class Game:
         self.curr_possession = None
         self.current_quarter = 1
         self.overtime = False
+
+        #all occurances within the game
+        self.occurances = []
     
     def tip_off(self):
         r = random.randint(1,2)
@@ -282,25 +291,30 @@ class Game:
             Simulate a full NBA game (4 quarters, plus overtime if needed).
             Each possession uses self.simulate_possession.
             """
+
+            def log(msg):
+                print(msg)
+                self.occurances.append(msg)
+            
             self.current_quarter = 1
 
             while self.current_quarter <= 4 or (self.overtime and self.time_left > 0):
-                print(f"=== Quarter {self.current_quarter} ===")
-                self.time_left = 12 * 60  # reset quarter time in seconds
+                log(f"=== Quarter {self.current_quarter} ===")
+                self.time_left = 12 * 60  # 1 quarter = 12 * 60 seconds
 
                 while self.time_left > 0:
                     # Simulate a possession
-                    possession_result = self.simulate_possession()
+                    self.time_left -= self.simulate_possession()
                     
                     # Approximate possession duration (could sum actual action times for precision)
-                    self.time_left -= 15  
+                    #self.time_left -= 15  
 
-                print(f"Quarter {self.current_quarter} Score: Team1 {self.team1_score} - Team2 {self.team2_score}\n")
+                log(f"Quarter {self.current_quarter} Score: Team1 {self.team1_score} - Team2 {self.team2_score}\n")
                 self.current_quarter += 1
 
             # Check for overtime if tied
             if self.team1_score == self.team2_score:
-                print("Game tied! Starting overtime...")
+                log("Game tied! Starting overtime...")
                 self.overtime = True
                 self.current_quarter = 1
                 self.time_left = 5 * 60  # 5-minute overtime
@@ -308,22 +322,26 @@ class Game:
                     self.simulate_possession()
                     self.time_left -= 15
 
-            print("=== Final Score ===")
-            print(f"Team1: {self.team1_score}")
-            print(f"Team2: {self.team2_score}\n")
+            log("=== Final Score ===")
+            log(f"Team1: {self.team1_score}")
+            log(f"Team2: {self.team2_score}\n")
 
             # Print box scores
             def print_box(team, name):
-                print(f"--- {name} Box Score ---")
+                log(f"--- {name} Box Score ---")
                 for p in team.starters + team.bench:
                     b = getattr(p, "box", None)
                     if b:
-                        print(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
+                        log(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
                             f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, STL {b.stl}, BLK {b.blk}")
-                print("\n")
+                log("\n")
 
             print_box(self.team1, "Team1")
             print_box(self.team2, "Team2")
+
+            with open("game_log.txt", "w", encoding="utf-8") as f:
+                for line in self.occurances:
+                    f.write(line + "\n")
         
     def quarter(self):
         self.time_left = 12 * 60 #12 minutes * 60 secs/min
@@ -342,7 +360,9 @@ class Game:
         - Steals and blocks tracked with defenders' SPG/BPG weights
         - 2-point vs 3-point shot accuracy
         - Last-second shot if quarter ends
+        - Substitutions for starters based on seconds played
         """
+
         team = self.team1 if self.curr_possession == 'Team1' else self.team2
         defense = self.team2 if self.curr_possession == 'Team1' else self.team1
 
@@ -351,22 +371,82 @@ class Game:
         defenders_on_court = defense.starters
 
         shot_clock = 24
-        actions = [f"{ball_handler.name} starts with the ball"]
+        possession_time = 0
+        actions = f"{ball_handler.name} starts with the ball\n"
         passes = 0
         last_passer = None
         points = 0
         result = None
 
+
+        def perform_substitution(team):
+            """
+            Substitutes starters with bench players of the same position.
+            Ensures rotation among all 10 players (starters + top 5 bench).
+            Logs substitution actions into the current possession's `actions`.
+            """
+            nonlocal players_on_court, actions
+            MAX_STINT = 60 * 6  # 6 minutes for testing; adjust for realism
+
+            for starter in team.starters:
+                if starter.seconds >= MAX_STINT:
+                    # Filter bench players of same position who are not currently on court
+                    same_pos_bench = [b for b in team.bench
+                                    if b.role == 'Bench' and b.position == starter.position and b not in team.starters]
+
+                    # If none match, allow any bench player not on court
+                    if not same_pos_bench:
+                        same_pos_bench = [b for b in team.bench if b.role == 'Bench' and b not in team.starters]
+
+                    if not same_pos_bench:
+                        # No valid bench to sub in; skip
+                        continue
+
+                    # Pick bench player with fewest seconds on court
+                    sub_in = min(same_pos_bench, key=lambda b: getattr(b, "seconds", 0))
+
+                    # Find index safely
+                    try:
+                        idx_bench = next(i for i, p in enumerate(team.bench) if p.id == sub_in.id)
+                        idx_starter = team.starters.index(starter)
+
+                        # Swap players
+                        team.starters[idx_starter], team.bench[idx_bench] = sub_in, starter
+
+                        # Reset their seconds
+                        starter.seconds = 0
+                        sub_in.seconds = 0
+
+                        # Update players on court
+                        players_on_court = team.starters
+
+                        # Log substitution
+                        actions += f"Substitution: {starter.name} out, {sub_in.name} in\n"
+
+                    except StopIteration:
+                        # Safety: skip if bench index not found
+                        continue
+
+
+
         while shot_clock > 0:
             # Weighted action time
-            possible_times = [1, 2, 3, 4]
-            weights = [0.45, 0.3, 0.15, 0.1]
-            action_time = random.choices(possible_times, weights=weights, k=1)[0]
-
+            action_time = random.choices([1, 2, 3, 4, 5 ,6 ,7, 8], weights=[0.05,0.1,0.15,0.2,0.1,0.1,0.1,0.1], k=1)[0]
             last_shot = shot_clock <= action_time or self.time_left <= action_time
             shot_clock -= action_time
+            possession_time += action_time
 
-            # Probabilities for action
+            # Update player seconds
+            for starter in players_on_court:
+                starter.seconds = getattr(starter, "seconds", 0) + action_time
+            for defender in defenders_on_court:
+                defender.seconds = getattr(defender, "seconds", 0) + action_time
+
+            # Perform substitutions every iteration
+
+            defenders_on_court = defense.starters  # refresh defenders after sub
+
+            # Probabilities
             turnover_prob = min(ball_handler.tpg / max(ball_handler.gp, 1) + 0.05, 0.25)
             shooting_volume = ball_handler.FGM / max(ball_handler.gp, 1)
             shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA, 1) if ball_handler.FGA else 0.45
@@ -390,13 +470,12 @@ class Game:
 
             # --- PASS ACTION ---
             if action == "pass":
-                # Steal chance by defenders' SPG
                 steal_weights = [p.spg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
                 if random.random() < 0.05:
                     stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
                     stealer.box.stl += 1
                     ball_handler.box.tov += 1
-                    actions.append(f"{stealer.name} steals the ball from {ball_handler.name}!")
+                    actions += f"{stealer.name} steals the ball from {ball_handler.name}!\n"
                     result = "steal"
                     self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                     break
@@ -404,7 +483,7 @@ class Game:
                 passes += 1
                 last_passer = ball_handler
                 new_handler = random.choice([p for p in players_on_court if p != ball_handler])
-                actions.append(f"{ball_handler.name} passes to {new_handler.name} ({action_time}s)")
+                actions += f"{ball_handler.name} passes to {new_handler.name} ({action_time}s)\n"
                 ball_handler = new_handler
 
             # --- DRIBBLE ACTION ---
@@ -414,16 +493,15 @@ class Game:
                     stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
                     stealer.box.stl += 1
                     ball_handler.box.tov += 1
-                    actions.append(f"{stealer.name} steals the ball from {ball_handler.name} while dribbling!")
+                    actions += f"{stealer.name} steals the ball from {ball_handler.name} while dribbling!\n"
                     result = "steal"
                     self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                     break
 
-                actions.append(f"{ball_handler.name} dribbles ({action_time}s)")
+                actions += f"{ball_handler.name} dribbles ({action_time}s)\n"
 
             # --- SHOT ACTION ---
             elif action == "shot" or last_shot:
-                # Select shooter
                 shooting_weights = {}
                 for p in team.starters:
                     three_point_rate = p.FG3A / max(p.FGA, 1) if p.FGA else 0.1
@@ -440,21 +518,20 @@ class Game:
                 fg_chance = shooter.FG3_PCT if is_three and shooter.FG3_PCT else shooter.FG_PCT
                 fg_chance = fg_chance if fg_chance else 0.45
 
-                # Block chance weighted by defenders' BPG
                 block_weights = [p.bpg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
                 if random.random() < 0.05:
                     points = 0
                     blocker = random.choices(defenders_on_court, weights=block_weights, k=1)[0]
                     blocker.box.blk += 1
                     shooter.box.fga += 1
-                    actions.append(f"{blocker.name} blocks the shot of {shooter.name}!")
+                    actions += f"{blocker.name} blocks the shot of {shooter.name}!\n"
                     result = "block"
                     self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                     break
 
-                made = random.random() < fg_chance + random.uniform(0.05, 0.25)
+                made = random.random() < fg_chance
                 if made:
-                    actions.append(f"{shooter.name} makes a {points}-point shot! ({action_time}s)")
+                    actions += f"{shooter.name} makes a {points}-point shot! ({action_time}s)\n"
                     result = "score"
                     shooter.box.fgm += 1
                     shooter.box.fga += 1
@@ -464,20 +541,20 @@ class Game:
                         shooter.box.tpa += 1
                     if passes > 0 and last_passer and last_passer != shooter:
                         last_passer.box.ast += 1
-                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                 else:
-                    actions.append(f"{shooter.name} misses a {points}-point shot ({action_time}s)")
+                    actions += f"{shooter.name} misses a {points}-point shot ({action_time}s)\n"
                     shooter.box.fga += 1
                     if is_three:
                         shooter.box.tpa += 1
                     result = "miss"
                     points = 0
-                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
+
+                self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                 break
 
             # --- TURNOVER ACTION ---
             elif action == "turnover":
-                actions.append(f"{ball_handler.name} turns the ball over ({action_time}s)")
+                actions += f"{ball_handler.name} turns the ball over ({action_time}s)\n"
                 ball_handler.box.tov += 1
                 result = "turnover"
                 self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
@@ -485,15 +562,20 @@ class Game:
 
         # Update score
         if points > 0:
-            if self.curr_possession == 'Team1':
+            if self.curr_possession == 'Team2':
                 self.team1_score += points
             else:
                 self.team2_score += points
 
         # Print actions
-        for act in actions:
-            print(act)
-        print(f"Possession result: {result}, Points scored: {points}\n")
+        actions += "=== Current Score ===\n"
+        actions += f"Team1: {self.team1_score} Team2: {self.team2_score}\n"
+
+
+        perform_substitution(team)
+        perform_substitution(defense)
+        self.occurances.append(actions)
+        return possession_time
 
 
 
