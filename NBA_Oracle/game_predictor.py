@@ -241,10 +241,11 @@ class Player:
         self.three_point_tendency = self.FG3M / self.FGA if self.FGA > 0 else 0
 
         ''' 
-        self.seconds = 0
+        self.total_seconds = 0 #total seconds played in game
+        self.stint_seconds = 0 #seconds played in stint
         self.box = PlayerBoxScore(self.id,self.name)
 
-        self.time_played = 0
+        
 
 
 class Team:
@@ -304,8 +305,9 @@ class Game:
 
                 while self.time_left > 0:
                     # Simulate a possession
-                    self.time_left -= self.simulate_possession()
-                    
+                    t = self.simulate_possession(self.time_left)
+                    t = max(0,min(self.time_left,t))
+                    self.time_left -= t
                     # Approximate possession duration (could sum actual action times for precision)
                     #self.time_left -= 15  
 
@@ -317,24 +319,44 @@ class Game:
                 log("Game tied! Starting overtime...")
                 self.overtime = True
                 self.current_quarter = 1
-                self.time_left = 5 * 60  # 5-minute overtime
+                self.time_left = 12 * 60  # 5-minute overtime
                 while self.time_left > 0:
-                    self.simulate_possession()
-                    self.time_left -= 15
+                    t = self.simulate_possession(self.time_left)
+                    t = max(0,min(self.time_left,t))
+                    self.time_left -= t
+                    
 
             log("=== Final Score ===")
             log(f"Team1: {self.team1_score}")
             log(f"Team2: {self.team2_score}\n")
 
+
+            #debug seconds
+            total_game_seconds = 4 * 12 * 60  # regulation seconds
+            expected_team_player_seconds = total_game_seconds * 5
+            team1_total = sum(p.total_seconds for p in self.team1.starters + self.team1.bench)
+            team2_total = sum(p.total_seconds for p in self.team2.starters + self.team2.bench)
+            log(f"[DEBUG] expected seconds per team (5 players * game seconds): {expected_team_player_seconds}")
+            log(f"[DEBUG] actual Team1 summed player seconds: {team1_total}")
+            log(f"[DEBUG] actual Team2 summed player seconds: {team2_total}")
+
             # Print box scores
             def print_box(team, name):
                 log(f"--- {name} Box Score ---")
+                total_secs = 0
+                
                 for p in team.starters + team.bench:
+                    total_secs += p.total_seconds
+                    #convert total seconds into minutes : seconds
+                    minutes = p.total_seconds // 60
+                    seconds = p.total_seconds % 60
+
                     b = getattr(p, "box", None)
                     if b:
                         log(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
-                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, STL {b.stl}, BLK {b.blk}")
+                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}")
                 log("\n")
+                print(f"team total seconds {total_secs}\n")
 
             print_box(self.team1, "Team1")
             print_box(self.team2, "Team2")
@@ -352,7 +374,7 @@ class Game:
             self.quarter_team1_timeouts = 2
             self.quarter_team2_timeouts = 2
 
-    def simulate_possession(self):
+    def simulate_possession(self, remaining_secs):
         """
         Simulate a full basketball possession for the current team:
         - 24-second shot clock
@@ -382,65 +404,59 @@ class Game:
         def perform_substitution(team):
             """
             Substitutes starters with bench players of the same position.
-            Ensures rotation among all 10 players (starters + top 5 bench).
+            Rotation occurs multiple times per game.
             Logs substitution actions into the current possession's `actions`.
             """
             nonlocal players_on_court, actions
-            MAX_STINT = 60 * 6  # 6 minutes for testing; adjust for realism
+            MAX_STINT = 60 * 6  # 6 minutes per stint
 
             for starter in team.starters:
-                if starter.seconds >= MAX_STINT:
-                    # Filter bench players of same position who are not currently on court
-                    same_pos_bench = [b for b in team.bench
-                                    if b.role == 'Bench' and b.position == starter.position and b not in team.starters]
-
-                    # If none match, allow any bench player not on court
-                    if not same_pos_bench:
-                        same_pos_bench = [b for b in team.bench if b.role == 'Bench' and b not in team.starters]
+                if starter.stint_seconds >= MAX_STINT:
+                    # Bench players of same position not currently on court
+                    same_pos_bench = [b for b in team.bench if b.position == starter.position and b not in team.starters]
 
                     if not same_pos_bench:
-                        # No valid bench to sub in; skip
-                        continue
+                        # fallback: any bench player not on court
+                        same_pos_bench = [b for b in team.bench if b not in team.starters]
 
-                    # Pick bench player with fewest seconds on court
-                    sub_in = min(same_pos_bench, key=lambda b: getattr(b, "seconds", 0))
+                    if not same_pos_bench:
+                        continue  # no valid substitution
 
-                    # Find index safely
-                    try:
-                        idx_bench = next(i for i, p in enumerate(team.bench) if p.id == sub_in.id)
-                        idx_starter = team.starters.index(starter)
+                    # Choose bench player with fewest cumulative seconds
+                    sub_in = min(same_pos_bench, key=lambda b: b.total_seconds)
 
-                        # Swap players
-                        team.starters[idx_starter], team.bench[idx_bench] = sub_in, starter
+                    # Swap starter and bench player
+                    idx_starter = team.starters.index(starter)
+                    idx_bench = team.bench.index(sub_in)
+                    team.starters[idx_starter], team.bench[idx_bench] = sub_in, starter
 
-                        # Reset their seconds
-                        starter.seconds = 0
-                        sub_in.seconds = 0
+                    # Reset stint counters for this sub only
+                    starter.stint_seconds = 0
+                    sub_in.stint_seconds = 0
 
-                        # Update players on court
-                        players_on_court = team.starters
+                    # Update players on court
+                    players_on_court = team.starters
 
-                        # Log substitution
-                        actions += f"Substitution: {starter.name} out, {sub_in.name} in\n"
+                    # Log substitution
+                    actions += f"Substitution: {starter.name} out, {sub_in.name} in\n"
 
-                    except StopIteration:
-                        # Safety: skip if bench index not found
-                        continue
+        rem = int(remaining_secs)
 
-
-
-        while shot_clock > 0:
+        while shot_clock > 0 and rem > 0:
             # Weighted action time
             action_time = random.choices([1, 2, 3, 4, 5 ,6 ,7, 8], weights=[0.05,0.1,0.15,0.2,0.1,0.1,0.1,0.1], k=1)[0]
-            last_shot = shot_clock <= action_time or self.time_left <= action_time
-            shot_clock -= action_time
-            possession_time += action_time
+            action_time = min(action_time,shot_clock,rem)
+            last_shot = shot_clock <= action_time or rem <= action_time
 
-            # Update player seconds
-            for starter in players_on_court:
-                starter.seconds = getattr(starter, "seconds", 0) + action_time
-            for defender in defenders_on_court:
-                defender.seconds = getattr(defender, "seconds", 0) + action_time
+            action_time = min(action_time,shot_clock,max(1,self.time_left))
+
+            shot_clock -= action_time
+            rem -= action_time
+            possession_time += action_time
+            
+
+
+
 
             # Perform substitutions every iteration
 
@@ -570,6 +586,15 @@ class Game:
         # Print actions
         actions += "=== Current Score ===\n"
         actions += f"Team1: {self.team1_score} Team2: {self.team2_score}\n"
+
+        for starter in players_on_court:
+            starter.total_seconds = getattr(starter, "total_seconds", 0) + possession_time
+            starter.stint_seconds = getattr(starter, "stint_seconds", 0) + possession_time
+
+        for defender in defenders_on_court:
+            defender.total_seconds = getattr(defender, "total_seconds", 0) + possession_time
+            defender.stint_seconds = getattr(defender, "stint_seconds", 0) + possession_time
+
 
 
         perform_substitution(team)
