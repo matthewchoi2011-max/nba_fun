@@ -1,2171 +1,2053 @@
 === Quarter 1 ===
 LeBron James starts with the ball
-Tristan Thompson misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 0 Team2: 0
-
-Stephen Curry starts with the ball
-Draymond Green misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 0 Team2: 0
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (8s)
-Kyrie Irving misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 0 Team2: 0
-
-Stephen Curry starts with the ball
-Klay Thompson misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 0 Team2: 0
-
-LeBron James starts with the ball
-LeBron James passes to Tristan Thompson (4s)
-Tristan Thompson turns the ball over (2s)
-=== Current Score ===
-Team1: 0 Team2: 0
-
-Stephen Curry starts with the ball
-Stephen Curry makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 0 Team2: 3
-
-LeBron James starts with the ball
-Tristan Thompson misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 0 Team2: 3
-
-Stephen Curry starts with the ball
-Draymond Green makes a 3-point shot! (6s)
-=== Current Score ===
-Team1: 0 Team2: 6
-
-LeBron James starts with the ball
-Kyrie Irving misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 0 Team2: 6
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 0 Team2: 6
-
-LeBron James starts with the ball
-LeBron James passes to Kevin Love (8s)
-Kevin Love makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 2 Team2: 6
-
-Stephen Curry starts with the ball
-Andre Iguodala makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 2 Team2: 8
-
-LeBron James starts with the ball
-Kevin Love misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 2 Team2: 8
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (8s)
-Draymond Green passes to Klay Thompson (7s)
-Klay Thompson passes to Harrison Barnes (3s)
-Draymond Green misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 2 Team2: 8
-
-LeBron James starts with the ball
-LeBron James passes to Richard Jefferson (3s)
-Kevin Love misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 2 Team2: 8
-
-Stephen Curry starts with the ball
-Draymond Green misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 2 Team2: 8
-
-LeBron James starts with the ball
-Kyrie Irving makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 5 Team2: 8
-
-Stephen Curry starts with the ball
-Richard Jefferson steals the ball from Stephen Curry!
-=== Current Score ===
-Team1: 5 Team2: 8
-
-LeBron James starts with the ball
 LeBron James makes a 3-point shot! (3s)
 === Current Score ===
-Team1: 8 Team2: 8
+Team1: 3 Team2: 0
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Harrison Barnes (2s)
-Harrison Barnes passes to Draymond Green (8s)
-Stephen Curry makes a 2-point shot! (1s)
+Stephen Curry makes a 3-point shot! (6s)
 === Current Score ===
-Team1: 8 Team2: 10
+Team1: 3 Team2: 3
 
 LeBron James starts with the ball
-LeBron James passes to Tristan Thompson (5s)
-Kevin Love misses a 2-point shot (4s)
+Harrison Barnes blocks the shot of LeBron James!
 === Current Score ===
-Team1: 8 Team2: 10
+Team1: 3 Team2: 3
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Harrison Barnes (2s)
-Harrison Barnes passes to Klay Thompson (5s)
-Klay Thompson passes to Stephen Curry (5s)
-Stephen Curry passes to Andre Iguodala (6s)
-Klay Thompson makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 8 Team2: 12
-
-LeBron James starts with the ball
-LeBron James passes to Kevin Love (7s)
-Kevin Love passes to Kyrie Irving (7s)
-Kyrie Irving passes to LeBron James (3s)
-LeBron James passes to Kyrie Irving (6s)
-Kyrie Irving passes to LeBron James (1s)
-=== Current Score ===
-Team1: 8 Team2: 12
-
-LeBron James starts with the ball
-LeBron James passes to Kevin Love (8s)
-Kevin Love passes to LeBron James (3s)
-LeBron James passes to Tristan Thompson (6s)
-Klay Thompson blocks the shot of LeBron James!
-=== Current Score ===
-Team1: 8 Team2: 12
-
-Stephen Curry starts with the ball
-Andre Iguodala makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 8 Team2: 14
-
-LeBron James starts with the ball
-LeBron James passes to Tristan Thompson (2s)
-Tristan Thompson passes to Kyrie Irving (5s)
-Kevin Love misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 8 Team2: 14
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Harrison Barnes (8s)
+Stephen Curry passes to Harrison Barnes (4s)
 Harrison Barnes passes to Draymond Green (4s)
-Draymond Green passes to Harrison Barnes (8s)
-Harrison Barnes makes a 2-point shot! (3s)
+Draymond Green makes a 3-point shot! (1s)
 === Current Score ===
-Team1: 8 Team2: 16
+Team1: 3 Team2: 6
+
+LeBron James starts with the ball
+LeBron James turns the ball over (5s)
+=== Current Score ===
+Team1: 3 Team2: 6
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (7s)
+Klay Thompson passes to Andre Iguodala (5s)
+Andre Iguodala passes to Harrison Barnes (3s)
+Harrison Barnes misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 3 Team2: 6
+
+LeBron James starts with the ball
+LeBron James misses a 3-point shot (1s)
+=== Current Score ===
+Team1: 3 Team2: 6
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (3s)
+Harrison Barnes passes to Draymond Green (3s)
+Draymond Green passes to Harrison Barnes (6s)
+Harrison Barnes passes to Klay Thompson (2s)
+Klay Thompson turns the ball over (7s)
+=== Current Score ===
+Team1: 3 Team2: 6
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (6s)
+Richard Jefferson misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 3 Team2: 6
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (2s)
+Draymond Green passes to Harrison Barnes (6s)
+Harrison Barnes makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 3 Team2: 9
 
 LeBron James starts with the ball
 LeBron James passes to Richard Jefferson (4s)
-Richard Jefferson passes to Kevin Love (3s)
-Kevin Love passes to Kyrie Irving (6s)
-Kyrie Irving passes to LeBron James (6s)
-Kyrie Irving misses a 2-point shot (3s)
+Richard Jefferson misses a 3-point shot (6s)
 === Current Score ===
-Team1: 8 Team2: 16
+Team1: 3 Team2: 9
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Harrison Barnes (1s)
-Harrison Barnes passes to Stephen Curry (3s)
-Stephen Curry passes to Draymond Green (1s)
-Klay Thompson misses a 3-point shot (6s)
+Stephen Curry makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 8 Team2: 16
+Team1: 3 Team2: 11
 
 LeBron James starts with the ball
-LeBron James passes to Richard Jefferson (8s)
-Richard Jefferson passes to Tristan Thompson (1s)
-Kyrie Irving makes a 2-point shot! (6s)
+LeBron James makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 5 Team2: 11
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (4s)
+Harrison Barnes misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 5 Team2: 11
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (2s)
+Tristan Thompson misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 5 Team2: 11
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (4s)
+Klay Thompson passes to Andre Iguodala (2s)
+Andre Iguodala passes to Stephen Curry (8s)
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson passes to Harrison Barnes (5s)
+Harrison Barnes misses a 2-point shot (2s)
+=== Current Score ===
+Team1: 5 Team2: 11
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (6s)
+Kyrie Irving passes to Kevin Love (2s)
+Kevin Love passes to LeBron James (6s)
+LeBron James makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 7 Team2: 11
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 7 Team2: 13
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (7s)
+=== Current Score ===
+Team1: 7 Team2: 13
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (2s)
+Klay Thompson makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 7 Team2: 16
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (5s)
+Kevin Love passes to LeBron James (4s)
+LeBron James passes to Richard Jefferson (4s)
+Richard Jefferson passes to Kyrie Irving (4s)
+Kyrie Irving makes a 3-point shot! (4s)
 === Current Score ===
 Team1: 10 Team2: 16
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (6s)
-Draymond Green passes to Klay Thompson (7s)
-Klay Thompson makes a 2-point shot! (5s)
+Stephen Curry passes to Andre Iguodala (4s)
+Andre Iguodala passes to Harrison Barnes (3s)
+Harrison Barnes passes to Stephen Curry (7s)
+Stephen Curry makes a 3-point shot! (4s)
 === Current Score ===
-Team1: 10 Team2: 18
+Team1: 10 Team2: 19
 
 LeBron James starts with the ball
-Kevin Love misses a 2-point shot (7s)
+Stephen Curry blocks the shot of LeBron James!
 === Current Score ===
-Team1: 10 Team2: 18
+Team1: 10 Team2: 19
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (8s)
-Andre Iguodala passes to Draymond Green (2s)
-Stephen Curry misses a 2-point shot (2s)
+Stephen Curry misses a 3-point shot (4s)
 === Current Score ===
-Team1: 10 Team2: 18
+Team1: 10 Team2: 19
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (4s)
+Tristan Thompson passes to Richard Jefferson (8s)
+Richard Jefferson passes to Kyrie Irving (1s)
+Kyrie Irving passes to Kevin Love (3s)
+Kevin Love passes to Tristan Thompson (5s)
+Tristan Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 12 Team2: 19
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 12 Team2: 19
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (3s)
+Tristan Thompson passes to LeBron James (6s)
+LeBron James misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 12 Team2: 19
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 12 Team2: 21
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (2s)
+=== Current Score ===
+Team1: 12 Team2: 21
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 12 Team2: 23
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (4s)
+Kevin Love dribbles (4s)
+Kevin Love passes to Kyrie Irving (6s)
+Kyrie Irving passes to Kevin Love (4s)
+Kevin Love dribbles (6s)
+=== Current Score ===
+Team1: 12 Team2: 23
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 14 Team2: 23
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (8s)
+=== Current Score ===
+Team1: 14 Team2: 23
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (7s)
+Richard Jefferson passes to Kyrie Irving (6s)
+Kyrie Irving passes to Richard Jefferson (3s)
+Richard Jefferson misses a 2-point shot (2s)
+=== Current Score ===
+Team1: 14 Team2: 23
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 14 Team2: 23
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (4s)
+Kyrie Irving passes to Kevin Love (4s)
+Kevin Love misses a 2-point shot (8s)
+=== Current Score ===
+Team1: 14 Team2: 23
+Substitution: LeBron James out, Mo Williams in (plus-minus: -9, total seconds: 363/2056)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (6s)
+Draymond Green misses a 2-point shot (7s)
+=== Current Score ===
+Team1: 14 Team2: 23
+Substitution: Stephen Curry out, Shaun Livingston in (plus-minus: 9, total seconds: 376/2023)
+
+Kyrie Irving starts with the ball
+Kyrie Irving misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 14 Team2: 23
+
+Draymond Green starts with the ball
+Draymond Green passes to Harrison Barnes (4s)
+Harrison Barnes passes to Andre Iguodala (3s)
+Andre Iguodala passes to Shaun Livingston (3s)
+Shaun Livingston passes to Draymond Green (8s)
+Draymond Green passes to Harrison Barnes (5s)
+Mo Williams blocks the shot of Harrison Barnes!
+=== Current Score ===
+Team1: 14 Team2: 23
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Kevin Love (4s)
+Harrison Barnes steals the ball from Kevin Love!
+=== Current Score ===
+Team1: 14 Team2: 23
+
+Draymond Green starts with the ball
+Draymond Green passes to Andre Iguodala (2s)
+Andre Iguodala passes to Klay Thompson (1s)
+Klay Thompson misses a 3-point shot (7s)
+=== Current Score ===
+Team1: 14 Team2: 23
+
+Kyrie Irving starts with the ball
+Kyrie Irving dribbles (3s)
+Kyrie Irving misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 14 Team2: 23
+Substitution: Kyrie Irving out, LeBron James in (plus-minus: -9, total seconds: 433/1854)
+
+Draymond Green starts with the ball
+Draymond Green passes to Harrison Barnes (8s)
+Harrison Barnes makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 14 Team2: 25
+Substitution: Draymond Green out, Stephen Curry in (plus-minus: 11, total seconds: 449/2023)
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (8s)
+Richard Jefferson misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 14 Team2: 25
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (2s)
+Stephen Curry makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 14 Team2: 27
+
+LeBron James starts with the ball
+LeBron James passes to Mo Williams (3s)
+Mo Williams misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 14 Team2: 27
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (4s)
+Harrison Barnes passes to Shaun Livingston (4s)
+Shaun Livingston misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 14 Team2: 27
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (7s)
+Tristan Thompson passes to Richard Jefferson (8s)
+Richard Jefferson misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 14 Team2: 27
+Substitution: Kevin Love out, Kyrie Irving in (plus-minus: -13, total seconds: 506/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (4s)
+Shaun Livingston passes to Stephen Curry (6s)
+Stephen Curry passes to Harrison Barnes (1s)
+Harrison Barnes passes to Shaun Livingston (4s)
+Shaun Livingston makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 14 Team2: 29
+Substitution: Andre Iguodala out, Draymond Green in (plus-minus: 15, total seconds: 527/1982)
 
 LeBron James starts with the ball
 LeBron James passes to Richard Jefferson (6s)
+Richard Jefferson misses a 2-point shot (8s)
+=== Current Score ===
+Team1: 14 Team2: 29
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (8s)
+Shaun Livingston misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 14 Team2: 29
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (4s)
+Kyrie Irving passes to Mo Williams (4s)
+Mo Williams makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 16 Team2: 29
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (7s)
+=== Current Score ===
+Team1: 16 Team2: 29
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 16 Team2: 29
+Substitution: Richard Jefferson out, Kevin Love in (plus-minus: -13, total seconds: 579/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (4s)
+Harrison Barnes passes to Draymond Green (1s)
+Draymond Green passes to Stephen Curry (4s)
+Stephen Curry passes to Klay Thompson (5s)
+Klay Thompson passes to Stephen Curry (8s)
+Stephen Curry passes to Klay Thompson (1s)
+Klay Thompson makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 16 Team2: 31
+Substitution: Klay Thompson out, Andre Iguodala in (plus-minus: 15, total seconds: 603/1671)
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 18 Team2: 31
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (8s)
+Andre Iguodala misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 18 Team2: 31
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (4s)
+Kevin Love passes to LeBron James (1s)
+LeBron James makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 20 Team2: 31
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (3s)
+Draymond Green misses a 2-point shot (2s)
+=== Current Score ===
+Team1: 20 Team2: 31
+
+LeBron James starts with the ball
+LeBron James passes to Mo Williams (5s)
+Mo Williams passes to LeBron James (8s)
+LeBron James makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 22 Team2: 31
+Substitution: Tristan Thompson out, Richard Jefferson in (plus-minus: -9, total seconds: 658/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (5s)
+Harrison Barnes turns the ball over (5s)
+=== Current Score ===
+Team1: 22 Team2: 31
+Substitution: Harrison Barnes out, Klay Thompson in (plus-minus: 9, total seconds: 668/1643)
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 24 Team2: 31
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (3s)
+Shaun Livingston misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 24 Team2: 31
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (4s)
+Richard Jefferson passes to Kyrie Irving (3s)
+Kyrie Irving dribbles (4s)
+Kyrie Irving makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 26 Team2: 31
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 26 Team2: 33
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (4s)
+Richard Jefferson passes to Mo Williams (2s)
+Mo Williams passes to Richard Jefferson (5s)
 Richard Jefferson passes to Kyrie Irving (7s)
-Kyrie Irving passes to Tristan Thompson (5s)
-Tristan Thompson passes to Richard Jefferson (6s)
+Kyrie Irving makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 10 Team2: 18
-Substitution: Richard Jefferson out, Mo Williams in (inefficient/exceeded seconds)
+Team1: 28 Team2: 33
+
+Quarter 1 Score: Team1 28 - Team2 33
+
+=== Quarter 2 ===
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (8s)
+Andre Iguodala dribbles (2s)
+Kyrie Irving blocks the shot of Andre Iguodala!
+=== Current Score ===
+Team1: 28 Team2: 33
 
 LeBron James starts with the ball
-LeBron James passes to Kevin Love (7s)
-Tristan Thompson misses a 2-point shot (4s)
+LeBron James passes to Kevin Love (8s)
+Kevin Love passes to Kyrie Irving (3s)
+Kyrie Irving misses a 2-point shot (3s)
 === Current Score ===
-Team1: 10 Team2: 18
+Team1: 28 Team2: 33
 
 Stephen Curry starts with the ball
-Stephen Curry makes a 2-point shot! (7s)
+Stephen Curry passes to Andre Iguodala (5s)
+Andre Iguodala makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 10 Team2: 20
+Team1: 28 Team2: 35
 
 LeBron James starts with the ball
-LeBron James turns the ball over (4s)
+LeBron James passes to Kyrie Irving (5s)
+Klay Thompson steals the ball from Kyrie Irving!
 === Current Score ===
-Team1: 10 Team2: 20
+Team1: 28 Team2: 35
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Klay Thompson (8s)
-Klay Thompson turns the ball over (2s)
+Stephen Curry passes to Klay Thompson (1s)
+Klay Thompson passes to Stephen Curry (7s)
+Stephen Curry passes to Shaun Livingston (4s)
+Shaun Livingston makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 10 Team2: 20
-Substitution: Draymond Green out, Matt Barnes in (inefficient/exceeded seconds)
+Team1: 28 Team2: 37
 
 LeBron James starts with the ball
-Mo Williams misses a 3-point shot (8s)
+LeBron James makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 10 Team2: 20
-Substitution: Klay Thompson out, Shaun Livingston in (inefficient/exceeded seconds)
+Team1: 30 Team2: 37
+Substitution: LeBron James out, Tristan Thompson in (plus-minus: -7, total seconds: 728/2056)
 
 Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (4s)
+Klay Thompson passes to Andre Iguodala (3s)
+Andre Iguodala misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 30 Team2: 37
+Substitution: Shaun Livingston out, Harrison Barnes in (plus-minus: -2, total seconds: 433/1113)
+
+Kyrie Irving starts with the ball
+Kyrie Irving misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 30 Team2: 37
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (6s)
+Draymond Green misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 30 Team2: 37
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Richard Jefferson (5s)
+Richard Jefferson misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 30 Team2: 37
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 30 Team2: 40
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Mo Williams (7s)
+Mo Williams misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 30 Team2: 40
+Substitution: Mo Williams out, LeBron James in (plus-minus: -1, total seconds: 480/2056)
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (5s)
+=== Current Score ===
+Team1: 30 Team2: 40
+Substitution: Stephen Curry out, Shaun Livingston in (plus-minus: 8, total seconds: 775/2023)
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (6s)
+Tristan Thompson makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 32 Team2: 40
+
+Draymond Green starts with the ball
+Draymond Green passes to Andre Iguodala (4s)
+Andre Iguodala makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 32 Team2: 42
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 34 Team2: 42
+
+Draymond Green starts with the ball
+Draymond Green passes to Andre Iguodala (5s)
+Andre Iguodala passes to Shaun Livingston (3s)
+Shaun Livingston passes to Harrison Barnes (7s)
+Harrison Barnes makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 34 Team2: 44
+
+LeBron James starts with the ball
+LeBron James misses a 3-point shot (5s)
+=== Current Score ===
+Team1: 34 Team2: 44
+Substitution: Kyrie Irving out, Mo Williams in (plus-minus: -6, total seconds: 821/1854)
+
+Draymond Green starts with the ball
+LeBron James blocks the shot of Draymond Green!
+=== Current Score ===
+Team1: 34 Team2: 44
+Substitution: Draymond Green out, Stephen Curry in (plus-minus: 6, total seconds: 818/2023)
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (4s)
+Kevin Love misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 34 Team2: 44
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 34 Team2: 44
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (2s)
+Richard Jefferson passes to Tristan Thompson (3s)
+Tristan Thompson dribbles (8s)
+Tristan Thompson makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 36 Team2: 44
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (3s)
+Andre Iguodala passes to Klay Thompson (4s)
+LeBron James steals the ball from Klay Thompson!
+=== Current Score ===
+Team1: 36 Team2: 44
+
+LeBron James starts with the ball
+LeBron James makes a 3-point shot! (8s)
+=== Current Score ===
+Team1: 39 Team2: 44
+Substitution: Kevin Love out, Kyrie Irving in (plus-minus: -5, total seconds: 875/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (7s)
+Andre Iguodala misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 39 Team2: 44
+
+LeBron James starts with the ball
+LeBron James passes to Mo Williams (3s)
+Mo Williams passes to Tristan Thompson (4s)
+Tristan Thompson misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 39 Team2: 44
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 39 Team2: 46
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 39 Team2: 46
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (4s)
+Klay Thompson passes to Andre Iguodala (5s)
+Andre Iguodala passes to Shaun Livingston (2s)
+Shaun Livingston passes to Harrison Barnes (5s)
+Harrison Barnes makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 39 Team2: 48
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (8s)
+=== Current Score ===
+Team1: 39 Team2: 48
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (5s)
+Andre Iguodala makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 39 Team2: 50
+Substitution: Andre Iguodala out, Draymond Green in (plus-minus: 11, total seconds: 939/1982)
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 41 Team2: 50
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (8s)
+Richard Jefferson blocks the shot of Harrison Barnes!
+=== Current Score ===
+Team1: 41 Team2: 50
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (1s)
+Tristan Thompson misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 41 Team2: 50
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (4s)
+Shaun Livingston dribbles (6s)
+Shaun Livingston misses a 2-point shot (7s)
+=== Current Score ===
+Team1: 41 Team2: 50
+
+LeBron James starts with the ball
+LeBron James turns the ball over (3s)
+=== Current Score ===
+Team1: 41 Team2: 50
+Substitution: Richard Jefferson out, Kevin Love in (plus-minus: -13, total seconds: 983/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (3s)
+Draymond Green passes to Klay Thompson (5s)
+Klay Thompson misses a 3-point shot (1s)
+=== Current Score ===
+Team1: 41 Team2: 50
+Substitution: Klay Thompson out, Andre Iguodala in (plus-minus: 15, total seconds: 1006/1671)
+
+LeBron James starts with the ball
+LeBron James passes to Mo Williams (2s)
+Mo Williams makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 43 Team2: 50
+
+Stephen Curry starts with the ball
+Kevin Love steals the ball from Stephen Curry!
+=== Current Score ===
+Team1: 43 Team2: 50
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (1s)
+Kyrie Irving makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 45 Team2: 50
+
+Stephen Curry starts with the ball
+Stephen Curry turns the ball over (3s)
+=== Current Score ===
+Team1: 45 Team2: 50
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 47 Team2: 50
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (7s)
+Shaun Livingston makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 47 Team2: 52
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 49 Team2: 52
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (4s)
 Harrison Barnes makes a 3-point shot! (8s)
 === Current Score ===
-Team1: 10 Team2: 23
+Team1: 49 Team2: 55
 
 LeBron James starts with the ball
-Mo Williams misses a 3-point shot (1s)
+LeBron James passes to Kyrie Irving (4s)
+Kyrie Irving makes a 3-point shot! (8s)
 === Current Score ===
-Team1: 10 Team2: 23
+Team1: 52 Team2: 55
 
 Stephen Curry starts with the ball
-Andre Iguodala makes a 2-point shot! (1s)
+Stephen Curry misses a 3-point shot (6s)
 === Current Score ===
-Team1: 10 Team2: 25
+Team1: 52 Team2: 55
 
 LeBron James starts with the ball
-Matt Barnes blocks the shot of LeBron James!
+LeBron James passes to Tristan Thompson (6s)
+Tristan Thompson turns the ball over (4s)
 === Current Score ===
-Team1: 10 Team2: 25
+Team1: 52 Team2: 55
 
 Stephen Curry starts with the ball
-Matt Barnes misses a 2-point shot (4s)
+LeBron James steals the ball from Stephen Curry!
 === Current Score ===
-Team1: 10 Team2: 25
+Team1: 52 Team2: 55
+
+LeBron James starts with the ball
+LeBron James passes to Mo Williams (6s)
+Mo Williams misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 52 Team2: 55
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (4s)
+Shaun Livingston misses a 2-point shot (2s)
+=== Current Score ===
+Team1: 52 Team2: 55
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 52 Team2: 55
+
+Stephen Curry starts with the ball
+Kyrie Irving blocks the shot of Stephen Curry!
+=== Current Score ===
+Team1: 52 Team2: 55
+
+LeBron James starts with the ball
+LeBron James dribbles (2s)
+LeBron James passes to Mo Williams (3s)
+Mo Williams passes to Tristan Thompson (3s)
+Tristan Thompson misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 52 Team2: 55
+Substitution: Tristan Thompson out, Richard Jefferson in (plus-minus: -5, total seconds: 1052/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 52 Team2: 57
+Substitution: Harrison Barnes out, Klay Thompson in (plus-minus: 7, total seconds: 1060/1643)
 
 LeBron James starts with the ball
 LeBron James passes to Kyrie Irving (2s)
-Kyrie Irving turns the ball over (1s)
+Kyrie Irving makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 10 Team2: 25
-Substitution: Tristan Thompson out, Channing Frye in (inefficient/exceeded seconds)
+Team1: 54 Team2: 57
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (3s)
+Draymond Green misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 54 Team2: 57
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 56 Team2: 57
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (1s)
+=== Current Score ===
+Team1: 56 Team2: 57
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (7s)
+Kevin Love makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 58 Team2: 57
+Substitution: LeBron James out, Tristan Thompson in (plus-minus: 4, total seconds: 1114/2056)
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 58 Team2: 57
+Substitution: Shaun Livingston out, Harrison Barnes in (plus-minus: -13, total seconds: 819/1113)
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Richard Jefferson (2s)
+Richard Jefferson passes to Kevin Love (4s)
+Kevin Love passes to Kyrie Irving (3s)
+Kyrie Irving misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Richard Jefferson (4s)
+Richard Jefferson misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+Kyrie Irving starts with the ball
+Kyrie Irving misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 58 Team2: 57
+Substitution: Mo Williams out, LeBron James in (plus-minus: 10, total seconds: 849/2056)
+
+Stephen Curry starts with the ball
+Kyrie Irving blocks the shot of Stephen Curry!
+=== Current Score ===
+Team1: 58 Team2: 57
+Substitution: Stephen Curry out, Andrew Bogut in (plus-minus: -3, total seconds: 1147/2023)
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (4s)
+Kyrie Irving passes to LeBron James (3s)
+LeBron James misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+Draymond Green starts with the ball
+Draymond Green misses a 2-point shot (7s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+Draymond Green starts with the ball
+Draymond Green dribbles (6s)
+Draymond Green misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+LeBron James starts with the ball
+LeBron James misses a 3-point shot (6s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+Draymond Green starts with the ball
+Draymond Green dribbles (3s)
+Draymond Green misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (6s)
+Richard Jefferson passes to Kevin Love (8s)
+Kevin Love passes to Tristan Thompson (5s)
+Tristan Thompson passes to Kyrie Irving (2s)
+Kyrie Irving passes to Kevin Love (3s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (8s)
+Kyrie Irving passes to Tristan Thompson (5s)
+Tristan Thompson passes to Kyrie Irving (8s)
+Kyrie Irving passes to Tristan Thompson (3s)
+=== Current Score ===
+Team1: 58 Team2: 57
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 60 Team2: 57
+Substitution: Kyrie Irving out, Matthew Dellavedova in (plus-minus: 2, total seconds: 1238/1854)
+
+Draymond Green starts with the ball
+Draymond Green passes to Andre Iguodala (8s)
+Andre Iguodala misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 60 Team2: 57
+
+LeBron James starts with the ball
+LeBron James passes to Matthew Dellavedova (4s)
+Matthew Dellavedova passes to LeBron James (8s)
+LeBron James misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 60 Team2: 57
+
+Draymond Green starts with the ball
+Draymond Green passes to Andre Iguodala (3s)
+Andre Iguodala makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 60 Team2: 59
+
+LeBron James starts with the ball
+LeBron James dribbles (1s)
+LeBron James passes to Richard Jefferson (2s)
+Richard Jefferson passes to Kevin Love (3s)
+Kevin Love misses a 3-point shot (8s)
+=== Current Score ===
+Team1: 60 Team2: 59
+
+Draymond Green starts with the ball
+Draymond Green misses a 3-point shot (8s)
+=== Current Score ===
+Team1: 60 Team2: 59
+Substitution: Draymond Green out, Stephen Curry in (plus-minus: -6, total seconds: 1224/2023)
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (4s)
+Andre Iguodala steals the ball from Richard Jefferson!
+=== Current Score ===
+Team1: 60 Team2: 59
+Substitution: Kevin Love out, Kyrie Irving in (plus-minus: 5, total seconds: 1241/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (2s)
+Harrison Barnes passes to Andrew Bogut (3s)
+Andrew Bogut passes to Klay Thompson (4s)
+Klay Thompson makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (1s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+Quarter 2 Score: Team1 60 - Team2 62
+
+=== Quarter 3 ===
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (3s)
+Richard Jefferson misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (2s)
+Andre Iguodala misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (3s)
+Richard Jefferson dribbles (4s)
+Richard Jefferson passes to Kyrie Irving (5s)
+Kyrie Irving passes to Matthew Dellavedova (6s)
+Matthew Dellavedova misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (8s)
+Harrison Barnes misses a 3-point shot (6s)
+=== Current Score ===
+Team1: 60 Team2: 62
+Substitution: Andre Iguodala out, Draymond Green in (plus-minus: 4, total seconds: 1355/1982)
+
+LeBron James starts with the ball
+LeBron James passes to Matthew Dellavedova (3s)
+Matthew Dellavedova misses a 3-point shot (8s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+Stephen Curry starts with the ball
+Kyrie Irving steals the ball from Stephen Curry!
+=== Current Score ===
+Team1: 60 Team2: 62
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (2s)
+Richard Jefferson turns the ball over (4s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 60 Team2: 62
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (4s)
+Tristan Thompson passes to LeBron James (3s)
+LeBron James passes to Kyrie Irving (2s)
+Kyrie Irving passes to Richard Jefferson (2s)
+Richard Jefferson passes to Matthew Dellavedova (5s)
+Matthew Dellavedova passes to Kyrie Irving (2s)
+Kyrie Irving passes to LeBron James (3s)
+LeBron James makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 62 Team2: 62
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (6s)
+=== Current Score ===
+Team1: 62 Team2: 62
+
+LeBron James starts with the ball
+Harrison Barnes steals the ball from LeBron James!
+=== Current Score ===
+Team1: 62 Team2: 62
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (5s)
+Klay Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 62 Team2: 64
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (3s)
+Tristan Thompson passes to Kyrie Irving (4s)
+Draymond Green blocks the shot of Kyrie Irving!
+=== Current Score ===
+Team1: 62 Team2: 64
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (7s)
+Draymond Green misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 62 Team2: 64
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (4s)
+Richard Jefferson misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 62 Team2: 64
+Substitution: Richard Jefferson out, Kevin Love in (plus-minus: -12, total seconds: 1376/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andrew Bogut (4s)
+Andrew Bogut makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 62 Team2: 66
+Substitution: Klay Thompson out, Andre Iguodala in (plus-minus: 14, total seconds: 1398/1671)
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (2s)
+Kyrie Irving makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 65 Team2: 66
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 65 Team2: 68
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 65 Team2: 68
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 65 Team2: 68
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (8s)
+Tristan Thompson misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 65 Team2: 68
+Substitution: Tristan Thompson out, Richard Jefferson in (plus-minus: -9, total seconds: 1448/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (8s)
+Draymond Green passes to Andre Iguodala (5s)
+Andre Iguodala makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 65 Team2: 70
+Substitution: Andrew Bogut out, Klay Thompson in (plus-minus: 6, total seconds: 377/1397)
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 65 Team2: 70
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (6s)
+Klay Thompson passes to Stephen Curry (1s)
+Stephen Curry passes to Harrison Barnes (7s)
+Harrison Barnes passes to Klay Thompson (4s)
+Klay Thompson makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 65 Team2: 72
+
+LeBron James starts with the ball
+LeBron James makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 68 Team2: 72
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (7s)
+Klay Thompson passes to Harrison Barnes (8s)
+Harrison Barnes dribbles (4s)
+Harrison Barnes misses a 3-point shot (5s)
+=== Current Score ===
+Team1: 68 Team2: 72
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (7s)
+Kevin Love passes to LeBron James (7s)
+LeBron James passes to Kyrie Irving (8s)
+Kyrie Irving makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 71 Team2: 72
+Substitution: LeBron James out, Tristan Thompson in (plus-minus: 2, total seconds: 1567/2056)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (3s)
+Richard Jefferson steals the ball from Draymond Green!
+=== Current Score ===
+Team1: 71 Team2: 72
+Substitution: Harrison Barnes out, Leandro Barbosa in (plus-minus: 9, total seconds: 1551/1643)
+
+Kyrie Irving starts with the ball
+Kyrie Irving makes a 3-point shot! (1s)
+=== Current Score ===
+Team1: 74 Team2: 72
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (7s)
+Andre Iguodala makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 74 Team2: 74
+
+Kyrie Irving starts with the ball
+Kyrie Irving misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 74 Team2: 74
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson passes to Stephen Curry (6s)
+Stephen Curry passes to Draymond Green (3s)
+Draymond Green makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 74 Team2: 76
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Tristan Thompson (3s)
+Leandro Barbosa steals the ball from Tristan Thompson!
+=== Current Score ===
+Team1: 74 Team2: 76
+Substitution: Matthew Dellavedova out, LeBron James in (plus-minus: -5, total seconds: 399/535)
 
 Stephen Curry starts with the ball
 Stephen Curry passes to Andre Iguodala (5s)
 Andre Iguodala turns the ball over (3s)
 === Current Score ===
-Team1: 10 Team2: 25
-Substitution: Kevin Love out, James Jones in (inefficient/exceeded seconds)
+Team1: 74 Team2: 76
 
 LeBron James starts with the ball
-James Jones misses a 2-point shot (3s)
+LeBron James misses a 2-point shot (2s)
 === Current Score ===
-Team1: 10 Team2: 25
+Team1: 74 Team2: 76
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (7s)
-Andre Iguodala passes to Harrison Barnes (3s)
-Harrison Barnes passes to Stephen Curry (5s)
-Stephen Curry makes a 3-point shot! (3s)
+Stephen Curry passes to Andre Iguodala (4s)
+Andre Iguodala misses a 3-point shot (7s)
 === Current Score ===
-Team1: 10 Team2: 28
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (6s)
-Kyrie Irving passes to Mo Williams (3s)
-Kyrie Irving makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 12 Team2: 28
-
-Stephen Curry starts with the ball
-Matt Barnes misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 12 Team2: 28
-
-LeBron James starts with the ball
-Channing Frye misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 12 Team2: 28
-Substitution: Stephen Curry out, Leandro Barbosa in (inefficient/exceeded seconds)
-
-Andre Iguodala starts with the ball
-Andre Iguodala passes to Shaun Livingston (4s)
-Shaun Livingston passes to Andre Iguodala (5s)
-Harrison Barnes misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 12 Team2: 28
-
-LeBron James starts with the ball
-LeBron James misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 12 Team2: 28
-
-Andre Iguodala starts with the ball
-Leandro Barbosa misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 12 Team2: 28
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (2s)
-Mo Williams passes to LeBron James (2s)
-Kyrie Irving makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 14 Team2: 28
-
-Andre Iguodala starts with the ball
-Andre Iguodala passes to Harrison Barnes (4s)
-Harrison Barnes passes to Andre Iguodala (6s)
-Leandro Barbosa makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 14 Team2: 30
-
-LeBron James starts with the ball
-Channing Frye makes a 3-point shot! (2s)
-=== Current Score ===
-Team1: 17 Team2: 30
-Substitution: LeBron James out, Richard Jefferson in (inefficient/exceeded seconds)
-
-Andre Iguodala starts with the ball
-Andre Iguodala passes to Matt Barnes (3s)
-Harrison Barnes misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 17 Team2: 30
-Substitution: Kyrie Irving out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-Mo Williams starts with the ball
-Matthew Dellavedova misses a 3-point shot (8s)
-=== Current Score ===
-Team1: 17 Team2: 30
-
-Andre Iguodala starts with the ball
-Andre Iguodala passes to Harrison Barnes (8s)
-Harrison Barnes passes to Shaun Livingston (4s)
-Andre Iguodala misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 17 Team2: 30
-
-Mo Williams starts with the ball
-Matthew Dellavedova misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 17 Team2: 30
-
-Andre Iguodala starts with the ball
-Andre Iguodala passes to Shaun Livingston (7s)
-Shaun Livingston passes to Harrison Barnes (8s)
-Andre Iguodala misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 17 Team2: 30
-Substitution: Harrison Barnes out, Draymond Green in (inefficient/exceeded seconds)
-
-Mo Williams starts with the ball
-Mo Williams passes to Matthew Dellavedova (5s)
-Matthew Dellavedova turns the ball over (3s)
-=== Current Score ===
-Team1: 17 Team2: 30
-Substitution: Andre Iguodala out, Andrew Bogut in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green passes to Matt Barnes (4s)
-Draymond Green makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 17 Team2: 33
-
-Mo Williams starts with the ball
-Mo Williams passes to Richard Jefferson (5s)
-Richard Jefferson misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 17 Team2: 33
-
-Draymond Green starts with the ball
-Leandro Barbosa misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 17 Team2: 33
-
-Mo Williams starts with the ball
-Mo Williams passes to Matthew Dellavedova (5s)
-Matthew Dellavedova dribbles (1s)
-Channing Frye makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 20 Team2: 33
-
-Draymond Green starts with the ball
-Richard Jefferson steals the ball from Draymond Green!
-=== Current Score ===
-Team1: 20 Team2: 33
-
-Mo Williams starts with the ball
-Mo Williams passes to Channing Frye (6s)
-Mo Williams makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 22 Team2: 33
-
-Draymond Green starts with the ball
-Shaun Livingston misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 22 Team2: 33
-
-Mo Williams starts with the ball
-Mo Williams passes to Channing Frye (7s)
-James Jones makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 24 Team2: 33
-
-Draymond Green starts with the ball
-Matt Barnes misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 24 Team2: 33
-
-Mo Williams starts with the ball
-Draymond Green steals the ball from Mo Williams!
-=== Current Score ===
-Team1: 24 Team2: 33
-
-Draymond Green starts with the ball
-Draymond Green passes to Andrew Bogut (5s)
-Draymond Green makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 24 Team2: 35
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
-
-Mo Williams starts with the ball
-Mo Williams makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 26 Team2: 35
-Substitution: Shaun Livingston out, Klay Thompson in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green misses a 3-point shot (1s)
-=== Current Score ===
-Team1: 26 Team2: 35
-
-Mo Williams starts with the ball
-Mo Williams passes to Matthew Dellavedova (1s)
-Channing Frye makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 28 Team2: 35
-
-Draymond Green starts with the ball
-Klay Thompson misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 28 Team2: 35
-
-Mo Williams starts with the ball
-Mo Williams passes to James Jones (4s)
-Matthew Dellavedova misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 28 Team2: 35
-
-Draymond Green starts with the ball
-Draymond Green passes to Andrew Bogut (3s)
-Richard Jefferson steals the ball from Andrew Bogut!
-=== Current Score ===
-Team1: 28 Team2: 35
-
-Mo Williams starts with the ball
-Mo Williams passes to Richard Jefferson (8s)
-Channing Frye makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 30 Team2: 35
-Substitution: James Jones out, Dahntay Jones in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green passes to Harrison Barnes (4s)
-Draymond Green misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 30 Team2: 35
-Substitution: Mo Williams out, Kyrie Irving in (inefficient/exceeded seconds)
-
-Quarter 1 Score: Team1 30 - Team2 35
-
-=== Quarter 2 ===
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Channing Frye (3s)
-Richard Jefferson misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 30 Team2: 35
-
-Draymond Green starts with the ball
-Harrison Barnes makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 30 Team2: 37
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Richard Jefferson (3s)
-Richard Jefferson passes to Channing Frye (6s)
-Channing Frye passes to Dahntay Jones (4s)
-Channing Frye misses a 3-point shot (8s)
-=== Current Score ===
-Team1: 30 Team2: 37
-
-Draymond Green starts with the ball
-Klay Thompson misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 30 Team2: 37
-
-Kyrie Irving starts with the ball
-Kyrie Irving turns the ball over (5s)
-=== Current Score ===
-Team1: 30 Team2: 37
-Substitution: Leandro Barbosa out, Shaun Livingston in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 30 Team2: 39
-
-Kyrie Irving starts with the ball
-Channing Frye makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 32 Team2: 39
-
-Draymond Green starts with the ball
-Klay Thompson makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 32 Team2: 41
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Channing Frye (4s)
-Channing Frye passes to Matthew Dellavedova (6s)
-Matthew Dellavedova dribbles (8s)
-Matthew Dellavedova passes to Kyrie Irving (3s)
-Kyrie Irving passes to Matthew Dellavedova (2s)
-Kyrie Irving makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 34 Team2: 41
-
-Draymond Green starts with the ball
-Draymond Green passes to Klay Thompson (7s)
-Matthew Dellavedova steals the ball from Klay Thompson!
-=== Current Score ===
-Team1: 34 Team2: 41
-
-Kyrie Irving starts with the ball
-Matthew Dellavedova makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 37 Team2: 41
-Substitution: Channing Frye out, Kevin Love in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green passes to Shaun Livingston (4s)
-Klay Thompson makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 37 Team2: 43
-Substitution: Richard Jefferson out, LeBron James in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-Dahntay Jones makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 39 Team2: 43
-
-Draymond Green starts with the ball
-Draymond Green passes to Harrison Barnes (4s)
-Andrew Bogut misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 39 Team2: 43
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (2s)
-LeBron James makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 41 Team2: 43
-
-Draymond Green starts with the ball
-Klay Thompson misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 41 Team2: 43
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (3s)
-LeBron James makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 43 Team2: 43
-
-Draymond Green starts with the ball
-Harrison Barnes makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 43 Team2: 45
+Team1: 74 Team2: 76
 
 LeBron James starts with the ball
 LeBron James passes to Kyrie Irving (8s)
-LeBron James makes a 2-point shot! (6s)
+Kyrie Irving dribbles (4s)
+Kyrie Irving passes to LeBron James (8s)
+LeBron James makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 45 Team2: 45
+Team1: 76 Team2: 76
 
-Draymond Green starts with the ball
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (3s)
 Draymond Green misses a 2-point shot (6s)
 === Current Score ===
-Team1: 45 Team2: 45
+Team1: 76 Team2: 76
 
 LeBron James starts with the ball
-Matthew Dellavedova makes a 3-point shot! (6s)
+LeBron James passes to Kevin Love (5s)
+Kevin Love passes to LeBron James (2s)
+LeBron James dribbles (3s)
+LeBron James passes to Tristan Thompson (8s)
+Tristan Thompson makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 48 Team2: 45
+Team1: 78 Team2: 76
+Substitution: Kyrie Irving out, James Jones in (plus-minus: 3, total seconds: 1649/1854)
 
-Draymond Green starts with the ball
-Klay Thompson makes a 2-point shot! (7s)
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (5s)
+Draymond Green makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 48 Team2: 47
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (7s)
-Klay Thompson steals the ball from Dahntay Jones!
-=== Current Score ===
-Team1: 48 Team2: 47
-Substitution: Matthew Dellavedova out, Mo Williams in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green passes to Andrew Bogut (1s)
-Harrison Barnes makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 48 Team2: 49
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (8s)
-LeBron James makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 50 Team2: 49
-
-Draymond Green starts with the ball
-Klay Thompson misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 50 Team2: 49
-
-LeBron James starts with the ball
-Draymond Green steals the ball from LeBron James!
-=== Current Score ===
-Team1: 50 Team2: 49
-
-Draymond Green starts with the ball
-Draymond Green passes to Andrew Bogut (7s)
-Andrew Bogut makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 50 Team2: 51
-Substitution: Draymond Green out, Matt Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (8s)
-Kyrie Irving passes to LeBron James (3s)
-LeBron James passes to Mo Williams (7s)
-Mo Williams passes to Kyrie Irving (5s)
-Kevin Love misses a 2-point shot (1s)
-=== Current Score ===
-Team1: 50 Team2: 51
-Substitution: Andrew Bogut out, Marreese Speights in (inefficient/exceeded seconds)
-
-Shaun Livingston starts with the ball
-Shaun Livingston passes to Harrison Barnes (5s)
-Klay Thompson makes a 3-point shot! (1s)
-=== Current Score ===
-Team1: 50 Team2: 54
-
-LeBron James starts with the ball
-Kevin Love misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 50 Team2: 54
-
-Shaun Livingston starts with the ball
-Harrison Barnes misses a 3-point shot (2s)
-=== Current Score ===
-Team1: 50 Team2: 54
-
-LeBron James starts with the ball
-Mo Williams misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 50 Team2: 54
-
-Shaun Livingston starts with the ball
-Shaun Livingston passes to Marreese Speights (8s)
-Harrison Barnes misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 50 Team2: 54
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (8s)
-Mo Williams passes to Dahntay Jones (5s)
-Mo Williams makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 53 Team2: 54
-
-Shaun Livingston starts with the ball
-Shaun Livingston passes to Klay Thompson (4s)
-Harrison Barnes makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 53 Team2: 56
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (3s)
-Kyrie Irving passes to Mo Williams (4s)
-LeBron James makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 55 Team2: 56
-
-Shaun Livingston starts with the ball
-Shaun Livingston passes to Marreese Speights (3s)
-Klay Thompson makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 55 Team2: 58
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (4s)
-Kyrie Irving misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 55 Team2: 58
-
-Shaun Livingston starts with the ball
-Klay Thompson misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 55 Team2: 58
-Substitution: Klay Thompson out, Leandro Barbosa in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (6s)
-Dahntay Jones passes to Kyrie Irving (4s)
-Kyrie Irving turns the ball over (5s)
-=== Current Score ===
-Team1: 55 Team2: 58
-
-Shaun Livingston starts with the ball
-Shaun Livingston turns the ball over (2s)
-=== Current Score ===
-Team1: 55 Team2: 58
-
-LeBron James starts with the ball
-Kyrie Irving makes a 3-point shot! (8s)
-=== Current Score ===
-Team1: 58 Team2: 58
-
-Shaun Livingston starts with the ball
-Marreese Speights makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 58 Team2: 60
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (4s)
-Dahntay Jones misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 58 Team2: 60
-
-Shaun Livingston starts with the ball
-Shaun Livingston makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 58 Team2: 62
+Team1: 78 Team2: 78
+Substitution: Draymond Green out, Harrison Barnes in (plus-minus: -8, total seconds: 1586/2023)
 
 LeBron James starts with the ball
 LeBron James passes to Kevin Love (2s)
-Kevin Love passes to Mo Williams (6s)
-Kyrie Irving makes a 3-point shot! (3s)
+Kevin Love passes to LeBron James (2s)
+LeBron James passes to Kevin Love (2s)
+Kevin Love misses a 2-point shot (2s)
 === Current Score ===
-Team1: 61 Team2: 62
-Substitution: Dahntay Jones out, James Jones in (inefficient/exceeded seconds)
-
-Shaun Livingston starts with the ball
-Leandro Barbosa misses a 2-point shot (1s)
-=== Current Score ===
-Team1: 61 Team2: 62
-Substitution: Kyrie Irving out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-James Jones makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 64 Team2: 62
-
-Shaun Livingston starts with the ball
-Shaun Livingston passes to Harrison Barnes (3s)
-James Jones blocks the shot of Harrison Barnes!
-=== Current Score ===
-Team1: 64 Team2: 62
-
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 66 Team2: 62
-
-Shaun Livingston starts with the ball
-Shaun Livingston turns the ball over (4s)
-=== Current Score ===
-Team1: 66 Team2: 62
-
-LeBron James starts with the ball
-Kevin Love misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 66 Team2: 62
-Substitution: Harrison Barnes out, Draymond Green in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green dribbles (6s)
-Matt Barnes makes a 3-point shot! (1s)
-=== Current Score ===
-Team1: 66 Team2: 65
-
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 68 Team2: 65
-
-Draymond Green starts with the ball
-Matt Barnes makes a 3-point shot! (6s)
-=== Current Score ===
-Team1: 68 Team2: 68
-
-LeBron James starts with the ball
-LeBron James passes to Matthew Dellavedova (3s)
-Matthew Dellavedova passes to Mo Williams (6s)
-Mo Williams passes to James Jones (7s)
-James Jones passes to Mo Williams (7s)
-James Jones makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 70 Team2: 68
-
-Draymond Green starts with the ball
-Draymond Green passes to Marreese Speights (3s)
-Shaun Livingston makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 70 Team2: 70
-
-LeBron James starts with the ball
-LeBron James passes to Matthew Dellavedova (4s)
-Matthew Dellavedova dribbles (4s)
-Matthew Dellavedova passes to LeBron James (3s)
-Matt Barnes steals the ball from LeBron James!
-=== Current Score ===
-Team1: 70 Team2: 70
-Substitution: Kevin Love out, Channing Frye in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 70 Team2: 72
-Substitution: LeBron James out, Richard Jefferson in (inefficient/exceeded seconds)
-
-Mo Williams starts with the ball
-Channing Frye makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 72 Team2: 72
-
-Draymond Green starts with the ball
-Matt Barnes makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 72 Team2: 74
-
-Mo Williams starts with the ball
-Mo Williams turns the ball over (6s)
-=== Current Score ===
-Team1: 72 Team2: 74
-
-Draymond Green starts with the ball
-Leandro Barbosa makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 72 Team2: 77
-Substitution: Shaun Livingston out, Stephen Curry in (inefficient/exceeded seconds)
-
-Mo Williams starts with the ball
-Draymond Green steals the ball from Mo Williams!
-=== Current Score ===
-Team1: 72 Team2: 77
+Team1: 78 Team2: 78
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Matt Barnes (4s)
-Matt Barnes passes to Leandro Barbosa (4s)
-James Jones blocks the shot of Stephen Curry!
+Stephen Curry misses a 2-point shot (4s)
 === Current Score ===
-Team1: 72 Team2: 77
-
-Mo Williams starts with the ball
-Mo Williams passes to Richard Jefferson (4s)
-James Jones misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 72 Team2: 77
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Marreese Speights (2s)
-Marreese Speights passes to Leandro Barbosa (3s)
-Leandro Barbosa misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 72 Team2: 77
-
-Mo Williams starts with the ball
-Mo Williams passes to Channing Frye (5s)
-Channing Frye misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 72 Team2: 77
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (2s)
-Draymond Green passes to Marreese Speights (7s)
-Marreese Speights passes to Draymond Green (3s)
-Draymond Green misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 72 Team2: 77
-
-Mo Williams starts with the ball
-Stephen Curry blocks the shot of Matthew Dellavedova!
-=== Current Score ===
-Team1: 72 Team2: 77
-Substitution: Matthew Dellavedova out, Kyrie Irving in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Matt Barnes misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 72 Team2: 77
-
-Kyrie Irving starts with the ball
-Richard Jefferson makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 74 Team2: 77
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Marreese Speights (4s)
-Marreese Speights passes to Matt Barnes (5s)
-Matt Barnes misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 74 Team2: 77
-
-Kyrie Irving starts with the ball
-James Jones makes a 3-point shot! (2s)
-=== Current Score ===
-Team1: 77 Team2: 77
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Marreese Speights (2s)
-Marreese Speights passes to Leandro Barbosa (4s)
-Matt Barnes misses a 3-point shot (6s)
-=== Current Score ===
-Team1: 77 Team2: 77
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Channing Frye (4s)
-Channing Frye passes to Kyrie Irving (2s)
-Kyrie Irving misses a 2-point shot (1s)
-=== Current Score ===
-Team1: 77 Team2: 77
-Substitution: Marreese Speights out, Andrew Bogut in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Draymond Green misses a 3-point shot (1s)
-=== Current Score ===
-Team1: 77 Team2: 77
-
-Kyrie Irving starts with the ball
-Kyrie Irving misses a 3-point shot (1s)
-=== Current Score ===
-Team1: 77 Team2: 77
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Harrison Barnes (3s)
-Mo Williams steals the ball from Harrison Barnes!
-=== Current Score ===
-Team1: 77 Team2: 77
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to James Jones (6s)
-Stephen Curry blocks the shot of Kyrie Irving!
-=== Current Score ===
-Team1: 77 Team2: 77
-
-Stephen Curry starts with the ball
-Harrison Barnes makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 77 Team2: 79
-
-Kyrie Irving starts with the ball
-Mo Williams makes a 3-point shot! (2s)
-=== Current Score ===
-Team1: 80 Team2: 79
-Substitution: Mo Williams out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry makes a 3-point shot! (6s)
-=== Current Score ===
-Team1: 80 Team2: 82
-Substitution: Matthew Dellavedova out, Mo Williams in (inefficient/exceeded seconds)
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Richard Jefferson (4s)
-Richard Jefferson passes to Channing Frye (6s)
-Channing Frye passes to Mo Williams (1s)
-Mo Williams misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 80 Team2: 82
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andrew Bogut (4s)
-Draymond Green misses a 2-point shot (1s)
-=== Current Score ===
-Team1: 80 Team2: 82
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Richard Jefferson (5s)
-Channing Frye misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 80 Team2: 82
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Harrison Barnes (2s)
-Harrison Barnes passes to Draymond Green (4s)
-Leandro Barbosa makes a 3-point shot! (8s)
-=== Current Score ===
-Team1: 80 Team2: 85
-Substitution: Leandro Barbosa out, Shaun Livingston in (inefficient/exceeded seconds)
-
-Kyrie Irving starts with the ball
-Mo Williams misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 80 Team2: 85
-Substitution: Draymond Green out, Matt Barnes in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Shaun Livingston makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 80 Team2: 87
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to James Jones (4s)
-James Jones passes to Channing Frye (6s)
-Channing Frye passes to Mo Williams (3s)
-Channing Frye makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 83 Team2: 87
-
-Stephen Curry starts with the ball
-Richard Jefferson steals the ball from Stephen Curry!
-=== Current Score ===
-Team1: 83 Team2: 87
-
-Quarter 2 Score: Team1 83 - Team2 87
-
-=== Quarter 3 ===
-Kyrie Irving starts with the ball
-James Jones makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 86 Team2: 87
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 86 Team2: 87
-
-Kyrie Irving starts with the ball
-Andrew Bogut blocks the shot of Kyrie Irving!
-=== Current Score ===
-Team1: 86 Team2: 87
-
-Stephen Curry starts with the ball
-Stephen Curry turns the ball over (1s)
-=== Current Score ===
-Team1: 86 Team2: 87
-Substitution: James Jones out, Dahntay Jones in (inefficient/exceeded seconds)
-
-Kyrie Irving starts with the ball
-Richard Jefferson makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 88 Team2: 87
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Matt Barnes (8s)
-Stephen Curry makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 88 Team2: 89
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Richard Jefferson (8s)
-Dahntay Jones makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 90 Team2: 89
-
-Stephen Curry starts with the ball
-Matt Barnes makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 90 Team2: 91
-
-Kyrie Irving starts with the ball
-Channing Frye makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 92 Team2: 91
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 92 Team2: 91
-
-Kyrie Irving starts with the ball
-Mo Williams misses a 3-point shot (2s)
-=== Current Score ===
-Team1: 92 Team2: 91
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andrew Bogut (6s)
-Matt Barnes misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 92 Team2: 91
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Channing Frye (7s)
-Kyrie Irving misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 92 Team2: 91
-
-Stephen Curry starts with the ball
-Matt Barnes makes a 3-point shot! (8s)
-=== Current Score ===
-Team1: 92 Team2: 94
-
-Kyrie Irving starts with the ball
-Kyrie Irving passes to Dahntay Jones (4s)
-Mo Williams makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 95 Team2: 94
-Substitution: Richard Jefferson out, LeBron James in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andrew Bogut (8s)
-Stephen Curry makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 95 Team2: 97
-Substitution: Channing Frye out, Kevin Love in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (8s)
-LeBron James makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 97 Team2: 97
-
-Stephen Curry starts with the ball
-Stephen Curry turns the ball over (4s)
-=== Current Score ===
-Team1: 97 Team2: 97
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (3s)
-Harrison Barnes blocks the shot of Kyrie Irving!
-=== Current Score ===
-Team1: 97 Team2: 97
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (6s)
-Matt Barnes misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 97 Team2: 97
-
-LeBron James starts with the ball
-Mo Williams misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 97 Team2: 97
-Substitution: Andrew Bogut out, Marreese Speights in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry turns the ball over (3s)
-=== Current Score ===
-Team1: 97 Team2: 97
-
-LeBron James starts with the ball
-Kyrie Irving misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 97 Team2: 97
-
-Stephen Curry starts with the ball
-Harrison Barnes misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 97 Team2: 97
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (5s)
-LeBron James makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 99 Team2: 97
-
-Stephen Curry starts with the ball
-Marreese Speights makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 99 Team2: 99
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (5s)
-Dahntay Jones passes to Mo Williams (4s)
-Mo Williams passes to LeBron James (4s)
-LeBron James turns the ball over (5s)
-=== Current Score ===
-Team1: 99 Team2: 99
-Substitution: Dahntay Jones out, James Jones in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Marreese Speights makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 99 Team2: 101
-Substitution: Kyrie Irving out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (3s)
-LeBron James misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 99 Team2: 101
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Marreese Speights (3s)
-Marreese Speights passes to Matt Barnes (3s)
-Matt Barnes passes to Stephen Curry (3s)
-Stephen Curry passes to Marreese Speights (4s)
-Matthew Dellavedova steals the ball from Marreese Speights!
-=== Current Score ===
-Team1: 99 Team2: 101
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (7s)
-Mo Williams passes to LeBron James (4s)
-LeBron James passes to James Jones (3s)
-James Jones makes a 3-point shot! (8s)
-=== Current Score ===
-Team1: 102 Team2: 101
-
-Stephen Curry starts with the ball
-Harrison Barnes misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 102 Team2: 101
-Substitution: Harrison Barnes out, Draymond Green in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 102 Team2: 101
-Substitution: Stephen Curry out, Leandro Barbosa in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green passes to Shaun Livingston (7s)
-Shaun Livingston passes to Matt Barnes (7s)
-Matt Barnes passes to Draymond Green (4s)
-Draymond Green passes to Leandro Barbosa (4s)
-Leandro Barbosa makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 102 Team2: 103
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (5s)
-Mo Williams passes to Matthew Dellavedova (3s)
-Matthew Dellavedova passes to James Jones (1s)
-James Jones dribbles (4s)
-Shaun Livingston blocks the shot of Kevin Love!
-=== Current Score ===
-Team1: 102 Team2: 103
-
-Draymond Green starts with the ball
-Draymond Green passes to Marreese Speights (6s)
-Marreese Speights passes to Draymond Green (4s)
-Draymond Green passes to Marreese Speights (7s)
-Marreese Speights passes to Shaun Livingston (5s)
-Draymond Green misses a 3-point shot (2s)
-=== Current Score ===
-Team1: 102 Team2: 103
-
-LeBron James starts with the ball
-James Jones makes a 3-point shot! (8s)
-=== Current Score ===
-Team1: 105 Team2: 103
-
-Draymond Green starts with the ball
-Shaun Livingston misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 105 Team2: 103
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (5s)
-Mo Williams passes to Matthew Dellavedova (4s)
-James Jones misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 105 Team2: 103
-Substitution: Matthew Dellavedova out, Kyrie Irving in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Leandro Barbosa misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 105 Team2: 103
-Substitution: Mo Williams out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-Kyrie Irving makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 108 Team2: 103
-
-Draymond Green starts with the ball
-Draymond Green passes to Marreese Speights (4s)
-Matt Barnes misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 108 Team2: 103
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (7s)
-LeBron James misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 108 Team2: 103
-
-Draymond Green starts with the ball
-Leandro Barbosa misses a 2-point shot (1s)
-=== Current Score ===
-Team1: 108 Team2: 103
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Kevin Love (6s)
-Kevin Love passes to LeBron James (3s)
-LeBron James passes to Matthew Dellavedova (8s)
-Marreese Speights blocks the shot of Matthew Dellavedova!
-=== Current Score ===
-Team1: 108 Team2: 103
-Substitution: Shaun Livingston out, Klay Thompson in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Klay Thompson makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (7s)
-James Jones misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-Draymond Green starts with the ball
-Klay Thompson misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-LeBron James starts with the ball
-LeBron James turns the ball over (1s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-Draymond Green starts with the ball
-Harrison Barnes misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 108 Team2: 106
+Team1: 78 Team2: 78
 
 LeBron James starts with the ball
 LeBron James turns the ball over (7s)
 === Current Score ===
-Team1: 108 Team2: 106
-Substitution: Matthew Dellavedova out, Mo Williams in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Marreese Speights misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 108 Team2: 106
-Substitution: James Jones out, Dahntay Jones in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (5s)
-Kyrie Irving passes to Mo Williams (8s)
-Kevin Love misses a 3-point shot (1s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-Draymond Green starts with the ball
-Draymond Green turns the ball over (7s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (5s)
-Kyrie Irving passes to LeBron James (2s)
-LeBron James passes to Dahntay Jones (5s)
-Kevin Love misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-Draymond Green starts with the ball
-Draymond Green passes to Marreese Speights (5s)
-Leandro Barbosa misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 108 Team2: 106
-Substitution: Marreese Speights out, Andre Iguodala in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (4s)
-Kyrie Irving passes to Mo Williams (3s)
-Mo Williams passes to Dahntay Jones (6s)
-Dahntay Jones misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-Draymond Green starts with the ball
-Harrison Barnes misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-LeBron James starts with the ball
-LeBron James passes to Dahntay Jones (7s)
-Dahntay Jones passes to Mo Williams (3s)
-Mo Williams passes to Kyrie Irving (3s)
-Kyrie Irving passes to Mo Williams (7s)
-Mo Williams passes to Kevin Love (4s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (8s)
-Kyrie Irving misses a 2-point shot (1s)
-=== Current Score ===
-Team1: 108 Team2: 106
-
-Draymond Green starts with the ball
-Harrison Barnes makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 108 Team2: 108
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (8s)
-Kyrie Irving passes to LeBron James (8s)
-Harrison Barnes steals the ball from LeBron James!
-=== Current Score ===
-Team1: 108 Team2: 108
-Substitution: Dahntay Jones out, James Jones in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Leandro Barbosa makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 108 Team2: 110
-Substitution: Kevin Love out, Channing Frye in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Channing Frye (2s)
-Draymond Green blocks the shot of Channing Frye!
-=== Current Score ===
-Team1: 108 Team2: 110
-
-Draymond Green starts with the ball
-Leandro Barbosa makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 108 Team2: 113
-
-LeBron James starts with the ball
-Andre Iguodala steals the ball from LeBron James!
-=== Current Score ===
-Team1: 108 Team2: 113
-
-Draymond Green starts with the ball
-Draymond Green passes to Leandro Barbosa (7s)
-Draymond Green makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 108 Team2: 115
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (8s)
-Harrison Barnes steals the ball from Mo Williams!
-=== Current Score ===
-Team1: 108 Team2: 115
-
-Draymond Green starts with the ball
-Draymond Green misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 108 Team2: 115
-Substitution: Draymond Green out, Matt Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (3s)
-Kyrie Irving turns the ball over (2s)
-=== Current Score ===
-Team1: 108 Team2: 115
-Substitution: Matt Barnes out, Draymond Green in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green turns the ball over (4s)
-=== Current Score ===
-Team1: 108 Team2: 115
-
-LeBron James starts with the ball
-LeBron James turns the ball over (4s)
-=== Current Score ===
-Team1: 108 Team2: 115
-
-Draymond Green starts with the ball
-Harrison Barnes misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 108 Team2: 115
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (3s)
-James Jones misses a 3-point shot (6s)
-=== Current Score ===
-Team1: 108 Team2: 115
-Substitution: James Jones out, Dahntay Jones in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Draymond Green passes to Klay Thompson (5s)
-Klay Thompson passes to Draymond Green (5s)
-Draymond Green makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 108 Team2: 117
-Substitution: Dahntay Jones out, James Jones in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (4s)
-Kyrie Irving misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 108 Team2: 117
-
-Draymond Green starts with the ball
-Draymond Green makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 108 Team2: 120
-
-LeBron James starts with the ball
-Kyrie Irving makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 110 Team2: 120
-
-Draymond Green starts with the ball
-Draymond Green turns the ball over (8s)
-=== Current Score ===
-Team1: 110 Team2: 120
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (4s)
-LeBron James makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 112 Team2: 120
-
-Draymond Green starts with the ball
-Draymond Green misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 112 Team2: 120
-Substitution: Harrison Barnes out, Matt Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (8s)
-Kyrie Irving misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 112 Team2: 120
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Klay Thompson misses a 3-point shot (2s)
-=== Current Score ===
-Team1: 112 Team2: 120
-
-Quarter 3 Score: Team1 112 - Team2 120
-
-=== Quarter 4 ===
-LeBron James starts with the ball
-Mo Williams misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 112 Team2: 120
-
-Draymond Green starts with the ball
-Draymond Green passes to Klay Thompson (4s)
-Klay Thompson passes to Harrison Barnes (4s)
-Leandro Barbosa misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 112 Team2: 120
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (4s)
-Channing Frye makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 115 Team2: 120
-Substitution: Kyrie Irving out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-Draymond Green starts with the ball
-Harrison Barnes makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 115 Team2: 122
-Substitution: Matthew Dellavedova out, Kyrie Irving in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (4s)
-James Jones misses a 3-point shot (2s)
-=== Current Score ===
-Team1: 115 Team2: 122
-
-Draymond Green starts with the ball
-Draymond Green passes to Leandro Barbosa (6s)
-Leandro Barbosa passes to Andre Iguodala (4s)
-Andre Iguodala passes to Harrison Barnes (4s)
-Klay Thompson misses a 3-point shot (8s)
-=== Current Score ===
-Team1: 115 Team2: 122
-
-LeBron James starts with the ball
-Channing Frye makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 117 Team2: 122
-
-Draymond Green starts with the ball
-Leandro Barbosa misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 117 Team2: 122
-
-LeBron James starts with the ball
-Channing Frye misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 117 Team2: 122
-
-Draymond Green starts with the ball
-Andre Iguodala misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 117 Team2: 122
-Substitution: Leandro Barbosa out, Stephen Curry in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (4s)
-Mo Williams passes to James Jones (2s)
-James Jones passes to Kyrie Irving (4s)
-Kyrie Irving turns the ball over (3s)
-=== Current Score ===
-Team1: 117 Team2: 122
-Substitution: Klay Thompson out, Shaun Livingston in (inefficient/exceeded seconds)
+Team1: 78 Team2: 78
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (4s)
-Andre Iguodala passes to Shaun Livingston (2s)
-Andre Iguodala makes a 3-point shot! (3s)
+Stephen Curry passes to Klay Thompson (5s)
+Klay Thompson turns the ball over (2s)
 === Current Score ===
-Team1: 117 Team2: 125
+Team1: 78 Team2: 78
 
 LeBron James starts with the ball
-LeBron James passes to Channing Frye (6s)
-Channing Frye turns the ball over (2s)
+LeBron James misses a 3-point shot (3s)
 === Current Score ===
-Team1: 117 Team2: 125
-
-Stephen Curry starts with the ball
-Stephen Curry turns the ball over (7s)
-=== Current Score ===
-Team1: 117 Team2: 125
-
-LeBron James starts with the ball
-Kyrie Irving misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 117 Team2: 125
-Substitution: Mo Williams out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry turns the ball over (4s)
-=== Current Score ===
-Team1: 117 Team2: 125
-Substitution: Matthew Dellavedova out, Mo Williams in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (4s)
-Kyrie Irving misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 117 Team2: 125
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (3s)
-Harrison Barnes misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 117 Team2: 125
-
-LeBron James starts with the ball
-Draymond Green steals the ball from LeBron James!
-=== Current Score ===
-Team1: 117 Team2: 125
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (4s)
-Draymond Green makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 117 Team2: 127
-
-LeBron James starts with the ball
-Channing Frye makes a 3-point shot! (6s)
-=== Current Score ===
-Team1: 120 Team2: 127
-
-Stephen Curry starts with the ball
-Stephen Curry makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 120 Team2: 129
-Substitution: Harrison Barnes out, Matt Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (4s)
-Kyrie Irving misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 120 Team2: 129
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (8s)
-Harrison Barnes makes a 3-point shot! (6s)
-=== Current Score ===
-Team1: 120 Team2: 132
-
-LeBron James starts with the ball
-Kyrie Irving misses a 2-point shot (8s)
-=== Current Score ===
-Team1: 120 Team2: 132
-
-Stephen Curry starts with the ball
-Stephen Curry turns the ball over (4s)
-=== Current Score ===
-Team1: 120 Team2: 132
-
-LeBron James starts with the ball
-LeBron James passes to Kyrie Irving (5s)
-Kyrie Irving passes to Channing Frye (4s)
-James Jones makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 123 Team2: 132
-Substitution: Kyrie Irving out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (4s)
-Draymond Green passes to Shaun Livingston (4s)
-Stephen Curry misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 123 Team2: 132
-Substitution: Matthew Dellavedova out, Kyrie Irving in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James turns the ball over (8s)
-=== Current Score ===
-Team1: 123 Team2: 132
-
-Stephen Curry starts with the ball
-Harrison Barnes misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 123 Team2: 132
-
-LeBron James starts with the ball
-Mo Williams misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 123 Team2: 132
-
-Stephen Curry starts with the ball
-Andre Iguodala misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 123 Team2: 132
-
-LeBron James starts with the ball
-LeBron James passes to Channing Frye (3s)
-Channing Frye passes to James Jones (5s)
-Kyrie Irving misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 123 Team2: 132
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (5s)
-Andre Iguodala passes to Shaun Livingston (6s)
-Harrison Barnes misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 123 Team2: 132
-Substitution: Draymond Green out, Matt Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (5s)
-James Jones passes to Kyrie Irving (4s)
-Kyrie Irving passes to LeBron James (3s)
-Kyrie Irving makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 125 Team2: 132
-Substitution: Matt Barnes out, Draymond Green in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 125 Team2: 134
-
-LeBron James starts with the ball
-James Jones makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 128 Team2: 134
+Team1: 78 Team2: 78
 
 Stephen Curry starts with the ball
 Stephen Curry makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 128 Team2: 136
+Team1: 78 Team2: 80
+Substitution: Stephen Curry out, Draymond Green in (plus-minus: 0, total seconds: 1607/2023)
 
 LeBron James starts with the ball
-Kyrie Irving makes a 2-point shot! (3s)
+LeBron James passes to Kevin Love (4s)
+Kevin Love misses a 2-point shot (4s)
 === Current Score ===
-Team1: 130 Team2: 136
-Substitution: Kyrie Irving out, Matthew Dellavedova in (inefficient/exceeded seconds)
+Team1: 78 Team2: 80
 
-Stephen Curry starts with the ball
-Stephen Curry makes a 3-point shot! (8s)
+Draymond Green starts with the ball
+Draymond Green passes to Harrison Barnes (3s)
+Harrison Barnes dribbles (2s)
+Harrison Barnes misses a 2-point shot (8s)
 === Current Score ===
-Team1: 130 Team2: 139
-Substitution: Matthew Dellavedova out, Kyrie Irving in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Channing Frye (2s)
-Channing Frye passes to LeBron James (4s)
-Shaun Livingston steals the ball from LeBron James!
-=== Current Score ===
-Team1: 130 Team2: 139
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (8s)
-Draymond Green misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 130 Team2: 139
+Team1: 78 Team2: 80
 
 LeBron James starts with the ball
-LeBron James passes to Mo Williams (5s)
-Mo Williams passes to Kyrie Irving (1s)
-Kyrie Irving passes to Mo Williams (4s)
-James Jones misses a 2-point shot (4s)
+LeBron James passes to Kevin Love (7s)
+Kevin Love passes to LeBron James (8s)
+LeBron James makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 130 Team2: 139
+Team1: 80 Team2: 80
 
-Stephen Curry starts with the ball
-Shaun Livingston misses a 2-point shot (2s)
+Draymond Green starts with the ball
+Draymond Green passes to Klay Thompson (3s)
+Klay Thompson misses a 2-point shot (6s)
 === Current Score ===
-Team1: 130 Team2: 139
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (5s)
-James Jones turns the ball over (4s)
-=== Current Score ===
-Team1: 130 Team2: 139
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (4s)
-Harrison Barnes misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 130 Team2: 139
-Substitution: Harrison Barnes out, Matt Barnes in (inefficient/exceeded seconds)
+Team1: 80 Team2: 80
 
 LeBron James starts with the ball
-LeBron James passes to James Jones (7s)
-Channing Frye misses a 3-point shot (7s)
+LeBron James passes to James Jones (1s)
+James Jones makes a 3-point shot! (8s)
 === Current Score ===
-Team1: 130 Team2: 139
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
+Team1: 83 Team2: 80
 
-Stephen Curry starts with the ball
-Stephen Curry makes a 2-point shot! (4s)
+Draymond Green starts with the ball
+Draymond Green passes to Andre Iguodala (1s)
+Andre Iguodala passes to Harrison Barnes (5s)
+Harrison Barnes makes a 3-point shot! (4s)
 === Current Score ===
-Team1: 130 Team2: 141
-
-LeBron James starts with the ball
-LeBron James passes to Channing Frye (5s)
-Channing Frye turns the ball over (8s)
-=== Current Score ===
-Team1: 130 Team2: 141
-
-Stephen Curry starts with the ball
-Draymond Green makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 130 Team2: 143
-
-LeBron James starts with the ball
-LeBron James passes to Channing Frye (1s)
-Mo Williams misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 130 Team2: 143
-Substitution: Kyrie Irving out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (2s)
-Draymond Green passes to Stephen Curry (4s)
-Stephen Curry passes to Shaun Livingston (1s)
-Shaun Livingston turns the ball over (1s)
-=== Current Score ===
-Team1: 130 Team2: 143
-Substitution: Matthew Dellavedova out, Kyrie Irving in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to James Jones (7s)
-LeBron James makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 132 Team2: 143
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (8s)
-Shaun Livingston passes to Harrison Barnes (2s)
-Andre Iguodala makes a 3-point shot! (1s)
-=== Current Score ===
-Team1: 132 Team2: 146
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (3s)
-LeBron James makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 134 Team2: 146
-
-Stephen Curry starts with the ball
-Harrison Barnes misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 134 Team2: 146
+Team1: 83 Team2: 83
+Substitution: Klay Thompson out, Stephen Curry in (plus-minus: 9, total seconds: 1702/1671)
 
 LeBron James starts with the ball
 LeBron James makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 136 Team2: 146
+Team1: 85 Team2: 83
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (3s)
-Andre Iguodala makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 136 Team2: 148
-Substitution: Harrison Barnes out, Matt Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-LeBron James passes to Mo Williams (4s)
-Mo Williams passes to Kyrie Irving (6s)
-LeBron James misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 136 Team2: 148
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Harrison Barnes makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 136 Team2: 151
-
-LeBron James starts with the ball
-Mo Williams misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 136 Team2: 151
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (8s)
-Stephen Curry makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 136 Team2: 154
-
-LeBron James starts with the ball
-Kyrie Irving makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 138 Team2: 154
-Substitution: Mo Williams out, Matthew Dellavedova in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (7s)
-Draymond Green passes to Harrison Barnes (8s)
 Stephen Curry makes a 2-point shot! (1s)
 === Current Score ===
-Team1: 138 Team2: 156
-Substitution: Kyrie Irving out, Mo Williams in (inefficient/exceeded seconds)
+Team1: 85 Team2: 85
 
 LeBron James starts with the ball
-LeBron James passes to James Jones (1s)
-LeBron James misses a 2-point shot (6s)
+LeBron James misses a 2-point shot (8s)
 === Current Score ===
-Team1: 138 Team2: 156
+Team1: 85 Team2: 85
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 85 Team2: 85
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (2s)
+Tristan Thompson passes to James Jones (2s)
+James Jones misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 85 Team2: 85
+Substitution: Kevin Love out, Kyrie Irving in (plus-minus: 7, total seconds: 1628/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (2s)
+Harrison Barnes misses a 2-point shot (7s)
+=== Current Score ===
+Team1: 85 Team2: 85
+Substitution: Andre Iguodala out, Klay Thompson in (plus-minus: 0, total seconds: 1743/1982)
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (8s)
+Richard Jefferson makes a 3-point shot! (6s)
+=== Current Score ===
+Team1: 88 Team2: 85
+
+Stephen Curry starts with the ball
+Stephen Curry turns the ball over (8s)
+=== Current Score ===
+Team1: 88 Team2: 85
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (6s)
+Tristan Thompson turns the ball over (2s)
+=== Current Score ===
+Team1: 88 Team2: 85
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green misses a 3-point shot (2s)
+=== Current Score ===
+Team1: 88 Team2: 85
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (4s)
+Richard Jefferson passes to Tristan Thompson (8s)
+Tristan Thompson passes to Kyrie Irving (3s)
+Kyrie Irving passes to Tristan Thompson (6s)
+Tristan Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 90 Team2: 85
+Substitution: Richard Jefferson out, Kevin Love in (plus-minus: -4, total seconds: 1792/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Leandro Barbosa (2s)
+Leandro Barbosa passes to Stephen Curry (1s)
+Stephen Curry passes to Leandro Barbosa (3s)
+Leandro Barbosa misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 90 Team2: 85
+Substitution: Klay Thompson out, Andre Iguodala in (plus-minus: 4, total seconds: 1772/1671)
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (5s)
+Tristan Thompson passes to LeBron James (4s)
+LeBron James passes to Kevin Love (4s)
+Kevin Love passes to LeBron James (6s)
+LeBron James misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 90 Team2: 85
 
 Stephen Curry starts with the ball
 Stephen Curry passes to Andre Iguodala (3s)
-Harrison Barnes misses a 3-point shot (8s)
+Andre Iguodala misses a 2-point shot (4s)
 === Current Score ===
-Team1: 138 Team2: 156
+Team1: 90 Team2: 85
 
 LeBron James starts with the ball
-Harrison Barnes steals the ball from LeBron James!
+LeBron James makes a 2-point shot! (1s)
 === Current Score ===
-Team1: 138 Team2: 156
+Team1: 92 Team2: 85
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (6s)
-Andre Iguodala misses a 2-point shot (5s)
+Stephen Curry dribbles (6s)
+Stephen Curry turns the ball over (2s)
 === Current Score ===
-Team1: 138 Team2: 156
+Team1: 92 Team2: 85
 
 LeBron James starts with the ball
-LeBron James passes to Mo Williams (6s)
-Mo Williams turns the ball over (7s)
+LeBron James passes to Tristan Thompson (2s)
+Tristan Thompson misses a 2-point shot (8s)
 === Current Score ===
-Team1: 138 Team2: 156
+Team1: 92 Team2: 85
+Substitution: Tristan Thompson out, Richard Jefferson in (plus-minus: -1, total seconds: 1833/1800)
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (6s)
-Draymond Green passes to Harrison Barnes (5s)
-Andre Iguodala misses a 3-point shot (5s)
+Stephen Curry dribbles (7s)
+Stephen Curry makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 138 Team2: 156
-Substitution: Harrison Barnes out, Matt Barnes in (inefficient/exceeded seconds)
+Team1: 92 Team2: 87
+Substitution: Leandro Barbosa out, Klay Thompson in (plus-minus: -6, total seconds: 385/916)
 
 LeBron James starts with the ball
-LeBron James passes to James Jones (4s)
-Matthew Dellavedova makes a 3-point shot! (4s)
+LeBron James misses a 2-point shot (3s)
 === Current Score ===
-Team1: 141 Team2: 156
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
+Team1: 92 Team2: 87
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (2s)
-Stephen Curry misses a 3-point shot (6s)
+Stephen Curry misses a 3-point shot (1s)
 === Current Score ===
-Team1: 141 Team2: 156
+Team1: 92 Team2: 87
 
 LeBron James starts with the ball
 LeBron James passes to James Jones (6s)
-LeBron James makes a 2-point shot! (3s)
+James Jones passes to Richard Jefferson (4s)
+Richard Jefferson misses a 2-point shot (3s)
 === Current Score ===
-Team1: 143 Team2: 156
+Team1: 92 Team2: 87
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (6s)
-Harrison Barnes makes a 2-point shot! (3s)
+Stephen Curry passes to Harrison Barnes (3s)
+Harrison Barnes passes to Draymond Green (1s)
+Draymond Green misses a 3-point shot (7s)
 === Current Score ===
-Team1: 143 Team2: 158
+Team1: 92 Team2: 87
 
 LeBron James starts with the ball
-LeBron James misses a 3-point shot (6s)
+LeBron James passes to James Jones (5s)
+James Jones passes to Richard Jefferson (1s)
+Richard Jefferson passes to Kyrie Irving (4s)
+Kyrie Irving misses a 2-point shot (7s)
 === Current Score ===
-Team1: 143 Team2: 158
-Substitution: Mo Williams out, Kyrie Irving in (inefficient/exceeded seconds)
+Team1: 92 Team2: 87
+Substitution: Richard Jefferson out, Tristan Thompson in (plus-minus: -6, total seconds: 1846/1800)
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (7s)
-Stephen Curry makes a 3-point shot! (8s)
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson passes to Draymond Green (2s)
 === Current Score ===
-Team1: 143 Team2: 161
-Substitution: Matthew Dellavedova out, Mo Williams in (inefficient/exceeded seconds)
+Team1: 92 Team2: 87
+Substitution: Klay Thompson out, Matt Barnes in (plus-minus: 4, total seconds: 1822/1671)
 
-LeBron James starts with the ball
-LeBron James passes to James Jones (4s)
-James Jones turns the ball over (5s)
-=== Current Score ===
-Team1: 143 Team2: 161
+Quarter 3 Score: Team1 92 - Team2 87
 
+=== Quarter 4 ===
 Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (6s)
-Andre Iguodala passes to Shaun Livingston (2s)
-Mo Williams blocks the shot of Andre Iguodala!
+Stephen Curry makes a 2-point shot! (1s)
 === Current Score ===
-Team1: 143 Team2: 161
+Team1: 92 Team2: 89
 
 LeBron James starts with the ball
-James Jones misses a 3-point shot (6s)
+LeBron James passes to Kyrie Irving (3s)
+Kyrie Irving misses a 3-point shot (5s)
 === Current Score ===
-Team1: 143 Team2: 161
-
-Stephen Curry starts with the ball
-Harrison Barnes misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 143 Team2: 161
-
-LeBron James starts with the ball
-Mo Williams misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 143 Team2: 161
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (3s)
-Stephen Curry makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 143 Team2: 164
-Substitution: Harrison Barnes out, Matt Barnes in (inefficient/exceeded seconds)
-
-LeBron James starts with the ball
-Channing Frye misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 143 Team2: 164
-Substitution: Matt Barnes out, Harrison Barnes in (inefficient/exceeded seconds)
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (6s)
-Stephen Curry misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 143 Team2: 164
-
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 145 Team2: 164
+Team1: 92 Team2: 89
 
 Stephen Curry starts with the ball
 Stephen Curry passes to Andre Iguodala (4s)
-Stephen Curry makes a 3-point shot! (4s)
+Andre Iguodala misses a 3-point shot (4s)
 === Current Score ===
-Team1: 145 Team2: 167
+Team1: 92 Team2: 89
 
 LeBron James starts with the ball
-LeBron James passes to Mo Williams (3s)
-Mo Williams turns the ball over (2s)
+LeBron James dribbles (2s)
+LeBron James misses a 3-point shot (8s)
 === Current Score ===
-Team1: 145 Team2: 167
-Substitution: Mo Williams out, Matthew Dellavedova in (inefficient/exceeded seconds)
+Team1: 92 Team2: 89
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (7s)
-Stephen Curry makes a 3-point shot! (3s)
+Stephen Curry passes to Matt Barnes (3s)
+Matt Barnes misses a 2-point shot (7s)
 === Current Score ===
-Team1: 145 Team2: 170
-Substitution: Matthew Dellavedova out, Mo Williams in (inefficient/exceeded seconds)
+Team1: 92 Team2: 89
+Substitution: Harrison Barnes out, Klay Thompson in (plus-minus: 6, total seconds: 1899/1643)
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (2s)
+Kevin Love dribbles (5s)
+Kevin Love passes to James Jones (4s)
+James Jones passes to LeBron James (3s)
+LeBron James passes to Kyrie Irving (5s)
+Kyrie Irving misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 92 Team2: 89
+Substitution: Tristan Thompson out, Richard Jefferson in (plus-minus: -3, total seconds: 1898/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green passes to Klay Thompson (3s)
+James Jones blocks the shot of Klay Thompson!
+=== Current Score ===
+Team1: 92 Team2: 89
+
+LeBron James starts with the ball
+LeBron James passes to James Jones (1s)
+James Jones misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 92 Team2: 89
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (4s)
+Stephen Curry passes to Draymond Green (6s)
+Draymond Green misses a 3-point shot (1s)
+=== Current Score ===
+Team1: 92 Team2: 89
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 94 Team2: 89
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 94 Team2: 89
+Substitution: Draymond Green out, Harrison Barnes in (plus-minus: -15, total seconds: 1960/2023)
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 94 Team2: 89
+Substitution: Richard Jefferson out, Tristan Thompson in (plus-minus: -4, total seconds: 1882/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 94 Team2: 89
+
+LeBron James starts with the ball
+LeBron James passes to James Jones (4s)
+James Jones passes to Kyrie Irving (7s)
+Kyrie Irving passes to Kevin Love (2s)
+Kevin Love passes to LeBron James (4s)
+LeBron James passes to Kyrie Irving (5s)
+Kyrie Irving passes to LeBron James (2s)
+=== Current Score ===
+Team1: 94 Team2: 89
 
 LeBron James starts with the ball
 LeBron James passes to Kyrie Irving (6s)
-Shaun Livingston blocks the shot of Mo Williams!
+Kyrie Irving misses a 3-point shot (5s)
 === Current Score ===
-Team1: 145 Team2: 170
+Team1: 94 Team2: 89
 
-Quarter 4 Score: Team1 145 - Team2 170
+Stephen Curry starts with the ball
+James Jones steals the ball from Stephen Curry!
+=== Current Score ===
+Team1: 94 Team2: 89
+
+LeBron James starts with the ball
+LeBron James passes to James Jones (6s)
+James Jones misses a 2-point shot (2s)
+=== Current Score ===
+Team1: 94 Team2: 89
+Substitution: Tristan Thompson out, Richard Jefferson in (plus-minus: -3, total seconds: 1947/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 94 Team2: 91
+Substitution: Stephen Curry out, Draymond Green in (plus-minus: -3, total seconds: 1968/2023)
+
+LeBron James starts with the ball
+Draymond Green blocks the shot of LeBron James!
+=== Current Score ===
+Team1: 94 Team2: 91
+
+Draymond Green starts with the ball
+Draymond Green passes to Matt Barnes (6s)
+Matt Barnes misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 94 Team2: 91
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (3s)
+Andre Iguodala steals the ball from Kevin Love!
+=== Current Score ===
+Team1: 94 Team2: 91
+
+Draymond Green starts with the ball
+Draymond Green makes a 3-point shot! (1s)
+=== Current Score ===
+Team1: 94 Team2: 94
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 96 Team2: 94
+Substitution: Richard Jefferson out, Tristan Thompson in (plus-minus: -7, total seconds: 1910/1800)
+
+Draymond Green starts with the ball
+Draymond Green misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 96 Team2: 94
+Substitution: Andre Iguodala out, Stephen Curry in (plus-minus: 3, total seconds: 2028/1982)
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (3s)
+Kyrie Irving passes to Kevin Love (8s)
+Kevin Love passes to James Jones (2s)
+James Jones dribbles (4s)
+James Jones misses a 2-point shot (2s)
+=== Current Score ===
+Team1: 96 Team2: 94
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 96 Team2: 96
+
+LeBron James starts with the ball
+LeBron James passes to James Jones (1s)
+Matt Barnes blocks the shot of James Jones!
+=== Current Score ===
+Team1: 96 Team2: 96
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (6s)
+=== Current Score ===
+Team1: 96 Team2: 96
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (4s)
+Kyrie Irving makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 98 Team2: 96
+Substitution: Tristan Thompson out, Richard Jefferson in (plus-minus: -3, total seconds: 1988/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 98 Team2: 99
+Substitution: Draymond Green out, Andre Iguodala in (plus-minus: -11, total seconds: 2028/2023)
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 98 Team2: 99
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (4s)
+Harrison Barnes makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 98 Team2: 102
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (2s)
+Richard Jefferson passes to Kyrie Irving (6s)
+Kyrie Irving passes to LeBron James (7s)
+LeBron James passes to Richard Jefferson (4s)
+Richard Jefferson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (2s)
+Klay Thompson misses a 3-point shot (8s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+LeBron James starts with the ball
+LeBron James misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 100 Team2: 102
+Substitution: Richard Jefferson out, Tristan Thompson in (plus-minus: -11, total seconds: 1965/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (3s)
+Andre Iguodala passes to Harrison Barnes (7s)
+Harrison Barnes misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 100 Team2: 102
+Substitution: Stephen Curry out, Draymond Green in (plus-minus: 1, total seconds: 2075/2023)
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (1s)
+Tristan Thompson passes to Kevin Love (5s)
+Kevin Love passes to James Jones (5s)
+James Jones passes to LeBron James (6s)
+LeBron James passes to Kevin Love (7s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+LeBron James starts with the ball
+LeBron James passes to Kyrie Irving (6s)
+Kyrie Irving passes to LeBron James (4s)
+LeBron James passes to James Jones (3s)
+James Jones dribbles (3s)
+James Jones misses a 3-point shot (6s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+Draymond Green starts with the ball
+Draymond Green passes to Harrison Barnes (2s)
+Harrison Barnes misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (2s)
+Tristan Thompson passes to Kyrie Irving (3s)
+Kyrie Irving passes to Tristan Thompson (7s)
+Tristan Thompson passes to Kevin Love (3s)
+Kevin Love passes to Kyrie Irving (1s)
+Kyrie Irving passes to Kevin Love (4s)
+Kevin Love passes to Tristan Thompson (4s)
+=== Current Score ===
+Team1: 100 Team2: 102
+Substitution: LeBron James out, Richard Jefferson in (plus-minus: 2, total seconds: 2322/2056)
+
+Kyrie Irving starts with the ball
+Kyrie Irving dribbles (4s)
+Kyrie Irving passes to James Jones (7s)
+James Jones misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+Draymond Green starts with the ball
+Draymond Green misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Kevin Love (8s)
+Klay Thompson blocks the shot of Kevin Love!
+=== Current Score ===
+Team1: 100 Team2: 102
+
+Draymond Green starts with the ball
+Draymond Green misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 100 Team2: 102
+Substitution: Draymond Green out, Stephen Curry in (plus-minus: -11, total seconds: 2134/2023)
+
+Kyrie Irving starts with the ball
+Kyrie Irving misses a 3-point shot (8s)
+=== Current Score ===
+Team1: 100 Team2: 102
+Substitution: Richard Jefferson out, LeBron James in (plus-minus: -11, total seconds: 2003/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (8s)
+Kevin Love passes to Kyrie Irving (4s)
+Kyrie Irving passes to LeBron James (4s)
+LeBron James passes to Tristan Thompson (4s)
+Tristan Thompson misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 100 Team2: 102
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 100 Team2: 105
+
+LeBron James starts with the ball
+Stephen Curry steals the ball from LeBron James!
+=== Current Score ===
+Team1: 100 Team2: 105
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 100 Team2: 108
+Substitution: Stephen Curry out, Draymond Green in (plus-minus: 7, total seconds: 2117/2023)
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 102 Team2: 108
+Substitution: LeBron James out, Richard Jefferson in (plus-minus: -2, total seconds: 2360/2056)
+
+Draymond Green starts with the ball
+Draymond Green passes to Harrison Barnes (6s)
+Harrison Barnes misses a 2-point shot (1s)
+=== Current Score ===
+Team1: 102 Team2: 108
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Richard Jefferson (4s)
+Richard Jefferson misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 102 Team2: 108
+
+Draymond Green starts with the ball
+Draymond Green passes to Klay Thompson (7s)
+Klay Thompson misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 102 Team2: 108
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Tristan Thompson (6s)
+Tristan Thompson misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 102 Team2: 108
+
+Draymond Green starts with the ball
+Draymond Green misses a 3-point shot (4s)
+=== Current Score ===
+Team1: 102 Team2: 108
+Substitution: Draymond Green out, Stephen Curry in (plus-minus: -13, total seconds: 2176/2023)
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Tristan Thompson (4s)
+Tristan Thompson makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 104 Team2: 108
+Substitution: Kyrie Irving out, LeBron James in (plus-minus: -1, total seconds: 2320/1854)
+
+Stephen Curry starts with the ball
+LeBron James blocks the shot of Stephen Curry!
+=== Current Score ===
+Team1: 104 Team2: 108
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (6s)
+Tristan Thompson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 106 Team2: 108
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 106 Team2: 110
+
+LeBron James starts with the ball
+LeBron James passes to Kevin Love (7s)
+Kevin Love dribbles (3s)
+Kevin Love passes to Richard Jefferson (4s)
+Richard Jefferson passes to Tristan Thompson (6s)
+Tristan Thompson makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 108 Team2: 110
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Harrison Barnes (1s)
+Harrison Barnes passes to Klay Thompson (4s)
+Klay Thompson makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 108 Team2: 112
+Substitution: Andre Iguodala out, Draymond Green in (plus-minus: 6, total seconds: 2354/1982)
+
+LeBron James starts with the ball
+LeBron James passes to Tristan Thompson (3s)
+Tristan Thompson misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 108 Team2: 112
+Substitution: LeBron James out, Kyrie Irving in (plus-minus: -2, total seconds: 2428/2056)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (3s)
+Draymond Green passes to Klay Thompson (3s)
+Klay Thompson passes to Stephen Curry (6s)
+Tristan Thompson blocks the shot of Stephen Curry!
+=== Current Score ===
+Team1: 108 Team2: 112
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Richard Jefferson (6s)
+Richard Jefferson passes to Kevin Love (2s)
+Kevin Love makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 110 Team2: 112
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (6s)
+Klay Thompson passes to Stephen Curry (7s)
+Kevin Love blocks the shot of Stephen Curry!
+=== Current Score ===
+Team1: 110 Team2: 112
+
+Kyrie Irving starts with the ball
+Kyrie Irving makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 112 Team2: 112
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 112 Team2: 112
+Substitution: Harrison Barnes out, Andre Iguodala in (plus-minus: 11, total seconds: 2409/1643)
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to Tristan Thompson (8s)
+Tristan Thompson makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 114 Team2: 112
+Substitution: Kyrie Irving out, LeBron James in (plus-minus: 5, total seconds: 2386/1854)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Matt Barnes (3s)
+Matt Barnes misses a 3-point shot (3s)
+=== Current Score ===
+Team1: 114 Team2: 112
+
+LeBron James starts with the ball
+Klay Thompson blocks the shot of LeBron James!
+=== Current Score ===
+Team1: 114 Team2: 112
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 114 Team2: 112
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 116 Team2: 112
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson passes to Matt Barnes (2s)
+Matt Barnes makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 116 Team2: 115
+Substitution: Klay Thompson out, Harrison Barnes in (plus-minus: 6, total seconds: 2427/1671)
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (5s)
+=== Current Score ===
+Team1: 116 Team2: 115
+Substitution: LeBron James out, Kyrie Irving in (plus-minus: -3, total seconds: 2458/2056)
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (3s)
+Andre Iguodala misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 116 Team2: 115
+
+Kyrie Irving starts with the ball
+Kyrie Irving passes to James Jones (7s)
+James Jones passes to Kyrie Irving (6s)
+Kyrie Irving passes to James Jones (7s)
+James Jones passes to Kyrie Irving (4s)
+=== Current Score ===
+Team1: 116 Team2: 115
+
+Kyrie Irving starts with the ball
+Kyrie Irving misses a 2-point shot (3s)
+=== Current Score ===
+Team1: 116 Team2: 115
+
+Stephen Curry starts with the ball
+James Jones steals the ball from Stephen Curry!
+=== Current Score ===
+Team1: 116 Team2: 115
+
+Kyrie Irving starts with the ball
+Kyrie Irving misses a 2-point shot (4s)
+=== Current Score ===
+Team1: 116 Team2: 115
+Substitution: Kevin Love out, LeBron James in (plus-minus: 3, total seconds: 2436/1800)
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 116 Team2: 117
+Substitution: Harrison Barnes out, Klay Thompson in (plus-minus: 13, total seconds: 2462/1643)
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 118 Team2: 117
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (7s)
+Richard Jefferson steals the ball from Klay Thompson!
+=== Current Score ===
+Team1: 118 Team2: 117
+
+LeBron James starts with the ball
+LeBron James passes to Richard Jefferson (4s)
+=== Current Score ===
+Team1: 118 Team2: 117
+
+Quarter 4 Score: Team1 118 - Team2 117
 
 === Final Score ===
-Team1: 145
-Team2: 170
+Team1: 118
+Team2: 117
 
 [DEBUG] expected seconds per team (5 players * game seconds): 14400
 [DEBUG] actual Team1 summed player seconds: 14400
 [DEBUG] actual Team2 summed player seconds: 14400
 --- Team1 Box Score ---
 LeBron James's recommended minutes: 34:16
-LeBron James: PTS 33, AST 4, TOV 13, FGM/FGA 16/25, 3PM/3PA 1/2, STL 0, BLK 0, Time 37:17
-Mo Williams's recommended minutes: 34:16
-Mo Williams: PTS 13, AST 5, TOV 6, FGM/FGA 5/18, 3PM/3PA 3/8, STL 1, BLK 1, Time 36:46
-James Jones's recommended minutes: 11:13
-James Jones: PTS 25, AST 0, TOV 2, FGM/FGA 9/17, 3PM/3PA 7/12, STL 0, BLK 2, Time 28:46
+LeBron James: PTS 57, AST 14, TOV 5, FGM/FGA 27/56, 3PM/3PA 3/10, STL 2, BLK 2, Time 41:29,plus/minus: -3
 Kyrie Irving's recommended minutes: 30:54
-Kyrie Irving: PTS 28, AST 4, TOV 5, FGM/FGA 12/31, 3PM/3PA 4/8, STL 0, BLK 0, Time 37:21
-Channing Frye's recommended minutes: 21:13
-Channing Frye: PTS 27, AST 0, TOV 2, FGM/FGA 11/19, 3PM/3PA 5/9, STL 0, BLK 0, Time 26:58
-Richard Jefferson's recommended minutes: 30:00
-Richard Jefferson: PTS 4, AST 1, TOV 0, FGM/FGA 2/4, 3PM/3PA 0/0, STL 4, BLK 0, Time 16:46
+Kyrie Irving: PTS 27, AST 6, TOV 1, FGM/FGA 11/26, 3PM/3PA 5/9, STL 1, BLK 3, Time 40:59,plus/minus: 5
 Tristan Thompson's recommended minutes: 30:00
-Tristan Thompson: PTS 0, AST 0, TOV 1, FGM/FGA 0/3, 3PM/3PA 0/0, STL 0, BLK 0, Time 7:05
+Tristan Thompson: PTS 18, AST 0, TOV 3, FGM/FGA 9/18, 3PM/3PA 0/1, STL 0, BLK 1, Time 40:39,plus/minus: 0
+Richard Jefferson's recommended minutes: 30:00
+Richard Jefferson: PTS 5, AST 6, TOV 2, FGM/FGA 2/14, 3PM/3PA 1/4, STL 2, BLK 1, Time 38:08,plus/minus: -4
+James Jones's recommended minutes: 11:13
+James Jones: PTS 3, AST 0, TOV 0, FGM/FGA 1/8, 3PM/3PA 1/3, STL 2, BLK 1, Time 17:21,plus/minus: -1
+Mo Williams's recommended minutes: 34:16
+Mo Williams: PTS 4, AST 1, TOV 0, FGM/FGA 2/5, 3PM/3PA 0/0, STL 0, BLK 1, Time 14:09,plus/minus: 10
+Channing Frye's recommended minutes: 21:13
+Channing Frye: PTS 0, AST 0, TOV 0, FGM/FGA 0/0, 3PM/3PA 0/0, STL 0, BLK 0, Time 0:00,plus/minus: 0
 Kevin Love's recommended minutes: 30:00
-Kevin Love: PTS 2, AST 1, TOV 0, FGM/FGA 1/12, 3PM/3PA 0/2, STL 0, BLK 0, Time 21:10
+Kevin Love: PTS 4, AST 4, TOV 2, FGM/FGA 2/8, 3PM/3PA 0/1, STL 1, BLK 1, Time 40:36,plus/minus: 3
 Dahntay Jones's recommended minutes: 9:14
-Dahntay Jones: PTS 4, AST 0, TOV 1, FGM/FGA 2/4, 3PM/3PA 0/0, STL 0, BLK 0, Time 12:01
+Dahntay Jones: PTS 0, AST 0, TOV 0, FGM/FGA 0/0, 3PM/3PA 0/0, STL 0, BLK 0, Time 0:00,plus/minus: 0
 Matthew Dellavedova's recommended minutes: 8:55
-Matthew Dellavedova: PTS 9, AST 0, TOV 1, FGM/FGA 3/8, 3PM/3PA 3/5, STL 2, BLK 0, Time 15:50
+Matthew Dellavedova: PTS 0, AST 0, TOV 0, FGM/FGA 0/2, 3PM/3PA 0/1, STL 0, BLK 0, Time 6:39,plus/minus: -5
 
 
 --- Team2 Box Score ---
 Stephen Curry's recommended minutes: 33:43
-Stephen Curry: PTS 46, AST 5, TOV 8, FGM/FGA 18/26, 3PM/3PA 10/15, STL 0, BLK 2, Time 26:41
-Harrison Barnes's recommended minutes: 27:23
-Harrison Barnes: PTS 27, AST 4, TOV 1, FGM/FGA 12/29, 3PM/3PA 3/11, STL 3, BLK 1, Time 40:04
-Andre Iguodala's recommended minutes: 33:02
-Andre Iguodala: PTS 14, AST 0, TOV 1, FGM/FGA 6/13, 3PM/3PA 2/4, STL 1, BLK 0, Time 25:34
-Shaun Livingston's recommended minutes: 18:33
-Shaun Livingston: PTS 6, AST 4, TOV 3, FGM/FGA 3/6, 3PM/3PA 0/0, STL 1, BLK 2, Time 29:53
-Draymond Green's recommended minutes: 33:43
-Draymond Green: PTS 23, AST 8, TOV 4, FGM/FGA 10/23, 3PM/3PA 3/9, STL 4, BLK 1, Time 36:45
-Marreese Speights's recommended minutes: 9:59
-Marreese Speights: PTS 6, AST 0, TOV 1, FGM/FGA 3/4, 3PM/3PA 0/0, STL 0, BLK 1, Time 11:37
-Klay Thompson's recommended minutes: 27:51
-Klay Thompson: PTS 18, AST 1, TOV 2, FGM/FGA 8/18, 3PM/3PA 2/7, STL 1, BLK 1, Time 19:34
+Stephen Curry: PTS 41, AST 18, TOV 8, FGM/FGA 18/46, 3PM/3PA 5/16, STL 1, BLK 1, Time 39:24,plus/minus: 0
 Matt Barnes's recommended minutes: 17:12
-Matt Barnes: PTS 13, AST 0, TOV 0, FGM/FGA 5/14, 3PM/3PA 3/6, STL 1, BLK 1, Time 19:11
-Leandro Barbosa's recommended minutes: 15:16
-Leandro Barbosa: PTS 15, AST 0, TOV 0, FGM/FGA 6/15, 3PM/3PA 3/3, STL 0, BLK 0, Time 19:52
+Matt Barnes: PTS 3, AST 0, TOV 0, FGM/FGA 1/4, 3PM/3PA 1/2, STL 0, BLK 1, Time 12:00,plus/minus: 4
+Draymond Green's recommended minutes: 33:43
+Draymond Green: PTS 14, AST 5, TOV 1, FGM/FGA 6/25, 3PM/3PA 2/8, STL 0, BLK 2, Time 39:12,plus/minus: -18
+Andre Iguodala's recommended minutes: 33:02
+Andre Iguodala: PTS 12, AST 1, TOV 1, FGM/FGA 6/16, 3PM/3PA 0/3, STL 2, BLK 0, Time 41:09,plus/minus: 5
+Klay Thompson's recommended minutes: 27:51
+Klay Thompson: PTS 21, AST 1, TOV 4, FGM/FGA 9/15, 3PM/3PA 3/7, STL 1, BLK 2, Time 40:52,plus/minus: 4
 Andrew Bogut's recommended minutes: 23:17
-Andrew Bogut: PTS 2, AST 0, TOV 1, FGM/FGA 1/2, 3PM/3PA 0/0, STL 0, BLK 1, Time 10:49
+Andrew Bogut: PTS 2, AST 1, TOV 0, FGM/FGA 1/1, 3PM/3PA 0/0, STL 0, BLK 0, Time 6:17,plus/minus: 6
+Shaun Livingston's recommended minutes: 18:33
+Shaun Livingston: PTS 6, AST 2, TOV 0, FGM/FGA 3/8, 3PM/3PA 0/0, STL 0, BLK 0, Time 13:39,plus/minus: -13
+Harrison Barnes's recommended minutes: 27:23
+Harrison Barnes: PTS 18, AST 5, TOV 1, FGM/FGA 7/19, 3PM/3PA 4/8, STL 2, BLK 1, Time 41:02,plus/minus: 13
+Leandro Barbosa's recommended minutes: 15:16
+Leandro Barbosa: PTS 0, AST 0, TOV 0, FGM/FGA 0/1, 3PM/3PA 0/0, STL 1, BLK 0, Time 6:25,plus/minus: -6
+Marreese Speights's recommended minutes: 9:59
+Marreese Speights: PTS 0, AST 0, TOV 0, FGM/FGA 0/0, 3PM/3PA 0/0, STL 0, BLK 0, Time 0:00,plus/minus: 0
 
 

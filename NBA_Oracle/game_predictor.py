@@ -209,6 +209,8 @@ class PlayerBoxScore:
         self.ftm = 0
         self.fta = 0
         self.ftp = 0.000
+        #plus minus
+        self.plus_minus = 0
 
 class Player:
     def __init__(self,player_df):
@@ -254,6 +256,7 @@ class Team:
         # Create Player objects
         self.players = {row['player_id']: Player(row) for _, row in team_df.iterrows()}
         self.starters = [p for p in self.players.values() if p.role == 'Starter']
+        self.original_starters = [p for p in self.players.values() if p.role == 'Starter']
         self.bench = [p for p in self.players.values() if p.role == 'Bench']
         self.wins = 0
         self.losses = 0
@@ -277,6 +280,8 @@ class Game:
         #possession counter for both teams
         self.poss_counter1 = 0
         self.poss_counter2 = 0
+        self.last_sub_poss1 = -10
+        self.last_sub_poss2 = -10
 
         #all occurances within the game
         self.occurances = []
@@ -301,6 +306,7 @@ class Game:
             def log(msg):
                 print(msg)
                 self.occurances.append(msg)
+
             
             self.current_quarter = 1
 
@@ -365,7 +371,9 @@ class Game:
                     b = getattr(p, "box", None)
                     if b:
                         log(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
-                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}")
+                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, "
+                            f"STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}"
+                            f",plus/minus: {b.plus_minus}")
                 log("\n")
                 print(f"team total seconds {total_secs}\n")
                 print(f"shots attempted: {total_shot_attempts}\n")
@@ -464,43 +472,73 @@ class Game:
             # Log
             actions += f"Substitution (inefficient shooter): {sub_out.name} out, {sub_in.name} in\n"
         '''
-        def perform_substitution(team):
+        def perform_substitution(team, total_game_seconds=48*60):
+            """
+            Substitutes players considering:
+            - Starter cap (85% of total game time)
+            - Plus-minus
+            - Recommended seconds
+            - Original starter priority
+            """
             nonlocal players_on_court, actions
-            # Eligible starters: either completed stint or reached recommended seconds
-            eligible = [
-                s for s in team.starters
-                if s.stint_seconds >= MIN_STINT or s.total_seconds >= getattr(s, 'seconds', 0)
-            ]
-            if not eligible:
-                return
+            MIN_STINT = 60 * 6
+            STARTER_CAP = total_game_seconds * 0.8  # 85% of game time
 
-            # Least efficient starter
-            sub_out = min(eligible, key=lambda p: p.box.fgp)
+            # --- Force substitution for any starter exceeding the cap ---
+            over_cap_starters = [s for s in team.starters if s.total_seconds >= STARTER_CAP]
+            if over_cap_starters:
+                sub_out = max(over_cap_starters, key=lambda p: p.total_seconds)
+            else:
+                # Eligible starters by stint or recommended seconds
+                eligible = [
+                    s for s in team.starters
+                    if s.stint_seconds >= MIN_STINT or s.total_seconds >= getattr(s, "seconds", 0)
+                ]
+                if not eligible:
+                    return  # no sub needed
+                # Pick starter with lowest plus-minus among eligible
+                sub_out = min(eligible, key=lambda p: p.box.plus_minus)
 
-            # Bench candidates of same position not on court
-            candidates = [b for b in team.bench if b.position == sub_out.position and b not in team.starters]
-            if not candidates:
-                # fallback: any bench player not on court
-                candidates = [b for b in team.bench if b not in team.starters]
-            if not candidates:
-                return
+            # --- Select sub-in player ---
+            bench_candidates = [b for b in team.bench if b not in team.starters]
+            # Prefer original starters on bench
+            original_on_bench = [b for b in getattr(team, "original_starters", []) if b in bench_candidates]
+            if original_on_bench:
+                sub_in = min(original_on_bench, key=lambda b: b.total_seconds)
+                candidates = original_on_bench
+            else:
+                same_pos_bench = [b for b in bench_candidates if b.position == sub_out.position]
+                sub_in = min(same_pos_bench, key=lambda b: b.total_seconds) if same_pos_bench else min(bench_candidates, key=lambda b: b.total_seconds)
+                candidates = bench_candidates
+            
+            
+            # --- Weighted selection based on remaining allowed minutes ---
+            remaining_allowed = [max(getattr(b, 'seconds', 0) - b.total_seconds, 1) for b in candidates]
+            total_remaining = sum(remaining_allowed)
+            weights = [r / total_remaining for r in remaining_allowed]
 
-            # Least used bench player
-            sub_in = min(candidates, key=lambda b: b.total_seconds)
-
-            # Swap
+            sub_in = random.choices(candidates, weights=weights, k=1)[0]
+            # --- Swap players ---
             idx_starter = team.starters.index(sub_out)
             idx_bench = team.bench.index(sub_in)
             team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
 
-            # Reset stint counters
+            # --- Reset stint timers ---
             sub_out.stint_seconds = 0
             sub_in.stint_seconds = 0
 
-            # Update players on court
+            # --- Update players on court ---
             players_on_court = team.starters
 
-            actions += f"Substitution: {sub_out.name} out, {sub_in.name} in (inefficient/exceeded seconds)\n"
+            # --- Log substitution ---
+            actions += (
+                f"Substitution: {sub_out.name} out, {sub_in.name} in "
+                f"(plus-minus: {sub_out.box.plus_minus}, total seconds: {sub_out.total_seconds}/{getattr(sub_out,'seconds',0)})\n"
+            )
+
+
+
+
 
         rem = int(remaining_secs)
 
@@ -518,7 +556,7 @@ class Game:
             defenders_on_court = defense.starters
 
             # Determine action: pass, dribble, shot, turnover
-            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1)+0.05,0.25)
+            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1)+0.02,0.1)
             shooting_volume = ball_handler.FGM / max(ball_handler.gp,1)
             shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA,1) if ball_handler.FGA else 0.45
             volume_f = min(shooting_volume/20,1)
@@ -531,7 +569,24 @@ class Game:
 
             pass_prob = 0.2 + pass_bias
             shot_prob = base_shot_prob * (1 - pass_bias)
-            dribble_prob = 1 - (pass_prob + shot_prob + turnover_prob)
+            dribble_prob = max(0.05,1 - (pass_prob + shot_prob + turnover_prob))
+
+            #normalize
+            sum_probs = pass_prob + shot_prob + dribble_prob + turnover_prob
+            pass_prob /= sum_probs
+            shot_prob /= sum_probs
+            dribble_prob /= sum_probs
+            turnover_prob /= sum_probs
+
+            #PRINT ODDS
+            # Print probabilities
+            print(f"{ball_handler.name} action probabilities:")
+            print(f"  Pass: {pass_prob:.3f}")
+            print(f"  Dribble: {dribble_prob:.3f}")
+            print(f"  Shot: {shot_prob:.3f}")
+            print(f"  Turnover: {turnover_prob:.3f}")            
+
+
 
             action = random.choices(
                 ["pass","dribble","shot","turnover"],
@@ -539,10 +594,12 @@ class Game:
                 k=1
             )[0]
 
+
+
             # --- PASS ACTION ---
             if action == "pass":
                 steal_weights = [p.spg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
-                if random.random() < 0.05:
+                if random.random() < 0.03:
                     stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
                     stealer.box.stl += 1
                     ball_handler.box.tov += 1
@@ -582,7 +639,8 @@ class Game:
                     weight *= 1.3
                     shooting_weights[p] = max(weight, 0.01)
 
-                shooter = random.choices(list(shooting_weights.keys()), weights=list(shooting_weights.values()), k=1)[0]
+                #shooter = random.choices(list(shooting_weights.keys()), weights=list(shooting_weights.values()), k=1)[0]
+                shooter = ball_handler
                 three_point_rate = shooter.FG3A / max(shooter.FGA, 1) if shooter.FGA else 0.1
                 is_three = random.random() < three_point_rate
                 points = 3 if is_three else 2
@@ -641,6 +699,14 @@ class Game:
                 self.team1_score += points
             else:
                 self.team2_score += points
+            
+            # --- UPDATE PLAYER PLUS/MINUS ---
+            for p in defenders_on_court:
+                p.box.plus_minus -= points
+            
+            for p in players_on_court:
+                p.box.plus_minus += points
+
 
         # Print actions
         actions += "=== Current Score ===\n"
@@ -654,11 +720,25 @@ class Game:
             defender.total_seconds = getattr(defender, "total_seconds", 0) + possession_time
             defender.stint_seconds = getattr(defender, "stint_seconds", 0) + possession_time
 
-
-        if self.poss_counter1 % 6 == 0:
+        '''
+        if self.poss_counter1 - self.last_sub_poss1 >= 4:
+            if self.poss_counter1 % 9 == 0:
+                perform_substitution(self.team1)
+                self.last_sub_poss1 = self.poss_counter1
+        if self.poss_counter2 - self.last_sub_poss2 >= 4:     
+            if self.poss_counter2 % 9 == 0:
+                perform_substitution(self.team2)
+                self.last_sub_poss2 = self.poss_counter2
+        self.occurances.append(actions)
+        '''
+        MIN_POSSESSIONS_BETWEEN_SUBS = 3
+        if (self.poss_counter1 - self.last_sub_poss1) >= MIN_POSSESSIONS_BETWEEN_SUBS:
             perform_substitution(self.team1)
-        if self.poss_counter2 % 6 == 0:
+            self.last_sub_poss1 = self.poss_counter1
+
+        if (self.poss_counter2 - self.last_sub_poss2) >= MIN_POSSESSIONS_BETWEEN_SUBS:
             perform_substitution(self.team2)
+            self.last_sub_poss2 = self.poss_counter2
         self.occurances.append(actions)
         return possession_time
 
