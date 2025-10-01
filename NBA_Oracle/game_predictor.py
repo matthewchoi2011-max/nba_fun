@@ -400,7 +400,7 @@ class Game:
         points = 0
         result = None
 
-
+        '''
         def perform_substitution(team):
             """
             Substitutes starters with bench players of the same position.
@@ -439,6 +439,52 @@ class Game:
 
                     # Log substitution
                     actions += f"Substitution: {starter.name} out, {sub_in.name} in\n"
+                    '''
+        
+        def perform_substitution(team):
+            """
+            Substitutes the least efficient starter (by FGP) with a bench player of same position,
+            but only if the starter has played at least MIN_STINT seconds in current stint.
+            """
+            nonlocal players_on_court, actions
+            MIN_STINT = random.choices([180,240,300,360,420,480],[0.1,0.2,0.2,0.2,0.2,0.1])[0]  # 6 minutes per stint
+
+            # Filter starters who have played at least MIN_STINT
+            eligible_starters = [s for s in team.starters if s.stint_seconds >= MIN_STINT]
+
+            if not eligible_starters:
+                return  # no one eligible yet
+
+            # Find the least efficient starter by field goal percentage
+            sub_out = min(eligible_starters, key=lambda p: p.box.fgp)
+
+            # Find bench players of same position not currently on court
+            same_pos_bench = [b for b in team.bench if b.position == sub_out.position and b not in team.starters]
+
+            if not same_pos_bench:
+                # fallback: any bench player not on court
+                same_pos_bench = [b for b in team.bench if b not in team.starters]
+
+            if not same_pos_bench:
+                return  # no valid sub
+
+            # Pick bench player with least total seconds (least used)
+            sub_in = min(same_pos_bench, key=lambda b: b.total_seconds)
+
+            # Swap
+            idx_starter = team.starters.index(sub_out)
+            idx_bench = team.bench.index(sub_in)
+            team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
+
+            # Reset stint timers for swapped players
+            sub_out.stint_seconds = 0
+            sub_in.stint_seconds = 0
+
+            # Update players on court
+            players_on_court = team.starters
+
+            # Log
+            actions += f"Substitution (inefficient shooter): {sub_out.name} out, {sub_in.name} in\n"
 
         rem = int(remaining_secs)
 
@@ -555,14 +601,18 @@ class Game:
                     if is_three:
                         shooter.box.tpm += 1
                         shooter.box.tpa += 1
+                        shooter.box.tpp = round(shooter.box.tpm/shooter.box.tpa,3)
                     if passes > 0 and last_passer and last_passer != shooter:
                         last_passer.box.ast += 1
+                    shooter.box.fgp = round(shooter.box.fgm/shooter.box.fga,3)
                 else:
                     actions += f"{shooter.name} misses a {points}-point shot ({action_time}s)\n"
                     shooter.box.fga += 1
                     if is_three:
                         shooter.box.tpa += 1
+                        shooter.box.tpp = round(shooter.box.tpm/shooter.box.tpa,3)
                     result = "miss"
+                    shooter.box.fgp = round(shooter.box.fgm/shooter.box.fga,3)
                     points = 0
 
                 self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
