@@ -340,9 +340,11 @@ class Game:
         - 24-second shot clock
         - Passes, assists, and turnovers tracked
         - 2-point vs 3-point shot accuracy
+        - End-of-quarter last-second shot
         """
         # Determine team in possession
         team = self.team1 if self.curr_possession == 'Team1' else self.team2
+        defence = self.team2 if self.curr_possession == 'Team1' else self.team1
 
         # Choose ball handler: starter with highest APG
         starters = team.starters
@@ -361,62 +363,40 @@ class Game:
         players_on_court = team.starters  # could include bench if desired
 
         while shot_clock > 0:
-            # Each action takes 1-4 seconds(but preferably less time)
+            # Each action takes 1-4 seconds (weighted toward faster actions)
             possible_times = [1, 2, 3, 4]
+            weights = [0.45, 0.3, 0.15, 0.1]  # 1 sec most likely
+            action_time = random.choices(possible_times, weights=weights, k=1)[0]
 
-            # Assign weights inversely proportional to time
-            weights = [0.4, 0.3, 0.2, 0.1]  # 1 second most likely, 4 seconds least
-
-            # Randomly pick using weights
-            action_time = random.choices(possible_times, weights=weights, k=1)[0]            
+            # Check if end-of-quarter triggers last shot
+            if shot_clock <= action_time or self.time_left <= action_time:
+                action_time = max(1, shot_clock)  # use remaining time for final action
+                last_shot = True
+            else:
+                last_shot = False
 
             shot_clock -= action_time
-            if shot_clock <= 0:
-                actions.append(f"Shot Clock Expired! {self.curr_possession} ends in turnover.")
-                result = 'Turnover'
-                ball_handler.box.tov += 1
-                break
 
             # Probabilities
-            turnover_prob = max(ball_handler.tpg,1) / max(ball_handler.gp, 1)
+            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp, 1) + 0.05, 0.25)  # higher turnover chance
 
-            # manipulate shooting probability as a function of field goal quantity and quality
-            shooting_volume = ball_handler.FGM/ max(ball_handler.gp,1)
-            shooting_efficiency = ball_handler.FGM/ max(ball_handler.FGA,1)
-            volume_f = min(shooting_volume/20,1)
+            # Shooting tendency: efficiency + volume + PPG bias
+            shooting_volume = ball_handler.FGM / max(ball_handler.gp, 1)
+            shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA, 1) if ball_handler.FGA else 0.45
+            volume_f = min(shooting_volume / 20, 1)
             efficiency_f = shooting_efficiency
-            #low volume booster
             low_volume_boost = (1 - volume_f) * efficiency_f * 0.3
-            #penalize high volume shooters
-            #high_volume_penalty = volume_f ** 2 * (1 - efficiency_f) * 0.3/2
-            shot_prob = 0.15 + 0.4 * efficiency_f + 0.15 * volume_f + low_volume_boost
 
+            base_shot_prob = 0.25 + 0.6 * efficiency_f + 0.3 * volume_f + low_volume_boost
+            assist_factor = ball_handler.apg / max(ball_handler.gp, 1)
+            inefficiency_penalty = (1 - efficiency_f) * (ball_handler.FGA / max(ball_handler.gp, 1) / 20)
+            pass_bias = assist_factor / 10 + inefficiency_penalty
 
-            #passing tendency factors
-            assist_factor = ball_handler.apg / max(ball_handler.gp, 1)  # assists per game
-            efficiency = ball_handler.FGM / max(ball_handler.FGA, 1) if ball_handler.FGA else 0
-            volume = ball_handler.FGA / max(ball_handler.gp, 1)
-
-            # If player is inefficient & shoots a lot, increase pass tendency
-            inefficiency_penalty = (1 - efficiency) * (volume / 20)
-
-            # Weighted probability setup
-            base_shot_prob = 0.25 + 0.6 * efficiency + 0.3 * min(volume / 20, 1)
-            pass_bias = assist_factor / 10  # more assists → higher pass rate
-            pass_bias += inefficiency_penalty  # bad/inefficient shooters → pass more
-
-            # Normalize into probabilities
-            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp, 1) + 0.05, 0.25)
             pass_prob = 0.2 + pass_bias
-            shot_prob = base_shot_prob * (1 - pass_bias)  # efficient shooters keep higher chance
-
-            # Make sure they sum up to 1
-            total = pass_prob + shot_prob + turnover_prob + 0.3  # add dribble baseline
-            pass_prob /= total
-            shot_prob /= total
-            turnover_prob /= total
+            shot_prob = base_shot_prob * (1 - pass_bias)
             dribble_prob = 1 - (pass_prob + shot_prob + turnover_prob)
 
+            # Select action
             action = random.choices(
                 ["pass", "dribble", "shot", "turnover"],
                 weights=[pass_prob, dribble_prob, shot_prob, turnover_prob],
@@ -433,30 +413,20 @@ class Game:
             elif action == "dribble":
                 actions.append(f"{ball_handler.name} dribbles ({action_time}s)")
 
-            elif action == "shot":
-                # --- 1. Decide shooter from lineup ---
+            elif action == "shot" or last_shot:
+                # Decide shooter (weighted by efficiency, PPG, and 3-point rate)
                 shooting_weights = {}
-                for p in team.starters:  # or all 5 players on floor
-                    # Base weight: 3-point vs 2-point balance
+                for p in team.starters:
                     three_point_rate = p.FG3A / max(p.FGA, 1) if p.FGA else 0.1
-                    # Shooting efficiency
                     eff = p.FGM / max(p.FGA, 1) if p.FGA else 0.45
-                    # Scoring bias
-                    ppg_factor = min(p.ppg / 30, 1)  # normalize top scorers ~30 PPG
-
-                    # Combine factors: efficient & high-scoring players shoot more
+                    ppg_factor = min(p.ppg / 30, 1)
                     weight = (eff ** 2) * (1 - min(p.FGA / 25, 1)) + three_point_rate + 0.5 * ppg_factor
-                    weight *= 1.2 #increase tendency of high PPG shooters to shoot
-                    shooting_weights[p] = max(weight, 0.01)  # avoid zero
+                    weight *= 1.3  # increase high PPG shooters
+                    shooting_weights[p] = max(weight, 0.01)
 
-                # Select shooter randomly according to weights
-                shooter = random.choices(
-                    population=list(shooting_weights.keys()),
-                    weights=list(shooting_weights.values()),
-                    k=1
-                )[0]
+                shooter = random.choices(list(shooting_weights.keys()), weights=list(shooting_weights.values()), k=1)[0]
 
-                # --- 2. Decide shot type ---
+                # Decide shot type
                 three_point_rate = shooter.FG3A / max(shooter.FGA, 1) if shooter.FGA else 0.1
                 is_three = random.random() < three_point_rate
                 points = 3 if is_three else 2
@@ -464,8 +434,8 @@ class Game:
                 fg_chance = shooter.FG3_PCT if is_three and shooter.FG3_PCT else shooter.FG_PCT
                 fg_chance = fg_chance if fg_chance else 0.45
 
-                # --- 3. Simulate make or miss ---
-                made = random.random() < fg_chance + random.uniform(0.05,0.2) #add randomized weight
+                # Simulate make
+                made = random.random() < fg_chance + random.uniform(0.05, 0.25)  # increase scoring variability
 
                 if made:
                     actions.append(f"{shooter.name} makes a {points}-point shot! ({action_time}s)")
@@ -478,7 +448,6 @@ class Game:
                         shooter.box.tpa += 1
                     if passes > 0 and last_passer and last_passer != shooter:
                         last_passer.box.ast += 1
-
                 else:
                     actions.append(f"{shooter.name} misses a {points}-point shot ({action_time}s)")
                     result = "miss"
@@ -486,8 +455,8 @@ class Game:
                     shooter.box.fga += 1
                     if is_three:
                         shooter.box.tpa += 1
-                break
 
+                break
 
             elif action == "turnover":
                 actions.append(f"{ball_handler.name} turns the ball over ({action_time}s)")
@@ -495,10 +464,7 @@ class Game:
                 result = "turnover"
                 break
 
-        
-        
-
-        # Update team score
+        # Update score if any points
         if points > 0:
             if self.curr_possession == 'Team1':
                 self.team1_score += points
