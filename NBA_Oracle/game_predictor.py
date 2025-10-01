@@ -476,9 +476,13 @@ class Game:
         else:
             self.poss_counter2 += 1
 
-        ball_handler = max(team.starters, key=lambda p: p.apg) if team.starters else random.choice(list(team.players.values()))
+        
         players_on_court = team.starters
         defenders_on_court = defense.starters
+
+        
+        weights = [max(p.apg/ max(p.gp,1) * 2, 0.005) for p in players_on_court]
+        ball_handler = random.choices(players_on_court, weights=weights, k=1)[0]
 
         shot_clock = 24
         possession_time = 0
@@ -505,21 +509,21 @@ class Game:
 
             # --- Calculate probabilities ---
             turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) + 0.02, 0.1)
-            shooting_volume = ball_handler.FGM / max(ball_handler.gp,1)
+            shooting_volume = min(ball_handler.FGM / max(ball_handler.gp,1)/20,1)
             shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA,1) if ball_handler.FGA else 0.45
 
             # Low-volume boost for efficient shooters
             volume_f = min(shooting_volume / 20, 1)
             low_volume_boost = (1 - volume_f) * shooting_efficiency * 0.3
 
-            score_weight = shooting_efficiency + low_volume_boost
-            assist_weight = ball_handler.apg / max(ball_handler.gp,1)
+            score_weight = shooting_efficiency * 0.5 + low_volume_boost
+            assist_weight = min(ball_handler.apg / max(ball_handler.gp,1) * 60,0.8)
 
             # Normalize weights to probabilities
             total_offense = score_weight + assist_weight
-            shot_prob = (score_weight / total_offense) * (1 - turnover_prob)
+            shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.5
             pass_prob = (assist_weight / total_offense) * (1 - turnover_prob)
-            dribble_prob = max(0.05, 1 - (shot_prob + pass_prob + turnover_prob))
+            dribble_prob = 0.15
 
             # Final normalization
             sum_probs = pass_prob + shot_prob + dribble_prob + turnover_prob
