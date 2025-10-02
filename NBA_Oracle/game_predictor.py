@@ -298,92 +298,97 @@ class Game:
                 self.current_quarter = 1
 
     def simulate_full_game(self):
-            """
-            Simulate a full NBA game (4 quarters, plus overtime if needed).
-            Each possession uses self.simulate_possession.
-            """
+        """
+        Simulate a full NBA game (4 quarters, plus overtime if needed).
+        Each possession uses self.simulate_possession.
+        """
 
-            def log(msg):
-                print(msg)
-                self.occurances.append(msg)
+        def log(msg):
+            print(msg)
+            self.occurances.append(msg)
 
-            
+        
+        self.current_quarter = 1
+
+        while self.current_quarter <= 4 or (self.overtime and self.time_left > 0):
+            log(f"=== Quarter {self.current_quarter} ===")
+            self.time_left = 12 * 60  # 1 quarter = 12 * 60 seconds
+
+            while self.time_left > 0:
+                # Simulate a possession
+                t = self.simulate_possession(self.time_left)
+                t = max(0,min(self.time_left,t))
+                self.time_left -= t
+                # Approximate possession duration (could sum actual action times for precision)
+                #self.time_left -= 15  
+
+            log(f"Quarter {self.current_quarter} Score: Team1 {self.team1_score} - Team2 {self.team2_score}\n")
+            self.current_quarter += 1
+
+        # Check for overtime if tied
+        if self.team1_score == self.team2_score:
+            log("Game tied! Starting overtime...")
+            self.overtime = True
             self.current_quarter = 1
+            self.time_left = 12 * 60  # 5-minute overtime
+            while self.time_left > 0:
+                t = self.simulate_possession(self.time_left)
+                t = max(0,min(self.time_left,t))
+                self.time_left -= t
+                
 
-            while self.current_quarter <= 4 or (self.overtime and self.time_left > 0):
-                log(f"=== Quarter {self.current_quarter} ===")
-                self.time_left = 12 * 60  # 1 quarter = 12 * 60 seconds
-
-                while self.time_left > 0:
-                    # Simulate a possession
-                    t = self.simulate_possession(self.time_left)
-                    t = max(0,min(self.time_left,t))
-                    self.time_left -= t
-                    # Approximate possession duration (could sum actual action times for precision)
-                    #self.time_left -= 15  
-
-                log(f"Quarter {self.current_quarter} Score: Team1 {self.team1_score} - Team2 {self.team2_score}\n")
-                self.current_quarter += 1
-
-            # Check for overtime if tied
-            if self.team1_score == self.team2_score:
-                log("Game tied! Starting overtime...")
-                self.overtime = True
-                self.current_quarter = 1
-                self.time_left = 12 * 60  # 5-minute overtime
-                while self.time_left > 0:
-                    t = self.simulate_possession(self.time_left)
-                    t = max(0,min(self.time_left,t))
-                    self.time_left -= t
-                    
-
-            log("=== Final Score ===")
-            log(f"Team1: {self.team1_score}")
-            log(f"Team2: {self.team2_score}\n")
+        log("=== Final Score ===")
+        log(f"Team1: {self.team1_score}")
+        log(f"Team2: {self.team2_score}\n")
 
 
-            #debug seconds
-            total_game_seconds = 4 * 12 * 60  # regulation seconds
-            expected_team_player_seconds = total_game_seconds * 5
-            team1_total = sum(p.total_seconds for p in self.team1.starters + self.team1.bench)
-            team2_total = sum(p.total_seconds for p in self.team2.starters + self.team2.bench)
-            log(f"[DEBUG] expected seconds per team (5 players * game seconds): {expected_team_player_seconds}")
-            log(f"[DEBUG] actual Team1 summed player seconds: {team1_total}")
-            log(f"[DEBUG] actual Team2 summed player seconds: {team2_total}")
+        #debug seconds
+        total_game_seconds = 4 * 12 * 60  # regulation seconds
+        expected_team_player_seconds = total_game_seconds * 5
+        team1_total = sum(p.total_seconds for p in self.team1.starters + self.team1.bench)
+        team2_total = sum(p.total_seconds for p in self.team2.starters + self.team2.bench)
+        log(f"[DEBUG] expected seconds per team (5 players * game seconds): {expected_team_player_seconds}")
+        log(f"[DEBUG] actual Team1 summed player seconds: {team1_total}")
+        log(f"[DEBUG] actual Team2 summed player seconds: {team2_total}")
 
-            # Print box scores
-            def print_box(team, name):
-                log(f"--- {name} Box Score ---")
-                total_secs = 0
-                total_shot_attempts = 0
-                for p in team.starters + team.bench:
-                    rec_mins = p.seconds // 60
-                    rec_secs = p.seconds % 60
+        # Print box scores
+        def print_box(team, name):
+            log(f"--- {name} Box Score ---")
+            total_secs = 0
+            total_shot_attempts = 0
+            for p in team.starters + team.bench:
+                rec_mins = p.seconds // 60
+                rec_secs = p.seconds % 60
 
 
-                    log(f"{p.name}'s recommended minutes: {rec_mins}:{rec_secs:02d}")
-                    total_secs += p.total_seconds
-                    total_shot_attempts += p.box.fga
-                    #convert total seconds into minutes : seconds
-                    minutes = p.total_seconds // 60
-                    seconds = p.total_seconds % 60
+                log(f"{p.name}'s recommended minutes: {rec_mins}:{rec_secs:02d}")
+                total_secs += p.total_seconds
+                total_shot_attempts += p.box.fga
+                #convert total seconds into minutes : seconds
+                minutes = p.total_seconds // 60
+                seconds = p.total_seconds % 60
 
-                    b = getattr(p, "box", None)
-                    if b:
-                        log(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
-                            f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, "
-                            f"STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}"
-                            f",plus/minus: {b.plus_minus}")
-                log("\n")
-                print(f"team total seconds {total_secs}\n")
-                print(f"shots attempted: {total_shot_attempts}\n")
+                b = getattr(p, "box", None)
+                if b:
+                    log(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
+                        f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, "
+                        f"STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}"
+                        f",plus/minus: {b.plus_minus}")
+            log("\n")
+            print(f"team total seconds {total_secs}\n")
+            print(f"shots attempted: {total_shot_attempts}\n")
 
-            print_box(self.team1, "Team1")
-            print_box(self.team2, "Team2")
+        print_box(self.team1, "Team1")
+        print_box(self.team2, "Team2")
 
-            with open("game_log.txt", "w", encoding="utf-8") as f:
-                for line in self.occurances:
-                    f.write(line + "\n")
+        with open("game_log.txt", "w", encoding="utf-8") as f:
+            for line in self.occurances:
+                f.write(line + "\n")
+        
+        if self.team1_score > self.team2_score:
+            return "Team1"
+        else:
+            return "Team2"
         
     def quarter(self):
         self.time_left = 12 * 60 #12 minutes * 60 secs/min
@@ -394,18 +399,18 @@ class Game:
             self.quarter_team1_timeouts = 2
             self.quarter_team2_timeouts = 2
 
-    def perform_substitution(self,team, actions,players_on_court,total_game_seconds=48*60):
+    def perform_substitution(self, team, actions, players_on_court, total_game_seconds=48*60):
         """
-        Substitutes players considering:
-        - Starter cap (85% of total game time)
-        - Plus-minus
-        - Recommended seconds
-        - Original starter priority
+        Substitutes players while:
+        - Enforcing starter cap (e.g., 75% of total game time)
+        - Considering stint and plus-minus
+        - Avoiding returning starters who already reached the cap
+        Logs substitution events in `actions` (list of strings)
         """
         MIN_STINT = 60 * 6
-        STARTER_CAP = total_game_seconds * 4 / 5  # 85% of game time
+        STARTER_CAP = total_game_seconds * 0.75  # 75% of game
 
-        # --- Force substitution for any starter exceeding the cap ---
+        # --- Identify starter over cap ---
         over_cap_starters = [s for s in team.starters if s.total_seconds >= STARTER_CAP]
         if over_cap_starters:
             sub_out = max(over_cap_starters, key=lambda p: p.total_seconds)
@@ -416,30 +421,28 @@ class Game:
                 if s.stint_seconds >= MIN_STINT or s.total_seconds >= getattr(s, "seconds", 0)
             ]
             if not eligible:
-                return  # no sub needed
-            # Pick starter with lowest plus-minus among eligible
+                # No sub needed, log and return
+                return actions
+            # Pick starter with lowest plus-minus
             sub_out = min(eligible, key=lambda p: p.box.plus_minus)
 
-        # --- Select sub-in player ---
+        # --- Select eligible bench candidates ---
         bench_candidates = [b for b in team.bench if b not in team.starters]
-        # Prefer original starters on bench
-        original_on_bench = [b for b in getattr(team, "original_starters", []) if b in bench_candidates]
-        if original_on_bench:
-            sub_in = min(original_on_bench, key=lambda b: b.total_seconds)
-            candidates = original_on_bench
-        else:
-            same_pos_bench = [b for b in bench_candidates if b.position == sub_out.position]
-            sub_in = min(same_pos_bench, key=lambda b: b.total_seconds) if same_pos_bench else min(bench_candidates, key=lambda b: b.total_seconds)
-            candidates = bench_candidates
-        
-        
-        # --- Weighted selection based on remaining allowed minutes ---
-        remaining_allowed = [max(getattr(b, 'seconds', 0) - b.total_seconds, 1) for b in candidates]
+        # Only allow those who haven’t reached cap
+        bench_candidates = [b for b in bench_candidates if b.total_seconds < STARTER_CAP]
+
+        if not bench_candidates:
+            # fallback: pick the bench player with least total seconds
+            bench_candidates = team.bench
+
+        # Weighted selection by remaining allowed minutes
+        remaining_allowed = [max(getattr(b, "seconds", STARTER_CAP) - b.total_seconds, 1) for b in bench_candidates]
         total_remaining = sum(remaining_allowed)
         weights = [r / total_remaining for r in remaining_allowed]
 
-        sub_in = random.choices(candidates, weights=weights, k=1)[0]
-        # --- Swap players ---
+        sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
+
+        # --- Perform swap ---
         idx_starter = team.starters.index(sub_out)
         idx_bench = team.bench.index(sub_in)
         team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
@@ -448,14 +451,17 @@ class Game:
         sub_out.stint_seconds = 0
         sub_in.stint_seconds = 0
 
-        # --- Update players on court ---
-        players_on_court = team.starters
+        # --- Update players on court in place ---
+        players_on_court[:] = team.starters
 
         # --- Log substitution ---
         actions += (
             f"Substitution: {sub_out.name} out, {sub_in.name} in "
-            f"(plus-minus: {sub_out.box.plus_minus}, total seconds: {sub_out.total_seconds}/{getattr(sub_out,'seconds',0)})\n"
+            f"(plus-minus: {sub_out.box.plus_minus}, total seconds: {sub_out.total_seconds}/{getattr(sub_out,'seconds',0)})"
         )
+
+        return actions
+
 
     def simulate_possession(self, remaining_secs):
         """
@@ -481,7 +487,7 @@ class Game:
         defenders_on_court = defense.starters
 
         
-        weights = [max(p.apg/ max(p.gp,1) * 2, 0.005) for p in players_on_court]
+        weights = [(p.apg * 0.7 + p.ppg * 0.3) / max(p.gp,1) for p in players_on_court]
         ball_handler = random.choices(players_on_court, weights=weights, k=1)[0]
 
         shot_clock = 24
@@ -510,20 +516,33 @@ class Game:
             # --- Calculate probabilities ---
             turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) + 0.02, 0.1)
             shooting_volume = min(ball_handler.FGM / max(ball_handler.gp,1)/20,1)
-            shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA,1) if ball_handler.FGA else 0.45
+            shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA,1) if ball_handler.FGA else random.uniform(0.35,0.55)
 
             # Low-volume boost for efficient shooters
             volume_f = min(shooting_volume / 20, 1)
-            low_volume_boost = (1 - volume_f) * shooting_efficiency * 0.3
+            low_volume_boost = (1 - volume_f) * shooting_efficiency * 0.25
 
-            score_weight = shooting_efficiency * 0.5 + low_volume_boost
-            assist_weight = min(ball_handler.apg / max(ball_handler.gp,1) * 60,0.8)
+            score_weight = shooting_efficiency * 0.5 + low_volume_boost + (shooting_volume/20 * 1/4)
+            assist_weight = min(ball_handler.apg / max(ball_handler.gp,1) * 70,0.8)
 
             # Normalize weights to probabilities
             total_offense = score_weight + assist_weight
-            shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.5
-            pass_prob = (assist_weight / total_offense) * (1 - turnover_prob)
-            dribble_prob = 0.15
+            shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.65
+
+            # Factor goes from 1 (lots of time) → 0 (no time left)
+            time_factor = max(min(shot_clock, rem) / 24.0, 0)   # normalized 0–1
+
+            # Passing shrinks with time
+            pass_prob = (assist_weight / total_offense) * (1 - turnover_prob) * 0.8 * time_factor
+
+            # Dribbling also shrinks, but has a small baseline early in clock
+            dribble_prob = max(min((0.05 * shot_clock) - pass_prob, 0.25), 0.05) * time_factor
+
+            # If no time left, force shot/turnover only
+            if min(shot_clock, rem) <= 0:
+                pass_prob = 0
+                dribble_prob = 0
+
 
             # Final normalization
             sum_probs = pass_prob + shot_prob + dribble_prob + turnover_prob
@@ -649,13 +668,13 @@ class Game:
         # --- Perform substitutions ---
         MIN_POSSESSIONS_BETWEEN_SUBS = 3
         if (self.poss_counter1 - self.last_sub_poss1) >= MIN_POSSESSIONS_BETWEEN_SUBS:
-            self.perform_substitution(self.team1,actions,self.team1.starters)
+            actions = self.perform_substitution(self.team1,actions,self.team1.starters)
             self.last_sub_poss1 = self.poss_counter1
         if (self.poss_counter2 - self.last_sub_poss2) >= MIN_POSSESSIONS_BETWEEN_SUBS:
-            self.perform_substitution(self.team2,actions,self.team2.starters)
+            actions = self.perform_substitution(self.team2,actions,self.team2.starters)
             self.last_sub_poss2 = self.poss_counter2
 
-        actions += f"=== Current Score ===\nTeam1: {self.team1_score} Team2: {self.team2_score}\n"
+        actions += (f"=== Current Score ===\nTeam1: {self.team1_score} Team2: {self.team2_score}\n")
         self.occurances.append(actions)
 
         return possession_time
@@ -699,11 +718,34 @@ if __name__ == "__main__":
     Team1 = Team(sorted_team1)
     Team2 = Team(sorted_team2)
 
+    team1_wins = 0
+    team2_wins = 0
     #print(Team1.starters[0].gp)
 
+    Team1 = Team(sorted_team1)
+    Team2 = Team(sorted_team2)
     G = Game(Team1,Team2,48)
     G.tip_off()
-    G.simulate_full_game()
+    r = G.simulate_full_game()
+
+
+    '''
+    for i in range(1000):
+        #resets team stats to 0
+        
+        Team1 = Team(sorted_team1)
+        Team2 = Team(sorted_team2)
+        G = Game(Team1,Team2,48)
+        G.tip_off()
+        r = G.simulate_full_game()
+
+        if r == "Team1":
+            team1_wins += 1
+        else:
+            team2_wins += 1
+
+    print(f"team1 wins: {team1_wins}, team2wins: {team2_wins}")
+    '''
     #G.simulate_possession()
 
 
