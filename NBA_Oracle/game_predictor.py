@@ -411,7 +411,7 @@ class Game:
         STARTER_CAP = total_game_seconds * 0.75  # 75% of game
 
         # --- Identify starter over cap ---
-        over_cap_starters = [s for s in team.starters if s.total_seconds >= STARTER_CAP]
+        over_cap_starters = [s for s in team.starters if s.total_seconds >= STARTER_CAP or s.box.foul >= 6]
         if over_cap_starters:
             sub_out = max(over_cap_starters, key=lambda p: p.total_seconds)
         else:
@@ -429,7 +429,7 @@ class Game:
         # --- Select eligible bench candidates ---
         bench_candidates = [b for b in team.bench if b not in team.starters]
         # Only allow those who haven’t reached cap
-        bench_candidates = [b for b in bench_candidates if b.total_seconds < STARTER_CAP]
+        bench_candidates = [b for b in bench_candidates if b.total_seconds < STARTER_CAP and b.box.foul < 6]
 
         if not bench_candidates:
             # fallback: pick the bench player with least total seconds
@@ -457,11 +457,31 @@ class Game:
         # --- Log substitution ---
         actions += (
             f"Substitution: {sub_out.name} out, {sub_in.name} in "
-            f"(plus-minus: {sub_out.box.plus_minus}, total seconds: {sub_out.total_seconds}/{getattr(sub_out,'seconds',0)})"
+            f"(plus-minus: {sub_out.box.plus_minus}, total seconds: {sub_out.total_seconds}/{getattr(sub_out,'seconds',0)})\n"
         )
 
         return actions
+    
+    def free_throw(self,player,num,action):
 
+        """
+        Simulate Free throw attempts
+        """
+        for __ in range(num):
+            if random.random() < player.FT_PCT:
+                player.FTM += 1
+                player.box.points += 1
+                action += f"{player.name} makes free throw\n"
+                #add to scoreboard
+                if player in self.team1.starters + self.team1.bench:
+                    self.team1_score += 1
+                else:
+                    self.team2_score += 1
+            else:
+                action += f"{player.name} missed free throw\n"
+            player.FTA += 1
+            action += (f"=== Current Score ===\nTeam1: {self.team1_score} Team2: {self.team2_score}\n")
+        return action
 
     def simulate_possession(self, remaining_secs):
         """
@@ -502,7 +522,7 @@ class Game:
 
         while shot_clock > 0 and rem > 0:
             # Action time
-            action_time = random.choices([1,2,3,4,5,6,7,8], weights=[0.05,0.1,0.15,0.2,0.1,0.1,0.1,0.1], k=1)[0]
+            action_time = random.choices([1,3,5,6,7,8,9,10], weights=[0.05,0.1,0.15,0.2,0.1,0.1,0.1,0.1], k=1)[0]
             action_time = min(action_time, shot_clock, rem)
             last_shot = shot_clock <= action_time or rem <= action_time
 
@@ -514,20 +534,20 @@ class Game:
             defenders_on_court = defense.starters
 
             # --- Calculate probabilities ---
-            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) + 0.02, 0.1)
+            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) * 0.06+ 0.06, 0.18)
             shooting_volume = min(ball_handler.FGM / max(ball_handler.gp,1)/20,1)
             shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA,1) if ball_handler.FGA else random.uniform(0.35,0.55)
 
             # Low-volume boost for efficient shooters
             volume_f = min(shooting_volume / 20, 1)
-            low_volume_boost = (1 - volume_f) * shooting_efficiency * 0.25
+            low_volume_boost = (1 - volume_f) * shooting_efficiency * 0.1
 
-            score_weight = shooting_efficiency * 0.5 + low_volume_boost + (shooting_volume/20 * 1/4)
+            score_weight = shooting_efficiency * 0.45 + low_volume_boost
             assist_weight = min(ball_handler.apg / max(ball_handler.gp,1) * 70,0.8)
 
             # Normalize weights to probabilities
             total_offense = score_weight + assist_weight
-            shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.65
+            shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.55
 
             # Factor goes from 1 (lots of time) → 0 (no time left)
             time_factor = max(min(shot_clock, rem) / 24.0, 0)   # normalized 0–1
@@ -536,7 +556,7 @@ class Game:
             pass_prob = (assist_weight / total_offense) * (1 - turnover_prob) * 0.8 * time_factor
 
             # Dribbling also shrinks, but has a small baseline early in clock
-            dribble_prob = max(min((0.05 * shot_clock) - pass_prob, 0.25), 0.05) * time_factor
+            dribble_prob = max(min((0.035 * shot_clock) - pass_prob, 0.22), 0.03) * time_factor
 
             # If no time left, force shot/turnover only
             if min(shot_clock, rem) <= 0:
@@ -565,9 +585,11 @@ class Game:
                 k=1
             )[0]
 
+            free_foul = False
+
             # --- PASS ACTION ---
             if action == "pass":
-                steal_weights = [p.spg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
+                steal_weights = [math.pow(p.spg,2) / max(p.gp, 1) + 0.01 for p in defenders_on_court]
                 if random.random() < 0.03:
                     stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
                     stealer.box.stl += 1
@@ -585,6 +607,29 @@ class Game:
 
             # --- DRIBBLE ACTION ---
             elif action == "dribble":
+                #defensive foul prob
+                for defender in defenders_on_court:
+                    if random.random() < 0.015:  # 2% chance per defender per action
+                        defender.box.foul += 1
+    
+                        actions += (f"{defender.name} commits a foul on {ball_handler.name}!")
+                        
+                        # Check for foul-out
+                        if defender.box.foul >= 6:
+                            actions = self.perform_substitution(defense, actions, defense.starters)
+                            actions += (f"{defender.name} fouls out!")
+                        break
+
+
+                #offensive foul prob
+                offensive_foul_prob = 0.03
+                if random.random() < offensive_foul_prob:
+                    ball_handler.box.foul += 1
+                    actions += f"{ball_handler.name} commits an offensive foul!\n"
+                    self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
+                    self.perform_substitution(team,actions,players_on_court)
+                    break
+
                 steal_weights = [p.spg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
                 if random.random() < 0.03:
                     stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
@@ -597,7 +642,15 @@ class Game:
                 actions += f"{ball_handler.name} dribbles ({action_time}s)\n"
 
             # --- SHOT ACTION ---
+            
             elif action == "shot" or last_shot:
+                for defender in defenders_on_court:
+                    if random.random() < 0.02:  # 2% chance per defender per action
+                        defender.box.foul += 1
+                        actions += (f"{defender.name} commits a foul on {ball_handler.name}!")
+                        free_foul = True
+                        break
+
                 shooter = ball_handler
                 three_point_rate = shooter.FG3A / max(shooter.FGA,1) if shooter.FGA else 0.1
                 is_three = random.random() < three_point_rate
@@ -605,7 +658,7 @@ class Game:
                 fg_chance = shooter.FG3_PCT if is_three and shooter.FG3_PCT else shooter.FG_PCT
                 fg_chance = fg_chance if fg_chance else 0.45
 
-                block_weights = [p.bpg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
+                block_weights = [p.bpg / max(p.gp, 1) * 3 + 0.01 for p in defenders_on_court]
                 if random.random() < 0.05:
                     points = 0
                     blocker = random.choices(defenders_on_court, weights=block_weights, k=1)[0]
@@ -629,12 +682,23 @@ class Game:
                         shooter.box.tpp = round(shooter.box.tpm / shooter.box.tpa,3)
                     if passes > 0 and last_passer and last_passer != shooter:
                         last_passer.box.ast += 1
+
+                    if free_foul is True:
+                        #make 1 free throw
+                        actions += f"{shooter.name} is fouled and heads to the free throw line(1 attempt) AND ONE!\n"
+                        actions = self.free_throw(shooter,1,actions)
+                        
                 else:
                     actions += f"{shooter.name} misses a {points}-point shot ({action_time}s)\n"
                     shooter.box.fga += 1
                     if is_three:
                         shooter.box.tpa += 1
                         shooter.box.tpp = round(shooter.box.tpm / shooter.box.tpa,3)
+                    if free_foul is True:
+                        actions += f"{shooter.name} is fouled and heads to the free throw line {points} attempts\n"
+                        actions = self.free_throw(shooter,points,actions)
+                        
+                        
                     points = 0
                 shooter.box.fgp = round(shooter.box.fgm / max(shooter.box.fga,1), 3)
                 self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
@@ -666,6 +730,8 @@ class Game:
             p.stint_seconds = getattr(p, "stint_seconds", 0) + possession_time
 
         # --- Perform substitutions ---
+
+
         MIN_POSSESSIONS_BETWEEN_SUBS = 3
         if (self.poss_counter1 - self.last_sub_poss1) >= MIN_POSSESSIONS_BETWEEN_SUBS:
             actions = self.perform_substitution(self.team1,actions,self.team1.starters)
@@ -683,21 +749,32 @@ class Game:
 
 
 if __name__ == "__main__":
-    cavs_2016 = [
-        "LeBron James", "Kyrie Irving", "Kevin Love", "Tristan Thompson", "J.R. Smith",
-        "Richard Jefferson", "Channing Frye", "Matthew Dellavedova",
-        # add 7 more role players from the 2016 Cavs or random fill
-        "Iman Shumpert", "Mo Williams", "Timofey Mozgov", "James Jones", "Sasha Kaun",
-        "Jordan McRae", "Dahntay Jones"
+    sixers_2016 = [
+    "Ish Smith", "Robert Covington", "Nerlens Noel", "Jahlil Okafor", "Jerami Grant",
+    "Hollis Thompson", "Nik Stauskas", "Carl Landry", "Ish Smith", "Isaiah Canaan",
+    "T.J. McConnell", "Kendall Marshall", "JaKarr Sampson", "Christian Wood", "Richaun Holmes"
     ]
 
-    team1 = make_team(cavs_2016)   # Cavs 2016 roster
+    team1 = make_team(sixers_2016)   # Cavs 2016 roster
 
     warriors_2016 = [
-            "Stephen Curry", "Klay Thompson", "Draymond Green", "Harrison Barnes", "Andrew Bogut",
-            "Andre Iguodala", "Shaun Livingston", "Festus Ezeli", "Marreese Speights",
-            "Leandro Barbosa", "Brandon Rush", "James Michael McAdoo", "Ian Clark", "Matt Barnes","Aaron Brooks"
-        ]
+        "Stephen Curry",
+        "Klay Thompson",
+        "Harrison Barnes",
+        "Draymond Green",
+        "Andrew Bogut",
+        "Andre Iguodala",
+        "Shaun Livingston",
+        "Festus Ezeli",
+        "Marreese Speights",
+        "Leandro Barbosa",
+        "Brandon Rush",
+        "Ian Clark",
+        "Anderson Varejao",
+        "James Michael McAdoo",
+        "Kevon Looney"
+    ]
+
 
 
 
@@ -714,12 +791,13 @@ if __name__ == "__main__":
     #print("minutes total = ",sorted_team1['minutes'].sum())
     #print(sorted_team2[['full_name', 'Position', 'role','player_merit', 'minutes']])
     #print("minutes total = ",sorted_team2['minutes'].sum())
-
+    team1_wins = 0
+    team2_wins = 0
+    
     Team1 = Team(sorted_team1)
     Team2 = Team(sorted_team2)
 
-    team1_wins = 0
-    team2_wins = 0
+
     #print(Team1.starters[0].gp)
 
     Team1 = Team(sorted_team1)
@@ -727,9 +805,10 @@ if __name__ == "__main__":
     G = Game(Team1,Team2,48)
     G.tip_off()
     r = G.simulate_full_game()
+    
 
 
-    '''
+    
     for i in range(1000):
         #resets team stats to 0
         
@@ -745,8 +824,12 @@ if __name__ == "__main__":
             team2_wins += 1
 
     print(f"team1 wins: {team1_wins}, team2wins: {team2_wins}")
-    '''
+    
+
+    #Team 1 odds: 41-45 percent
+    
     #G.simulate_possession()
+
 
 
     #simulate_game(sorted_team1, sorted_team2,48)
