@@ -36,7 +36,7 @@ def make_team(player_names=None, excluded_players=None):
                     team_stats[pid] = player_stats
                     team.append(pid)
     # Fill team to 15 players
-    while len(team) < 15:
+    while len(team) < 12:
         candidates = players_df[~players_df['player_id'].isin(team + excluded_players)]
         if candidates.empty:
             break
@@ -682,7 +682,7 @@ class Game:
                     self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                     break
 
-                made = random.random() < fg_chance / random.uniform(0.8,0.95)
+                made = random.random() < fg_chance / random.gauss(0.9,0.1)
                 if made:
                     actions += f"{shooter.name} makes a {points}-point shot! ({action_time}s)\n"
                     result = "score"
@@ -762,49 +762,48 @@ class Game:
 
 
 if __name__ == "__main__":
-    cavs_2016 = [
-        "Kyrie Irving",
-        "LeBron James",
-        "Kevin Love",
-        "J.R. Smith",
-        "Tristan Thompson",
-        "Iman Shumpert",
-        "Matthew Dellavedova",
-        "Timofey Mozgov",
-        "Richard Jefferson",
-        "Channing Frye",
-        "Mo Williams",
-        "James Jones",
-        "Kendrick Perkins",
-        "Dahntay Jones",
-        "Joe Harris"
-    ]
-
-
-    team1 = make_team(cavs_2016)   # Cavs 2016 roster
-
-    warriors_2016 = [
+    warriors_2017 = [
         "Stephen Curry",
+        "Kevin Durant",
         "Klay Thompson",
-        "Harrison Barnes",
         "Draymond Green",
-        "Andrew Bogut",
+        "Zaza Pachulia",
         "Andre Iguodala",
         "Shaun Livingston",
-        "Festus Ezeli",
-        "Marreese Speights",
-        "Leandro Barbosa",
-        "Brandon Rush",
+        "David West",
+        "JaVale McGee",
         "Ian Clark",
-        "Anderson Varejao",
+        "Patrick McCaw",
         "James Michael McAdoo",
-        "Kevon Looney"
+        "Kevon Looney",
+        "Matt Barnes",
+        "Nick Young"
+    ]
+
+    
+# 2016 Philadelphia 76ers
+    sixers_2016 = [
+        "Ish Smith",
+        "Robert Covington",
+        "Nerlens Noel",
+        "Jahlil Okafor",
+        "Jerami Grant",
+        "Hollis Thompson",
+        "Nik Stauskas",
+        "Carl Landry",
+        "Isaiah Canaan",
+        "T.J. McConnell",
+        "Kendall Marshall",
+        "JaKarr Sampson",
+        "Christian Wood",
+        "Richaun Holmes",
+        "Elfrid Payton"  # sometimes on the roster in late 2016
     ]
 
 
+    team1 = make_team(sixers_2016)
 
-
-    team2 = make_team(warriors_2016) 
+    team2 = make_team(warriors_2017) 
     #print(team1)
     #print(team2)
     sorted_team1 = determine_seconds(team1)
@@ -820,7 +819,7 @@ if __name__ == "__main__":
     team1_wins = 0
     team2_wins = 0
 
-    random.seed(42)
+    #random.seed(42)
 
     Team1 = Team(sorted_team1)
     Team2 = Team(sorted_team2)
@@ -828,14 +827,14 @@ if __name__ == "__main__":
     G.tip_off()
     r = G.simulate_full_game()
 
-    '''
+    
     curry_points = 0
     curry_assists = 0
     curry_fgm = 0
     curry_fga = 0
     
     
-    for i in range(2000):
+    for i in range(1000):
         #resets team stats to 0
         
         Team1 = Team(sorted_team1)
@@ -850,7 +849,7 @@ if __name__ == "__main__":
             team2_wins += 1
 
         for p in Team2.starters + Team2.bench:
-            if "Stephen Curry" in p.name:
+            if "Kevin Durant" in p.name:
                 curry_points += p.box.points
                 curry_assists += p.box.ast
                 curry_fgm += p.box.fgm
@@ -861,9 +860,9 @@ if __name__ == "__main__":
     accuracy = curry_fgm/curry_fga
     print(f"team1 wins: {team1_wins}, team2wins: {team2_wins}")
     
-    print(f"curry ppg: {curry_points/2000} curry apg: {curry_assists/2000}")
+    print(f"ppg: {curry_points/1000} apg: {curry_assists/1000}")
     print(f"accuracy: {accuracy:.3f}")
-    '''
+    
 
     #Team 1 odds: 41-45 percent
     
