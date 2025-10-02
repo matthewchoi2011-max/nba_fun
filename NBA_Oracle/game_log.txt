@@ -1,1732 +1,1849 @@
 === Quarter 1 ===
-Ish Smith starts with the ball
-Ish Smith dribbles (4s)
-Ish Smith dribbles (5s)
-Ish Smith makes a 2-point shot! (6s)
+Klay Thompson starts with the ball
+Klay Thompson makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 2 Team2: 0
+Team1: 0 Team2: 2
 
-Kevin Durant starts with the ball
-Kevin Durant dribbles (2s)
-Kevin Durant passes to Stephen Curry (5s)
-Stephen Curry passes to Kevin Durant (4s)
-Kevin Durant passes to Klay Thompson (1s)
-Klay Thompson passes to Kevin Durant (5s)
-Kevin Durant makes a 2-point shot! (7s)
+Larry Bird starts with the ball
+Larry Bird dribbles (4s)
+Larry Bird makes a 2-point shot! (4s)
 === Current Score ===
 Team1: 2 Team2: 2
 
-Robert Covington starts with the ball
-Robert Covington dribbles (4s)
-Robert Covington misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 2 Team2: 2
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (4s)
-Draymond Green makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 2 Team2: 4
-
-Ish Smith starts with the ball
-Ish Smith passes to T.J. McConnell (5s)
-T.J. McConnell passes to Ish Smith (1s)
-Kevin Durant steals the ball from Ish Smith!
-=== Current Score ===
-Team1: 2 Team2: 4
-
-Draymond Green starts with the ball
-Draymond Green passes to Kevin Durant (3s)
-Kevin Durant passes to Andre Iguodala (5s)
-Andre Iguodala passes to Kevin Durant (6s)
-Kevin Durant passes to Andre Iguodala (5s)
-Andre Iguodala misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 2 Team2: 4
-
-Elfrid Payton starts with the ball
-Elfrid Payton makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 4 Team2: 4
-
 Kevin Durant starts with the ball
-Kevin Durant passes to Andre Iguodala (4s)
-Andre Iguodala dribbles (7s)
-Andre Iguodala passes to Klay Thompson (4s)
-Klay Thompson misses a 2-point shot (5s)
+Kevin Durant dribbles (6s)
+Kevin Durant misses a 3-point shot (4s)
+Karl Malone grabs the defensive rebound!
 === Current Score ===
-Team1: 4 Team2: 4
+Team1: 2 Team2: 5
 
-Jerami Grant starts with the ball
-Jerami Grant misses a 3-point shot (7s)
+Larry Bird starts with the ball
+Larry Bird passes to Magic Johnson (5s)
+Magic Johnson passes to John Stockton (4s)
+John Stockton passes to Magic Johnson (3s)
+Magic Johnson passes to John Stockton (7s)
+John Stockton misses a 3-point shot (5s)
+Klay Thompson grabs the defensive rebound!
 === Current Score ===
-Team1: 4 Team2: 4
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Andre Iguodala (2s)
-Andre Iguodala passes to Klay Thompson (4s)
-Klay Thompson passes to Andre Iguodala (6s)
-Andre Iguodala passes to Klay Thompson (5s)
-Klay Thompson makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 4 Team2: 6
-
-Jerami Grant starts with the ball
-Jerami Grant passes to Ish Smith (5s)
-Ish Smith dribbles (4s)
-Ish Smith passes to Robert Covington (4s)
-Kevin Durant commits a foul on Robert Covington!Robert Covington makes a 2-point shot! (2s)
-Robert Covington is fouled and heads to the free throw line(1 attempt) AND ONE!
-Robert Covington makes free throw
-=== Current Score ===
-Team1: 5 Team2: 6
-=== Current Score ===
-Team1: 7 Team2: 6
-
-Stephen Curry starts with the ball
-Robert Covington blocks the shot of Stephen Curry!
-=== Current Score ===
-Team1: 7 Team2: 6
-
-Ish Smith starts with the ball
-Ish Smith misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 7 Team2: 6
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Klay Thompson (4s)
-Klay Thompson passes to Andre Iguodala (7s)
-Andre Iguodala passes to Draymond Green (4s)
-Draymond Green misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 7 Team2: 6
-
-Jerami Grant starts with the ball
-Jerami Grant passes to Elfrid Payton (4s)
-Elfrid Payton makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 9 Team2: 6
+Team1: 5 Team2: 5
 
 Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (1s)
-Kevin Durant passes to Klay Thompson (8s)
-Klay Thompson passes to Stephen Curry (1s)
-Stephen Curry passes to Klay Thompson (5s)
-Elfrid Payton blocks the shot of Klay Thompson!
+Klay Thompson passes to Kevin Durant (5s)
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry turns the ball over (6s)
 === Current Score ===
-Team1: 9 Team2: 6
+Team1: 5 Team2: 5
 
-Ish Smith starts with the ball
-Ish Smith passes to Robert Covington (1s)
-Robert Covington dribbles (5s)
-Robert Covington passes to Elfrid Payton (1s)
-Elfrid Payton passes to Ish Smith (5s)
-Ish Smith passes to Elfrid Payton (1s)
-Elfrid Payton passes to Jerami Grant (3s)
-Jerami Grant passes to Elfrid Payton (2s)
-Elfrid Payton passes to Ish Smith (2s)
-Draymond Green commits a foul on Ish Smith!Ish Smith makes a 2-point shot! (4s)
-Ish Smith is fouled and heads to the free throw line(1 attempt) AND ONE!
-Ish Smith makes free throw
+Karl Malone starts with the ball
+Stephen Curry blocks the shot of Karl Malone!
 === Current Score ===
-Team1: 10 Team2: 6
-=== Current Score ===
-Team1: 12 Team2: 6
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Kevin Durant (4s)
-Elfrid Payton blocks the shot of Kevin Durant!
-=== Current Score ===
-Team1: 12 Team2: 6
-
-Elfrid Payton starts with the ball
-Elfrid Payton dribbles (1s)
-Elfrid Payton passes to Ish Smith (2s)
-Ish Smith dribbles (2s)
-Ish Smith passes to Robert Covington (7s)
-Robert Covington passes to Elfrid Payton (5s)
-Elfrid Payton passes to Jerami Grant (2s)
-Jerami Grant passes to T.J. McConnell (2s)
-T.J. McConnell misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 12 Team2: 6
+Team1: 5 Team2: 5
 
 Kevin Durant starts with the ball
-Kevin Durant passes to Andre Iguodala (2s)
-Andre Iguodala passes to Stephen Curry (4s)
-Stephen Curry makes a 3-point shot! (6s)
+John Stockton steals the ball from Kevin Durant while dribbling!
 === Current Score ===
-Team1: 12 Team2: 9
+Team1: 5 Team2: 5
 
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Ish Smith (4s)
-Ish Smith misses a 2-point shot (7s)
+Magic Johnson starts with the ball
+Magic Johnson passes to Michael Jordan (4s)
+Michael Jordan passes to Larry Bird (5s)
+Larry Bird passes to Michael Jordan (4s)
+Michael Jordan passes to Larry Bird (3s)
+Larry Bird passes to John Stockton (4s)
+John Stockton makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 12 Team2: 9
+Team1: 7 Team2: 5
 
 Klay Thompson starts with the ball
 Klay Thompson misses a 3-point shot (4s)
+Larry Bird grabs the defensive rebound!
 === Current Score ===
-Team1: 12 Team2: 9
+Team1: 7 Team2: 8
 
-Jerami Grant starts with the ball
-Jerami Grant passes to Robert Covington (6s)
-Robert Covington passes to Elfrid Payton (3s)
-Elfrid Payton passes to Jerami Grant (5s)
-Draymond Green blocks the shot of Jerami Grant!
+Larry Bird starts with the ball
+Larry Bird misses a 2-point shot (5s)
+Larry Bird grabs the offensive rebound!
 === Current Score ===
-Team1: 12 Team2: 9
-
-Klay Thompson starts with the ball
-Klay Thompson misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 12 Team2: 9
-
-Robert Covington starts with the ball
-Robert Covington dribbles (5s)
-Robert Covington passes to T.J. McConnell (7s)
-Draymond Green commits a foul on T.J. McConnell!T.J. McConnell makes a 2-point shot! (3s)
-T.J. McConnell is fouled and heads to the free throw line(1 attempt) AND ONE!
-T.J. McConnell makes free throw
-=== Current Score ===
-Team1: 13 Team2: 9
-=== Current Score ===
-Team1: 15 Team2: 9
-
-Stephen Curry starts with the ball
-Stephen Curry makes a 3-point shot! (2s)
-=== Current Score ===
-Team1: 15 Team2: 12
-
-Robert Covington starts with the ball
-Draymond Green commits a foul on Robert Covington!Robert Covington makes a 2-point shot! (3s)
-Robert Covington is fouled and heads to the free throw line(1 attempt) AND ONE!
-Robert Covington makes free throw
-=== Current Score ===
-Team1: 16 Team2: 12
-=== Current Score ===
-Team1: 18 Team2: 12
+Team1: 7 Team2: 8
 
 Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (4s)
+Kevin Durant dribbles (4s)
+Kevin Durant dribbles (4s)
+Kevin Durant misses a 2-point shot (7s)
+Karl Malone grabs the defensive rebound!
+=== Current Score ===
+Team1: 7 Team2: 10
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Karl Malone (5s)
+Kevin Durant blocks the shot of Karl Malone!
+=== Current Score ===
+Team1: 7 Team2: 10
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (5s)
+Draymond Green passes to Stephen Curry (5s)
+Stephen Curry dribbles (2s)
+Stephen Curry misses a 3-point shot (5s)
+John Stockton grabs the defensive rebound!
+=== Current Score ===
+Team1: 7 Team2: 13
+
+Karl Malone starts with the ball
+Karl Malone dribbles (4s)
+Karl Malone passes to Larry Bird (2s)
+Larry Bird passes to Magic Johnson (3s)
+Magic Johnson passes to Michael Jordan (4s)
+Michael Jordan makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 9 Team2: 13
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Andre Iguodala (7s)
+Andre Iguodala passes to Kevin Durant (3s)
+Kevin Durant passes to Klay Thompson (6s)
+Klay Thompson passes to Kevin Durant (3s)
+Kevin Durant makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 9 Team2: 15
+
+Karl Malone starts with the ball
+Karl Malone misses a 2-point shot (5s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 11 Team2: 15
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (3s)
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry dribbles (5s)
+Michael Jordan commits a foul on Stephen Curry!Stephen Curry misses a 3-point shot (2s)
+Stephen Curry is fouled and heads to the free throw line 3 attempts
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 11 Team2: 16
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 11 Team2: 17
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 11 Team2: 18
+Larry Bird grabs the defensive rebound!
+=== Current Score ===
+Team1: 11 Team2: 21
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Magic Johnson (6s)
+Magic Johnson misses a 2-point shot (7s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 13 Team2: 21
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 13 Team2: 24
+
+Karl Malone starts with the ball
+Karl Malone dribbles (2s)
+Karl Malone passes to Michael Jordan (6s)
+Michael Jordan misses a 2-point shot (3s)
+Stephen Curry grabs the defensive rebound!
+=== Current Score ===
+Team1: 15 Team2: 24
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (3s)
+Draymond Green passes to Kevin Durant (5s)
+Kevin Durant dribbles (6s)
+Kevin Durant passes to Andre Iguodala (8s)
+Andre Iguodala makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 15 Team2: 27
+
+Larry Bird starts with the ball
+Larry Bird passes to John Stockton (3s)
+John Stockton passes to Magic Johnson (2s)
+Magic Johnson passes to John Stockton (5s)
+John Stockton passes to Larry Bird (4s)
+Larry Bird makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 17 Team2: 27
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (8s)
 Klay Thompson turns the ball over (4s)
 === Current Score ===
-Team1: 18 Team2: 12
+Team1: 17 Team2: 27
 
-Robert Covington starts with the ball
-Robert Covington passes to Jerami Grant (7s)
-Jerami Grant passes to Elfrid Payton (2s)
-Elfrid Payton passes to Ish Smith (3s)
-Ish Smith turns the ball over (6s)
+Larry Bird starts with the ball
+Larry Bird passes to John Stockton (1s)
+John Stockton dribbles (6s)
+John Stockton passes to Michael Jordan (6s)
+Michael Jordan passes to Larry Bird (5s)
+Larry Bird makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 18 Team2: 12
+Team1: 19 Team2: 27
 
-Andre Iguodala starts with the ball
-Andre Iguodala misses a 2-point shot (5s)
-Substitution: Kevin Durant out, Zaza Pachulia in (plus-minus: -2, total seconds: 367/2100)
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green passes to Kevin Durant (8s)
+John Stockton blocks the shot of Kevin Durant!
 === Current Score ===
-Team1: 18 Team2: 12
+Team1: 19 Team2: 27
 
-T.J. McConnell starts with the ball
-T.J. McConnell makes a 2-point shot! (2s)
-Substitution: Jerami Grant out, Richaun Holmes in (plus-minus: 4, total seconds: 369/1978)
+Michael Jordan starts with the ball
+Michael Jordan makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 20 Team2: 12
-
-Klay Thompson starts with the ball
-Klay Thompson misses a 3-point shot (2s)
-=== Current Score ===
-Team1: 20 Team2: 12
-
-T.J. McConnell starts with the ball
-T.J. McConnell passes to Ish Smith (7s)
-Ish Smith dribbles (3s)
-Ish Smith dribbles (3s)
-Ish Smith passes to Robert Covington (5s)
-Robert Covington makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 22 Team2: 12
+Team1: 21 Team2: 27
 
 Klay Thompson starts with the ball
-Robert Covington commits a foul on Klay Thompson!Klay Thompson dribbles (5s)
-Klay Thompson makes a 3-point shot! (3s)
+Klay Thompson makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 22 Team2: 15
+Team1: 21 Team2: 29
 
-Elfrid Payton starts with the ball
-Elfrid Payton dribbles (2s)
-Elfrid Payton passes to Robert Covington (6s)
-Robert Covington passes to Richaun Holmes (6s)
-Richaun Holmes makes a 2-point shot! (6s)
+Michael Jordan starts with the ball
+Michael Jordan passes to John Stockton (6s)
+John Stockton passes to Karl Malone (3s)
+Karl Malone passes to John Stockton (6s)
+John Stockton passes to Larry Bird (2s)
+Larry Bird passes to Karl Malone (4s)
+Karl Malone misses a 2-point shot (3s)
+Stephen Curry grabs the defensive rebound!
 === Current Score ===
-Team1: 24 Team2: 15
+Team1: 23 Team2: 29
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry passes to Klay Thompson (2s)
+Klay Thompson passes to Kevin Durant (5s)
+Larry Bird steals the ball from Kevin Durant!
+=== Current Score ===
+Team1: 23 Team2: 29
+
+Magic Johnson starts with the ball
+Magic Johnson passes to Michael Jordan (5s)
+Michael Jordan passes to Magic Johnson (6s)
+Magic Johnson dribbles (4s)
+Magic Johnson passes to Michael Jordan (4s)
+Michael Jordan misses a 2-point shot (5s)
+Larry Bird grabs the offensive rebound!
+Substitution: Karl Malone out, Clyde Drexler in (plus-minus: -3, total seconds: 420/2006)
+=== Current Score ===
+Team1: 23 Team2: 29
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (3s)
+Klay Thompson passes to Kevin Durant (6s)
+Kevin Durant turns the ball over (3s)
+Substitution: Kevin Durant out, JaVale McGee in (plus-minus: 3, total seconds: 432/2100)
+=== Current Score ===
+Team1: 23 Team2: 29
+
+Magic Johnson starts with the ball
+Magic Johnson turns the ball over (6s)
+=== Current Score ===
+Team1: 23 Team2: 29
 
 Stephen Curry starts with the ball
-Stephen Curry dribbles (4s)
-Stephen Curry passes to Klay Thompson (8s)
-Klay Thompson passes to Draymond Green (7s)
-Draymond Green passes to Andre Iguodala (4s)
-Andre Iguodala makes a 3-point shot! (1s)
-Substitution: Stephen Curry out, David West in (plus-minus: -2, total seconds: 447/2100)
+Stephen Curry passes to JaVale McGee (5s)
+JaVale McGee passes to Klay Thompson (5s)
+Klay Thompson passes to Stephen Curry (4s)
+Stephen Curry passes to Klay Thompson (5s)
+Klay Thompson misses a 2-point shot (5s)
+Larry Bird grabs the defensive rebound!
 === Current Score ===
-Team1: 24 Team2: 18
+Team1: 23 Team2: 31
 
-T.J. McConnell starts with the ball
-T.J. McConnell makes a 3-point shot! (3s)
-Substitution: T.J. McConnell out, Christian Wood in (plus-minus: 5, total seconds: 450/1978)
+Michael Jordan starts with the ball
+Michael Jordan passes to Larry Bird (2s)
+Larry Bird passes to Clyde Drexler (4s)
+Clyde Drexler misses a 2-point shot (4s)
+JaVale McGee grabs the defensive rebound!
 === Current Score ===
-Team1: 27 Team2: 18
-
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (4s)
-Elfrid Payton steals the ball from David West while dribbling!
-=== Current Score ===
-Team1: 27 Team2: 18
-
-Richaun Holmes starts with the ball
-Richaun Holmes dribbles (7s)
-Richaun Holmes passes to Elfrid Payton (5s)
-Elfrid Payton misses a 3-point shot (6s)
-=== Current Score ===
-Team1: 27 Team2: 18
+Team1: 25 Team2: 31
 
 Klay Thompson starts with the ball
-Klay Thompson misses a 2-point shot (6s)
+Klay Thompson makes a 3-point shot! (7s)
 === Current Score ===
-Team1: 27 Team2: 18
+Team1: 25 Team2: 34
 
-Robert Covington starts with the ball
-Robert Covington passes to Christian Wood (2s)
-Christian Wood passes to Ish Smith (5s)
-Ish Smith dribbles (2s)
-Ish Smith passes to Elfrid Payton (6s)
-Elfrid Payton passes to Robert Covington (4s)
-Robert Covington passes to Elfrid Payton (3s)
-Elfrid Payton misses a 2-point shot (2s)
+Larry Bird starts with the ball
+Larry Bird dribbles (5s)
+Larry Bird passes to John Stockton (7s)
+John Stockton passes to Magic Johnson (6s)
+Magic Johnson makes a 2-point shot! (6s)
+Substitution: Michael Jordan out, Charles Barkley in (plus-minus: -4, total seconds: 503/2006)
 === Current Score ===
-Team1: 27 Team2: 18
+Team1: 27 Team2: 34
 
 Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (3s)
+Draymond Green makes a 2-point shot! (5s)
+Substitution: Stephen Curry out, Shaun Livingston in (plus-minus: 6, total seconds: 511/2100)
+=== Current Score ===
+Team1: 27 Team2: 36
+
+Larry Bird starts with the ball
+Larry Bird passes to Charles Barkley (2s)
+Charles Barkley passes to John Stockton (2s)
+John Stockton passes to Larry Bird (2s)
+Larry Bird makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 29 Team2: 36
+
+Draymond Green starts with the ball
+Draymond Green passes to Andre Iguodala (2s)
+Andre Iguodala passes to Klay Thompson (2s)
+Klay Thompson passes to JaVale McGee (5s)
+JaVale McGee makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 29 Team2: 38
+
+Charles Barkley starts with the ball
+Charles Barkley passes to Magic Johnson (5s)
+Magic Johnson passes to Larry Bird (3s)
+Larry Bird passes to Magic Johnson (5s)
+Magic Johnson misses a 2-point shot (7s)
+Shaun Livingston grabs the defensive rebound!
+=== Current Score ===
+Team1: 31 Team2: 38
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Shaun Livingston (3s)
+John Stockton commits a foul on Shaun Livingston!Magic Johnson blocks the shot of Shaun Livingston!
+=== Current Score ===
+Team1: 31 Team2: 38
+
+Larry Bird starts with the ball
+Larry Bird passes to John Stockton (3s)
+John Stockton passes to Larry Bird (4s)
+Larry Bird passes to Magic Johnson (5s)
+Magic Johnson misses a 2-point shot (6s)
+Shaun Livingston grabs the defensive rebound!
+Substitution: John Stockton out, Scottie Pippen in (plus-minus: -2, total seconds: 586/2006)
+=== Current Score ===
+Team1: 33 Team2: 38
+
+Shaun Livingston starts with the ball
+Shaun Livingston passes to Klay Thompson (8s)
 Klay Thompson passes to Andre Iguodala (4s)
-Andre Iguodala misses a 3-point shot (2s)
-Substitution: Draymond Green out, Kevin Durant in (plus-minus: -5, total seconds: 515/1651)
+Andre Iguodala passes to Klay Thompson (3s)
+Klay Thompson misses a 3-point shot (5s)
+Scottie Pippen grabs the defensive rebound!
+Substitution: Draymond Green out, Stephen Curry in (plus-minus: 5, total seconds: 606/1651)
 === Current Score ===
-Team1: 27 Team2: 18
+Team1: 33 Team2: 41
 
-Robert Covington starts with the ball
-Robert Covington passes to Elfrid Payton (3s)
-Elfrid Payton passes to Richaun Holmes (3s)
-Richaun Holmes passes to Elfrid Payton (3s)
-Elfrid Payton passes to Christian Wood (7s)
-Christian Wood passes to Ish Smith (3s)
-Ish Smith passes to Robert Covington (4s)
-Andre Iguodala commits a foul on Robert Covington!Robert Covington makes a 3-point shot! (1s)
-Robert Covington is fouled and heads to the free throw line(1 attempt) AND ONE!
-Robert Covington makes free throw
+Larry Bird starts with the ball
+Larry Bird passes to Scottie Pippen (5s)
+Scottie Pippen passes to Charles Barkley (2s)
+Charles Barkley passes to Larry Bird (4s)
+Larry Bird passes to Charles Barkley (3s)
+Charles Barkley passes to Larry Bird (5s)
+Larry Bird turns the ball over (4s)
 === Current Score ===
-Team1: 28 Team2: 18
-Substitution: Ish Smith out, Carl Landry in (plus-minus: 8, total seconds: 539/1945)
+Team1: 33 Team2: 41
+
+Klay Thompson starts with the ball
+Klay Thompson makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 31 Team2: 18
+Team1: 33 Team2: 43
+
+Charles Barkley starts with the ball
+Shaun Livingston steals the ball from Charles Barkley!
+=== Current Score ===
+Team1: 33 Team2: 43
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (8s)
+Andre Iguodala makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 33 Team2: 45
+
+Larry Bird starts with the ball
+Larry Bird misses a 2-point shot (5s)
+Andre Iguodala grabs the defensive rebound!
+Substitution: Magic Johnson out, Karl Malone in (plus-minus: -7, total seconds: 662/1725)
+=== Current Score ===
+Team1: 35 Team2: 45
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Stephen Curry (5s)
+Stephen Curry passes to Shaun Livingston (3s)
+Shaun Livingston passes to Stephen Curry (4s)
+Stephen Curry passes to Shaun Livingston (1s)
+Shaun Livingston passes to JaVale McGee (3s)
+JaVale McGee misses a 2-point shot (6s)
+Clyde Drexler grabs the defensive rebound!
+Substitution: Andre Iguodala out, David West in (plus-minus: 9, total seconds: 684/1651)
+=== Current Score ===
+Team1: 35 Team2: 47
+
+Scottie Pippen starts with the ball
+Scottie Pippen passes to Clyde Drexler (3s)
+Clyde Drexler passes to Karl Malone (6s)
+Karl Malone misses a 2-point shot (5s)
+Shaun Livingston grabs the defensive rebound!
+=== Current Score ===
+Team1: 37 Team2: 47
+
+Stephen Curry starts with the ball
+Stephen Curry passes to JaVale McGee (7s)
+JaVale McGee passes to Shaun Livingston (5s)
+Shaun Livingston makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 37 Team2: 49
+
+Larry Bird starts with the ball
+Larry Bird misses a 2-point shot (4s)
+Charles Barkley grabs the offensive rebound!
+=== Current Score ===
+Team1: 37 Team2: 49
+
+Quarter 1 Score: Team1 37 - Team2 49
+
+=== Quarter 2 ===
+Klay Thompson starts with the ball
+Klay Thompson passes to JaVale McGee (4s)
+JaVale McGee dribbles (4s)
+JaVale McGee passes to Klay Thompson (5s)
+Klay Thompson makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 37 Team2: 52
+
+Scottie Pippen starts with the ball
+Scottie Pippen misses a 2-point shot (2s)
+Stephen Curry grabs the defensive rebound!
+Substitution: Larry Bird out, Magic Johnson in (plus-minus: -10, total seconds: 737/1645)
+=== Current Score ===
+Team1: 39 Team2: 52
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Stephen Curry (8s)
+Stephen Curry misses a 2-point shot (1s)
+Clyde Drexler grabs the defensive rebound!
+Substitution: Klay Thompson out, Kevin Durant in (plus-minus: 12, total seconds: 746/1651)
+=== Current Score ===
+Team1: 39 Team2: 54
+
+Clyde Drexler starts with the ball
+Clyde Drexler misses a 2-point shot (2s)
+Karl Malone grabs the offensive rebound!
+=== Current Score ===
+Team1: 39 Team2: 54
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (5s)
+Shaun Livingston passes to JaVale McGee (4s)
+JaVale McGee passes to David West (5s)
+David West makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 39 Team2: 56
+
+Magic Johnson starts with the ball
+Magic Johnson passes to Karl Malone (2s)
+Karl Malone dribbles (3s)
+Karl Malone passes to Clyde Drexler (5s)
+Clyde Drexler passes to Karl Malone (7s)
+Stephen Curry commits a foul on Karl Malone!Karl Malone misses a 2-point shot (7s)
+Karl Malone is fouled and heads to the free throw line 2 attempts
+Karl Malone makes free throw
+=== Current Score ===
+Team1: 40 Team2: 56
+Karl Malone makes free throw
+=== Current Score ===
+Team1: 41 Team2: 56
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 43 Team2: 56
+
+Kevin Durant starts with the ball
+Kevin Durant passes to JaVale McGee (4s)
+JaVale McGee makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 43 Team2: 58
+
+Scottie Pippen starts with the ball
+Scottie Pippen passes to Karl Malone (3s)
+Karl Malone passes to Magic Johnson (7s)
+Magic Johnson misses a 2-point shot (3s)
+Karl Malone grabs the offensive rebound!
+Substitution: Clyde Drexler out, Michael Jordan in (plus-minus: -11, total seconds: 392/1021)
+=== Current Score ===
+Team1: 43 Team2: 58
+
+Kevin Durant starts with the ball
+Kevin Durant passes to JaVale McGee (6s)
+JaVale McGee passes to David West (4s)
+Scottie Pippen steals the ball from David West!
+Substitution: JaVale McGee out, Klay Thompson in (plus-minus: 11, total seconds: 395/854)
+=== Current Score ===
+Team1: 43 Team2: 58
+
+Magic Johnson starts with the ball
+Magic Johnson passes to Charles Barkley (2s)
+Charles Barkley passes to Karl Malone (1s)
+Karl Malone passes to Michael Jordan (3s)
+Michael Jordan passes to Karl Malone (6s)
+Karl Malone passes to Magic Johnson (2s)
+Magic Johnson passes to Karl Malone (4s)
+Karl Malone misses a 2-point shot (6s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 45 Team2: 58
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (3s)
+Klay Thompson misses a 3-point shot (3s)
+Magic Johnson grabs the defensive rebound!
+=== Current Score ===
+Team1: 45 Team2: 61
+
+Charles Barkley starts with the ball
+Charles Barkley passes to Magic Johnson (4s)
+Magic Johnson passes to Michael Jordan (3s)
+Michael Jordan passes to Karl Malone (7s)
+Karl Malone passes to Scottie Pippen (2s)
+Kevin Durant commits a foul on Scottie Pippen!Scottie Pippen makes a 2-point shot! (6s)
+Scottie Pippen is fouled and heads to the free throw line(1 attempt) AND ONE!
+Scottie Pippen makes free throw
+=== Current Score ===
+Team1: 46 Team2: 61
+=== Current Score ===
+Team1: 48 Team2: 61
+
+Klay Thompson starts with the ball
+Klay Thompson passes to David West (1s)
+David West passes to Stephen Curry (6s)
+Stephen Curry passes to Shaun Livingston (6s)
+Shaun Livingston passes to Kevin Durant (5s)
+Michael Jordan commits a foul on Kevin Durant!Kevin Durant misses a 3-point shot (3s)
+Kevin Durant is fouled and heads to the free throw line 3 attempts
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 48 Team2: 62
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 48 Team2: 63
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 48 Team2: 64
+Scottie Pippen grabs the defensive rebound!
+=== Current Score ===
+Team1: 48 Team2: 67
+
+Charles Barkley starts with the ball
+Charles Barkley dribbles (8s)
+Charles Barkley passes to Michael Jordan (8s)
+Michael Jordan passes to Scottie Pippen (4s)
+Scottie Pippen makes a 2-point shot! (4s)
+Substitution: Charles Barkley out, Larry Bird in (plus-minus: -10, total seconds: 421/1210)
+=== Current Score ===
+Team1: 50 Team2: 67
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (1s)
+Shaun Livingston makes a 2-point shot! (3s)
+Substitution: Shaun Livingston out, Matt Barnes in (plus-minus: 10, total seconds: 417/827)
+=== Current Score ===
+Team1: 50 Team2: 69
+
+Magic Johnson starts with the ball
+Magic Johnson makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 52 Team2: 69
+
+Kevin Durant starts with the ball
+Michael Jordan commits a foul on Kevin Durant!Kevin Durant dribbles (4s)
+Kevin Durant dribbles (6s)
+Kevin Durant passes to David West (6s)
+David West passes to Stephen Curry (4s)
+Karl Malone blocks the shot of Stephen Curry!
+=== Current Score ===
+Team1: 52 Team2: 69
+
+Larry Bird starts with the ball
+Larry Bird passes to Magic Johnson (5s)
+Magic Johnson dribbles (2s)
+Magic Johnson passes to Larry Bird (4s)
+Larry Bird passes to Scottie Pippen (7s)
+Scottie Pippen passes to Larry Bird (3s)
+Larry Bird makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 54 Team2: 69
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (2s)
+Stephen Curry passes to Klay Thompson (6s)
+Klay Thompson passes to Matt Barnes (2s)
+Matt Barnes misses a 3-point shot (1s)
+Scottie Pippen grabs the defensive rebound!
+=== Current Score ===
+Team1: 54 Team2: 72
+
+Larry Bird starts with the ball
+Larry Bird passes to Scottie Pippen (2s)
+Scottie Pippen dribbles (4s)
+Klay Thompson steals the ball from Scottie Pippen!
+Substitution: Scottie Pippen out, John Stockton in (plus-minus: -13, total seconds: 413/1074)
+=== Current Score ===
+Team1: 54 Team2: 72
+
+Stephen Curry starts with the ball
+Stephen Curry turns the ball over (5s)
+Substitution: Stephen Curry out, Draymond Green in (plus-minus: 16, total seconds: 909/2100)
+=== Current Score ===
+Team1: 54 Team2: 72
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Larry Bird (2s)
+Larry Bird passes to Michael Jordan (6s)
+Michael Jordan passes to John Stockton (6s)
+John Stockton passes to Karl Malone (6s)
+David West commits a foul on Karl Malone!Karl Malone makes a 2-point shot! (3s)
+Karl Malone is fouled and heads to the free throw line(1 attempt) AND ONE!
+Karl Malone missed free throw
+=== Current Score ===
+Team1: 54 Team2: 72
+=== Current Score ===
+Team1: 56 Team2: 72
+
+Klay Thompson starts with the ball
+Klay Thompson passes to David West (8s)
+David West misses a 2-point shot (1s)
+Magic Johnson grabs the defensive rebound!
+=== Current Score ===
+Team1: 56 Team2: 74
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Karl Malone (3s)
+Karl Malone dribbles (7s)
+Kevin Durant steals the ball from Karl Malone while dribbling!
+=== Current Score ===
+Team1: 56 Team2: 74
+
+Klay Thompson starts with the ball
+Klay Thompson makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 56 Team2: 77
+
+Michael Jordan starts with the ball
+Michael Jordan makes a 2-point shot! (5s)
+Substitution: Karl Malone out, Clyde Drexler in (plus-minus: -12, total seconds: 822/2006)
+=== Current Score ===
+Team1: 58 Team2: 77
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Matt Barnes (8s)
+Matt Barnes misses a 2-point shot (4s)
+Magic Johnson grabs the defensive rebound!
+Substitution: David West out, Stephen Curry in (plus-minus: 9, total seconds: 392/1797)
+=== Current Score ===
+Team1: 58 Team2: 79
+
+Larry Bird starts with the ball
+Larry Bird makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 60 Team2: 79
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (7s)
+Klay Thompson passes to Stephen Curry (3s)
+Stephen Curry dribbles (5s)
+Stephen Curry passes to Klay Thompson (7s)
+Klay Thompson misses a 2-point shot (1s)
+Clyde Drexler grabs the defensive rebound!
+=== Current Score ===
+Team1: 60 Team2: 81
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Magic Johnson (4s)
+Magic Johnson passes to Clyde Drexler (6s)
+Clyde Drexler misses a 2-point shot (4s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 62 Team2: 81
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Matt Barnes (6s)
+Matt Barnes passes to Draymond Green (6s)
+Draymond Green passes to Stephen Curry (2s)
+Stephen Curry passes to Matt Barnes (7s)
+Matt Barnes misses a 2-point shot (3s)
+Kevin Durant grabs the offensive rebound!
+=== Current Score ===
+Team1: 62 Team2: 81
+
+Michael Jordan starts with the ball
+Michael Jordan passes to John Stockton (6s)
+John Stockton passes to Larry Bird (4s)
+Draymond Green steals the ball from Larry Bird while dribbling!
+Substitution: Magic Johnson out, Charles Barkley in (plus-minus: -13, total seconds: 1080/1725)
+=== Current Score ===
+Team1: 62 Team2: 81
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (2s)
+Klay Thompson passes to Matt Barnes (4s)
+Matt Barnes misses a 3-point shot (6s)
+Matt Barnes grabs the offensive rebound!
+Substitution: Kevin Durant out, David West in (plus-minus: 7, total seconds: 853/2100)
+=== Current Score ===
+Team1: 62 Team2: 81
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Charles Barkley (4s)
+Charles Barkley dribbles (7s)
+Charles Barkley passes to Michael Jordan (3s)
+Michael Jordan passes to Charles Barkley (4s)
+Charles Barkley passes to Clyde Drexler (2s)
+Clyde Drexler makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 64 Team2: 81
+
+Klay Thompson starts with the ball
+Klay Thompson passes to David West (6s)
+David West passes to Matt Barnes (4s)
+Matt Barnes makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 64 Team2: 83
+
+Larry Bird starts with the ball
+Larry Bird passes to Michael Jordan (5s)
+Michael Jordan passes to Larry Bird (6s)
+Larry Bird passes to Michael Jordan (6s)
+Matt Barnes steals the ball from Michael Jordan!
+=== Current Score ===
+Team1: 64 Team2: 83
+
+Klay Thompson starts with the ball
+Klay Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 64 Team2: 85
+
+Charles Barkley starts with the ball
+Charles Barkley passes to Michael Jordan (2s)
+Michael Jordan dribbles (4s)
+Michael Jordan passes to Charles Barkley (1s)
+Charles Barkley passes to Clyde Drexler (5s)
+Clyde Drexler passes to Larry Bird (1s)
+Larry Bird passes to Clyde Drexler (3s)
+Clyde Drexler passes to Charles Barkley (6s)
+Charles Barkley makes a 2-point shot! (2s)
+Substitution: Michael Jordan out, Karl Malone in (plus-minus: -6, total seconds: 944/2006)
+=== Current Score ===
+Team1: 66 Team2: 85
+
+Klay Thompson starts with the ball
+Klay Thompson misses a 2-point shot (5s)
+Charles Barkley grabs the defensive rebound!
+Substitution: Klay Thompson out, Kevin Durant in (plus-minus: 16, total seconds: 1177/1651)
+=== Current Score ===
+Team1: 66 Team2: 87
+
+Larry Bird starts with the ball
+Larry Bird makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 68 Team2: 87
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (8s)
+Matt Barnes passes to Stephen Curry (1s)
+Stephen Curry passes to Draymond Green (2s)
+Draymond Green dribbles (8s)
+Draymond Green passes to David West (3s)
+David West misses a 2-point shot (2s)
+Clyde Drexler grabs the defensive rebound!
+=== Current Score ===
+Team1: 68 Team2: 89
+
+Larry Bird starts with the ball
+Draymond Green steals the ball from Larry Bird!
+=== Current Score ===
+Team1: 68 Team2: 89
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (4s)
+Matt Barnes passes to Stephen Curry (6s)
+Stephen Curry passes to Kevin Durant (3s)
+Kevin Durant misses a 2-point shot (4s)
+Charles Barkley grabs the defensive rebound!
+=== Current Score ===
+Team1: 68 Team2: 91
+
+Clyde Drexler starts with the ball
+Clyde Drexler dribbles (7s)
+Clyde Drexler misses a 3-point shot (3s)
+David West grabs the defensive rebound!
+Substitution: Larry Bird out, Chris Mullin in (plus-minus: -13, total seconds: 1127/1645)
+=== Current Score ===
+Team1: 71 Team2: 91
+
+Kevin Durant starts with the ball
+Kevin Durant passes to David West (3s)
+David West dribbles (4s)
+David West passes to Kevin Durant (2s)
+Kevin Durant passes to Draymond Green (5s)
+Draymond Green dribbles (5s)
+Draymond Green misses a 2-point shot (5s)
+Karl Malone grabs the defensive rebound!
+Substitution: Matt Barnes out, Andre Iguodala in (plus-minus: 3, total seconds: 410/767)
+=== Current Score ===
+Team1: 71 Team2: 93
+
+Clyde Drexler starts with the ball
+Clyde Drexler misses a 3-point shot (5s)
+Karl Malone grabs the offensive rebound!
+=== Current Score ===
+Team1: 71 Team2: 93
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (3s)
+Andre Iguodala makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 71 Team2: 95
+
+Clyde Drexler starts with the ball
+Clyde Drexler passes to John Stockton (3s)
+John Stockton turns the ball over (4s)
+=== Current Score ===
+Team1: 71 Team2: 95
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Kevin Durant (6s)
+Kevin Durant passes to Draymond Green (5s)
+Draymond Green makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 71 Team2: 97
+
+Charles Barkley starts with the ball
+Charles Barkley misses a 2-point shot (3s)
+Kevin Durant grabs the defensive rebound!
+Substitution: John Stockton out, Magic Johnson in (plus-minus: -8, total seconds: 961/2006)
+=== Current Score ===
+Team1: 73 Team2: 97
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (3s)
+Draymond Green misses a 3-point shot (2s)
+Karl Malone grabs the defensive rebound!
+Substitution: Draymond Green out, Zaza Pachulia in (plus-minus: 14, total seconds: 981/1651)
+=== Current Score ===
+Team1: 73 Team2: 100
+
+Magic Johnson starts with the ball
+Magic Johnson passes to Chris Mullin (4s)
+Chris Mullin passes to Charles Barkley (3s)
+Charles Barkley misses a 2-point shot (5s)
+Andre Iguodala grabs the defensive rebound!
+=== Current Score ===
+Team1: 75 Team2: 100
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (5s)
+Kevin Durant passes to Andre Iguodala (8s)
+Andre Iguodala passes to Kevin Durant (7s)
+Kevin Durant makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 75 Team2: 102
+
+Magic Johnson starts with the ball
+Magic Johnson passes to Chris Mullin (5s)
+Chris Mullin makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 78 Team2: 102
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Kevin Durant (7s)
+Kevin Durant passes to David West (5s)
+David West passes to Stephen Curry (4s)
+Stephen Curry misses a 2-point shot (2s)
+David West grabs the offensive rebound!
+=== Current Score ===
+Team1: 78 Team2: 102
+
+Quarter 2 Score: Team1 78 - Team2 102
+
+=== Quarter 3 ===
+Magic Johnson starts with the ball
+Magic Johnson passes to Clyde Drexler (5s)
+Clyde Drexler passes to Karl Malone (4s)
+Karl Malone passes to Magic Johnson (8s)
+Magic Johnson passes to Charles Barkley (3s)
+Charles Barkley makes a 2-point shot! (4s)
+Substitution: Clyde Drexler out, David Robinson in (plus-minus: -14, total seconds: 792/1021)
+=== Current Score ===
+Team1: 80 Team2: 102
+
+Kevin Durant starts with the ball
+Karl Malone commits a foul on Kevin Durant!Kevin Durant makes a 2-point shot! (7s)
+Kevin Durant is fouled and heads to the free throw line(1 attempt) AND ONE!
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 80 Team2: 103
+Substitution: Stephen Curry out, Shaun Livingston in (plus-minus: 19, total seconds: 1304/2100)
+=== Current Score ===
+Team1: 80 Team2: 105
+
+Magic Johnson starts with the ball
+Magic Johnson dribbles (5s)
+Magic Johnson passes to Karl Malone (4s)
+Karl Malone makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 82 Team2: 105
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 82 Team2: 107
+
+David Robinson starts with the ball
+David Robinson passes to Magic Johnson (4s)
+Magic Johnson passes to Chris Mullin (7s)
+Andre Iguodala commits a foul on Chris Mullin!Chris Mullin dribbles (1s)
+Chris Mullin passes to Karl Malone (5s)
+Zaza Pachulia steals the ball from Karl Malone!
+=== Current Score ===
+Team1: 82 Team2: 107
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 3-point shot! (3s)
+=== Current Score ===
+Team1: 82 Team2: 110
+
+Magic Johnson starts with the ball
+Magic Johnson dribbles (5s)
+David West commits a foul on Magic Johnson!Magic Johnson dribbles (1s)
+Magic Johnson passes to Karl Malone (1s)
+Karl Malone misses a 2-point shot (5s)
+David West grabs the defensive rebound!
+Substitution: Charles Barkley out, Michael Jordan in (plus-minus: -16, total seconds: 790/1210)
+=== Current Score ===
+Team1: 84 Team2: 110
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (7s)
+Substitution: David West out, Matt Barnes in (plus-minus: 17, total seconds: 756/1797)
+=== Current Score ===
+Team1: 84 Team2: 112
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Chris Mullin (6s)
+Chris Mullin passes to Michael Jordan (3s)
+Michael Jordan passes to Karl Malone (2s)
+Karl Malone makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 86 Team2: 112
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 86 Team2: 115
+
+Michael Jordan starts with the ball
+Michael Jordan passes to David Robinson (2s)
+David Robinson dribbles (3s)
+David Robinson passes to Magic Johnson (7s)
+Magic Johnson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 88 Team2: 115
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Shaun Livingston (4s)
+Shaun Livingston passes to Zaza Pachulia (6s)
+Zaza Pachulia makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 88 Team2: 117
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Chris Mullin (2s)
+Chris Mullin passes to Karl Malone (3s)
+Karl Malone passes to Chris Mullin (5s)
+Chris Mullin makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 90 Team2: 117
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (2s)
+Kevin Durant dribbles (2s)
+Kevin Durant passes to Andre Iguodala (3s)
+Andre Iguodala passes to Shaun Livingston (3s)
+Shaun Livingston passes to Zaza Pachulia (7s)
+Zaza Pachulia misses a 2-point shot (7s)
+Karl Malone grabs the defensive rebound!
+=== Current Score ===
+Team1: 90 Team2: 119
+
+Chris Mullin starts with the ball
+Chris Mullin passes to David Robinson (7s)
+David Robinson passes to Michael Jordan (5s)
+Michael Jordan dribbles (5s)
+Michael Jordan passes to Chris Mullin (4s)
+Chris Mullin passes to David Robinson (1s)
+David Robinson makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 92 Team2: 119
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Zaza Pachulia (4s)
+Zaza Pachulia passes to Andre Iguodala (1s)
+Andre Iguodala passes to Kevin Durant (8s)
+Magic Johnson steals the ball from Kevin Durant while dribbling!
+=== Current Score ===
+Team1: 92 Team2: 119
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Chris Mullin (3s)
+Chris Mullin makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 94 Team2: 119
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (5s)
+Matt Barnes makes a 3-point shot! (7s)
+=== Current Score ===
+Team1: 94 Team2: 122
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Karl Malone (5s)
+Karl Malone passes to David Robinson (4s)
+Kevin Durant commits a foul on David Robinson!David Robinson misses a 2-point shot (2s)
+David Robinson is fouled and heads to the free throw line 2 attempts
+David Robinson makes free throw
+=== Current Score ===
+Team1: 95 Team2: 122
+David Robinson makes free throw
+=== Current Score ===
+Team1: 96 Team2: 122
+Shaun Livingston grabs the defensive rebound!
+Substitution: Karl Malone out, John Stockton in (plus-minus: -18, total seconds: 1255/2006)
+=== Current Score ===
+Team1: 98 Team2: 122
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (2s)
+Matt Barnes dribbles (6s)
+Matt Barnes misses a 2-point shot (5s)
+Chris Mullin grabs the defensive rebound!
+Substitution: Kevin Durant out, David West in (plus-minus: 13, total seconds: 1294/2100)
+=== Current Score ===
+Team1: 98 Team2: 124
+
+Michael Jordan starts with the ball
+Michael Jordan passes to John Stockton (5s)
+John Stockton passes to David Robinson (6s)
+David Robinson passes to Michael Jordan (3s)
+Michael Jordan makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 100 Team2: 124
+
+Matt Barnes starts with the ball
+Matt Barnes dribbles (4s)
+Matt Barnes passes to Andre Iguodala (6s)
+Andre Iguodala passes to Matt Barnes (5s)
+Matt Barnes makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 100 Team2: 126
+
+Michael Jordan starts with the ball
+Michael Jordan misses a 2-point shot (4s)
+David Robinson grabs the offensive rebound!
+=== Current Score ===
+Team1: 100 Team2: 126
+
+Matt Barnes starts with the ball
+Matt Barnes passes to David West (3s)
+David West passes to Matt Barnes (6s)
+Magic Johnson commits a foul on Matt Barnes!Matt Barnes makes a 2-point shot! (4s)
+Matt Barnes is fouled and heads to the free throw line(1 attempt) AND ONE!
+Matt Barnes makes free throw
+=== Current Score ===
+Team1: 100 Team2: 127
+=== Current Score ===
+Team1: 100 Team2: 129
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Magic Johnson (3s)
+Magic Johnson dribbles (2s)
+Magic Johnson dribbles (4s)
+Magic Johnson passes to Chris Mullin (6s)
+Chris Mullin passes to Michael Jordan (6s)
+Michael Jordan misses a 2-point shot (3s)
+Shaun Livingston grabs the defensive rebound!
+Substitution: Magic Johnson out, Scottie Pippen in (plus-minus: -16, total seconds: 1485/1725)
+=== Current Score ===
+Team1: 102 Team2: 129
+
+Matt Barnes starts with the ball
+Matt Barnes misses a 2-point shot (5s)
+Chris Mullin grabs the defensive rebound!
+Substitution: Zaza Pachulia out, Klay Thompson in (plus-minus: 2, total seconds: 405/1003)
+=== Current Score ===
+Team1: 102 Team2: 131
+
+Michael Jordan starts with the ball
+Shaun Livingston steals the ball from Michael Jordan!
+=== Current Score ===
+Team1: 102 Team2: 131
+
+Klay Thompson starts with the ball
+Klay Thompson misses a 3-point shot (7s)
+David Robinson grabs the defensive rebound!
+=== Current Score ===
+Team1: 102 Team2: 134
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Scottie Pippen (5s)
+Scottie Pippen passes to Michael Jordan (3s)
+Michael Jordan passes to Chris Mullin (2s)
+Chris Mullin passes to Michael Jordan (8s)
+Michael Jordan makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 104 Team2: 134
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Matt Barnes (8s)
+Matt Barnes misses a 2-point shot (2s)
+Michael Jordan grabs the defensive rebound!
+=== Current Score ===
+Team1: 104 Team2: 136
+
+Scottie Pippen starts with the ball
+Scottie Pippen passes to David Robinson (5s)
+David Robinson misses a 2-point shot (4s)
+Andre Iguodala grabs the defensive rebound!
+Substitution: Chris Mullin out, Magic Johnson in (plus-minus: -10, total seconds: 528/586)
+=== Current Score ===
+Team1: 106 Team2: 136
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Matt Barnes (1s)
+Matt Barnes passes to Andre Iguodala (5s)
+Andre Iguodala passes to Shaun Livingston (3s)
+Shaun Livingston turns the ball over (6s)
+Substitution: Shaun Livingston out, Zaza Pachulia in (plus-minus: 16, total seconds: 803/827)
+=== Current Score ===
+Team1: 106 Team2: 136
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Magic Johnson (4s)
+Magic Johnson passes to John Stockton (6s)
+John Stockton passes to Magic Johnson (7s)
+Magic Johnson passes to David Robinson (4s)
+David Robinson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 108 Team2: 136
+
+Klay Thompson starts with the ball
+Scottie Pippen commits a foul on Klay Thompson!Klay Thompson dribbles (2s)
+Klay Thompson misses a 3-point shot (3s)
+Scottie Pippen grabs the defensive rebound!
+=== Current Score ===
+Team1: 108 Team2: 139
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Scottie Pippen (3s)
+David West commits a foul on Scottie Pippen!Scottie Pippen dribbles (5s)
+Scottie Pippen makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 110 Team2: 139
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (3s)
+Klay Thompson dribbles (6s)
+Klay Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 110 Team2: 141
+
+Michael Jordan starts with the ball
+Michael Jordan dribbles (8s)
+Michael Jordan passes to John Stockton (4s)
+John Stockton passes to David Robinson (5s)
+David Robinson passes to John Stockton (3s)
+John Stockton passes to David Robinson (3s)
+David Robinson misses a 2-point shot (1s)
+David Robinson grabs the offensive rebound!
+Substitution: Michael Jordan out, Charles Barkley in (plus-minus: -12, total seconds: 1355/2006)
+=== Current Score ===
+Team1: 110 Team2: 141
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (6s)
+Klay Thompson misses a 3-point shot (5s)
+Scottie Pippen grabs the defensive rebound!
+Substitution: Matt Barnes out, Kevin Durant in (plus-minus: 10, total seconds: 825/767)
+=== Current Score ===
+Team1: 110 Team2: 144
+
+David Robinson starts with the ball
+David Robinson dribbles (3s)
+David Robinson passes to Magic Johnson (8s)
+Magic Johnson passes to David Robinson (5s)
+David Robinson makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 112 Team2: 144
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (4s)
+Klay Thompson passes to David West (6s)
+David West passes to Klay Thompson (6s)
+Klay Thompson passes to Kevin Durant (7s)
+Kevin Durant misses a 2-point shot (1s)
+Scottie Pippen grabs the defensive rebound!
+=== Current Score ===
+Team1: 112 Team2: 146
+
+Scottie Pippen starts with the ball
+Scottie Pippen makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 114 Team2: 146
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Zaza Pachulia (5s)
+Zaza Pachulia makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 114 Team2: 148
+
+Magic Johnson starts with the ball
+Magic Johnson turns the ball over (4s)
+Substitution: David Robinson out, Michael Jordan in (plus-minus: -12, total seconds: 545/1123)
+=== Current Score ===
+Team1: 114 Team2: 148
+
+Kevin Durant starts with the ball
+Kevin Durant misses a 2-point shot (5s)
+Scottie Pippen grabs the defensive rebound!
+Substitution: Andre Iguodala out, Stephen Curry in (plus-minus: 23, total seconds: 1360/1651)
+=== Current Score ===
+Team1: 114 Team2: 150
+
+Charles Barkley starts with the ball
+Charles Barkley passes to Magic Johnson (7s)
+Magic Johnson passes to Scottie Pippen (2s)
+Scottie Pippen passes to Magic Johnson (5s)
+Magic Johnson passes to Charles Barkley (3s)
+Charles Barkley makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 116 Team2: 150
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 3-point shot! (8s)
+=== Current Score ===
+Team1: 116 Team2: 153
+
+Michael Jordan starts with the ball
+Michael Jordan dribbles (6s)
+Michael Jordan passes to Magic Johnson (3s)
+Magic Johnson dribbles (3s)
+Magic Johnson passes to Michael Jordan (5s)
+Michael Jordan passes to John Stockton (1s)
+John Stockton makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 118 Team2: 153
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (7s)
+Stephen Curry makes a 3-point shot! (3s)
+=== Current Score ===
+Team1: 118 Team2: 156
+
+Charles Barkley starts with the ball
+Charles Barkley passes to Michael Jordan (4s)
+Michael Jordan misses a 2-point shot (4s)
+Zaza Pachulia grabs the defensive rebound!
+Substitution: Magic Johnson out, David Robinson in (plus-minus: -22, total seconds: 1726/1725)
+=== Current Score ===
+Team1: 120 Team2: 156
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (5s)
+Klay Thompson passes to David West (8s)
+David West dribbles (5s)
+David West makes a 2-point shot! (6s)
+Substitution: David West out, Draymond Green in (plus-minus: 28, total seconds: 1164/1797)
+=== Current Score ===
+Team1: 120 Team2: 158
+
+Scottie Pippen starts with the ball
+Scottie Pippen dribbles (4s)
+Scottie Pippen passes to Charles Barkley (6s)
+Charles Barkley passes to Michael Jordan (1s)
+Michael Jordan turns the ball over (1s)
+=== Current Score ===
+Team1: 120 Team2: 158
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (5s)
+Draymond Green misses a 2-point shot (4s)
+David Robinson grabs the defensive rebound!
+=== Current Score ===
+Team1: 120 Team2: 160
+
+Michael Jordan starts with the ball
+Michael Jordan makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 122 Team2: 160
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Stephen Curry (5s)
+Stephen Curry passes to Zaza Pachulia (7s)
+Zaza Pachulia passes to Klay Thompson (5s)
+Klay Thompson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 122 Team2: 162
+
+Scottie Pippen starts with the ball
+Scottie Pippen misses a 2-point shot (5s)
+Charles Barkley grabs the offensive rebound!
+Substitution: Scottie Pippen out, Larry Bird in (plus-minus: -26, total seconds: 794/1074)
+=== Current Score ===
+Team1: 122 Team2: 162
+
+Quarter 3 Score: Team1 122 - Team2 162
+
+=== Quarter 4 ===
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (5s)
+Stephen Curry makes a 2-point shot! (2s)
+Substitution: Klay Thompson out, David West in (plus-minus: 29, total seconds: 1560/1651)
+=== Current Score ===
+Team1: 122 Team2: 164
+
+Michael Jordan starts with the ball
+Michael Jordan passes to John Stockton (7s)
+John Stockton passes to Charles Barkley (6s)
+Charles Barkley passes to David Robinson (4s)
+David Robinson passes to Larry Bird (3s)
+Larry Bird passes to David Robinson (3s)
+David Robinson makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 124 Team2: 164
+
+Kevin Durant starts with the ball
+Larry Bird commits a foul on Kevin Durant!Kevin Durant dribbles (4s)
+Kevin Durant makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 124 Team2: 166
+
+Larry Bird starts with the ball
+Larry Bird passes to John Stockton (6s)
+John Stockton passes to Michael Jordan (7s)
+Michael Jordan makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 126 Team2: 166
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (6s)
+Stephen Curry passes to Kevin Durant (6s)
+Kevin Durant passes to Zaza Pachulia (5s)
+Zaza Pachulia misses a 2-point shot (5s)
+John Stockton grabs the defensive rebound!
+=== Current Score ===
+Team1: 126 Team2: 168
+
+Michael Jordan starts with the ball
+Michael Jordan dribbles (2s)
+Michael Jordan passes to John Stockton (4s)
+John Stockton passes to David Robinson (5s)
+Kevin Durant steals the ball from David Robinson!
+Substitution: John Stockton out, Karl Malone in (plus-minus: -25, total seconds: 1526/2006)
+=== Current Score ===
+Team1: 126 Team2: 168
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (5s)
+Substitution: Zaza Pachulia out, JaVale McGee in (plus-minus: 16, total seconds: 804/1003)
+=== Current Score ===
+Team1: 126 Team2: 170
+
+David Robinson starts with the ball
+David Robinson misses a 2-point shot (6s)
+David Robinson grabs the offensive rebound!
+=== Current Score ===
+Team1: 126 Team2: 170
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (3s)
+Stephen Curry dribbles (3s)
+Stephen Curry passes to Draymond Green (3s)
+Draymond Green passes to Kevin Durant (5s)
+Kevin Durant passes to Draymond Green (5s)
+Draymond Green makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 126 Team2: 172
+
+Karl Malone starts with the ball
+Karl Malone makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 128 Team2: 172
+
+Kevin Durant starts with the ball
+Kevin Durant passes to JaVale McGee (3s)
+JaVale McGee turns the ball over (8s)
+=== Current Score ===
+Team1: 128 Team2: 172
+
+Charles Barkley starts with the ball
+Charles Barkley misses a 2-point shot (5s)
+Kevin Durant grabs the defensive rebound!
+Substitution: Charles Barkley out, Scottie Pippen in (plus-minus: -27, total seconds: 1160/1210)
+=== Current Score ===
+Team1: 130 Team2: 172
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green passes to David West (5s)
+David West passes to Kevin Durant (3s)
+Kevin Durant passes to JaVale McGee (3s)
+JaVale McGee passes to David West (3s)
+David West passes to Stephen Curry (4s)
+Larry Bird commits a foul on Stephen Curry!Stephen Curry misses a 2-point shot (2s)
+Stephen Curry is fouled and heads to the free throw line 2 attempts
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 130 Team2: 173
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 130 Team2: 174
+David Robinson grabs the defensive rebound!
+Substitution: Kevin Durant out, Andre Iguodala in (plus-minus: 23, total seconds: 1677/2100)
+=== Current Score ===
+Team1: 130 Team2: 176
+
+Larry Bird starts with the ball
+Larry Bird passes to Michael Jordan (4s)
+Michael Jordan passes to Larry Bird (7s)
+Larry Bird passes to David Robinson (7s)
+David Robinson misses a 2-point shot (6s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 132 Team2: 176
+
+Stephen Curry starts with the ball
+Stephen Curry passes to JaVale McGee (7s)
+JaVale McGee passes to David West (4s)
+David West passes to Andre Iguodala (6s)
+Andre Iguodala misses a 3-point shot (7s)
+Karl Malone grabs the defensive rebound!
+=== Current Score ===
+Team1: 132 Team2: 179
+
+Scottie Pippen starts with the ball
+David West commits a foul on Scottie Pippen!Scottie Pippen makes a 2-point shot! (6s)
+Scottie Pippen is fouled and heads to the free throw line(1 attempt) AND ONE!
+Scottie Pippen makes free throw
+=== Current Score ===
+Team1: 133 Team2: 179
+=== Current Score ===
+Team1: 135 Team2: 179
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (6s)
+Draymond Green dribbles (2s)
+Draymond Green passes to David West (3s)
+David West passes to Stephen Curry (5s)
+Stephen Curry passes to Andre Iguodala (7s)
+Andre Iguodala misses a 2-point shot (1s)
+Draymond Green grabs the offensive rebound!
+=== Current Score ===
+Team1: 135 Team2: 179
+
+Michael Jordan starts with the ball
+Michael Jordan misses a 2-point shot (4s)
+Draymond Green grabs the defensive rebound!
+Substitution: Michael Jordan out, John Stockton in (plus-minus: -19, total seconds: 1757/2006)
+=== Current Score ===
+Team1: 137 Team2: 179
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (1s)
+Andre Iguodala misses a 2-point shot (5s)
+Larry Bird grabs the defensive rebound!
+Substitution: Stephen Curry out, Kevin Durant in (plus-minus: 26, total seconds: 1707/2100)
+=== Current Score ===
+Team1: 137 Team2: 181
+
+Larry Bird starts with the ball
+Larry Bird dribbles (5s)
+Larry Bird passes to Karl Malone (4s)
+Karl Malone makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 139 Team2: 181
 
 Kevin Durant starts with the ball
 Kevin Durant makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 31 Team2: 20
+Team1: 139 Team2: 183
 
-Carl Landry starts with the ball
-Carl Landry misses a 2-point shot (4s)
+Larry Bird starts with the ball
+Larry Bird passes to John Stockton (6s)
+John Stockton makes a 2-point shot! (1s)
 === Current Score ===
-Team1: 31 Team2: 20
-
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (5s)
-David West passes to Kevin Durant (4s)
-Kevin Durant passes to Andre Iguodala (3s)
-Andre Iguodala passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to Klay Thompson (5s)
-Klay Thompson misses a 3-point shot (2s)
-=== Current Score ===
-Team1: 31 Team2: 20
-
-Elfrid Payton starts with the ball
-Klay Thompson commits a foul on Elfrid Payton!Andre Iguodala blocks the shot of Elfrid Payton!
-=== Current Score ===
-Team1: 31 Team2: 20
+Team1: 141 Team2: 183
 
 Kevin Durant starts with the ball
-Kevin Durant dribbles (4s)
-Kevin Durant passes to David West (2s)
-David West dribbles (5s)
-Carl Landry blocks the shot of David West!
-Substitution: Andre Iguodala out, Stephen Curry in (plus-minus: -6, total seconds: 589/1651)
-=== Current Score ===
-Team1: 31 Team2: 20
-
-Robert Covington starts with the ball
-Robert Covington passes to Christian Wood (5s)
-Christian Wood makes a 2-point shot! (4s)
-Substitution: Elfrid Payton out, Ish Smith in (plus-minus: 8, total seconds: 598/1816)
-=== Current Score ===
-Team1: 33 Team2: 20
-
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (4s)
-David West passes to Klay Thompson (8s)
-Klay Thompson passes to Kevin Durant (7s)
-Kevin Durant makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 33 Team2: 23
-
-Christian Wood starts with the ball
-Christian Wood dribbles (2s)
-Christian Wood passes to Robert Covington (5s)
-Robert Covington passes to Christian Wood (4s)
-Christian Wood dribbles (6s)
-Christian Wood passes to Robert Covington (3s)
-Robert Covington passes to Ish Smith (2s)
-Ish Smith makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 35 Team2: 23
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to David West (5s)
-Richaun Holmes blocks the shot of David West!
-=== Current Score ===
-Team1: 35 Team2: 23
-
-Christian Wood starts with the ball
-Christian Wood passes to Richaun Holmes (4s)
-Richaun Holmes dribbles (7s)
-Richaun Holmes misses a 3-point shot (3s)
-=== Current Score ===
-Team1: 35 Team2: 23
-
-Stephen Curry starts with the ball
-Stephen Curry turns the ball over (2s)
-Substitution: Klay Thompson out, JaVale McGee in (plus-minus: -7, total seconds: 679/1651)
-=== Current Score ===
-Team1: 35 Team2: 23
-
-Ish Smith starts with the ball
-Ish Smith passes to Carl Landry (7s)
-Carl Landry passes to Robert Covington (3s)
-Robert Covington passes to Christian Wood (5s)
-Christian Wood passes to Carl Landry (4s)
-Carl Landry misses a 2-point shot (4s)
-Substitution: Robert Covington out, Jerami Grant in (plus-minus: 7, total seconds: 702/1736)
-=== Current Score ===
-Team1: 35 Team2: 23
-
-Stephen Curry starts with the ball
-Stephen Curry passes to JaVale McGee (4s)
-JaVale McGee passes to David West (2s)
-David West passes to Zaza Pachulia (5s)
-Jerami Grant steals the ball from Zaza Pachulia!
-=== Current Score ===
-Team1: 35 Team2: 23
-
-Jerami Grant starts with the ball
-Jerami Grant misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 35 Team2: 23
-
-Quarter 1 Score: Team1 35 - Team2 23
-
-=== Quarter 2 ===
-Kevin Durant starts with the ball
-Kevin Durant passes to Zaza Pachulia (7s)
-Zaza Pachulia passes to Stephen Curry (4s)
-Stephen Curry passes to Zaza Pachulia (8s)
-Zaza Pachulia passes to Kevin Durant (3s)
-Kevin Durant makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 35 Team2: 25
-
-Christian Wood starts with the ball
-Christian Wood passes to Jerami Grant (3s)
-Jerami Grant misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 35 Team2: 25
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (4s)
-Stephen Curry passes to JaVale McGee (5s)
-JaVale McGee passes to Kevin Durant (7s)
-Kevin Durant passes to David West (4s)
+Kevin Durant passes to David West (6s)
 David West misses a 2-point shot (4s)
-Substitution: Zaza Pachulia out, Andre Iguodala in (plus-minus: -3, total seconds: 409/1003)
+David Robinson grabs the defensive rebound!
 === Current Score ===
-Team1: 35 Team2: 25
+Team1: 141 Team2: 185
 
-Christian Wood starts with the ball
-Christian Wood passes to Carl Landry (7s)
-Carl Landry passes to Ish Smith (3s)
-Ish Smith passes to Carl Landry (3s)
-Carl Landry passes to Ish Smith (7s)
-Ish Smith passes to Christian Wood (2s)
-Kevin Durant commits a foul on Christian Wood!Christian Wood misses a 3-point shot (2s)
-Christian Wood is fouled and heads to the free throw line 3 attempts
-Christian Wood makes free throw
+Karl Malone starts with the ball
+Kevin Durant commits a foul on Karl Malone!Karl Malone misses a 2-point shot (6s)
+Karl Malone is fouled and heads to the free throw line 2 attempts
+Karl Malone makes free throw
 === Current Score ===
-Team1: 36 Team2: 25
-Christian Wood makes free throw
+Team1: 142 Team2: 185
+Karl Malone missed free throw
 === Current Score ===
-Team1: 37 Team2: 25
-Christian Wood makes free throw
+Team1: 142 Team2: 185
+Larry Bird grabs the offensive rebound!
+Substitution: David Robinson out, Michael Jordan in (plus-minus: -19, total seconds: 917/1123)
 === Current Score ===
-Team1: 38 Team2: 25
-Substitution: Richaun Holmes out, Robert Covington in (plus-minus: 1, total seconds: 431/1188)
-=== Current Score ===
-Team1: 38 Team2: 25
+Team1: 142 Team2: 185
 
 Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (5s)
+Kevin Durant misses a 3-point shot (6s)
+Karl Malone grabs the defensive rebound!
 === Current Score ===
-Team1: 38 Team2: 27
+Team1: 142 Team2: 188
 
-Robert Covington starts with the ball
-Robert Covington passes to Carl Landry (4s)
-Carl Landry passes to Christian Wood (4s)
-Christian Wood dribbles (6s)
-Christian Wood passes to Carl Landry (6s)
-Carl Landry misses a 2-point shot (4s)
+Scottie Pippen starts with the ball
+Scottie Pippen makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 38 Team2: 27
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (6s)
-Stephen Curry passes to David West (1s)
-David West passes to Andre Iguodala (7s)
-Andre Iguodala passes to David West (6s)
-David West misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 38 Team2: 27
-
-Christian Wood starts with the ball
-Christian Wood dribbles (4s)
-Christian Wood passes to Jerami Grant (3s)
-Jerami Grant passes to Robert Covington (7s)
-Robert Covington passes to Ish Smith (1s)
-Ish Smith passes to Jerami Grant (4s)
-Jerami Grant misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 38 Team2: 27
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (5s)
-Stephen Curry misses a 2-point shot (4s)
-Substitution: David West out, Matt Barnes in (plus-minus: -1, total seconds: 439/1797)
-=== Current Score ===
-Team1: 38 Team2: 27
-
-Robert Covington starts with the ball
-Robert Covington passes to Ish Smith (5s)
-Ish Smith passes to Carl Landry (6s)
-Carl Landry passes to Ish Smith (6s)
-Ish Smith misses a 2-point shot (6s)
-Substitution: Carl Landry out, Elfrid Payton in (plus-minus: -5, total seconds: 370/1145)
-=== Current Score ===
-Team1: 38 Team2: 27
-
-Kevin Durant starts with the ball
-Kevin Durant misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 38 Team2: 27
-
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Robert Covington (6s)
-Robert Covington passes to Elfrid Payton (5s)
-Elfrid Payton passes to Jerami Grant (8s)
-Jerami Grant misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 38 Team2: 27
-
-Stephen Curry starts with the ball
-Stephen Curry passes to JaVale McGee (3s)
-JaVale McGee dribbles (3s)
-JaVale McGee dribbles (3s)
-JaVale McGee passes to Andre Iguodala (6s)
-Andre Iguodala misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 38 Team2: 27
-
-Christian Wood starts with the ball
-Christian Wood passes to Ish Smith (2s)
-Andre Iguodala blocks the shot of Ish Smith!
-=== Current Score ===
-Team1: 38 Team2: 27
+Team1: 144 Team2: 188
 
 Kevin Durant starts with the ball
 Kevin Durant passes to JaVale McGee (3s)
-JaVale McGee passes to Matt Barnes (2s)
-Matt Barnes passes to Andre Iguodala (7s)
-Andre Iguodala passes to Matt Barnes (7s)
-Matt Barnes misses a 3-point shot (5s)
-Substitution: Kevin Durant out, David West in (plus-minus: 0, total seconds: 841/2100)
+JaVale McGee dribbles (3s)
+JaVale McGee misses a 2-point shot (6s)
+Michael Jordan grabs the defensive rebound!
 === Current Score ===
-Team1: 38 Team2: 27
+Team1: 144 Team2: 190
 
-Christian Wood starts with the ball
-Christian Wood dribbles (4s)
-Christian Wood passes to Elfrid Payton (2s)
-Elfrid Payton passes to Robert Covington (2s)
-Robert Covington passes to Ish Smith (5s)
-Ish Smith makes a 2-point shot! (5s)
-Substitution: Christian Wood out, Nerlens Noel in (plus-minus: 0, total seconds: 557/955)
+Larry Bird starts with the ball
+Larry Bird passes to Michael Jordan (7s)
+Michael Jordan makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 40 Team2: 27
-
-Stephen Curry starts with the ball
-Stephen Curry passes to JaVale McGee (2s)
-JaVale McGee passes to Andre Iguodala (8s)
-Andre Iguodala passes to Matt Barnes (8s)
-Matt Barnes makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 40 Team2: 29
-
-Robert Covington starts with the ball
-Robert Covington passes to Nerlens Noel (4s)
-Nerlens Noel passes to Ish Smith (5s)
-Ish Smith makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 42 Team2: 29
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 42 Team2: 29
-
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Jerami Grant (6s)
-Jerami Grant turns the ball over (4s)
-=== Current Score ===
-Team1: 42 Team2: 29
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (2s)
-Andre Iguodala passes to Matt Barnes (4s)
-Matt Barnes makes a 3-point shot! (8s)
-Substitution: Stephen Curry out, Draymond Green in (plus-minus: 2, total seconds: 932/2100)
-=== Current Score ===
-Team1: 42 Team2: 32
-
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Ish Smith (7s)
-Ish Smith dribbles (3s)
-Ish Smith passes to Nerlens Noel (6s)
-Nerlens Noel makes a 2-point shot! (8s)
-Substitution: Jerami Grant out, Christian Wood in (plus-minus: 1, total seconds: 765/1978)
-=== Current Score ===
-Team1: 44 Team2: 32
-
-Draymond Green starts with the ball
-Draymond Green passes to David West (1s)
-David West misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 44 Team2: 32
-
-Robert Covington starts with the ball
-JaVale McGee blocks the shot of Robert Covington!
-=== Current Score ===
-Team1: 44 Team2: 32
-
-JaVale McGee starts with the ball
-JaVale McGee misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 44 Team2: 32
-
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Christian Wood (4s)
-Christian Wood dribbles (6s)
-Christian Wood passes to Elfrid Payton (5s)
-Andre Iguodala steals the ball from Elfrid Payton!
-=== Current Score ===
-Team1: 44 Team2: 32
-
-Andre Iguodala starts with the ball
-Andre Iguodala turns the ball over (1s)
-Substitution: JaVale McGee out, Klay Thompson in (plus-minus: 3, total seconds: 449/854)
-=== Current Score ===
-Team1: 44 Team2: 32
-
-Christian Wood starts with the ball
-Christian Wood passes to Ish Smith (1s)
-Ish Smith passes to Elfrid Payton (3s)
-Elfrid Payton passes to Christian Wood (3s)
-Christian Wood passes to Nerlens Noel (5s)
-Nerlens Noel passes to Christian Wood (3s)
-Christian Wood makes a 2-point shot! (6s)
-Substitution: Ish Smith out, Jerami Grant in (plus-minus: 6, total seconds: 1090/1945)
-=== Current Score ===
-Team1: 46 Team2: 32
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Matt Barnes (4s)
-Matt Barnes passes to Andre Iguodala (1s)
-Andre Iguodala dribbles (4s)
-Andre Iguodala passes to Draymond Green (7s)
-Draymond Green passes to Matt Barnes (2s)
-Matt Barnes makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 46 Team2: 34
-
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Robert Covington (3s)
-Robert Covington passes to Christian Wood (3s)
-Christian Wood passes to Elfrid Payton (4s)
-Elfrid Payton passes to Nerlens Noel (6s)
-Nerlens Noel passes to Robert Covington (2s)
-Matt Barnes commits a foul on Robert Covington!Robert Covington makes a 3-point shot! (6s)
-Robert Covington is fouled and heads to the free throw line(1 attempt) AND ONE!
-Robert Covington makes free throw
-=== Current Score ===
-Team1: 47 Team2: 34
-=== Current Score ===
-Team1: 50 Team2: 34
-
-Klay Thompson starts with the ball
-Robert Covington commits a foul on Klay Thompson!Klay Thompson makes a 3-point shot! (6s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 50 Team2: 35
-=== Current Score ===
-Team1: 50 Team2: 38
-
-Christian Wood starts with the ball
-Christian Wood makes a 3-point shot! (1s)
-=== Current Score ===
-Team1: 53 Team2: 38
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (5s)
-Klay Thompson passes to Andre Iguodala (2s)
-Andre Iguodala passes to David West (2s)
-David West passes to Draymond Green (4s)
-Draymond Green passes to Klay Thompson (6s)
-Klay Thompson makes a 2-point shot! (5s)
-Substitution: Andre Iguodala out, Stephen Curry in (plus-minus: -6, total seconds: 1040/1651)
-=== Current Score ===
-Team1: 53 Team2: 40
-
-Christian Wood starts with the ball
-Christian Wood dribbles (6s)
-Christian Wood passes to Elfrid Payton (4s)
-Elfrid Payton passes to Robert Covington (6s)
-Robert Covington passes to Nerlens Noel (6s)
-Draymond Green blocks the shot of Nerlens Noel!
-Substitution: Robert Covington out, Carl Landry in (plus-minus: 7, total seconds: 1153/1736)
-=== Current Score ===
-Team1: 53 Team2: 40
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Klay Thompson (2s)
-Klay Thompson passes to Draymond Green (1s)
-Draymond Green passes to David West (4s)
-David West makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 53 Team2: 42
-
-Nerlens Noel starts with the ball
-Nerlens Noel passes to Elfrid Payton (4s)
-Elfrid Payton passes to Carl Landry (4s)
-Carl Landry passes to Christian Wood (8s)
-Christian Wood makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 55 Team2: 42
-
-Stephen Curry starts with the ball
-Stephen Curry makes a 3-point shot! (2s)
-=== Current Score ===
-Team1: 55 Team2: 45
-
-Christian Wood starts with the ball
-Christian Wood passes to Jerami Grant (7s)
-Jerami Grant passes to Carl Landry (4s)
-Carl Landry dribbles (3s)
-Carl Landry passes to Elfrid Payton (5s)
-Elfrid Payton makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 57 Team2: 45
-
-Stephen Curry starts with the ball
-Nerlens Noel steals the ball from Stephen Curry!
-Substitution: Matt Barnes out, Kevin Durant in (plus-minus: -1, total seconds: 425/767)
-=== Current Score ===
-Team1: 57 Team2: 45
-
-Jerami Grant starts with the ball
-Jerami Grant passes to Nerlens Noel (7s)
-Draymond Green steals the ball from Nerlens Noel!
-Substitution: Elfrid Payton out, Richaun Holmes in (plus-minus: 9, total seconds: 1011/1816)
-=== Current Score ===
-Team1: 57 Team2: 45
-
-Klay Thompson starts with the ball
-Klay Thompson misses a 3-point shot (7s)
-=== Current Score ===
-Team1: 57 Team2: 45
-
-Christian Wood starts with the ball
-Christian Wood passes to Richaun Holmes (5s)
-Kevin Durant commits a foul on Richaun Holmes!Richaun Holmes makes a 2-point shot! (6s)
-Richaun Holmes is fouled and heads to the free throw line(1 attempt) AND ONE!
-Richaun Holmes missed free throw
-=== Current Score ===
-Team1: 57 Team2: 45
-=== Current Score ===
-Team1: 59 Team2: 45
+Team1: 146 Team2: 190
 
 Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (4s)
-Klay Thompson passes to Draymond Green (4s)
-Draymond Green dribbles (5s)
-Draymond Green passes to Kevin Durant (7s)
+John Stockton commits a foul on Kevin Durant!Kevin Durant misses a 3-point shot (5s)
+Kevin Durant is fouled and heads to the free throw line 3 attempts
+Kevin Durant missed free throw
+=== Current Score ===
+Team1: 146 Team2: 190
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 146 Team2: 191
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 146 Team2: 192
+Michael Jordan grabs the defensive rebound!
+=== Current Score ===
+Team1: 146 Team2: 195
+
+Scottie Pippen starts with the ball
+Scottie Pippen makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 148 Team2: 195
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (4s)
+Draymond Green turns the ball over (1s)
+Substitution: Draymond Green out, Klay Thompson in (plus-minus: 21, total seconds: 1380/1651)
+=== Current Score ===
+Team1: 148 Team2: 195
+
+Larry Bird starts with the ball
+Andre Iguodala commits a foul on Larry Bird!Larry Bird makes a 2-point shot! (5s)
+Larry Bird is fouled and heads to the free throw line(1 attempt) AND ONE!
+Larry Bird makes free throw
+=== Current Score ===
+Team1: 149 Team2: 195
+=== Current Score ===
+Team1: 151 Team2: 195
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (6s)
+Larry Bird steals the ball from Kevin Durant!
+=== Current Score ===
+Team1: 151 Team2: 195
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Karl Malone (4s)
+Karl Malone passes to Larry Bird (5s)
+Larry Bird passes to Scottie Pippen (6s)
+Scottie Pippen passes to John Stockton (3s)
+John Stockton passes to Larry Bird (4s)
+Larry Bird misses a 2-point shot (2s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 153 Team2: 195
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (1s)
+Kevin Durant dribbles (6s)
+Kevin Durant passes to JaVale McGee (2s)
+JaVale McGee passes to Klay Thompson (3s)
+Klay Thompson passes to David West (7s)
+David West passes to Andre Iguodala (4s)
+Andre Iguodala misses a 2-point shot (1s)
+Scottie Pippen grabs the defensive rebound!
+=== Current Score ===
+Team1: 153 Team2: 197
+
+Michael Jordan starts with the ball
+Michael Jordan passes to Larry Bird (3s)
+Larry Bird passes to Scottie Pippen (5s)
+Scottie Pippen passes to Karl Malone (3s)
+Karl Malone passes to Larry Bird (7s)
+Larry Bird passes to Karl Malone (4s)
+Karl Malone misses a 2-point shot (2s)
+David West grabs the defensive rebound!
+Substitution: Scottie Pippen out, Chris Mullin in (plus-minus: -25, total seconds: 1084/1074)
+=== Current Score ===
+Team1: 155 Team2: 197
+
+Kevin Durant starts with the ball
 Kevin Durant misses a 2-point shot (4s)
+Michael Jordan grabs the defensive rebound!
+Substitution: Klay Thompson out, Draymond Green in (plus-minus: 27, total seconds: 1653/1651)
 === Current Score ===
-Team1: 59 Team2: 45
+Team1: 155 Team2: 199
 
-Richaun Holmes starts with the ball
-Richaun Holmes passes to Jerami Grant (5s)
-Jerami Grant passes to Richaun Holmes (5s)
-Richaun Holmes passes to Nerlens Noel (4s)
-Nerlens Noel passes to Carl Landry (4s)
-Carl Landry passes to Christian Wood (2s)
-Christian Wood makes a 2-point shot! (4s)
+Larry Bird starts with the ball
+Andre Iguodala steals the ball from Larry Bird!
 === Current Score ===
-Team1: 61 Team2: 45
+Team1: 155 Team2: 199
 
 Kevin Durant starts with the ball
-Kevin Durant dribbles (8s)
-Kevin Durant makes a 3-point shot! (3s)
-Substitution: David West out, Shaun Livingston in (plus-minus: -3, total seconds: 849/1797)
-=== Current Score ===
-Team1: 61 Team2: 48
-
-Richaun Holmes starts with the ball
-Richaun Holmes dribbles (1s)
-Richaun Holmes makes a 2-point shot! (2s)
-Substitution: Nerlens Noel out, Hollis Thompson in (plus-minus: 2, total seconds: 395/1157)
-=== Current Score ===
-Team1: 63 Team2: 48
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (3s)
-Klay Thompson misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 63 Team2: 48
-
-Richaun Holmes starts with the ball
-Richaun Holmes dribbles (7s)
-Richaun Holmes passes to Carl Landry (5s)
-Carl Landry passes to Christian Wood (4s)
-Christian Wood dribbles (4s)
-Christian Wood misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 63 Team2: 48
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (4s)
-Draymond Green passes to Klay Thompson (2s)
-Klay Thompson misses a 3-point shot (1s)
-=== Current Score ===
-Team1: 63 Team2: 48
-
-Quarter 2 Score: Team1 63 - Team2 48
-
-=== Quarter 3 ===
-Hollis Thompson starts with the ball
-Hollis Thompson misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 63 Team2: 48
-
-Kevin Durant starts with the ball
-Kevin Durant turns the ball over (2s)
-Substitution: Draymond Green out, JaVale McGee in (plus-minus: -10, total seconds: 890/1651)
-=== Current Score ===
-Team1: 63 Team2: 48
-
-Christian Wood starts with the ball
-Christian Wood passes to Carl Landry (3s)
-Carl Landry passes to Hollis Thompson (1s)
-Hollis Thompson passes to Jerami Grant (6s)
-Jerami Grant passes to Richaun Holmes (4s)
-Richaun Holmes passes to Christian Wood (5s)
-Klay Thompson commits a foul on Christian Wood!Christian Wood misses a 2-point shot (5s)
-Christian Wood is fouled and heads to the free throw line 2 attempts
-Christian Wood missed free throw
-=== Current Score ===
-Team1: 63 Team2: 48
-Christian Wood makes free throw
-=== Current Score ===
-Team1: 64 Team2: 48
-Substitution: Christian Wood out, T.J. McConnell in (plus-minus: 3, total seconds: 932/955)
-=== Current Score ===
-Team1: 64 Team2: 48
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (2s)
-Shaun Livingston commits an offensive foul!
-=== Current Score ===
-Team1: 64 Team2: 48
-
-Carl Landry starts with the ball
-Carl Landry passes to Richaun Holmes (7s)
-Richaun Holmes dribbles (5s)
-Richaun Holmes passes to Hollis Thompson (4s)
-Hollis Thompson makes a 3-point shot! (8s)
-=== Current Score ===
-Team1: 67 Team2: 48
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Kevin Durant (6s)
-Kevin Durant passes to Klay Thompson (4s)
-Klay Thompson commits an offensive foul!
-=== Current Score ===
-Team1: 67 Team2: 48
-
-Jerami Grant starts with the ball
-Jerami Grant passes to T.J. McConnell (3s)
-T.J. McConnell misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 67 Team2: 48
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (3s)
-Shaun Livingston dribbles (6s)
-Shaun Livingston passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to Kevin Durant (1s)
-T.J. McConnell blocks the shot of Kevin Durant!
-=== Current Score ===
-Team1: 67 Team2: 48
-
-Hollis Thompson starts with the ball
-Hollis Thompson passes to T.J. McConnell (4s)
-T.J. McConnell passes to Carl Landry (1s)
-Carl Landry passes to Hollis Thompson (3s)
-Hollis Thompson passes to T.J. McConnell (7s)
-T.J. McConnell passes to Jerami Grant (4s)
-Zaza Pachulia commits a foul on Jerami Grant!Jerami Grant makes a 2-point shot! (5s)
-Jerami Grant is fouled and heads to the free throw line(1 attempt) AND ONE!
-Jerami Grant makes free throw
-=== Current Score ===
-Team1: 68 Team2: 48
-Substitution: Jerami Grant out, Ish Smith in (plus-minus: 7, total seconds: 1185/1978)
-=== Current Score ===
-Team1: 70 Team2: 48
-
-Kevin Durant starts with the ball
-Kevin Durant misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 70 Team2: 48
-
-Ish Smith starts with the ball
-Ish Smith passes to Richaun Holmes (3s)
-Richaun Holmes passes to T.J. McConnell (5s)
-T.J. McConnell turns the ball over (1s)
-=== Current Score ===
-Team1: 70 Team2: 48
-
-Stephen Curry starts with the ball
-Stephen Curry passes to JaVale McGee (6s)
-JaVale McGee makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 70 Team2: 50
-
-Hollis Thompson starts with the ball
-Hollis Thompson passes to Richaun Holmes (5s)
-Richaun Holmes passes to Ish Smith (2s)
-Ish Smith passes to Carl Landry (5s)
-Carl Landry passes to Ish Smith (6s)
-Ish Smith makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 72 Team2: 50
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Zaza Pachulia (5s)
-Hollis Thompson commits a foul on Zaza Pachulia!Zaza Pachulia dribbles (2s)
-Zaza Pachulia passes to JaVale McGee (3s)
-JaVale McGee passes to Kevin Durant (4s)
-Kevin Durant passes to Shaun Livingston (5s)
-Shaun Livingston misses a 2-point shot (5s)
-Substitution: Stephen Curry out, Klay Thompson in (plus-minus: -5, total seconds: 1347/2100)
-=== Current Score ===
-Team1: 72 Team2: 50
-
-Carl Landry starts with the ball
-Carl Landry dribbles (6s)
-Carl Landry passes to Richaun Holmes (4s)
-Richaun Holmes passes to Hollis Thompson (2s)
-Hollis Thompson passes to T.J. McConnell (3s)
-T.J. McConnell passes to Richaun Holmes (5s)
-Richaun Holmes passes to Carl Landry (3s)
-Carl Landry misses a 3-point shot (1s)
-Substitution: Carl Landry out, Jerami Grant in (plus-minus: 2, total seconds: 785/1145)
-=== Current Score ===
-Team1: 72 Team2: 50
-
-Klay Thompson starts with the ball
-Klay Thompson passes to JaVale McGee (6s)
-JaVale McGee passes to Klay Thompson (4s)
-Klay Thompson passes to Zaza Pachulia (5s)
-Zaza Pachulia dribbles (1s)
-Zaza Pachulia dribbles (1s)
-Zaza Pachulia turns the ball over (5s)
-=== Current Score ===
-Team1: 72 Team2: 50
-
-Hollis Thompson starts with the ball
-Hollis Thompson passes to T.J. McConnell (6s)
-T.J. McConnell passes to Jerami Grant (5s)
-Jerami Grant passes to Ish Smith (2s)
-Ish Smith passes to T.J. McConnell (3s)
-T.J. McConnell passes to Hollis Thompson (5s)
-Hollis Thompson passes to T.J. McConnell (1s)
-T.J. McConnell makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 74 Team2: 50
-
-Kevin Durant starts with the ball
-Kevin Durant misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 74 Team2: 50
-
-Hollis Thompson starts with the ball
-Hollis Thompson passes to Ish Smith (2s)
-Ish Smith passes to Jerami Grant (3s)
-Jerami Grant passes to Hollis Thompson (3s)
-Hollis Thompson misses a 3-point shot (5s)
-=== Current Score ===
-Team1: 74 Team2: 50
-
-Kevin Durant starts with the ball
-Ish Smith steals the ball from Kevin Durant while dribbling!
-Substitution: Kevin Durant out, David West in (plus-minus: -10, total seconds: 1267/2100)
-=== Current Score ===
-Team1: 74 Team2: 50
-
-Hollis Thompson starts with the ball
-Hollis Thompson misses a 2-point shot (6s)
-Substitution: Richaun Holmes out, Elfrid Payton in (plus-minus: 11, total seconds: 852/1188)
-=== Current Score ===
-Team1: 74 Team2: 50
-
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (2s)
-David West passes to Klay Thompson (5s)
-Klay Thompson passes to David West (5s)
-David West passes to Shaun Livingston (5s)
-Shaun Livingston makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 74 Team2: 52
-
-Ish Smith starts with the ball
-Ish Smith passes to T.J. McConnell (8s)
-T.J. McConnell passes to Ish Smith (7s)
-Ish Smith passes to Hollis Thompson (3s)
-Hollis Thompson misses a 3-point shot (4s)
-=== Current Score ===
-Team1: 74 Team2: 52
-
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (4s)
-David West passes to Klay Thompson (6s)
-Klay Thompson passes to Zaza Pachulia (3s)
-Zaza Pachulia passes to Klay Thompson (8s)
-Klay Thompson makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 74 Team2: 55
-
-Jerami Grant starts with the ball
-Jerami Grant makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 76 Team2: 55
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (7s)
-Klay Thompson passes to Shaun Livingston (7s)
-Shaun Livingston passes to David West (1s)
-David West passes to Zaza Pachulia (2s)
-Zaza Pachulia passes to Shaun Livingston (6s)
-Shaun Livingston makes a 2-point shot! (1s)
-Substitution: Shaun Livingston out, Matt Barnes in (plus-minus: -4, total seconds: 441/827)
-=== Current Score ===
-Team1: 76 Team2: 57
-
-Jerami Grant starts with the ball
-Jerami Grant turns the ball over (5s)
-Substitution: Hollis Thompson out, Nerlens Noel in (plus-minus: 2, total seconds: 443/501)
-=== Current Score ===
-Team1: 76 Team2: 57
-
-Klay Thompson starts with the ball
-Klay Thompson passes to JaVale McGee (6s)
-JaVale McGee passes to Matt Barnes (7s)
-Matt Barnes passes to JaVale McGee (5s)
-JaVale McGee makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 76 Team2: 59
-
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Nerlens Noel (6s)
-David West steals the ball from Nerlens Noel!
-=== Current Score ===
-Team1: 76 Team2: 59
-
-Klay Thompson starts with the ball
-Klay Thompson makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 76 Team2: 61
-
-Jerami Grant starts with the ball
-JaVale McGee blocks the shot of Jerami Grant!
-=== Current Score ===
-Team1: 76 Team2: 61
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (1s)
-Klay Thompson turns the ball over (7s)
-Substitution: Zaza Pachulia out, Andre Iguodala in (plus-minus: 2, total seconds: 801/1003)
-=== Current Score ===
-Team1: 76 Team2: 61
-
-T.J. McConnell starts with the ball
-T.J. McConnell passes to Elfrid Payton (1s)
-Elfrid Payton passes to Jerami Grant (3s)
-Jerami Grant passes to T.J. McConnell (4s)
-T.J. McConnell makes a 2-point shot! (6s)
-Substitution: T.J. McConnell out, Richaun Holmes in (plus-minus: 5, total seconds: 888/1978)
-=== Current Score ===
-Team1: 78 Team2: 61
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (5s)
-Klay Thompson dribbles (3s)
-Klay Thompson passes to Matt Barnes (4s)
-Matt Barnes passes to David West (6s)
-David West passes to Klay Thompson (2s)
-Klay Thompson misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 78 Team2: 61
-
-Elfrid Payton starts with the ball
-Elfrid Payton makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 80 Team2: 61
-
-Klay Thompson starts with the ball
-Ish Smith commits a foul on Klay Thompson!Klay Thompson dribbles (6s)
-Klay Thompson passes to David West (6s)
-David West passes to Andre Iguodala (5s)
-Andre Iguodala passes to Matt Barnes (4s)
-Matt Barnes passes to Andre Iguodala (2s)
-Andre Iguodala makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 80 Team2: 63
-
-Richaun Holmes starts with the ball
-Richaun Holmes passes to Jerami Grant (3s)
-Jerami Grant makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 82 Team2: 63
-
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (6s)
-David West passes to Andre Iguodala (6s)
+Kevin Durant passes to Andre Iguodala (5s)
 Andre Iguodala passes to David West (3s)
-David West passes to Klay Thompson (2s)
-Klay Thompson passes to Andre Iguodala (3s)
-Andre Iguodala passes to Klay Thompson (2s)
-Richaun Holmes commits a foul on Klay Thompson!Klay Thompson makes a 3-point shot! (2s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
+David West passes to Kevin Durant (5s)
+Kevin Durant passes to JaVale McGee (4s)
+JaVale McGee passes to Draymond Green (4s)
+Draymond Green misses a 2-point shot (3s)
+John Stockton grabs the defensive rebound!
 === Current Score ===
-Team1: 82 Team2: 64
-Substitution: JaVale McGee out, Stephen Curry in (plus-minus: 4, total seconds: 993/854)
-=== Current Score ===
-Team1: 82 Team2: 67
+Team1: 155 Team2: 201
 
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Nerlens Noel (2s)
-Nerlens Noel passes to Jerami Grant (6s)
-Jerami Grant turns the ball over (4s)
-Substitution: Ish Smith out, Robert Covington in (plus-minus: 0, total seconds: 1526/1945)
+Larry Bird starts with the ball
+Larry Bird misses a 2-point shot (6s)
+Draymond Green grabs the defensive rebound!
 === Current Score ===
-Team1: 82 Team2: 67
+Team1: 157 Team2: 201
 
-David West starts with the ball
-David West passes to Stephen Curry (6s)
-Stephen Curry makes a 3-point shot! (5s)
+Kevin Durant starts with the ball
+Kevin Durant passes to David West (4s)
+David West passes to Draymond Green (3s)
+Draymond Green passes to David West (3s)
+David West passes to Andre Iguodala (3s)
+Michael Jordan steals the ball from Andre Iguodala!
 === Current Score ===
-Team1: 82 Team2: 70
+Team1: 157 Team2: 201
 
-Nerlens Noel starts with the ball
-Nerlens Noel passes to Richaun Holmes (4s)
-Richaun Holmes passes to Jerami Grant (4s)
-Jerami Grant passes to Nerlens Noel (7s)
-Nerlens Noel passes to Robert Covington (5s)
-Robert Covington commits an offensive foul!
+Michael Jordan starts with the ball
+Michael Jordan passes to John Stockton (5s)
+John Stockton passes to Larry Bird (5s)
+Larry Bird passes to Karl Malone (5s)
+Karl Malone passes to Chris Mullin (4s)
+Chris Mullin misses a 3-point shot (5s)
+Michael Jordan grabs the offensive rebound!
+Substitution: Karl Malone out, Charles Barkley in (plus-minus: -19, total seconds: 1673/2006)
 === Current Score ===
-Team1: 82 Team2: 70
+Team1: 157 Team2: 201
 
-Stephen Curry starts with the ball
-Stephen Curry passes to Klay Thompson (3s)
-Klay Thompson makes a 2-point shot! (6s)
+Kevin Durant starts with the ball
+Kevin Durant passes to JaVale McGee (7s)
+JaVale McGee makes a 2-point shot! (3s)
+Substitution: JaVale McGee out, Stephen Curry in (plus-minus: 12, total seconds: 818/854)
 === Current Score ===
-Team1: 82 Team2: 72
+Team1: 157 Team2: 203
 
-Elfrid Payton starts with the ball
-Elfrid Payton dribbles (8s)
-Elfrid Payton dribbles (6s)
-Elfrid Payton passes to Nerlens Noel (4s)
-Nerlens Noel passes to Elfrid Payton (3s)
-Elfrid Payton makes a 2-point shot! (3s)
+Michael Jordan starts with the ball
+Michael Jordan passes to Charles Barkley (7s)
+Charles Barkley passes to Larry Bird (8s)
+David West commits a foul on Larry Bird!Larry Bird misses a 2-point shot (7s)
+Larry Bird is fouled and heads to the free throw line 2 attempts
+Larry Bird makes free throw
 === Current Score ===
-Team1: 84 Team2: 72
+Team1: 158 Team2: 203
+Larry Bird makes free throw
+=== Current Score ===
+Team1: 159 Team2: 203
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 161 Team2: 203
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (6s)
-Klay Thompson passes to David West (3s)
-Robert Covington steals the ball from David West!
-Substitution: Klay Thompson out, Shaun Livingston in (plus-minus: -4, total seconds: 1502/1651)
+Kevin Durant starts with the ball
+Kevin Durant misses a 2-point shot (6s)
+Larry Bird grabs the defensive rebound!
 === Current Score ===
-Team1: 84 Team2: 72
+Team1: 161 Team2: 205
 
-Richaun Holmes starts with the ball
-Richaun Holmes passes to Elfrid Payton (8s)
-Elfrid Payton dribbles (3s)
-Elfrid Payton passes to Jerami Grant (8s)
-Jerami Grant misses a 3-point shot (5s)
-Substitution: Jerami Grant out, Carl Landry in (plus-minus: -2, total seconds: 1631/1978)
+Michael Jordan starts with the ball
+Michael Jordan passes to Chris Mullin (3s)
+Chris Mullin misses a 3-point shot (4s)
+David West grabs the defensive rebound!
 === Current Score ===
-Team1: 84 Team2: 72
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 2-point shot (7s)
-=== Current Score ===
-Team1: 84 Team2: 72
-
-Robert Covington starts with the ball
-Robert Covington misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 84 Team2: 72
-
-David West starts with the ball
-David West passes to Matt Barnes (7s)
-Matt Barnes passes to Shaun Livingston (8s)
-Shaun Livingston passes to Andre Iguodala (6s)
-Nerlens Noel commits a foul on Andre Iguodala!Andre Iguodala makes a 2-point shot! (3s)
-Andre Iguodala is fouled and heads to the free throw line(1 attempt) AND ONE!
-Andre Iguodala makes free throw
-=== Current Score ===
-Team1: 84 Team2: 73
-=== Current Score ===
-Team1: 84 Team2: 75
-
-Richaun Holmes starts with the ball
-Richaun Holmes passes to Nerlens Noel (4s)
-Nerlens Noel makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 86 Team2: 75
+Team1: 164 Team2: 205
 
 Stephen Curry starts with the ball
-Stephen Curry makes a 2-point shot! (4s)
-Substitution: David West out, Draymond Green in (plus-minus: 10, total seconds: 1272/1797)
+Stephen Curry passes to Andre Iguodala (8s)
+Andre Iguodala passes to David West (6s)
+David West passes to Kevin Durant (4s)
+Kevin Durant makes a 3-point shot! (4s)
 === Current Score ===
-Team1: 86 Team2: 77
+Team1: 164 Team2: 208
 
-Quarter 3 Score: Team1 86 - Team2 77
-
-=== Quarter 4 ===
-Nerlens Noel starts with the ball
-Nerlens Noel passes to Carl Landry (1s)
-Carl Landry dribbles (6s)
-Carl Landry misses a 2-point shot (2s)
-Substitution: Elfrid Payton out, T.J. McConnell in (plus-minus: -4, total seconds: 1437/1816)
+Larry Bird starts with the ball
+Larry Bird passes to Charles Barkley (4s)
+Charles Barkley passes to Michael Jordan (4s)
+Michael Jordan passes to Chris Mullin (3s)
+Chris Mullin dribbles (1s)
+Chris Mullin passes to Larry Bird (6s)
+Larry Bird misses a 2-point shot (2s)
+Draymond Green grabs the defensive rebound!
+Substitution: Charles Barkley out, Karl Malone in (plus-minus: -27, total seconds: 1247/1210)
 === Current Score ===
-Team1: 86 Team2: 77
+Team1: 166 Team2: 208
 
 Stephen Curry starts with the ball
 Stephen Curry passes to Andre Iguodala (3s)
-Andre Iguodala dribbles (3s)
-Andre Iguodala passes to Matt Barnes (3s)
-Matt Barnes passes to Andre Iguodala (4s)
-Andre Iguodala passes to Shaun Livingston (6s)
-Shaun Livingston passes to Stephen Curry (4s)
-Stephen Curry makes a 3-point shot! (1s)
+Andre Iguodala passes to Kevin Durant (6s)
+Kevin Durant passes to Draymond Green (6s)
+Draymond Green passes to Andre Iguodala (5s)
+Andre Iguodala misses a 2-point shot (4s)
+Draymond Green grabs the offensive rebound!
+Substitution: Andre Iguodala out, Zaza Pachulia in (plus-minus: 22, total seconds: 1811/1651)
 === Current Score ===
-Team1: 86 Team2: 80
+Team1: 166 Team2: 208
 
-Richaun Holmes starts with the ball
-Richaun Holmes passes to Carl Landry (6s)
-Carl Landry passes to Robert Covington (7s)
-Andre Iguodala commits a foul on Robert Covington!Robert Covington makes a 2-point shot! (3s)
-Robert Covington is fouled and heads to the free throw line(1 attempt) AND ONE!
-Robert Covington makes free throw
+Larry Bird starts with the ball
+Larry Bird passes to John Stockton (7s)
+John Stockton turns the ball over (4s)
 === Current Score ===
-Team1: 87 Team2: 80
-=== Current Score ===
-Team1: 89 Team2: 80
-
-Draymond Green starts with the ball
-Draymond Green passes to Shaun Livingston (5s)
-Shaun Livingston dribbles (2s)
-Shaun Livingston misses a 2-point shot (4s)
-=== Current Score ===
-Team1: 89 Team2: 80
-
-Carl Landry starts with the ball
-Carl Landry dribbles (6s)
-Carl Landry misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 89 Team2: 80
+Team1: 166 Team2: 208
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Matt Barnes (2s)
-Matt Barnes passes to Stephen Curry (5s)
-Stephen Curry dribbles (5s)
-Stephen Curry misses a 3-point shot (3s)
-Substitution: Matt Barnes out, Zaza Pachulia in (plus-minus: 8, total seconds: 831/767)
-=== Current Score ===
-Team1: 89 Team2: 80
-
-Robert Covington starts with the ball
-Robert Covington passes to Nerlens Noel (6s)
-Nerlens Noel dribbles (1s)
-Nerlens Noel passes to Carl Landry (3s)
-Zaza Pachulia steals the ball from Carl Landry!
-Substitution: Nerlens Noel out, Elfrid Payton in (plus-minus: -7, total seconds: 814/1157)
-=== Current Score ===
-Team1: 89 Team2: 80
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Zaza Pachulia (4s)
-Zaza Pachulia passes to Shaun Livingston (7s)
-Shaun Livingston passes to Stephen Curry (5s)
 Stephen Curry makes a 3-point shot! (2s)
 === Current Score ===
-Team1: 89 Team2: 83
+Team1: 166 Team2: 211
 
-Carl Landry starts with the ball
-Carl Landry misses a 2-point shot (4s)
+Larry Bird starts with the ball
+Larry Bird passes to Michael Jordan (8s)
+Michael Jordan passes to Larry Bird (8s)
+Larry Bird misses a 2-point shot (8s)
+Draymond Green grabs the defensive rebound!
 === Current Score ===
-Team1: 89 Team2: 83
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (3s)
-Stephen Curry passes to Andre Iguodala (4s)
-Andre Iguodala dribbles (2s)
-Andre Iguodala passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to Draymond Green (4s)
-Draymond Green passes to Shaun Livingston (1s)
-Shaun Livingston passes to Draymond Green (1s)
-Draymond Green passes to Stephen Curry (3s)
-Stephen Curry misses a 3-point shot (1s)
-=== Current Score ===
-Team1: 89 Team2: 83
-
-Richaun Holmes starts with the ball
-Richaun Holmes makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 91 Team2: 83
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 3-point shot (2s)
-Substitution: Andre Iguodala out, Kevin Durant in (plus-minus: 0, total seconds: 1459/1651)
-=== Current Score ===
-Team1: 91 Team2: 83
-
-Robert Covington starts with the ball
-Robert Covington passes to Carl Landry (6s)
-Carl Landry dribbles (5s)
-Zaza Pachulia commits a foul on Carl Landry!Carl Landry makes a 2-point shot! (3s)
-Carl Landry is fouled and heads to the free throw line(1 attempt) AND ONE!
-Carl Landry missed free throw
-=== Current Score ===
-Team1: 91 Team2: 83
-Substitution: Richaun Holmes out, Ish Smith in (plus-minus: 5, total seconds: 1271/1188)
-=== Current Score ===
-Team1: 93 Team2: 83
+Team1: 168 Team2: 211
 
 Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (8s)
-Stephen Curry passes to Kevin Durant (3s)
-Kevin Durant passes to Shaun Livingston (2s)
-Shaun Livingston passes to Stephen Curry (4s)
-Stephen Curry misses a 3-point shot (7s)
+Kevin Durant misses a 2-point shot (4s)
+Chris Mullin grabs the defensive rebound!
 === Current Score ===
-Team1: 93 Team2: 83
+Team1: 168 Team2: 213
 
-T.J. McConnell starts with the ball
-T.J. McConnell passes to Robert Covington (5s)
-Robert Covington passes to Elfrid Payton (6s)
-Elfrid Payton dribbles (4s)
-Elfrid Payton passes to Carl Landry (7s)
-Carl Landry passes to Robert Covington (1s)
-Robert Covington makes a 3-point shot! (1s)
+Michael Jordan starts with the ball
+Michael Jordan misses a 2-point shot (8s)
+Michael Jordan grabs the offensive rebound!
+Substitution: John Stockton out, David Robinson in (plus-minus: -30, total seconds: 1944/2006)
 === Current Score ===
-Team1: 96 Team2: 83
+Team1: 168 Team2: 213
 
 Kevin Durant starts with the ball
-Kevin Durant passes to Zaza Pachulia (6s)
-Zaza Pachulia misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 96 Team2: 83
-
-Robert Covington starts with the ball
-Robert Covington passes to Carl Landry (6s)
-Carl Landry dribbles (3s)
-Carl Landry passes to Ish Smith (6s)
-Ish Smith passes to Elfrid Payton (1s)
-Elfrid Payton passes to Ish Smith (7s)
-Ish Smith makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 98 Team2: 83
-
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (5s)
-Substitution: Stephen Curry out, David West in (plus-minus: -3, total seconds: 1773/2100)
-=== Current Score ===
-Team1: 98 Team2: 85
-
-T.J. McConnell starts with the ball
-T.J. McConnell passes to Robert Covington (4s)
-Robert Covington turns the ball over (2s)
-Substitution: Robert Covington out, Jerami Grant in (plus-minus: 5, total seconds: 1573/1736)
-=== Current Score ===
-Team1: 98 Team2: 85
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (5s)
-Shaun Livingston passes to Kevin Durant (4s)
-Kevin Durant passes to Draymond Green (3s)
-Draymond Green passes to Kevin Durant (7s)
-Elfrid Payton blocks the shot of Kevin Durant!
-=== Current Score ===
-Team1: 98 Team2: 85
-
-Carl Landry starts with the ball
-Carl Landry misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 98 Team2: 85
-
-Kevin Durant starts with the ball
-Jerami Grant steals the ball from Kevin Durant!
-=== Current Score ===
-Team1: 98 Team2: 85
-
-Elfrid Payton starts with the ball
-Elfrid Payton passes to Ish Smith (5s)
-Ish Smith passes to Carl Landry (3s)
-Shaun Livingston commits a foul on Carl Landry!Carl Landry misses a 2-point shot (4s)
-Carl Landry is fouled and heads to the free throw line 2 attempts
-Carl Landry missed free throw
-=== Current Score ===
-Team1: 98 Team2: 85
-Carl Landry makes free throw
-=== Current Score ===
-Team1: 99 Team2: 85
-=== Current Score ===
-Team1: 99 Team2: 85
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (1s)
-Shaun Livingston passes to David West (5s)
-David West passes to Draymond Green (7s)
-Draymond Green passes to Zaza Pachulia (6s)
-Zaza Pachulia passes to Draymond Green (3s)
-Ish Smith commits a foul on Draymond Green!Draymond Green makes a 3-point shot! (2s)
-Draymond Green is fouled and heads to the free throw line(1 attempt) AND ONE!
-Draymond Green missed free throw
-=== Current Score ===
-Team1: 99 Team2: 85
-Substitution: Shaun Livingston out, Klay Thompson in (plus-minus: -2, total seconds: 843/827)
-=== Current Score ===
-Team1: 99 Team2: 88
-
-Jerami Grant starts with the ball
-Jerami Grant passes to Carl Landry (3s)
-Carl Landry makes a 2-point shot! (4s)
-Substitution: Carl Landry out, Robert Covington in (plus-minus: 2, total seconds: 1170/1145)
-=== Current Score ===
-Team1: 101 Team2: 88
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (3s)
-Klay Thompson misses a 3-point shot (6s)
-=== Current Score ===
-Team1: 101 Team2: 88
-
-Elfrid Payton starts with the ball
-Elfrid Payton turns the ball over (1s)
-=== Current Score ===
-Team1: 101 Team2: 88
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (2s)
-Draymond Green passes to Kevin Durant (2s)
-Kevin Durant passes to Klay Thompson (6s)
-Klay Thompson passes to Draymond Green (4s)
-Draymond Green passes to David West (6s)
-David West misses a 2-point shot (3s)
-=== Current Score ===
-Team1: 101 Team2: 88
-
-Elfrid Payton starts with the ball
-Elfrid Payton dribbles (7s)
-Elfrid Payton passes to Jerami Grant (2s)
-Jerami Grant passes to Ish Smith (5s)
-Ish Smith passes to T.J. McConnell (3s)
-T.J. McConnell passes to Robert Covington (6s)
-Robert Covington misses a 2-point shot (1s)
-=== Current Score ===
-Team1: 101 Team2: 88
-
-Kevin Durant starts with the ball
-Kevin Durant makes a 3-point shot! (4s)
-Substitution: Draymond Green out, Andre Iguodala in (plus-minus: -9, total seconds: 1288/1651)
-=== Current Score ===
-Team1: 101 Team2: 91
-
-Elfrid Payton starts with the ball
-Klay Thompson blocks the shot of Elfrid Payton!
-Substitution: T.J. McConnell out, Christian Wood in (plus-minus: 4, total seconds: 1281/1978)
-=== Current Score ===
-Team1: 101 Team2: 91
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Zaza Pachulia (3s)
-Zaza Pachulia dribbles (4s)
-Zaza Pachulia passes to Andre Iguodala (3s)
-Andre Iguodala passes to David West (5s)
-David West passes to Kevin Durant (3s)
-Kevin Durant makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 101 Team2: 93
-
-Christian Wood starts with the ball
-Christian Wood passes to Jerami Grant (5s)
-Jerami Grant passes to Christian Wood (8s)
-Christian Wood passes to Elfrid Payton (5s)
-Elfrid Payton passes to Jerami Grant (3s)
-Jerami Grant makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 103 Team2: 93
-
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (4s)
-David West misses a 2-point shot (6s)
-=== Current Score ===
-Team1: 103 Team2: 93
-
-Ish Smith starts with the ball
-Ish Smith passes to Elfrid Payton (4s)
-Elfrid Payton passes to Christian Wood (7s)
-Christian Wood passes to Ish Smith (4s)
-Ish Smith passes to Elfrid Payton (1s)
-Elfrid Payton passes to Robert Covington (3s)
-Robert Covington passes to Christian Wood (4s)
-Christian Wood misses a 3-point shot (1s)
-=== Current Score ===
-Team1: 103 Team2: 93
-
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (1s)
-Substitution: Klay Thompson out, Stephen Curry in (plus-minus: -1, total seconds: 1657/1651)
-=== Current Score ===
-Team1: 103 Team2: 95
-
-Ish Smith starts with the ball
-Ish Smith turns the ball over (5s)
-Substitution: Elfrid Payton out, Nerlens Noel in (plus-minus: -6, total seconds: 1823/1816)
-=== Current Score ===
-Team1: 103 Team2: 95
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Zaza Pachulia (2s)
-Zaza Pachulia passes to Kevin Durant (7s)
-Kevin Durant passes to David West (7s)
-David West makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 103 Team2: 97
-
-Christian Wood starts with the ball
-Kevin Durant blocks the shot of Christian Wood!
-=== Current Score ===
-Team1: 103 Team2: 97
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (8s)
-Stephen Curry passes to Kevin Durant (4s)
-Kevin Durant passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to David West (4s)
-David West makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 103 Team2: 99
-
-Ish Smith starts with the ball
-Ish Smith passes to Nerlens Noel (8s)
-Zaza Pachulia steals the ball from Nerlens Noel!
-=== Current Score ===
-Team1: 103 Team2: 99
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Kevin Durant (6s)
-Kevin Durant misses a 2-point shot (5s)
-Substitution: Kevin Durant out, Draymond Green in (plus-minus: -5, total seconds: 1673/2100)
-=== Current Score ===
-Team1: 103 Team2: 99
-
-Christian Wood starts with the ball
-Zaza Pachulia commits a foul on Christian Wood!Christian Wood makes a 2-point shot! (3s)
-Christian Wood is fouled and heads to the free throw line(1 attempt) AND ONE!
-Christian Wood makes free throw
-=== Current Score ===
-Team1: 104 Team2: 99
-Substitution: Ish Smith out, T.J. McConnell in (plus-minus: -5, total seconds: 1921/1945)
-=== Current Score ===
-Team1: 106 Team2: 99
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (3s)
-Andre Iguodala passes to Stephen Curry (7s)
-Stephen Curry passes to Andre Iguodala (3s)
-Andre Iguodala misses a 2-point shot (5s)
-=== Current Score ===
-Team1: 106 Team2: 99
-
-Christian Wood starts with the ball
-Christian Wood misses a 2-point shot (2s)
-=== Current Score ===
-Team1: 106 Team2: 99
-
-Stephen Curry starts with the ball
-Stephen Curry passes to David West (5s)
-David West passes to Andre Iguodala (3s)
-Andre Iguodala passes to Stephen Curry (6s)
-Stephen Curry passes to Zaza Pachulia (6s)
-Robert Covington steals the ball from Zaza Pachulia!
-=== Current Score ===
-Team1: 106 Team2: 99
-
-Christian Wood starts with the ball
-Christian Wood makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 108 Team2: 99
-
-Stephen Curry starts with the ball
+Kevin Durant passes to Stephen Curry (6s)
 Stephen Curry passes to David West (4s)
-David West dribbles (4s)
-David West dribbles (4s)
-David West passes to Zaza Pachulia (2s)
-Zaza Pachulia passes to Draymond Green (3s)
-Draymond Green makes a 2-point shot! (7s)
-Substitution: Andre Iguodala out, Kevin Durant in (plus-minus: 4, total seconds: 1696/1651)
+David West passes to Stephen Curry (4s)
+Stephen Curry passes to Kevin Durant (4s)
+Kevin Durant passes to Stephen Curry (5s)
+Chris Mullin commits a foul on Stephen Curry!Stephen Curry misses a 3-point shot (1s)
+Stephen Curry is fouled and heads to the free throw line 3 attempts
+Stephen Curry makes free throw
 === Current Score ===
-Team1: 108 Team2: 101
+Team1: 168 Team2: 214
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 168 Team2: 215
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 168 Team2: 216
+David Robinson grabs the defensive rebound!
+Substitution: Kevin Durant out, Shaun Livingston in (plus-minus: 29, total seconds: 2113/2100)
+=== Current Score ===
+Team1: 168 Team2: 219
 
-Christian Wood starts with the ball
-Christian Wood passes to T.J. McConnell (3s)
-T.J. McConnell passes to Robert Covington (4s)
-Robert Covington passes to Jerami Grant (7s)
-Jerami Grant passes to Christian Wood (4s)
-Christian Wood passes to Robert Covington (5s)
-Robert Covington makes a 3-point shot! (1s)
-Substitution: Jerami Grant out, Ish Smith in (plus-minus: -7, total seconds: 2025/1978)
+Michael Jordan starts with the ball
+Michael Jordan dribbles (4s)
+Michael Jordan passes to Chris Mullin (4s)
+Chris Mullin passes to David Robinson (7s)
+Zaza Pachulia steals the ball from David Robinson!
 === Current Score ===
-Team1: 111 Team2: 101
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (2s)
-Draymond Green passes to David West (5s)
-David West makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 111 Team2: 103
-
-Christian Wood starts with the ball
-Christian Wood turns the ball over (4s)
-=== Current Score ===
-Team1: 111 Team2: 103
-
-Draymond Green starts with the ball
-Draymond Green passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to David West (6s)
-David West dribbles (5s)
-David West makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 111 Team2: 105
-
-T.J. McConnell starts with the ball
-T.J. McConnell makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 113 Team2: 105
+Team1: 168 Team2: 219
 
 Stephen Curry starts with the ball
-Stephen Curry turns the ball over (8s)
-Substitution: Zaza Pachulia out, Shaun Livingston in (plus-minus: 5, total seconds: 1427/1003)
+Stephen Curry passes to Draymond Green (1s)
+Draymond Green passes to David West (6s)
+David West makes a 2-point shot! (1s)
 === Current Score ===
-Team1: 113 Team2: 105
+Team1: 168 Team2: 221
 
-T.J. McConnell starts with the ball
-T.J. McConnell passes to Nerlens Noel (6s)
-Nerlens Noel makes a 2-point shot! (2s)
-Substitution: Ish Smith out, Hollis Thompson in (plus-minus: -5, total seconds: 1982/1945)
-=== Current Score ===
-Team1: 115 Team2: 105
-
-Quarter 4 Score: Team1 115 - Team2 105
+Quarter 4 Score: Team1 168 - Team2 221
 
 === Final Score ===
-Team1: 115
-Team2: 105
+Team1: 168
+Team2: 221
 
 [DEBUG] expected seconds per team (5 players * game seconds): 14400
 [DEBUG] actual Team1 summed player seconds: 14400
 [DEBUG] actual Team2 summed player seconds: 14400
 --- Team1 Box Score ---
-Robert Covington's recommended minutes: 28:56
-Robert Covington: PTS 25, AST 6, TOV 1, FGM/FGA 8/12, 3PM/3PA 4/4, FTM/FTA 5/5, STL 2, BLK 1, Time 32:36,plus/minus: 1
-Nerlens Noel's recommended minutes: 19:17
-Nerlens Noel: PTS 6, AST 4, TOV 3, FGM/FGA 3/4, 3PM/3PA 0/0, FTM/FTA 0/0, STL 1, BLK 0, Time 17:24,plus/minus: -6
-Christian Wood's recommended minutes: 15:55
-Christian Wood: PTS 20, AST 2, TOV 1, FGM/FGA 7/13, 3PM/3PA 1/4, FTM/FTA 5/6, STL 0, BLK 0, Time 20:50,plus/minus: 2
-Hollis Thompson's recommended minutes: 8:21
-Hollis Thompson: PTS 3, AST 1, TOV 0, FGM/FGA 1/5, 3PM/3PA 1/3, FTM/FTA 0/0, STL 0, BLK 0, Time 7:23,plus/minus: 2
-T.J. McConnell's recommended minutes: 32:58
-T.J. McConnell: PTS 14, AST 2, TOV 1, FGM/FGA 6/8, 3PM/3PA 1/1, FTM/FTA 1/1, STL 0, BLK 1, Time 23:56,plus/minus: 7
-Elfrid Payton's recommended minutes: 30:16
-Elfrid Payton: PTS 10, AST 3, TOV 2, FGM/FGA 5/9, 3PM/3PA 0/1, FTM/FTA 0/0, STL 1, BLK 3, Time 30:23,plus/minus: -6
-Carl Landry's recommended minutes: 19:05
-Carl Landry: PTS 5, AST 6, TOV 1, FGM/FGA 2/11, 3PM/3PA 0/1, FTM/FTA 1/3, STL 0, BLK 1, Time 19:30,plus/minus: 2
-Richaun Holmes's recommended minutes: 19:48
-Richaun Holmes: PTS 8, AST 3, TOV 0, FGM/FGA 4/5, 3PM/3PA 0/1, FTM/FTA 0/1, STL 0, BLK 1, Time 21:11,plus/minus: 5
-Jerami Grant's recommended minutes: 32:58
-Jerami Grant: PTS 9, AST 3, TOV 3, FGM/FGA 4/12, 3PM/3PA 0/3, FTM/FTA 1/1, STL 2, BLK 0, Time 33:45,plus/minus: -7
-Ish Smith's recommended minutes: 32:25
-Ish Smith: PTS 15, AST 4, TOV 3, FGM/FGA 7/11, 3PM/3PA 0/0, FTM/FTA 1/1, STL 1, BLK 0, Time 33:02,plus/minus: -5
+Karl Malone's recommended minutes: 33:26
+Karl Malone: PTS 13, AST 2, TOV 2, FGM/FGA 5/15, 3PM/3PA 0/0, FTM/FTA 3/5, STL 0, BLK 1, Time 29:57,plus/minus: -27
+Michael Jordan's recommended minutes: 33:26
+Michael Jordan: PTS 16, AST 6, TOV 3, FGM/FGA 8/15, 3PM/3PA 0/0, FTM/FTA 0/0, STL 1, BLK 0, Time 36:22,plus/minus: -27
+Larry Bird's recommended minutes: 27:25
+Larry Bird: PTS 19, AST 5, TOV 4, FGM/FGA 8/16, 3PM/3PA 0/0, FTM/FTA 3/3, STL 2, BLK 0, Time 30:47,plus/minus: -24
+David Robinson's recommended minutes: 18:43
+David Robinson: PTS 10, AST 2, TOV 2, FGM/FGA 4/9, 3PM/3PA 0/0, FTM/FTA 2/2, STL 0, BLK 0, Time 16:08,plus/minus: -24
+Chris Mullin's recommended minutes: 9:46
+Chris Mullin: PTS 7, AST 2, TOV 0, FGM/FGA 3/5, 3PM/3PA 1/3, FTM/FTA 0/0, STL 0, BLK 0, Time 13:33,plus/minus: -20
+Magic Johnson's recommended minutes: 28:45
+Magic Johnson: PTS 6, AST 7, TOV 2, FGM/FGA 3/7, 3PM/3PA 0/0, FTM/FTA 0/0, STL 1, BLK 1, Time 28:46,plus/minus: -22
+Clyde Drexler's recommended minutes: 17:01
+Clyde Drexler: PTS 2, AST 1, TOV 0, FGM/FGA 1/6, 3PM/3PA 0/2, FTM/FTA 0/0, STL 0, BLK 0, Time 13:12,plus/minus: -14
+Scottie Pippen's recommended minutes: 17:54
+Scottie Pippen: PTS 16, AST 1, TOV 1, FGM/FGA 7/9, 3PM/3PA 0/0, FTM/FTA 2/2, STL 1, BLK 0, Time 18:04,plus/minus: -25
+John Stockton's recommended minutes: 33:26
+John Stockton: PTS 6, AST 5, TOV 2, FGM/FGA 3/4, 3PM/3PA 0/1, FTM/FTA 0/0, STL 1, BLK 1, Time 32:24,plus/minus: -30
+Charles Barkley's recommended minutes: 20:10
+Charles Barkley: PTS 6, AST 1, TOV 1, FGM/FGA 3/6, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 20:47,plus/minus: -27
 
 
 --- Team2 Box Score ---
-Stephen Curry's recommended minutes: 35:00
-Stephen Curry: PTS 20, AST 3, TOV 3, FGM/FGA 7/15, 3PM/3PA 6/11, FTM/FTA 0/0, STL 0, BLK 0, Time 33:28,plus/minus: -4
-Kevin Durant's recommended minutes: 35:00
-Kevin Durant: PTS 23, AST 1, TOV 3, FGM/FGA 10/18, 3PM/3PA 3/5, FTM/FTA 0/0, STL 1, BLK 1, Time 29:18,plus/minus: -8
-Shaun Livingston's recommended minutes: 13:47
-Shaun Livingston: PTS 4, AST 3, TOV 0, FGM/FGA 2/4, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 14:11,plus/minus: -4
-David West's recommended minutes: 29:57
-David West: PTS 10, AST 3, TOV 2, FGM/FGA 5/12, 3PM/3PA 0/0, FTM/FTA 0/0, STL 1, BLK 0, Time 28:53,plus/minus: 15
 Draymond Green's recommended minutes: 27:31
-Draymond Green: PTS 7, AST 5, TOV 0, FGM/FGA 3/4, 3PM/3PA 1/2, FTM/FTA 0/1, STL 1, BLK 2, Time 24:06,plus/minus: -14
-JaVale McGee's recommended minutes: 14:14
-JaVale McGee: PTS 4, AST 0, TOV 0, FGM/FGA 2/3, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 2, Time 16:33,plus/minus: 4
-Matt Barnes's recommended minutes: 12:47
-Matt Barnes: PTS 7, AST 2, TOV 0, FGM/FGA 3/4, 3PM/3PA 1/2, FTM/FTA 0/0, STL 0, BLK 0, Time 13:51,plus/minus: 8
-Klay Thompson's recommended minutes: 27:31
-Klay Thompson: PTS 22, AST 2, TOV 2, FGM/FGA 8/20, 3PM/3PA 4/11, FTM/FTA 2/2, STL 0, BLK 1, Time 27:37,plus/minus: -1
-Andre Iguodala's recommended minutes: 27:31
-Andre Iguodala: PTS 8, AST 5, TOV 1, FGM/FGA 3/8, 3PM/3PA 1/2, FTM/FTA 1/1, STL 1, BLK 2, Time 28:16,plus/minus: 4
+Draymond Green: PTS 6, AST 1, TOV 1, FGM/FGA 3/7, 3PM/3PA 0/1, FTM/FTA 0/0, STL 2, BLK 0, Time 27:41,plus/minus: 29
+Shaun Livingston's recommended minutes: 13:47
+Shaun Livingston: PTS 4, AST 1, TOV 1, FGM/FGA 2/3, 3PM/3PA 0/0, FTM/FTA 0/0, STL 2, BLK 0, Time 13:50,plus/minus: 18
+David West's recommended minutes: 29:57
+David West: PTS 6, AST 3, TOV 1, FGM/FGA 3/6, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 31:17,plus/minus: 37
+Stephen Curry's recommended minutes: 35:00
+Stephen Curry: PTS 19, AST 3, TOV 2, FGM/FGA 4/11, 3PM/3PA 3/6, FTM/FTA 8/8, STL 0, BLK 1, Time 31:48,plus/minus: 32
 Zaza Pachulia's recommended minutes: 16:43
-Zaza Pachulia: PTS 0, AST 7, TOV 3, FGM/FGA 0/1, 3PM/3PA 0/0, FTM/FTA 0/0, STL 2, BLK 0, Time 23:47,plus/minus: 5
+Zaza Pachulia: PTS 4, AST 1, TOV 0, FGM/FGA 2/4, 3PM/3PA 0/0, FTM/FTA 0/0, STL 2, BLK 0, Time 15:04,plus/minus: 24
+Matt Barnes's recommended minutes: 12:47
+Matt Barnes: PTS 10, AST 0, TOV 0, FGM/FGA 4/11, 3PM/3PA 1/3, FTM/FTA 1/1, STL 1, BLK 0, Time 13:45,plus/minus: 10
+Klay Thompson's recommended minutes: 27:31
+Klay Thompson: PTS 21, AST 5, TOV 1, FGM/FGA 9/18, 3PM/3PA 3/9, FTM/FTA 0/0, STL 1, BLK 0, Time 27:33,plus/minus: 27
+Andre Iguodala's recommended minutes: 27:31
+Andre Iguodala: PTS 7, AST 2, TOV 1, FGM/FGA 3/8, 3PM/3PA 1/2, FTM/FTA 0/0, STL 1, BLK 0, Time 30:11,plus/minus: 22
+Kevin Durant's recommended minutes: 35:00
+Kevin Durant: PTS 34, AST 7, TOV 5, FGM/FGA 12/24, 3PM/3PA 4/8, FTM/FTA 6/7, STL 2, BLK 1, Time 35:13,plus/minus: 29
+JaVale McGee's recommended minutes: 14:14
+JaVale McGee: PTS 6, AST 3, TOV 1, FGM/FGA 3/5, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 13:38,plus/minus: 12
 
 

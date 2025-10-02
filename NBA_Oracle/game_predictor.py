@@ -190,7 +190,8 @@ class PlayerBoxScore:
         self.id = Player_id
         self.points = 0
         self.ast = 0
-        self.rb = 0
+        self.oreb = 0
+        self.dreb = 0
         self.stl = 0
         self.blk = 0
         #turnovers
@@ -316,7 +317,7 @@ class Game:
 
             while self.time_left > 0:
                 # Simulate a possession
-                t = self.simulate_possession(self.time_left)
+                t = self.simulate_possession(self.time_left,24)
                 t = max(0,min(self.time_left,t))
                 self.time_left -= t
                 # Approximate possession duration (could sum actual action times for precision)
@@ -332,7 +333,7 @@ class Game:
             self.current_quarter = 1
             self.time_left = 12 * 60  # 5-minute overtime
             while self.time_left > 0:
-                t = self.simulate_possession(self.time_left)
+                t = self.simulate_possession(self.time_left,24)
                 t = max(0,min(self.time_left,t))
                 self.time_left -= t
                 
@@ -486,7 +487,7 @@ class Game:
             action += (f"=== Current Score ===\nTeam1: {self.team1_score} Team2: {self.team2_score}\n")
         return action
 
-    def simulate_possession(self, remaining_secs):
+    def simulate_possession(self, remaining_secs, shot_clock):
         """
         Simulate a full basketball possession for the current team:
         - 24-second shot clock
@@ -521,7 +522,7 @@ class Game:
 
         ball_handler = random.choices(players_on_court, weights=weights, k=1)[0]
 
-        shot_clock = 24
+        #shot_clock = 24
         possession_time = 0
         actions = f"{ball_handler.name} starts with the ball\n"
         passes = 0
@@ -710,6 +711,29 @@ class Game:
                     if free_foul is True:
                         actions += f"{shooter.name} is fouled and heads to the free throw line {points} attempts\n"
                         actions = self.free_throw(shooter,points,actions)
+
+                    #offensive rebound!
+                    team_off_reb_rate = (sum(p.rpg for p in players_on_court) * random.gauss(0.4,0.15) 
+                                            / max(1, sum(p.rpg for p in players_on_court + defenders_on_court)))
+                    
+                    if random.random() < team_off_reb_rate:
+                        # Offensive rebound
+                        rebounder = random.choices(players_on_court, weights=
+                                                   [p.rpg * 2 if p.rpg > 8 else p.rpg for p in players_on_court], k=1)[0]
+                        rebounder.box.oreb += 1
+                        actions += f"{rebounder.name} grabs the offensive rebound!\n"
+                        # reset shot clock for continuation
+                        shot_clock = 14
+                    else:
+                        # Defensive rebound
+                        rebounder = random.choices(defenders_on_court, weights=
+                                                   [p.rpg * 2 if p.rpg > 8 else p.rpg for p in players_on_court], k=1)[0]
+                        rebounder.box.dreb += 1
+                        actions += f"{rebounder.name} grabs the defensive rebound!\n"
+                        # possession switches
+                        self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
+                        break  # possession ends
+
                         
                         
                     points = 0
@@ -782,26 +806,24 @@ if __name__ == "__main__":
 
     
 # 2016 Philadelphia 76ers
-    sixers_2016 = [
-        "Ish Smith",
-        "Robert Covington",
-        "Nerlens Noel",
-        "Jahlil Okafor",
-        "Jerami Grant",
-        "Hollis Thompson",
-        "Nik Stauskas",
-        "Carl Landry",
-        "Isaiah Canaan",
-        "T.J. McConnell",
-        "Kendall Marshall",
-        "JaKarr Sampson",
-        "Christian Wood",
-        "Richaun Holmes",
-        "Elfrid Payton"  # sometimes on the roster in late 2016
+    dream_team_1992 = [
+        "Michael Jordan",
+        "Magic Johnson",
+        "Larry Bird",
+        "Charles Barkley",
+        "Karl Malone",
+        "John Stockton",
+        "David Robinson",
+        "Patrick Ewing",
+        "Scottie Pippen",
+        "Clyde Drexler",
+        "Chris Mullin",
+        "Christian Laettner"
     ]
 
 
-    team1 = make_team(sixers_2016)
+
+    team1 = make_team(dream_team_1992)
 
     team2 = make_team(warriors_2017) 
     #print(team1)
@@ -834,7 +856,7 @@ if __name__ == "__main__":
     curry_fga = 0
     
     
-    for i in range(1000):
+    while team1_wins < 4 and team2_wins < 4:
         #resets team stats to 0
         
         Team1 = Team(sorted_team1)
@@ -848,8 +870,8 @@ if __name__ == "__main__":
         else:
             team2_wins += 1
 
-        for p in Team2.starters + Team2.bench:
-            if "Kevin Durant" in p.name:
+        for p in Team1.starters + Team1.bench:
+            if "Michael Jordan" in p.name:
                 curry_points += p.box.points
                 curry_assists += p.box.ast
                 curry_fgm += p.box.fgm
@@ -860,7 +882,7 @@ if __name__ == "__main__":
     accuracy = curry_fgm/curry_fga
     print(f"team1 wins: {team1_wins}, team2wins: {team2_wins}")
     
-    print(f"ppg: {curry_points/1000} apg: {curry_assists/1000}")
+    print(f"ppg: {curry_points/(team1_wins + team2_wins):.3f} apg: {curry_assists/(team1_wins + team2_wins):.3f}")
     print(f"accuracy: {accuracy:.3f}")
     
 
