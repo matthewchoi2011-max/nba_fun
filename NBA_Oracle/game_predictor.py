@@ -356,6 +356,7 @@ class Game:
             log(f"--- {name} Box Score ---")
             total_secs = 0
             total_shot_attempts = 0
+            total_shots_made = 0
             for p in team.starters + team.bench:
                 rec_mins = p.seconds // 60
                 rec_secs = p.seconds % 60
@@ -363,6 +364,7 @@ class Game:
 
                 log(f"{p.name}'s recommended minutes: {rec_mins}:{rec_secs:02d}")
                 total_secs += p.total_seconds
+                total_shots_made += p.box.fgm
                 total_shot_attempts += p.box.fga
                 #convert total seconds into minutes : seconds
                 minutes = p.total_seconds // 60
@@ -372,11 +374,12 @@ class Game:
                 if b:
                     log(f"{p.name}: PTS {b.points}, AST {b.ast}, TOV {b.tov}, "
                         f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, "
+                        f"FTM/FTA {b.ftm}/{b.fta}, "
                         f"STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}"
                         f",plus/minus: {b.plus_minus}")
             log("\n")
             print(f"team total seconds {total_secs}\n")
-            print(f"shots attempted: {total_shot_attempts}\n")
+            print(f"shots made: {total_shots_made}  shots attempted: {total_shot_attempts}\n")
 
         print_box(self.team1, "Team1")
         print_box(self.team2, "Team2")
@@ -468,8 +471,8 @@ class Game:
         Simulate Free throw attempts
         """
         for __ in range(num):
-            if random.random() < player.FT_PCT:
-                player.FTM += 1
+            if random.random() <= player.FT_PCT:
+                player.box.ftm += 1
                 player.box.points += 1
                 action += f"{player.name} makes free throw\n"
                 #add to scoreboard
@@ -479,7 +482,7 @@ class Game:
                     self.team2_score += 1
             else:
                 action += f"{player.name} missed free throw\n"
-            player.FTA += 1
+            player.box.fta += 1
             action += (f"=== Current Score ===\nTeam1: {self.team1_score} Team2: {self.team2_score}\n")
         return action
 
@@ -506,8 +509,16 @@ class Game:
         players_on_court = team.starters
         defenders_on_court = defense.starters
 
-        
-        weights = [(p.apg * 0.7 + p.ppg * 0.3) / max(p.gp,1) for p in players_on_court]
+        #adjust tendencies for players to have the ball
+        weights = []
+        for p in players_on_court:
+            base_weight = (p.apg * 0.45 + p.ppg * 0.25 + max(0.3, p.FGM / max(p.gp, 1))) / max(p.gp, 1)
+            if (p.FGA / max(p.gp, 1)) > 13:  # FGA per game exceeds 10
+                base_weight *= (p.FGA / max(p.gp, 1))
+            weights.append(base_weight)
+
+
+
         ball_handler = random.choices(players_on_court, weights=weights, k=1)[0]
 
         shot_clock = 24
@@ -522,7 +533,7 @@ class Game:
 
         while shot_clock > 0 and rem > 0:
             # Action time
-            action_time = random.choices([1,3,5,6,7,8,9,10], weights=[0.05,0.1,0.15,0.2,0.1,0.1,0.1,0.1], k=1)[0]
+            action_time = random.choices([1,2,3,4,5,6,7,8], weights=[0.05,0.1,0.15,0.2,0.2,0.15,0.1,0.05], k=1)[0]
             action_time = min(action_time, shot_clock, rem)
             last_shot = shot_clock <= action_time or rem <= action_time
 
@@ -534,29 +545,31 @@ class Game:
             defenders_on_court = defense.starters
 
             # --- Calculate probabilities ---
-            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) * 0.06+ 0.06, 0.18)
+            turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) * 0.06 + 0.02, 0.1)
             shooting_volume = min(ball_handler.FGM / max(ball_handler.gp,1)/20,1)
             shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA,1) if ball_handler.FGA else random.uniform(0.35,0.55)
 
             # Low-volume boost for efficient shooters
-            volume_f = min(shooting_volume / 20, 1)
+            volume_f = min(2 * shooting_volume, 1)
             low_volume_boost = (1 - volume_f) * shooting_efficiency * 0.1
 
-            score_weight = shooting_efficiency * 0.45 + low_volume_boost
+            score_weight = shooting_efficiency * volume_f + low_volume_boost
             assist_weight = min(ball_handler.apg / max(ball_handler.gp,1) * 70,0.8)
 
             # Normalize weights to probabilities
-            total_offense = score_weight + assist_weight
+            total_offense = score_weight * 1.5 + assist_weight
             shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.55
+            shot_prob = min(shot_prob,0.6)
 
             # Factor goes from 1 (lots of time) → 0 (no time left)
             time_factor = max(min(shot_clock, rem) / 24.0, 0)   # normalized 0–1
 
-            # Passing shrinks with time
-            pass_prob = (assist_weight / total_offense) * (1 - turnover_prob) * 0.8 * time_factor
-
             # Dribbling also shrinks, but has a small baseline early in clock
-            dribble_prob = max(min((0.035 * shot_clock) - pass_prob, 0.22), 0.03) * time_factor
+            dribble_prob = max(min((0.035 * shot_clock), 0.22), 0.03) * time_factor
+
+            # Passing shrinks with time
+            #pass_prob = (assist_weight / total_offense) * (1 - turnover_prob) * 0.8 * time_factor
+            pass_prob = 1 - shot_prob - turnover_prob - dribble_prob
 
             # If no time left, force shot/turnover only
             if min(shot_clock, rem) <= 0:
@@ -669,7 +682,7 @@ class Game:
                     self.curr_possession = 'Team2' if self.curr_possession == 'Team1' else 'Team1'
                     break
 
-                made = random.random() < fg_chance
+                made = random.random() < fg_chance / random.uniform(0.8,0.95)
                 if made:
                     actions += f"{shooter.name} makes a {points}-point shot! ({action_time}s)\n"
                     result = "score"
@@ -749,13 +762,26 @@ class Game:
 
 
 if __name__ == "__main__":
-    sixers_2016 = [
-    "Ish Smith", "Robert Covington", "Nerlens Noel", "Jahlil Okafor", "Jerami Grant",
-    "Hollis Thompson", "Nik Stauskas", "Carl Landry", "Ish Smith", "Isaiah Canaan",
-    "T.J. McConnell", "Kendall Marshall", "JaKarr Sampson", "Christian Wood", "Richaun Holmes"
+    cavs_2016 = [
+        "Kyrie Irving",
+        "LeBron James",
+        "Kevin Love",
+        "J.R. Smith",
+        "Tristan Thompson",
+        "Iman Shumpert",
+        "Matthew Dellavedova",
+        "Timofey Mozgov",
+        "Richard Jefferson",
+        "Channing Frye",
+        "Mo Williams",
+        "James Jones",
+        "Kendrick Perkins",
+        "Dahntay Jones",
+        "Joe Harris"
     ]
 
-    team1 = make_team(sixers_2016)   # Cavs 2016 roster
+
+    team1 = make_team(cavs_2016)   # Cavs 2016 roster
 
     warriors_2016 = [
         "Stephen Curry",
@@ -793,23 +819,23 @@ if __name__ == "__main__":
     #print("minutes total = ",sorted_team2['minutes'].sum())
     team1_wins = 0
     team2_wins = 0
-    
-    Team1 = Team(sorted_team1)
-    Team2 = Team(sorted_team2)
 
-
-    #print(Team1.starters[0].gp)
+    random.seed(42)
 
     Team1 = Team(sorted_team1)
     Team2 = Team(sorted_team2)
     G = Game(Team1,Team2,48)
     G.tip_off()
     r = G.simulate_full_game()
-    
 
-
+    '''
+    curry_points = 0
+    curry_assists = 0
+    curry_fgm = 0
+    curry_fga = 0
     
-    for i in range(1000):
+    
+    for i in range(2000):
         #resets team stats to 0
         
         Team1 = Team(sorted_team1)
@@ -823,8 +849,21 @@ if __name__ == "__main__":
         else:
             team2_wins += 1
 
+        for p in Team2.starters + Team2.bench:
+            if "Stephen Curry" in p.name:
+                curry_points += p.box.points
+                curry_assists += p.box.ast
+                curry_fgm += p.box.fgm
+                curry_fga += p.box.fga
+                break
+
+
+    accuracy = curry_fgm/curry_fga
     print(f"team1 wins: {team1_wins}, team2wins: {team2_wins}")
     
+    print(f"curry ppg: {curry_points/2000} curry apg: {curry_assists/2000}")
+    print(f"accuracy: {accuracy:.3f}")
+    '''
 
     #Team 1 odds: 41-45 percent
     
