@@ -1,0 +1,1887 @@
+=== Quarter 1 ===
+LeBron James starts with the ball
+LeBron James passes to Ray Allen (3s)
+Ray Allen dribbles (6s)
+Ray Allen dribbles (4s)
+Andre Iguodala commits a foul on Ray Allen!Ray Allen makes a 3-point shot! (7s)
+Ray Allen is fouled and heads to the free throw line(1 attempt) AND ONE!
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 4 Team2: 0
+=== Current Score ===
+Team1: 4 Team2: 0
+
+Kevin Durant starts with the ball
+Dwyane Wade commits a foul on Kevin Durant!Kevin Durant dribbles (5s)
+Kevin Durant passes to Stephen Curry (5s)
+Ray Allen commits a foul on Stephen Curry!Stephen Curry misses a 2-point shot (5s)
+Stephen Curry is fouled and heads to the free throw line 2 attempts
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 4 Team2: 1
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 4 Team2: 2
+=== Current Score ===
+Team1: 4 Team2: 2
+
+LeBron James starts with the ball
+LeBron James passes to Bam Adebayo (2s)
+Bam Adebayo makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 6 Team2: 2
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 6 Team2: 4
+
+Dwyane Wade starts with the ball
+Dwyane Wade makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 8 Team2: 4
+
+Klay Thompson starts with the ball
+Klay Thompson misses a 2-point shot (4s)
+Draymond Green grabs the offensive rebound!
+Draymond Green passes to Stephen Curry (5s)
+Stephen Curry makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 8 Team2: 6
+
+LeBron James starts with the ball
+LeBron James passes to Ray Allen (3s)
+Ray Allen passes to LeBron James (4s)
+Stephen Curry commits a foul on LeBron James!LeBron James dribbles (6s)
+LeBron James passes to Dwyane Wade (2s)
+Dwyane Wade makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 10 Team2: 6
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (4s)
+Klay Thompson passes to Draymond Green (2s)
+Draymond Green passes to Kevin Durant (3s)
+Kevin Durant passes to Klay Thompson (4s)
+Klay Thompson misses a 3-point shot (7s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 10 Team2: 6
+
+LeBron James starts with the ball
+LeBron James passes to Bam Adebayo (4s)
+Bam Adebayo dribbles (6s)
+Andre Iguodala commits a foul on Bam Adebayo!Bam Adebayo commits an offensive foul!
+=== Current Score ===
+Team1: 10 Team2: 6
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (2s)
+Draymond Green passes to Andre Iguodala (3s)
+LeBron James commits a foul on Andre Iguodala!Andre Iguodala dribbles (2s)
+Andre Iguodala passes to Draymond Green (1s)
+Draymond Green passes to Stephen Curry (5s)
+Stephen Curry dribbles (5s)
+Stephen Curry turns the ball over (2s)
+=== Current Score ===
+Team1: 10 Team2: 6
+
+LeBron James starts with the ball
+LeBron James makes a 3-point shot! (6s)
+=== Current Score ===
+Team1: 13 Team2: 6
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (6s)
+Draymond Green passes to Klay Thompson (3s)
+LeBron James commits a foul on Klay Thompson!Klay Thompson makes a 2-point shot! (7s)
+Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 13 Team2: 9
+=== Current Score ===
+Team1: 13 Team2: 9
+
+LeBron James starts with the ball
+LeBron James passes to Bam Adebayo (4s)
+Bam Adebayo passes to LeBron James (4s)
+Draymond Green blocks the shot of LeBron James!
+=== Current Score ===
+Team1: 13 Team2: 9
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (7s)
+Draymond Green passes to Stephen Curry (4s)
+Stephen Curry passes to Draymond Green (6s)
+Draymond Green turns the ball over (6s)
+=== Current Score ===
+Team1: 13 Team2: 9
+
+LeBron James starts with the ball
+LeBron James makes a 3-point shot! (1s)
+=== Current Score ===
+Team1: 16 Team2: 9
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (5s)
+Klay Thompson makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 16 Team2: 12
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 18 Team2: 12
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (3s)
+Draymond Green passes to Stephen Curry (5s)
+Stephen Curry passes to Andre Iguodala (4s)
+Andre Iguodala dribbles (5s)
+Andre Iguodala makes a 3-point shot! (6s)
+=== Current Score ===
+Team1: 18 Team2: 15
+
+Chris Bosh starts with the ball
+Stephen Curry commits a foul on Chris Bosh!Chris Bosh makes a 2-point shot! (6s)
+Chris Bosh is fouled and heads to the free throw line(1 attempt) AND ONE!
+Chris Bosh makes free throw
+=== Current Score ===
+Team1: 21 Team2: 15
+=== Current Score ===
+Team1: 21 Team2: 15
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (4s)
+Draymond Green passes to Klay Thompson (5s)
+Klay Thompson misses a 2-point shot (3s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 21 Team2: 15
+
+LeBron James starts with the ball
+Draymond Green commits a foul on LeBron James!LeBron James dribbles (4s)
+LeBron James passes to Bam Adebayo (6s)
+Bam Adebayo passes to Ray Allen (3s)
+Ray Allen misses a 3-point shot (2s)
+Chris Bosh grabs the offensive rebound!
+Andre Iguodala commits a foul on Chris Bosh!Chris Bosh misses a 2-point shot (6s)
+Chris Bosh is fouled and heads to the free throw line 2 attempts
+Chris Bosh missed free throw
+=== Current Score ===
+Team1: 21 Team2: 15
+Chris Bosh makes free throw
+=== Current Score ===
+Team1: 22 Team2: 15
+=== Current Score ===
+Team1: 22 Team2: 15
+
+Stephen Curry starts with the ball
+LeBron James steals the ball from Stephen Curry!
+=== Current Score ===
+Team1: 22 Team2: 15
+
+LeBron James starts with the ball
+LeBron James passes to Ray Allen (4s)
+Ray Allen passes to Bam Adebayo (4s)
+Bam Adebayo passes to LeBron James (4s)
+LeBron James makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 24 Team2: 15
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (6s)
+Klay Thompson passes to Andre Iguodala (3s)
+Andre Iguodala dribbles (5s)
+Dwyane Wade blocks the shot of Andre Iguodala!
+=== Current Score ===
+Team1: 24 Team2: 15
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Dwyane Wade (7s)
+Dwyane Wade makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 26 Team2: 15
+
+Stephen Curry starts with the ball
+Bam Adebayo commits a foul on Stephen Curry!Stephen Curry dribbles (4s)
+Stephen Curry passes to Kevin Durant (3s)
+Kevin Durant passes to Andre Iguodala (4s)
+Andre Iguodala passes to Draymond Green (6s)
+Draymond Green misses a 2-point shot (6s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 26 Team2: 15
+
+LeBron James starts with the ball
+LeBron James passes to Chris Bosh (7s)
+Chris Bosh passes to LeBron James (3s)
+Draymond Green commits a foul on LeBron James!LeBron James misses a 2-point shot (1s)
+LeBron James is fouled and heads to the free throw line 2 attempts
+LeBron James makes free throw
+=== Current Score ===
+Team1: 27 Team2: 15
+LeBron James makes free throw
+=== Current Score ===
+Team1: 28 Team2: 15
+=== Current Score ===
+Team1: 28 Team2: 15
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (5s)
+Draymond Green dribbles (4s)
+Chris Bosh commits a foul on Draymond Green!Draymond Green misses a 3-point shot (7s)
+Draymond Green is fouled and heads to the free throw line 3 attempts
+Draymond Green makes free throw
+=== Current Score ===
+Team1: 28 Team2: 16
+Draymond Green makes free throw
+=== Current Score ===
+Team1: 28 Team2: 17
+Draymond Green makes free throw
+=== Current Score ===
+Team1: 28 Team2: 18
+=== Current Score ===
+Team1: 28 Team2: 18
+
+Ray Allen starts with the ball
+Ray Allen passes to Dwyane Wade (6s)
+Dwyane Wade passes to Ray Allen (2s)
+Andre Iguodala commits a foul on Ray Allen!Ray Allen dribbles (5s)
+Ray Allen makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 30 Team2: 18
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Andre Iguodala (6s)
+Andre Iguodala passes to Klay Thompson (3s)
+Klay Thompson passes to Andre Iguodala (5s)
+Andre Iguodala makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 30 Team2: 20
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Dwyane Wade (4s)
+Dwyane Wade dribbles (4s)
+Andre Iguodala commits a foul on Dwyane Wade!Dwyane Wade dribbles (7s)
+Dwyane Wade turns the ball over (5s)
+=== Current Score ===
+Team1: 30 Team2: 20
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (3s)
+Stephen Curry passes to Kevin Durant (5s)
+Kevin Durant misses a 2-point shot (5s)
+Draymond Green grabs the offensive rebound!
+Draymond Green passes to Stephen Curry (6s)
+Stephen Curry makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 30 Team2: 23
+
+LeBron James starts with the ball
+LeBron James passes to Dwyane Wade (5s)
+Dwyane Wade misses a 2-point shot (4s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 30 Team2: 23
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (8s)
+Stephen Curry passes to Klay Thompson (4s)
+Bam Adebayo commits a foul on Klay Thompson!Klay Thompson makes a 3-point shot! (6s)
+Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 30 Team2: 27
+=== Current Score ===
+Team1: 30 Team2: 27
+
+Dwyane Wade starts with the ball
+Andre Iguodala commits a foul on Dwyane Wade!Substitution: Andre Iguodala out, Shaun Livingston in (plus-minus: -3, total seconds: 489/1651)
+Andre Iguodala fouls out!Dwyane Wade dribbles (5s)
+Dwyane Wade passes to LeBron James (4s)
+LeBron James misses a 2-point shot (4s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 30 Team2: 27
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (6s)
+Draymond Green passes to Shaun Livingston (5s)
+Shaun Livingston dribbles (8s)
+Bam Adebayo commits a foul on Shaun Livingston!Shaun Livingston misses a 3-point shot (4s)
+Shaun Livingston is fouled and heads to the free throw line 3 attempts
+Shaun Livingston makes free throw
+=== Current Score ===
+Team1: 30 Team2: 28
+Shaun Livingston makes free throw
+=== Current Score ===
+Team1: 30 Team2: 29
+Shaun Livingston makes free throw
+=== Current Score ===
+Team1: 30 Team2: 30
+=== Current Score ===
+Team1: 30 Team2: 30
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (6s)
+Chris Bosh grabs the offensive rebound!
+Chris Bosh passes to Ray Allen (4s)
+Stephen Curry commits a foul on Ray Allen!Ray Allen misses a 2-point shot (6s)
+Ray Allen is fouled and heads to the free throw line 2 attempts
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 31 Team2: 30
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 32 Team2: 30
+=== Current Score ===
+Team1: 32 Team2: 30
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 32 Team2: 32
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to Bam Adebayo (3s)
+Bam Adebayo passes to LeBron James (4s)
+LeBron James misses a 2-point shot (5s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 32 Team2: 32
+
+Stephen Curry starts with the ball
+Chris Bosh commits a foul on Stephen Curry!Bam Adebayo blocks the shot of Stephen Curry!
+=== Current Score ===
+Team1: 32 Team2: 32
+
+LeBron James starts with the ball
+LeBron James passes to Bam Adebayo (8s)
+Bam Adebayo passes to Chris Bosh (3s)
+Draymond Green steals the ball from Chris Bosh!
+=== Current Score ===
+Team1: 32 Team2: 32
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Shaun Livingston (6s)
+Shaun Livingston dribbles (4s)
+Shaun Livingston passes to Klay Thompson (7s)
+Klay Thompson passes to Kevin Durant (4s)
+Kevin Durant makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 32 Team2: 34
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 34 Team2: 34
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (3s)
+Klay Thompson makes a 3-point shot! (6s)
+=== Current Score ===
+Team1: 34 Team2: 37
+
+LeBron James starts with the ball
+LeBron James makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 36 Team2: 37
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (5s)
+Shaun Livingston makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 36 Team2: 39
+
+LeBron James starts with the ball
+LeBron James passes to Dwyane Wade (6s)
+Dwyane Wade passes to LeBron James (2s)
+LeBron James dribbles (5s)
+LeBron James dribbles (5s)
+LeBron James makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 38 Team2: 39
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 3-point shot! (6s)
+=== Current Score ===
+Team1: 38 Team2: 42
+
+LeBron James starts with the ball
+LeBron James passes to Bam Adebayo (5s)
+Bam Adebayo dribbles (4s)
+Bam Adebayo passes to Dwyane Wade (7s)
+Dwyane Wade passes to Chris Bosh (5s)
+Chris Bosh misses a 2-point shot (2s)
+Stephen Curry grabs the defensive rebound!
+=== Current Score ===
+Team1: 38 Team2: 42
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Shaun Livingston (4s)
+Ray Allen commits a foul on Shaun Livingston!Shaun Livingston dribbles (3s)
+Shaun Livingston dribbles (6s)
+Shaun Livingston makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 38 Team2: 44
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to LeBron James (2s)
+LeBron James passes to Ray Allen (7s)
+Ray Allen misses a 2-point shot (2s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 38 Team2: 44
+
+Klay Thompson starts with the ball
+Klay Thompson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 38 Team2: 46
+
+LeBron James starts with the ball
+LeBron James passes to Chris Bosh (3s)
+Chris Bosh passes to Ray Allen (4s)
+Ray Allen makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 40 Team2: 46
+
+Quarter 1 Score: Team1 40 - Team2 46
+
+=== Quarter 2 ===
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (7s)
+Stephen Curry misses a 2-point shot (6s)
+Kevin Durant grabs the offensive rebound!
+Kevin Durant misses a 3-point shot (5s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 40 Team2: 46
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (5s)
+Klay Thompson grabs the defensive rebound!
+=== Current Score ===
+Team1: 40 Team2: 46
+
+Klay Thompson starts with the ball
+Dwyane Wade commits a foul on Klay Thompson!Klay Thompson misses a 3-point shot (5s)
+Klay Thompson is fouled and heads to the free throw line 3 attempts
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 40 Team2: 47
+Klay Thompson missed free throw
+=== Current Score ===
+Team1: 40 Team2: 47
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 40 Team2: 48
+=== Current Score ===
+Team1: 40 Team2: 48
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to Ray Allen (3s)
+Ray Allen misses a 3-point shot (6s)
+Stephen Curry grabs the defensive rebound!
+=== Current Score ===
+Team1: 40 Team2: 48
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Shaun Livingston (3s)
+Shaun Livingston passes to Draymond Green (5s)
+Draymond Green passes to Stephen Curry (5s)
+Stephen Curry passes to Shaun Livingston (5s)
+Shaun Livingston makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 40 Team2: 50
+
+Chris Bosh starts with the ball
+Chris Bosh dribbles (5s)
+Chris Bosh passes to LeBron James (5s)
+LeBron James makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 42 Team2: 50
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (7s)
+Draymond Green passes to Shaun Livingston (6s)
+Shaun Livingston misses a 2-point shot (4s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 42 Team2: 50
+
+Dwyane Wade starts with the ball
+Dwyane Wade dribbles (6s)
+Stephen Curry commits a foul on Dwyane Wade!Dwyane Wade dribbles (4s)
+Dwyane Wade passes to Ray Allen (4s)
+Draymond Green blocks the shot of Ray Allen!
+=== Current Score ===
+Team1: 42 Team2: 50
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (4s)
+Stephen Curry passes to Klay Thompson (4s)
+Klay Thompson passes to Draymond Green (5s)
+Draymond Green passes to Kevin Durant (7s)
+Kevin Durant makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 42 Team2: 52
+
+Dwyane Wade starts with the ball
+Dwyane Wade dribbles (7s)
+Dwyane Wade passes to Chris Bosh (3s)
+Kevin Durant commits a foul on Chris Bosh!Chris Bosh misses a 2-point shot (3s)
+Chris Bosh is fouled and heads to the free throw line 2 attempts
+Chris Bosh makes free throw
+=== Current Score ===
+Team1: 43 Team2: 52
+Chris Bosh makes free throw
+=== Current Score ===
+Team1: 44 Team2: 52
+=== Current Score ===
+Team1: 44 Team2: 52
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Kevin Durant (6s)
+Kevin Durant passes to Stephen Curry (2s)
+Stephen Curry passes to Shaun Livingston (6s)
+Shaun Livingston misses a 2-point shot (4s)
+Bam Adebayo grabs the defensive rebound!
+=== Current Score ===
+Team1: 44 Team2: 52
+
+LeBron James starts with the ball
+Kevin Durant blocks the shot of LeBron James!
+=== Current Score ===
+Team1: 44 Team2: 52
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (5s)
+Stephen Curry misses a 3-point shot (4s)
+LeBron James grabs the defensive rebound!
+=== Current Score ===
+Team1: 44 Team2: 52
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Ray Allen (7s)
+Draymond Green commits a foul on Ray Allen!Ray Allen dribbles (5s)
+Ray Allen dribbles (3s)
+Ray Allen turns the ball over (8s)
+=== Current Score ===
+Team1: 44 Team2: 52
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (5s)
+Klay Thompson passes to Draymond Green (5s)
+Draymond Green makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 44 Team2: 55
+
+LeBron James starts with the ball
+LeBron James dribbles (5s)
+LeBron James passes to Chris Bosh (3s)
+Chris Bosh passes to Bam Adebayo (6s)
+Bam Adebayo passes to Dwyane Wade (4s)
+Dwyane Wade turns the ball over (2s)
+=== Current Score ===
+Team1: 44 Team2: 55
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Shaun Livingston (5s)
+Shaun Livingston misses a 2-point shot (3s)
+Bam Adebayo grabs the defensive rebound!
+Substitution: Shaun Livingston out, Matt Barnes in (plus-minus: 14, total seconds: 476/827)
+=== Current Score ===
+Team1: 44 Team2: 55
+
+LeBron James starts with the ball
+LeBron James passes to Dwyane Wade (1s)
+Dwyane Wade makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 46 Team2: 55
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (4s)
+Draymond Green misses a 2-point shot (7s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 46 Team2: 55
+
+LeBron James starts with the ball
+LeBron James passes to Dwyane Wade (6s)
+Dwyane Wade passes to Ray Allen (4s)
+Ray Allen misses a 2-point shot (5s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 46 Team2: 55
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (7s)
+Klay Thompson passes to Draymond Green (5s)
+Draymond Green makes a 3-point shot! (6s)
+=== Current Score ===
+Team1: 46 Team2: 58
+
+LeBron James starts with the ball
+Stephen Curry blocks the shot of LeBron James!
+=== Current Score ===
+Team1: 46 Team2: 58
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Matt Barnes (3s)
+Matt Barnes passes to Stephen Curry (5s)
+Stephen Curry dribbles (3s)
+Ray Allen steals the ball from Stephen Curry!
+=== Current Score ===
+Team1: 46 Team2: 58
+
+LeBron James starts with the ball
+Stephen Curry commits a foul on LeBron James!LeBron James misses a 3-point shot (5s)
+LeBron James is fouled and heads to the free throw line 3 attempts
+LeBron James missed free throw
+=== Current Score ===
+Team1: 46 Team2: 58
+LeBron James makes free throw
+=== Current Score ===
+Team1: 47 Team2: 58
+LeBron James makes free throw
+=== Current Score ===
+Team1: 48 Team2: 58
+=== Current Score ===
+Team1: 48 Team2: 58
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (6s)
+Matt Barnes makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 48 Team2: 60
+
+Ray Allen starts with the ball
+Ray Allen dribbles (5s)
+Ray Allen misses a 3-point shot (5s)
+Stephen Curry grabs the defensive rebound!
+=== Current Score ===
+Team1: 48 Team2: 60
+
+Stephen Curry starts with the ball
+Stephen Curry misses a 3-point shot (2s)
+Bam Adebayo grabs the defensive rebound!
+=== Current Score ===
+Team1: 48 Team2: 60
+
+Chris Bosh starts with the ball
+Chris Bosh passes to LeBron James (7s)
+LeBron James passes to Ray Allen (5s)
+Kevin Durant commits a foul on Ray Allen!Ray Allen misses a 3-point shot (4s)
+Ray Allen is fouled and heads to the free throw line 3 attempts
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 49 Team2: 60
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 50 Team2: 60
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 51 Team2: 60
+=== Current Score ===
+Team1: 51 Team2: 60
+
+Kevin Durant starts with the ball
+Kevin Durant misses a 3-point shot (4s)
+Dwyane Wade grabs the defensive rebound!
+=== Current Score ===
+Team1: 51 Team2: 60
+
+Ray Allen starts with the ball
+Matt Barnes steals the ball from Ray Allen!
+=== Current Score ===
+Team1: 51 Team2: 60
+
+Kevin Durant starts with the ball
+Dwyane Wade commits a foul on Kevin Durant!Kevin Durant makes a 2-point shot! (3s)
+Kevin Durant is fouled and heads to the free throw line(1 attempt) AND ONE!
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 51 Team2: 63
+=== Current Score ===
+Team1: 51 Team2: 63
+
+LeBron James starts with the ball
+LeBron James dribbles (6s)
+LeBron James makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 53 Team2: 63
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (4s)
+Klay Thompson makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 53 Team2: 66
+
+Ray Allen starts with the ball
+Ray Allen dribbles (3s)
+Ray Allen passes to LeBron James (6s)
+LeBron James passes to Bam Adebayo (4s)
+Bam Adebayo passes to LeBron James (5s)
+LeBron James misses a 2-point shot (6s)
+Ray Allen grabs the offensive rebound!
+Stephen Curry commits a foul on Ray Allen!Substitution: Stephen Curry out, David West in (plus-minus: 11, total seconds: 1112/2100)
+Stephen Curry fouls out!Ray Allen dribbles (5s)
+Ray Allen dribbles (3s)
+Ray Allen passes to Chris Bosh (3s)
+Chris Bosh misses a 2-point shot (3s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 53 Team2: 66
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 53 Team2: 68
+
+LeBron James starts with the ball
+LeBron James makes a 3-point shot! (7s)
+=== Current Score ===
+Team1: 56 Team2: 68
+
+Kevin Durant starts with the ball
+LeBron James commits a foul on Kevin Durant!Kevin Durant dribbles (1s)
+Kevin Durant passes to David West (4s)
+David West passes to Kevin Durant (5s)
+Kevin Durant passes to Draymond Green (4s)
+Draymond Green passes to Matt Barnes (7s)
+Matt Barnes makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 56 Team2: 70
+
+LeBron James starts with the ball
+LeBron James dribbles (3s)
+LeBron James passes to Dwyane Wade (2s)
+Dwyane Wade makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 58 Team2: 70
+
+Kevin Durant starts with the ball
+Kevin Durant misses a 3-point shot (3s)
+Bam Adebayo grabs the defensive rebound!
+=== Current Score ===
+Team1: 58 Team2: 70
+
+LeBron James starts with the ball
+LeBron James dribbles (4s)
+LeBron James passes to Ray Allen (4s)
+Ray Allen passes to Chris Bosh (3s)
+Chris Bosh passes to Bam Adebayo (5s)
+Bam Adebayo makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 60 Team2: 70
+
+Kevin Durant starts with the ball
+Kevin Durant passes to David West (4s)
+David West passes to Klay Thompson (7s)
+Klay Thompson misses a 3-point shot (4s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 60 Team2: 70
+
+Dwyane Wade starts with the ball
+Draymond Green commits a foul on Dwyane Wade!Dwyane Wade dribbles (5s)
+Kevin Durant commits a foul on Dwyane Wade!Dwyane Wade dribbles (3s)
+Dwyane Wade misses a 2-point shot (4s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 60 Team2: 70
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 60 Team2: 72
+
+Ray Allen starts with the ball
+Ray Allen passes to LeBron James (2s)
+LeBron James passes to Dwyane Wade (2s)
+Dwyane Wade passes to Bam Adebayo (6s)
+Bam Adebayo passes to LeBron James (6s)
+LeBron James passes to Ray Allen (5s)
+Ray Allen misses a 2-point shot (2s)
+Matt Barnes grabs the defensive rebound!
+=== Current Score ===
+Team1: 60 Team2: 72
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (4s)
+Kevin Durant passes to Matt Barnes (3s)
+Matt Barnes passes to Klay Thompson (7s)
+Klay Thompson dribbles (2s)
+Bam Adebayo blocks the shot of Klay Thompson!
+=== Current Score ===
+Team1: 60 Team2: 72
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (4s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 60 Team2: 72
+
+Kevin Durant starts with the ball
+Bam Adebayo steals the ball from Kevin Durant!
+=== Current Score ===
+Team1: 60 Team2: 72
+
+Bam Adebayo starts with the ball
+Bam Adebayo passes to Chris Bosh (4s)
+Chris Bosh makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 62 Team2: 72
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (6s)
+Draymond Green passes to Klay Thompson (5s)
+Klay Thompson dribbles (4s)
+Klay Thompson misses a 3-point shot (3s)
+Klay Thompson grabs the offensive rebound!
+Klay Thompson passes to David West (6s)
+David West passes to Klay Thompson (5s)
+Klay Thompson misses a 2-point shot (2s)
+Bam Adebayo grabs the defensive rebound!
+=== Current Score ===
+Team1: 62 Team2: 72
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to Bam Adebayo (6s)
+Bam Adebayo turns the ball over (6s)
+=== Current Score ===
+Team1: 62 Team2: 72
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (2s)
+Draymond Green passes to Klay Thompson (3s)
+Klay Thompson passes to Draymond Green (6s)
+Draymond Green passes to Klay Thompson (4s)
+Klay Thompson passes to Kevin Durant (7s)
+LeBron James commits a foul on Kevin Durant!Kevin Durant misses a 2-point shot (2s)
+Kevin Durant is fouled and heads to the free throw line 2 attempts
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 62 Team2: 73
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 62 Team2: 74
+=== Current Score ===
+Team1: 62 Team2: 74
+
+LeBron James starts with the ball
+LeBron James turns the ball over (5s)
+=== Current Score ===
+Team1: 62 Team2: 74
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (5s)
+Bam Adebayo commits a foul on Klay Thompson!Klay Thompson misses a 2-point shot (6s)
+Klay Thompson is fouled and heads to the free throw line 2 attempts
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 62 Team2: 75
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 62 Team2: 76
+=== Current Score ===
+Team1: 62 Team2: 76
+
+LeBron James starts with the ball
+LeBron James misses a 3-point shot (2s)
+Dwyane Wade grabs the offensive rebound!
+Dwyane Wade passes to LeBron James (4s)
+LeBron James misses a 2-point shot (5s)
+Chris Bosh grabs the offensive rebound!
+Chris Bosh passes to Dwyane Wade (4s)
+Kevin Durant commits a foul on Dwyane Wade!Dwyane Wade makes a 2-point shot! (4s)
+Dwyane Wade is fouled and heads to the free throw line(1 attempt) AND ONE!
+Dwyane Wade makes free throw
+=== Current Score ===
+Team1: 65 Team2: 76
+=== Current Score ===
+Team1: 65 Team2: 76
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (4s)
+Matt Barnes passes to Klay Thompson (5s)
+Klay Thompson passes to Draymond Green (7s)
+Draymond Green makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 65 Team2: 79
+
+Dwyane Wade starts with the ball
+Dwyane Wade misses a 2-point shot (1s)
+LeBron James grabs the offensive rebound!
+=== Current Score ===
+Team1: 65 Team2: 79
+
+Quarter 2 Score: Team1 65 - Team2 79
+
+=== Quarter 3 ===
+LeBron James starts with the ball
+LeBron James passes to Dwyane Wade (4s)
+Dwyane Wade makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 67 Team2: 79
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (3s)
+Klay Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 67 Team2: 81
+
+LeBron James starts with the ball
+LeBron James passes to Dwyane Wade (3s)
+Dwyane Wade passes to Chris Bosh (2s)
+Chris Bosh dribbles (5s)
+Chris Bosh misses a 2-point shot (7s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 67 Team2: 81
+
+Kevin Durant starts with the ball
+Kevin Durant passes to David West (4s)
+David West passes to Kevin Durant (3s)
+Kevin Durant passes to Matt Barnes (7s)
+LeBron James commits a foul on Matt Barnes!Matt Barnes dribbles (2s)
+Matt Barnes misses a 2-point shot (5s)
+LeBron James grabs the defensive rebound!
+Substitution: David West out, JaVale McGee in (plus-minus: 3, total seconds: 381/1797)
+=== Current Score ===
+Team1: 67 Team2: 81
+
+LeBron James starts with the ball
+LeBron James passes to Dwyane Wade (6s)
+Kevin Durant commits a foul on Dwyane Wade!Dwyane Wade dribbles (7s)
+Dwyane Wade passes to LeBron James (1s)
+LeBron James misses a 2-point shot (6s)
+Chris Bosh grabs the offensive rebound!
+Chris Bosh makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 69 Team2: 81
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (7s)
+Klay Thompson passes to JaVale McGee (4s)
+JaVale McGee dribbles (6s)
+JaVale McGee makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 69 Team2: 83
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Bam Adebayo (6s)
+Bam Adebayo dribbles (6s)
+Draymond Green commits a foul on Bam Adebayo!Bam Adebayo misses a 2-point shot (6s)
+Bam Adebayo is fouled and heads to the free throw line 2 attempts
+Bam Adebayo makes free throw
+=== Current Score ===
+Team1: 70 Team2: 83
+Bam Adebayo makes free throw
+=== Current Score ===
+Team1: 71 Team2: 83
+=== Current Score ===
+Team1: 71 Team2: 83
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Matt Barnes (7s)
+Matt Barnes passes to JaVale McGee (5s)
+JaVale McGee makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 71 Team2: 85
+
+LeBron James starts with the ball
+LeBron James misses a 2-point shot (6s)
+Matt Barnes grabs the defensive rebound!
+=== Current Score ===
+Team1: 71 Team2: 85
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (3s)
+Kevin Durant passes to JaVale McGee (2s)
+JaVale McGee passes to Matt Barnes (4s)
+Matt Barnes passes to Kevin Durant (6s)
+Kevin Durant passes to Klay Thompson (2s)
+Klay Thompson makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 71 Team2: 88
+
+Ray Allen starts with the ball
+Ray Allen passes to Dwyane Wade (3s)
+Dwyane Wade passes to Chris Bosh (3s)
+Chris Bosh passes to Bam Adebayo (7s)
+Bam Adebayo makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 73 Team2: 88
+
+Kevin Durant starts with the ball
+Kevin Durant misses a 2-point shot (6s)
+Bam Adebayo grabs the defensive rebound!
+=== Current Score ===
+Team1: 73 Team2: 88
+
+Chris Bosh starts with the ball
+Chris Bosh dribbles (7s)
+Chris Bosh passes to Bam Adebayo (4s)
+Bam Adebayo misses a 2-point shot (7s)
+JaVale McGee grabs the defensive rebound!
+=== Current Score ===
+Team1: 73 Team2: 88
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (2s)
+Draymond Green passes to Klay Thompson (7s)
+Klay Thompson passes to Draymond Green (3s)
+Draymond Green dribbles (5s)
+Draymond Green misses a 3-point shot (5s)
+Chris Bosh grabs the defensive rebound!
+=== Current Score ===
+Team1: 73 Team2: 88
+
+LeBron James starts with the ball
+LeBron James makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 76 Team2: 88
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (4s)
+Matt Barnes passes to Draymond Green (5s)
+Draymond Green passes to Matt Barnes (5s)
+Matt Barnes passes to JaVale McGee (5s)
+Bam Adebayo commits a foul on JaVale McGee!Ray Allen blocks the shot of JaVale McGee!
+=== Current Score ===
+Team1: 76 Team2: 88
+
+LeBron James starts with the ball
+LeBron James dribbles (4s)
+LeBron James passes to Bam Adebayo (4s)
+Bam Adebayo passes to Dwyane Wade (7s)
+Klay Thompson commits a foul on Dwyane Wade!Dwyane Wade makes a 2-point shot! (2s)
+Dwyane Wade is fouled and heads to the free throw line(1 attempt) AND ONE!
+Dwyane Wade makes free throw
+=== Current Score ===
+Team1: 79 Team2: 88
+Substitution: Bam Adebayo out, Juwan Howard in (plus-minus: -11, total seconds: 1704/1726)
+=== Current Score ===
+Team1: 79 Team2: 88
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (4s)
+Kevin Durant passes to Matt Barnes (6s)
+LeBron James commits a foul on Matt Barnes!Matt Barnes makes a 3-point shot! (4s)
+Matt Barnes is fouled and heads to the free throw line(1 attempt) AND ONE!
+Matt Barnes makes free throw
+=== Current Score ===
+Team1: 79 Team2: 92
+Substitution: Matt Barnes out, Zaza Pachulia in (plus-minus: 1, total seconds: 753/767)
+=== Current Score ===
+Team1: 79 Team2: 92
+
+Ray Allen starts with the ball
+Ray Allen dribbles (3s)
+Ray Allen passes to Juwan Howard (4s)
+Juwan Howard passes to Ray Allen (3s)
+Ray Allen passes to Juwan Howard (3s)
+Juwan Howard passes to Chris Bosh (2s)
+Chris Bosh passes to Juwan Howard (3s)
+Juwan Howard makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 81 Team2: 92
+
+Kevin Durant starts with the ball
+Kevin Durant passes to JaVale McGee (3s)
+JaVale McGee passes to Kevin Durant (7s)
+Kevin Durant passes to JaVale McGee (6s)
+Chris Bosh commits a foul on JaVale McGee!JaVale McGee makes a 2-point shot! (2s)
+JaVale McGee is fouled and heads to the free throw line(1 attempt) AND ONE!
+JaVale McGee missed free throw
+=== Current Score ===
+Team1: 81 Team2: 94
+=== Current Score ===
+Team1: 81 Team2: 94
+
+LeBron James starts with the ball
+LeBron James passes to Juwan Howard (5s)
+Juwan Howard passes to Dwyane Wade (3s)
+Dwyane Wade passes to Ray Allen (7s)
+Kevin Durant commits a foul on Ray Allen!Ray Allen makes a 2-point shot! (4s)
+Ray Allen is fouled and heads to the free throw line(1 attempt) AND ONE!
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 84 Team2: 94
+=== Current Score ===
+Team1: 84 Team2: 94
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Zaza Pachulia (5s)
+Zaza Pachulia passes to Klay Thompson (6s)
+Klay Thompson dribbles (3s)
+Klay Thompson makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 84 Team2: 96
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to LeBron James (4s)
+LeBron James turns the ball over (4s)
+=== Current Score ===
+Team1: 84 Team2: 96
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (3s)
+Klay Thompson passes to Zaza Pachulia (8s)
+Zaza Pachulia makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 84 Team2: 98
+
+LeBron James starts with the ball
+LeBron James passes to Juwan Howard (4s)
+Juwan Howard passes to Dwyane Wade (5s)
+Dwyane Wade passes to Chris Bosh (7s)
+Chris Bosh makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 86 Team2: 98
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (7s)
+Draymond Green dribbles (4s)
+Draymond Green passes to JaVale McGee (8s)
+JaVale McGee misses a 2-point shot (5s)
+Zaza Pachulia grabs the offensive rebound!
+Zaza Pachulia passes to Klay Thompson (2s)
+Ray Allen commits a foul on Klay Thompson!Klay Thompson misses a 2-point shot (5s)
+Klay Thompson is fouled and heads to the free throw line 2 attempts
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 86 Team2: 99
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 86 Team2: 100
+=== Current Score ===
+Team1: 86 Team2: 100
+
+LeBron James starts with the ball
+LeBron James passes to Chris Bosh (4s)
+Chris Bosh passes to Juwan Howard (5s)
+Juwan Howard passes to Ray Allen (5s)
+Ray Allen dribbles (1s)
+Ray Allen passes to Dwyane Wade (6s)
+Dwyane Wade makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 88 Team2: 100
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Zaza Pachulia (4s)
+Zaza Pachulia passes to JaVale McGee (2s)
+JaVale McGee passes to Kevin Durant (4s)
+Kevin Durant misses a 2-point shot (4s)
+Ray Allen grabs the defensive rebound!
+=== Current Score ===
+Team1: 88 Team2: 100
+
+LeBron James starts with the ball
+LeBron James passes to Ray Allen (6s)
+Ray Allen turns the ball over (4s)
+=== Current Score ===
+Team1: 88 Team2: 100
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (5s)
+Kevin Durant makes a 3-point shot! (7s)
+=== Current Score ===
+Team1: 88 Team2: 103
+
+LeBron James starts with the ball
+LeBron James passes to Chris Bosh (5s)
+Chris Bosh passes to Juwan Howard (5s)
+Kevin Durant commits a foul on Juwan Howard!Juwan Howard misses a 2-point shot (1s)
+Juwan Howard is fouled and heads to the free throw line 2 attempts
+Juwan Howard missed free throw
+=== Current Score ===
+Team1: 88 Team2: 103
+Juwan Howard makes free throw
+=== Current Score ===
+Team1: 89 Team2: 103
+Substitution: LeBron James out, Udonis Haslem in (plus-minus: -13, total seconds: 1948/2048)
+=== Current Score ===
+Team1: 89 Team2: 103
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (5s)
+Klay Thompson misses a 3-point shot (6s)
+Draymond Green grabs the offensive rebound!
+Draymond Green passes to Zaza Pachulia (4s)
+Udonis Haslem commits a foul on Zaza Pachulia!Zaza Pachulia makes a 2-point shot! (8s)
+Zaza Pachulia is fouled and heads to the free throw line(1 attempt) AND ONE!
+Zaza Pachulia makes free throw
+=== Current Score ===
+Team1: 89 Team2: 106
+Substitution: Kevin Durant out, David West in (plus-minus: 14, total seconds: 1971/2100)
+=== Current Score ===
+Team1: 89 Team2: 106
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Ray Allen (5s)
+Ray Allen passes to Chris Bosh (2s)
+Chris Bosh dribbles (5s)
+Draymond Green steals the ball from Chris Bosh while dribbling!
+=== Current Score ===
+Team1: 89 Team2: 106
+
+Klay Thompson starts with the ball
+Klay Thompson misses a 3-point shot (6s)
+Udonis Haslem grabs the defensive rebound!
+=== Current Score ===
+Team1: 89 Team2: 106
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Dwyane Wade (5s)
+Dwyane Wade passes to Juwan Howard (4s)
+Juwan Howard passes to Chris Bosh (6s)
+Chris Bosh misses a 2-point shot (2s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 89 Team2: 106
+
+David West starts with the ball
+David West passes to JaVale McGee (3s)
+JaVale McGee passes to Klay Thompson (6s)
+Klay Thompson passes to David West (1s)
+Chris Bosh commits a foul on David West!David West dribbles (5s)
+David West passes to JaVale McGee (7s)
+JaVale McGee makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 89 Team2: 108
+
+Juwan Howard starts with the ball
+JaVale McGee commits a foul on Juwan Howard!Juwan Howard misses a 2-point shot (4s)
+Juwan Howard is fouled and heads to the free throw line 2 attempts
+Juwan Howard makes free throw
+=== Current Score ===
+Team1: 90 Team2: 108
+Juwan Howard makes free throw
+=== Current Score ===
+Team1: 91 Team2: 108
+=== Current Score ===
+Team1: 91 Team2: 108
+
+David West starts with the ball
+David West passes to JaVale McGee (4s)
+JaVale McGee makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 91 Team2: 110
+
+Chris Bosh starts with the ball
+Chris Bosh misses a 2-point shot (3s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 91 Team2: 110
+
+Klay Thompson starts with the ball
+Klay Thompson passes to David West (4s)
+David West misses a 2-point shot (5s)
+Klay Thompson grabs the offensive rebound!
+Chris Bosh blocks the shot of Klay Thompson!
+=== Current Score ===
+Team1: 91 Team2: 110
+
+Ray Allen starts with the ball
+Ray Allen passes to Dwyane Wade (3s)
+Dwyane Wade turns the ball over (5s)
+=== Current Score ===
+Team1: 91 Team2: 110
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (5s)
+Klay Thompson passes to Draymond Green (6s)
+Draymond Green passes to Klay Thompson (3s)
+Klay Thompson dribbles (6s)
+Klay Thompson makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 91 Team2: 113
+
+Ray Allen starts with the ball
+Ray Allen passes to Chris Bosh (6s)
+Chris Bosh passes to Juwan Howard (3s)
+Juwan Howard passes to Ray Allen (4s)
+Ray Allen passes to Chris Bosh (3s)
+Chris Bosh makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 93 Team2: 113
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (5s)
+Juwan Howard blocks the shot of Klay Thompson!
+=== Current Score ===
+Team1: 93 Team2: 113
+
+Juwan Howard starts with the ball
+Juwan Howard dribbles (5s)
+Juwan Howard passes to Ray Allen (6s)
+Ray Allen passes to Chris Bosh (5s)
+Chris Bosh turns the ball over (7s)
+Substitution: Dwyane Wade out, Shane Battier in (plus-minus: -17, total seconds: 2145/2048)
+=== Current Score ===
+Team1: 93 Team2: 113
+
+David West starts with the ball
+David West passes to JaVale McGee (4s)
+JaVale McGee makes a 2-point shot! (8s)
+Substitution: JaVale McGee out, Shaun Livingston in (plus-minus: 5, total seconds: 664/854)
+=== Current Score ===
+Team1: 93 Team2: 115
+
+Ray Allen starts with the ball
+Ray Allen misses a 2-point shot (3s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 93 Team2: 115
+
+Quarter 3 Score: Team1 93 - Team2 115
+
+=== Quarter 4 ===
+Klay Thompson starts with the ball
+Klay Thompson passes to Shaun Livingston (3s)
+Shaun Livingston passes to David West (6s)
+Ray Allen commits a foul on David West!David West dribbles (3s)
+David West makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 93 Team2: 117
+
+Ray Allen starts with the ball
+Draymond Green commits a foul on Ray Allen!Ray Allen makes a 2-point shot! (6s)
+Ray Allen is fouled and heads to the free throw line(1 attempt) AND ONE!
+Ray Allen makes free throw
+=== Current Score ===
+Team1: 96 Team2: 117
+=== Current Score ===
+Team1: 96 Team2: 117
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (6s)
+Klay Thompson makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 96 Team2: 120
+
+Ray Allen starts with the ball
+Ray Allen passes to Udonis Haslem (6s)
+Udonis Haslem passes to Shane Battier (4s)
+Shaun Livingston commits a foul on Shane Battier!Shane Battier dribbles (5s)
+Shane Battier passes to Udonis Haslem (6s)
+Udonis Haslem makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 98 Team2: 120
+
+David West starts with the ball
+David West passes to Zaza Pachulia (2s)
+Zaza Pachulia passes to Draymond Green (4s)
+Draymond Green commits an offensive foul!
+=== Current Score ===
+Team1: 98 Team2: 120
+
+Juwan Howard starts with the ball
+Juwan Howard passes to Ray Allen (3s)
+Ray Allen dribbles (6s)
+Ray Allen passes to Juwan Howard (5s)
+Juwan Howard makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 100 Team2: 120
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Shaun Livingston (8s)
+Shaun Livingston makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 100 Team2: 122
+
+Chris Bosh starts with the ball
+Klay Thompson commits a foul on Chris Bosh!Chris Bosh makes a 2-point shot! (2s)
+Chris Bosh is fouled and heads to the free throw line(1 attempt) AND ONE!
+Chris Bosh makes free throw
+=== Current Score ===
+Team1: 103 Team2: 122
+=== Current Score ===
+Team1: 103 Team2: 122
+
+Klay Thompson starts with the ball
+Klay Thompson passes to David West (3s)
+Chris Bosh blocks the shot of David West!
+=== Current Score ===
+Team1: 103 Team2: 122
+
+Ray Allen starts with the ball
+Ray Allen passes to Shane Battier (3s)
+Shane Battier dribbles (6s)
+Shane Battier passes to Ray Allen (3s)
+Ray Allen dribbles (3s)
+Ray Allen makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 105 Team2: 122
+
+Klay Thompson starts with the ball
+Klay Thompson passes to JaVale McGee (7s)
+JaVale McGee dribbles (5s)
+JaVale McGee dribbles (4s)
+JaVale McGee makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 105 Team2: 124
+
+Chris Bosh starts with the ball
+Chris Bosh dribbles (5s)
+Chris Bosh misses a 2-point shot (4s)
+Klay Thompson grabs the defensive rebound!
+Substitution: Ray Allen out, Mario Chalmers in (plus-minus: -20, total seconds: 2315/1731)
+=== Current Score ===
+Team1: 105 Team2: 124
+
+David West starts with the ball
+David West passes to Zaza Pachulia (6s)
+Udonis Haslem blocks the shot of Zaza Pachulia!
+Substitution: Klay Thompson out, Matt Barnes in (plus-minus: 20, total seconds: 2326/1651)
+=== Current Score ===
+Team1: 105 Team2: 124
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Udonis Haslem (8s)
+Udonis Haslem passes to Mario Chalmers (5s)
+Mario Chalmers misses a 3-point shot (5s)
+Chris Bosh grabs the offensive rebound!
+Chris Bosh passes to Juwan Howard (4s)
+Matt Barnes blocks the shot of Juwan Howard!
+=== Current Score ===
+Team1: 105 Team2: 124
+
+David West starts with the ball
+David West dribbles (7s)
+David West passes to JaVale McGee (3s)
+JaVale McGee passes to David West (6s)
+David West makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 105 Team2: 126
+
+Juwan Howard starts with the ball
+Juwan Howard dribbles (1s)
+Juwan Howard makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 107 Team2: 126
+
+David West starts with the ball
+David West passes to Zaza Pachulia (2s)
+Zaza Pachulia dribbles (2s)
+Zaza Pachulia misses a 2-point shot (3s)
+Juwan Howard grabs the defensive rebound!
+=== Current Score ===
+Team1: 107 Team2: 126
+
+Chris Bosh starts with the ball
+Chris Bosh makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 109 Team2: 126
+
+David West starts with the ball
+David West passes to JaVale McGee (4s)
+JaVale McGee misses a 2-point shot (5s)
+Udonis Haslem grabs the defensive rebound!
+=== Current Score ===
+Team1: 109 Team2: 126
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Juwan Howard (5s)
+Juwan Howard makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 111 Team2: 126
+
+David West starts with the ball
+David West passes to Shaun Livingston (4s)
+Shaun Livingston dribbles (3s)
+Shaun Livingston passes to Matt Barnes (5s)
+Matt Barnes dribbles (5s)
+Juwan Howard commits a foul on Matt Barnes!Matt Barnes makes a 2-point shot! (4s)
+Matt Barnes is fouled and heads to the free throw line(1 attempt) AND ONE!
+Matt Barnes makes free throw
+=== Current Score ===
+Team1: 111 Team2: 129
+=== Current Score ===
+Team1: 111 Team2: 129
+
+Chris Bosh starts with the ball
+Zaza Pachulia commits a foul on Chris Bosh!Chris Bosh makes a 2-point shot! (8s)
+Chris Bosh is fouled and heads to the free throw line(1 attempt) AND ONE!
+Chris Bosh makes free throw
+=== Current Score ===
+Team1: 114 Team2: 129
+=== Current Score ===
+Team1: 114 Team2: 129
+
+David West starts with the ball
+David West dribbles (5s)
+Shane Battier commits a foul on David West!David West dribbles (5s)
+David West passes to Shaun Livingston (5s)
+Shaun Livingston makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 114 Team2: 131
+
+Chris Bosh starts with the ball
+Chris Bosh passes to Udonis Haslem (3s)
+Udonis Haslem passes to Shane Battier (4s)
+Shane Battier makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 117 Team2: 131
+
+David West starts with the ball
+David West passes to Shaun Livingston (6s)
+Shaun Livingston dribbles (8s)
+Shaun Livingston makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 117 Team2: 133
+
+Chris Bosh starts with the ball
+Chris Bosh misses a 2-point shot (4s)
+David West grabs the defensive rebound!
+Substitution: Chris Bosh out, Chris Andersen in (plus-minus: -17, total seconds: 2492/1726)
+=== Current Score ===
+Team1: 117 Team2: 133
+
+David West starts with the ball
+David West dribbles (7s)
+David West passes to Zaza Pachulia (2s)
+Zaza Pachulia misses a 2-point shot (6s)
+Zaza Pachulia grabs the offensive rebound!
+Zaza Pachulia dribbles (3s)
+Zaza Pachulia turns the ball over (3s)
+Substitution: Zaza Pachulia out, Andre Iguodala in (plus-minus: 5, total seconds: 795/1003)
+=== Current Score ===
+Team1: 117 Team2: 133
+
+Juwan Howard starts with the ball
+Juwan Howard passes to Shane Battier (4s)
+Shane Battier passes to Juwan Howard (3s)
+Juwan Howard commits an offensive foul!
+=== Current Score ===
+Team1: 117 Team2: 133
+
+David West starts with the ball
+Shane Battier commits a foul on David West!David West misses a 2-point shot (4s)
+David West is fouled and heads to the free throw line 2 attempts
+David West makes free throw
+=== Current Score ===
+Team1: 117 Team2: 134
+David West missed free throw
+=== Current Score ===
+Team1: 117 Team2: 134
+=== Current Score ===
+Team1: 117 Team2: 134
+
+Dwyane Wade starts with the ball
+David West steals the ball from Dwyane Wade while dribbling!
+=== Current Score ===
+Team1: 117 Team2: 134
+
+David West starts with the ball
+David West turns the ball over (6s)
+=== Current Score ===
+Team1: 117 Team2: 134
+
+Dwyane Wade starts with the ball
+Dwyane Wade makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 119 Team2: 134
+
+David West starts with the ball
+Mario Chalmers blocks the shot of David West!
+=== Current Score ===
+Team1: 119 Team2: 134
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to Shane Battier (4s)
+Shane Battier passes to Mario Chalmers (4s)
+Mario Chalmers dribbles (3s)
+Mario Chalmers passes to Dwyane Wade (5s)
+JaVale McGee commits a foul on Dwyane Wade!Dwyane Wade makes a 2-point shot! (2s)
+Dwyane Wade is fouled and heads to the free throw line(1 attempt) AND ONE!
+Dwyane Wade makes free throw
+=== Current Score ===
+Team1: 122 Team2: 134
+=== Current Score ===
+Team1: 122 Team2: 134
+
+David West starts with the ball
+David West dribbles (6s)
+David West passes to Matt Barnes (4s)
+Matt Barnes passes to David West (4s)
+David West misses a 3-point shot (7s)
+Chris Andersen grabs the defensive rebound!
+=== Current Score ===
+Team1: 122 Team2: 134
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to Udonis Haslem (3s)
+Andre Iguodala commits a foul on Udonis Haslem!Substitution: JaVale McGee out, Zaza Pachulia in (plus-minus: -1, total seconds: 1033/854)
+Andre Iguodala fouls out!Udonis Haslem dribbles (2s)
+Udonis Haslem passes to Dwyane Wade (4s)
+Dwyane Wade passes to Shane Battier (2s)
+Shane Battier turns the ball over (5s)
+=== Current Score ===
+Team1: 122 Team2: 134
+
+David West starts with the ball
+David West passes to Andre Iguodala (6s)
+Andre Iguodala misses a 2-point shot (7s)
+Chris Andersen grabs the defensive rebound!
+=== Current Score ===
+Team1: 122 Team2: 134
+
+Dwyane Wade starts with the ball
+Dwyane Wade makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 124 Team2: 134
+
+David West starts with the ball
+David West passes to Shaun Livingston (5s)
+Shaun Livingston passes to David West (3s)
+David West dribbles (3s)
+David West dribbles (4s)
+David West dribbles (4s)
+David West misses a 2-point shot (4s)
+Chris Andersen grabs the defensive rebound!
+=== Current Score ===
+Team1: 124 Team2: 134
+
+Dwyane Wade starts with the ball
+Dwyane Wade dribbles (5s)
+Dwyane Wade dribbles (2s)
+Dwyane Wade commits an offensive foul!
+Substitution: Shane Battier out, Udonis Haslem in (plus-minus: 4, total seconds: 505/1290)
+=== Current Score ===
+Team1: 124 Team2: 134
+
+David West starts with the ball
+Mario Chalmers commits a foul on David West!Mario Chalmers blocks the shot of David West!
+Substitution: David West out, JaVale McGee in (plus-minus: 2, total seconds: 1062/1797)
+=== Current Score ===
+Team1: 124 Team2: 134
+
+Dwyane Wade starts with the ball
+Dwyane Wade passes to Juwan Howard (6s)
+Juwan Howard passes to Mario Chalmers (5s)
+Mario Chalmers dribbles (3s)
+Mario Chalmers passes to Chris Andersen (5s)
+Chris Andersen makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 126 Team2: 134
+
+Zaza Pachulia starts with the ball
+Mario Chalmers commits a foul on Zaza Pachulia!Zaza Pachulia misses a 2-point shot (3s)
+Zaza Pachulia is fouled and heads to the free throw line 2 attempts
+Zaza Pachulia makes free throw
+=== Current Score ===
+Team1: 126 Team2: 135
+Zaza Pachulia makes free throw
+=== Current Score ===
+Team1: 126 Team2: 136
+=== Current Score ===
+Team1: 126 Team2: 136
+
+Dwyane Wade starts with the ball
+JaVale McGee blocks the shot of Dwyane Wade!
+=== Current Score ===
+Team1: 126 Team2: 136
+
+Shaun Livingston starts with the ball
+Shaun Livingston passes to Andre Iguodala (5s)
+Andre Iguodala passes to Shaun Livingston (6s)
+Shaun Livingston dribbles (3s)
+Shaun Livingston passes to Zaza Pachulia (6s)
+Zaza Pachulia makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 126 Team2: 138
+
+Juwan Howard starts with the ball
+Juwan Howard passes to Dwyane Wade (4s)
+Dwyane Wade passes to Udonis Haslem (6s)
+Udonis Haslem passes to Dwyane Wade (4s)
+Dwyane Wade passes to Mario Chalmers (4s)
+Mario Chalmers passes to Udonis Haslem (4s)
+Matt Barnes blocks the shot of Udonis Haslem!
+=== Current Score ===
+Team1: 126 Team2: 138
+
+Andre Iguodala starts with the ball
+Andre Iguodala dribbles (3s)
+Andre Iguodala passes to Zaza Pachulia (4s)
+Zaza Pachulia makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 126 Team2: 140
+
+Dwyane Wade starts with the ball
+Dwyane Wade makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 128 Team2: 140
+
+Shaun Livingston starts with the ball
+Shaun Livingston passes to Zaza Pachulia (6s)
+Mario Chalmers blocks the shot of Zaza Pachulia!
+=== Current Score ===
+Team1: 128 Team2: 140
+
+Dwyane Wade starts with the ball
+Dwyane Wade turns the ball over (5s)
+=== Current Score ===
+Team1: 128 Team2: 140
+
+JaVale McGee starts with the ball
+JaVale McGee passes to Andre Iguodala (3s)
+Andre Iguodala passes to Zaza Pachulia (7s)
+Zaza Pachulia passes to JaVale McGee (2s)
+JaVale McGee misses a 2-point shot (6s)
+Matt Barnes grabs the offensive rebound!
+Matt Barnes passes to Shaun Livingston (5s)
+Shaun Livingston misses a 2-point shot (5s)
+Chris Andersen grabs the defensive rebound!
+=== Current Score ===
+Team1: 128 Team2: 140
+
+Juwan Howard starts with the ball
+Juwan Howard makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 130 Team2: 140
+
+Andre Iguodala starts with the ball
+Andre Iguodala passes to Zaza Pachulia (3s)
+Zaza Pachulia misses a 2-point shot (3s)
+Dwyane Wade grabs the defensive rebound!
+=== Current Score ===
+Team1: 130 Team2: 140
+
+Dwyane Wade starts with the ball
+Dwyane Wade makes a 2-point shot! (6s)
+Substitution: Mario Chalmers out, Shane Battier in (plus-minus: 9, total seconds: 495/726)
+=== Current Score ===
+Team1: 132 Team2: 140
+
+Matt Barnes starts with the ball
+Matt Barnes passes to Shaun Livingston (5s)
+Shaun Livingston makes a 2-point shot! (5s)
+Substitution: Matt Barnes out, David West in (plus-minus: -6, total seconds: 1247/767)
+=== Current Score ===
+Team1: 132 Team2: 142
+
+Juwan Howard starts with the ball
+David West commits a foul on Juwan Howard!Juwan Howard dribbles (3s)
+Juwan Howard misses a 2-point shot (4s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 132 Team2: 142
+
+David West starts with the ball
+David West misses a 2-point shot (5s)
+Chris Andersen grabs the defensive rebound!
+=== Current Score ===
+Team1: 132 Team2: 142
+
+Juwan Howard starts with the ball
+Juwan Howard passes to Dwyane Wade (4s)
+Zaza Pachulia commits a foul on Dwyane Wade!Dwyane Wade misses a 2-point shot (3s)
+Dwyane Wade is fouled and heads to the free throw line 2 attempts
+Dwyane Wade makes free throw
+=== Current Score ===
+Team1: 133 Team2: 142
+Dwyane Wade makes free throw
+=== Current Score ===
+Team1: 134 Team2: 142
+=== Current Score ===
+Team1: 134 Team2: 142
+
+David West starts with the ball
+David West passes to Zaza Pachulia (5s)
+Zaza Pachulia passes to JaVale McGee (3s)
+JaVale McGee makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 134 Team2: 144
+
+Juwan Howard starts with the ball
+Juwan Howard makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 136 Team2: 144
+
+David West starts with the ball
+David West dribbles (5s)
+David West passes to Zaza Pachulia (3s)
+Zaza Pachulia passes to JaVale McGee (3s)
+JaVale McGee misses a 2-point shot (5s)
+Udonis Haslem grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 144
+
+Dwyane Wade starts with the ball
+Dwyane Wade dribbles (5s)
+Andre Iguodala blocks the shot of Dwyane Wade!
+=== Current Score ===
+Team1: 136 Team2: 144
+
+David West starts with the ball
+Dwyane Wade commits a foul on David West!David West misses a 2-point shot (1s)
+David West is fouled and heads to the free throw line 2 attempts
+David West makes free throw
+=== Current Score ===
+Team1: 136 Team2: 145
+David West makes free throw
+=== Current Score ===
+Team1: 136 Team2: 146
+=== Current Score ===
+Team1: 136 Team2: 146
+
+Quarter 4 Score: Team1 136 - Team2 146
+
+=== Final Score ===
+Team1: 136
+Team2: 146
+
+[DEBUG] expected seconds per team (5 players * game seconds): 14400
+[DEBUG] actual Team1 summed player seconds: 14400
+[DEBUG] actual Team2 summed player seconds: 14400
+--- Team1 Box Score ---
+Juwan Howard's recommended minutes: 31:10
+Juwan Howard: PTS 15, AST 0, REB 1, TOV 0, FGM/FGA 6/10, 3PM/3PA 0/0, FTM/FTA 3/4, STL 0, BLK 1, Time 17:31,plus/minus: -6
+Udonis Haslem's recommended minutes: 12:51
+Udonis Haslem: PTS 2, AST 1, REB 3, TOV 0, FGM/FGA 1/2, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 1, Time 15:20,plus/minus: 0
+Shane Battier's recommended minutes: 21:30
+Shane Battier: PTS 3, AST 2, REB 0, TOV 1, FGM/FGA 1/1, 3PM/3PA 1/1, FTM/FTA 0/0, STL 0, BLK 0, Time 9:35,plus/minus: 2
+Chris Andersen's recommended minutes: 7:44
+Chris Andersen: PTS 2, AST 0, REB 5, TOV 0, FGM/FGA 1/1, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 6:28,plus/minus: 4
+Dwyane Wade's recommended minutes: 34:08
+Dwyane Wade: PTS 33, AST 5, REB 3, TOV 5, FGM/FGA 14/20, 3PM/3PA 0/0, FTM/FTA 5/5, STL 0, BLK 1, Time 41:52,plus/minus: -13
+Bam Adebayo's recommended minutes: 28:46
+Bam Adebayo: PTS 8, AST 3, REB 6, TOV 1, FGM/FGA 3/5, 3PM/3PA 0/0, FTM/FTA 2/2, STL 1, BLK 2, Time 28:24,plus/minus: -11
+Mario Chalmers's recommended minutes: 12:06
+Mario Chalmers: PTS 0, AST 2, REB 0, TOV 0, FGM/FGA 0/1, 3PM/3PA 0/1, FTM/FTA 0/0, STL 0, BLK 3, Time 8:15,plus/minus: 9
+LeBron James's recommended minutes: 34:08
+LeBron James: PTS 30, AST 6, REB 3, TOV 2, FGM/FGA 11/26, 3PM/3PA 4/6, FTM/FTA 4/5, STL 1, BLK 0, Time 32:28,plus/minus: -13
+Ray Allen's recommended minutes: 28:51
+Ray Allen: PTS 21, AST 3, REB 2, TOV 3, FGM/FGA 6/16, 3PM/3PA 1/5, FTM/FTA 8/8, STL 1, BLK 1, Time 38:35,plus/minus: -20
+Chris Bosh's recommended minutes: 28:46
+Chris Bosh: PTS 22, AST 8, REB 13, TOV 3, FGM/FGA 8/17, 3PM/3PA 0/0, FTM/FTA 6/7, STL 0, BLK 2, Time 41:32,plus/minus: -17
+
+
+--- Team2 Box Score ---
+JaVale McGee's recommended minutes: 14:14
+JaVale McGee: PTS 16, AST 1, REB 1, TOV 0, FGM/FGA 8/13, 3PM/3PA 0/0, FTM/FTA 0/1, STL 0, BLK 1, Time 21:01,plus/minus: -1
+Shaun Livingston's recommended minutes: 13:47
+Shaun Livingston: PTS 17, AST 3, REB 0, TOV 0, FGM/FGA 7/12, 3PM/3PA 0/1, FTM/FTA 3/3, STL 0, BLK 0, Time 19:59,plus/minus: 8
+Zaza Pachulia's recommended minutes: 16:43
+Zaza Pachulia: PTS 11, AST 2, REB 2, TOV 1, FGM/FGA 4/10, 3PM/3PA 0/0, FTM/FTA 3/3, STL 0, BLK 0, Time 18:12,plus/minus: 3
+Andre Iguodala's recommended minutes: 27:31
+Andre Iguodala: PTS 5, AST 1, REB 0, TOV 0, FGM/FGA 2/4, 3PM/3PA 1/1, FTM/FTA 0/0, STL 0, BLK 1, Time 14:16,plus/minus: -7
+David West's recommended minutes: 29:57
+David West: PTS 7, AST 5, REB 5, TOV 1, FGM/FGA 2/11, 3PM/3PA 0/1, FTM/FTA 3/4, STL 1, BLK 0, Time 18:42,plus/minus: 2
+Stephen Curry's recommended minutes: 35:00
+Stephen Curry: PTS 10, AST 4, REB 3, TOV 3, FGM/FGA 3/8, 3PM/3PA 2/4, FTM/FTA 2/2, STL 0, BLK 1, Time 18:32,plus/minus: 11
+Klay Thompson's recommended minutes: 27:31
+Klay Thompson: PTS 37, AST 9, REB 4, TOV 0, FGM/FGA 11/25, 3PM/3PA 7/13, FTM/FTA 8/9, STL 0, BLK 0, Time 38:46,plus/minus: 20
+Kevin Durant's recommended minutes: 35:00
+Kevin Durant: PTS 20, AST 9, REB 5, TOV 1, FGM/FGA 8/15, 3PM/3PA 1/4, FTM/FTA 3/3, STL 0, BLK 1, Time 32:51,plus/minus: 14
+Matt Barnes's recommended minutes: 12:47
+Matt Barnes: PTS 11, AST 2, REB 3, TOV 0, FGM/FGA 4/5, 3PM/3PA 1/1, FTM/FTA 2/2, STL 1, BLK 2, Time 20:47,plus/minus: -6
+Draymond Green's recommended minutes: 27:31
+Draymond Green: PTS 12, AST 7, REB 8, TOV 1, FGM/FGA 3/7, 3PM/3PA 3/5, FTM/FTA 3/3, STL 2, BLK 2, Time 36:54,plus/minus: 21
+
+
