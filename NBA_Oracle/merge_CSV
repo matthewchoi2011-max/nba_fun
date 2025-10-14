@@ -1,0 +1,35 @@
+import os
+import glob
+import pandas as pd
+
+# --- Configuration ---
+csv_folder = "./"  # folder containing the error_segment_*.csv files
+output_file = "error_list_combined.csv"
+
+# --- Find all matching CSV files ---
+all_files = glob.glob(os.path.join(csv_folder, "error_segment_*.csv"))
+print(f"Found {len(all_files)} files matching pattern.")
+
+# --- Read files and skip empty ones ---
+dfs = []
+for f in all_files:
+    try:
+        df = pd.read_csv(f, encoding="utf-8-sig")
+        if df.empty:
+            print(f"Skipping empty file: {f}")
+            continue
+        dfs.append(df)
+        print(f"Loaded: {f} ({len(df)} rows)")
+    except pd.errors.EmptyDataError:
+        print(f"Skipping invalid/empty file: {f}")
+    except Exception as e:
+        print(f"Error reading {f}: {e}")
+
+# --- Combine all DataFrames ---
+if dfs:
+    combined_df = pd.concat(dfs, ignore_index=True)
+    print(f"Total rows after merge: {len(combined_df)}")
+    combined_df.to_csv(output_file, index=False, encoding="utf-8-sig")
+    print(f"Combined CSV saved as: {output_file}")
+else:
+    print("No valid CSV files to merge.")

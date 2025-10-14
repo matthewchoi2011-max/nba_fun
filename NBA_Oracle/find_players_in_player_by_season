@@ -1,0 +1,18 @@
+import json
+
+with open("all_players_by_season.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+# Example: check if "A.J. English" exists
+found = False
+for season, players in data.items():
+    for p in players:
+        if p["full_name"] == "Udonis Haslem":
+            print(f"Found {p['full_name']} in season {season}")
+            found = True
+            break
+    if found:
+        break
+
+if not found:
+    print("Player not found in JSON.")

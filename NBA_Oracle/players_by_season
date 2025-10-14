@@ -1,0 +1,69 @@
+import json
+import os
+import math
+
+def clean_value(val):
+    if val is None:
+        return 0
+    if isinstance(val, float) and math.isnan(val):
+        return 0
+    if isinstance(val, str) and val.strip().lower() == "nan":
+        return 0
+    return val
+
+
+
+
+players_json_list = []
+
+folder_path = "players/"
+
+#add ALL player data into nba_dataset
+for filename in os.listdir(folder_path):
+    if filename.endswith('.json'):
+        with open(os.path.join(folder_path, filename),encoding="utf-8") as f:
+            data = json.load(f)
+            #convert json to panda and add to dataset
+            players_json_list.append(data)
+
+# Output dictionary: season -> list of players
+season_stats_all = {}
+
+for player in players_json_list:
+    name = player['full_name']
+    player_id = player['player_id']
+    specs = player.get('specs', {})
+    season_stats = player.get('season_stats', {})
+
+    for season, stats in season_stats.items():
+        if season not in season_stats_all:
+            season_stats_all[season] = []
+
+        cleaned_stats = {
+            k: 0 if (
+                stats[k] is None or 
+                (isinstance(stats[k], float) and math.isnan(stats[k])) or
+                (isinstance(stats[k], str) and stats[k].strip().lower() == "nan")
+            ) else stats[k]
+            for k in stats
+        }
+
+        season_stats_all[season].append({
+            "player_id": player_id,
+            "full_name": name,
+            "team": specs.get("Teams", []),
+            "position": specs.get("Position", ""),
+            "height": specs.get("Height", None),
+            "weight": specs.get("Weight", None),
+            "stats": stats
+        })
+
+sorted_season_stats = dict(sorted(
+    season_stats_all.items(),
+    key=lambda x: int(x[0].split('-')[0])
+))
+print(sorted_season_stats)
+
+with open("all_players_by_season.json", "w",encoding="utf-8") as f:
+    json.dump(sorted_season_stats, f, indent=4)
+

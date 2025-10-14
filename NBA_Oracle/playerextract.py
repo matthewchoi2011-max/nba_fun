@@ -10,6 +10,7 @@ import os
 import io
 import numpy as np
 from json.decoder import JSONDecodeError
+import pandas as pd
 
 
 '''
@@ -281,10 +282,21 @@ else:
     print(f"Processing segment {i + 1} out of {len(batches)}")
 
 
+error_list = []
+
 for player in segment:
+
+    
     
     player_id = player['id']
     player_name = player['full_name']
+
+    file_path = os.path.join("players", f"{player_name.replace(' ', '_')}.json")
+    if os.path.exists(file_path):
+        print(f"Skipping {player_name} (already exists).")
+        continue
+    
+    time.sleep(1.5)
     time.sleep(1.5)  # avoid rate-limiting
     try:
         #retrieve career dataframe
@@ -323,6 +335,10 @@ for player in segment:
         print(f"extracted {player_data['full_name']}\n")
     except Exception as e:
         print(f"Error processing {player_name}: {e}")
+        error_list.append(player_name)
+
+    error_pd = pd.DataFrame(error_list)
+    error_pd.to_csv(f"error_segment_{i}.csv",index=False,encoding="utf-8-sig")
 
 
 
