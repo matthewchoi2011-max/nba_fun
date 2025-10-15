@@ -1,1780 +1,1897 @@
 === Quarter 1 ===
-Anthony Davis starts with the ball
-Anthony Davis passes to Austin Reaves (3s)
-Austin Reaves passes to Spencer Dinwiddie (4s)
-Spencer Dinwiddie passes to LeBron James (4s)
-LeBron James passes to Anthony Davis (4s)
-Anthony Davis dribbles (4s)
-Anthony Davis passes to LeBron James (2s)
-LeBron James misses a 3-point shot (3s)
-Draymond Green grabs the defensive rebound!
+Kevin Durant starts with the ball
+Kevin Durant misses a 2-point shot (5s)
+Shaquille O'Neal grabs the defensive rebound!
 === Current Score ===
 Team1: 0 Team2: 0
 
-Klay Thompson starts with the ball
-Klay Thompson makes a 3-point shot! (6s)
+Kobe Bryant starts with the ball
+Kobe Bryant misses a 3-point shot (4s)
+Andre Iguodala grabs the defensive rebound!
+=== Current Score ===
+Team1: 0 Team2: 0
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (7s)
+Draymond Green passes to Andre Iguodala (5s)
+Andre Iguodala dribbles (2s)
+Andre Iguodala passes to Klay Thompson (5s)
+Klay Thompson makes a 3-point shot! (5s)
 === Current Score ===
 Team1: 0 Team2: 3
 
-Anthony Davis starts with the ball
-Anthony Davis makes a 2-point shot! (4s)
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Derek Fisher (9s)
+Derek Fisher passes to Shaquille O'Neal (3s)
+Shaquille O'Neal passes to Robert Horry (1s)
+Robert Horry passes to Kobe Bryant (4s)
+Kobe Bryant turns the ball over (5s)
 === Current Score ===
-Team1: 2 Team2: 3
+Team1: 0 Team2: 3
+
+Kevin Durant starts with the ball
+Shaquille O'Neal commits a foul on Kevin Durant!Kevin Durant dribbles (6s)
+Kevin Durant passes to Stephen Curry (5s)
+Stephen Curry dribbles (4s)
+Stephen Curry makes a 2-point shot! (9s)
+=== Current Score ===
+Team1: 0 Team2: 5
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Derek Fisher (1s)
+Derek Fisher passes to Kobe Bryant (5s)
+Kobe Bryant passes to Derek Fisher (5s)
+Derek Fisher passes to Kobe Bryant (5s)
+Kobe Bryant turns the ball over (7s)
+=== Current Score ===
+Team1: 0 Team2: 5
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Klay Thompson (4s)
-Klay Thompson passes to Draymond Green (2s)
-D'Angelo Russell steals the ball from Draymond Green!
-=== Current Score ===
-Team1: 2 Team2: 3
-
-LeBron James starts with the ball
-LeBron James passes to Austin Reaves (4s)
-Austin Reaves passes to D'Angelo Russell (6s)
-D'Angelo Russell makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 4 Team2: 3
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (3s)
-Klay Thompson dribbles (2s)
-Klay Thompson dribbles (5s)
-Klay Thompson passes to Andre Iguodala (7s)
-Andre Iguodala passes to Klay Thompson (6s)
-Klay Thompson misses a 3-point shot (1s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 4 Team2: 3
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (5s)
-D'Angelo Russell passes to Spencer Dinwiddie (6s)
-Spencer Dinwiddie makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 6 Team2: 3
-
-Kevin Durant starts with the ball
+Stephen Curry passes to Kevin Durant (7s)
 Kevin Durant passes to Stephen Curry (5s)
-Stephen Curry passes to Andre Iguodala (4s)
-Andre Iguodala passes to Stephen Curry (4s)
-Stephen Curry passes to Kevin Durant (6s)
-Kevin Durant makes a 2-point shot! (5s)
+Stephen Curry dribbles (6s)
+Stephen Curry passes to Kevin Durant (3s)
+Kevin Durant misses a 2-point shot (3s)
+Kobe Bryant grabs the defensive rebound!
 === Current Score ===
-Team1: 6 Team2: 5
+Team1: 0 Team2: 5
 
-Anthony Davis starts with the ball
-Anthony Davis passes to Austin Reaves (7s)
-Austin Reaves passes to Anthony Davis (5s)
-Anthony Davis makes a 2-point shot! (5s)
+Kobe Bryant starts with the ball
+Kobe Bryant misses a 2-point shot (5s)
+Stephen Curry grabs the defensive rebound!
 === Current Score ===
-Team1: 8 Team2: 5
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (5s)
-Klay Thompson passes to Kevin Durant (1s)
-Kevin Durant passes to Klay Thompson (9s)
-LeBron James commits a foul on Klay Thompson!Klay Thompson makes a 2-point shot! (6s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 8 Team2: 8
-=== Current Score ===
-Team1: 8 Team2: 8
-
-Anthony Davis starts with the ball
-Stephen Curry commits a foul on Anthony Davis!Anthony Davis misses a 2-point shot (8s)
-Anthony Davis is fouled and heads to the free throw line 2 attempts
-Anthony Davis makes free throw
-=== Current Score ===
-Team1: 9 Team2: 8
-Anthony Davis makes free throw
-=== Current Score ===
-Team1: 10 Team2: 8
-=== Current Score ===
-Team1: 10 Team2: 8
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (5s)
-Stephen Curry passes to Draymond Green (5s)
-Draymond Green passes to Andre Iguodala (5s)
-Andre Iguodala passes to Klay Thompson (2s)
-Klay Thompson passes to Andre Iguodala (3s)
-Andre Iguodala passes to Stephen Curry (3s)
-Stephen Curry misses a 2-point shot (1s)
-Kevin Durant grabs the offensive rebound!
-Kevin Durant passes to Draymond Green (7s)
-Draymond Green makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 10 Team2: 10
-
-LeBron James starts with the ball
-LeBron James dribbles (2s)
-LeBron James passes to Austin Reaves (6s)
-Austin Reaves passes to Anthony Davis (5s)
-Anthony Davis passes to Spencer Dinwiddie (3s)
-Kevin Durant commits a foul on Spencer Dinwiddie!Klay Thompson blocks the shot of Spencer Dinwiddie!
-=== Current Score ===
-Team1: 10 Team2: 10
+Team1: 0 Team2: 5
 
 Klay Thompson starts with the ball
 Klay Thompson passes to Kevin Durant (4s)
-Kevin Durant makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 10 Team2: 12
-
-LeBron James starts with the ball
-LeBron James passes to Spencer Dinwiddie (4s)
-Spencer Dinwiddie dribbles (3s)
-Spencer Dinwiddie dribbles (5s)
-Spencer Dinwiddie passes to D'Angelo Russell (3s)
-D'Angelo Russell passes to Austin Reaves (5s)
-Klay Thompson commits a foul on Austin Reaves!Austin Reaves misses a 3-point shot (4s)
-Austin Reaves is fouled and heads to the free throw line 3 attempts
-Austin Reaves makes free throw
-=== Current Score ===
-Team1: 11 Team2: 12
-Austin Reaves makes free throw
-=== Current Score ===
-Team1: 12 Team2: 12
-Austin Reaves makes free throw
-=== Current Score ===
-Team1: 13 Team2: 12
-=== Current Score ===
-Team1: 13 Team2: 12
-
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 13 Team2: 14
-
-LeBron James starts with the ball
-LeBron James passes to Anthony Davis (6s)
-Anthony Davis passes to D'Angelo Russell (6s)
-D'Angelo Russell passes to Austin Reaves (3s)
-Austin Reaves passes to LeBron James (3s)
-LeBron James makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 15 Team2: 14
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (7s)
-D'Angelo Russell steals the ball from Klay Thompson!
-=== Current Score ===
-Team1: 15 Team2: 14
-
-Anthony Davis starts with the ball
-Anthony Davis passes to LeBron James (2s)
-LeBron James passes to D'Angelo Russell (4s)
-D'Angelo Russell passes to Spencer Dinwiddie (2s)
-Spencer Dinwiddie passes to LeBron James (5s)
-LeBron James passes to Spencer Dinwiddie (6s)
-Draymond Green commits a foul on Spencer Dinwiddie!Spencer Dinwiddie misses a 3-point shot (5s)
-Spencer Dinwiddie is fouled and heads to the free throw line 3 attempts
-Spencer Dinwiddie makes free throw
-=== Current Score ===
-Team1: 16 Team2: 14
-Spencer Dinwiddie makes free throw
-=== Current Score ===
-Team1: 17 Team2: 14
-Spencer Dinwiddie makes free throw
-=== Current Score ===
-Team1: 18 Team2: 14
-=== Current Score ===
-Team1: 18 Team2: 14
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Klay Thompson (4s)
-Klay Thompson passes to Kevin Durant (3s)
-Kevin Durant passes to Draymond Green (3s)
-Draymond Green passes to Andre Iguodala (4s)
-Andre Iguodala makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 18 Team2: 16
-
-LeBron James starts with the ball
-LeBron James passes to Spencer Dinwiddie (3s)
-Spencer Dinwiddie passes to Austin Reaves (3s)
-Austin Reaves passes to Spencer Dinwiddie (2s)
-Spencer Dinwiddie passes to Austin Reaves (5s)
-Austin Reaves passes to Spencer Dinwiddie (4s)
-Spencer Dinwiddie passes to D'Angelo Russell (5s)
-D'Angelo Russell misses a 3-point shot (2s)
-Draymond Green grabs the defensive rebound!
-=== Current Score ===
-Team1: 18 Team2: 16
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (6s)
-Draymond Green passes to Andre Iguodala (7s)
-Andre Iguodala passes to Klay Thompson (2s)
-Spencer Dinwiddie commits a foul on Klay Thompson!Klay Thompson makes a 2-point shot! (5s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 18 Team2: 19
-=== Current Score ===
-Team1: 18 Team2: 19
-
-Anthony Davis starts with the ball
-Anthony Davis passes to LeBron James (3s)
-LeBron James passes to Anthony Davis (4s)
-Anthony Davis passes to Spencer Dinwiddie (4s)
-Spencer Dinwiddie passes to Austin Reaves (7s)
-Austin Reaves misses a 2-point shot (5s)
-Kevin Durant grabs the defensive rebound!
-=== Current Score ===
-Team1: 18 Team2: 19
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (2s)
-Draymond Green passes to Andre Iguodala (7s)
-Andre Iguodala passes to Stephen Curry (3s)
-Stephen Curry passes to Kevin Durant (5s)
-Spencer Dinwiddie steals the ball from Kevin Durant!
-=== Current Score ===
-Team1: 18 Team2: 19
-
-LeBron James starts with the ball
-LeBron James passes to Austin Reaves (8s)
-Austin Reaves passes to LeBron James (4s)
-Andre Iguodala steals the ball from LeBron James!
-=== Current Score ===
-Team1: 18 Team2: 19
-
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 18 Team2: 21
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Austin Reaves (6s)
-Austin Reaves passes to D'Angelo Russell (4s)
-D'Angelo Russell dribbles (8s)
-Draymond Green commits a foul on D'Angelo Russell!D'Angelo Russell makes a 3-point shot! (5s)
-D'Angelo Russell is fouled and heads to the free throw line(1 attempt) AND ONE!
-D'Angelo Russell missed free throw
-=== Current Score ===
-Team1: 21 Team2: 21
-=== Current Score ===
-Team1: 21 Team2: 21
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (2s)
-Draymond Green passes to Andre Iguodala (3s)
-Andre Iguodala dribbles (4s)
-Andre Iguodala dribbles (4s)
-D'Angelo Russell commits a foul on Andre Iguodala!Andre Iguodala makes a 2-point shot! (6s)
-Andre Iguodala is fouled and heads to the free throw line(1 attempt) AND ONE!
-Andre Iguodala missed free throw
-=== Current Score ===
-Team1: 21 Team2: 23
-=== Current Score ===
-Team1: 21 Team2: 23
-
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to LeBron James (2s)
-LeBron James passes to Spencer Dinwiddie (5s)
-Spencer Dinwiddie passes to Anthony Davis (5s)
-Stephen Curry blocks the shot of Anthony Davis!
-=== Current Score ===
-Team1: 21 Team2: 23
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (3s)
-Kevin Durant passes to Stephen Curry (6s)
-Stephen Curry passes to Klay Thompson (4s)
-Klay Thompson misses a 3-point shot (7s)
-D'Angelo Russell grabs the defensive rebound!
-=== Current Score ===
-Team1: 21 Team2: 23
-
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 23 Team2: 23
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Andre Iguodala (5s)
-Andre Iguodala passes to Kevin Durant (4s)
-Kevin Durant misses a 2-point shot (4s)
-D'Angelo Russell grabs the defensive rebound!
-=== Current Score ===
-Team1: 23 Team2: 23
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (2s)
-D'Angelo Russell makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 25 Team2: 23
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (4s)
-Klay Thompson turns the ball over (5s)
-=== Current Score ===
-Team1: 25 Team2: 23
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (4s)
-D'Angelo Russell passes to Austin Reaves (3s)
-Austin Reaves passes to LeBron James (6s)
-LeBron James passes to Spencer Dinwiddie (4s)
-Spencer Dinwiddie passes to Anthony Davis (4s)
-Anthony Davis makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 28 Team2: 23
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Kevin Durant (5s)
-Kevin Durant passes to Klay Thompson (4s)
-Klay Thompson dribbles (5s)
-Klay Thompson misses a 2-point shot (4s)
-Kevin Durant grabs the offensive rebound!
-Kevin Durant dribbles (2s)
-Kevin Durant passes to Draymond Green (4s)
-Draymond Green passes to Klay Thompson (2s)
-Klay Thompson misses a 2-point shot (3s)
-Spencer Dinwiddie grabs the defensive rebound!
-=== Current Score ===
-Team1: 28 Team2: 23
-
-LeBron James starts with the ball
-LeBron James dribbles (4s)
-LeBron James passes to Anthony Davis (4s)
-Anthony Davis dribbles (2s)
-Anthony Davis misses a 2-point shot (5s)
-Kevin Durant grabs the defensive rebound!
-=== Current Score ===
-Team1: 28 Team2: 23
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (7s)
-Draymond Green passes to Stephen Curry (3s)
-Stephen Curry misses a 2-point shot (4s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 28 Team2: 23
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (4s)
-D'Angelo Russell passes to LeBron James (6s)
-LeBron James passes to D'Angelo Russell (4s)
-D'Angelo Russell passes to Spencer Dinwiddie (5s)
-Spencer Dinwiddie passes to LeBron James (3s)
-LeBron James makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 30 Team2: 23
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (5s)
-Stephen Curry passes to Andre Iguodala (4s)
-Andre Iguodala passes to Kevin Durant (5s)
-Kevin Durant passes to Andre Iguodala (5s)
-Andre Iguodala misses a 3-point shot (5s)
-LeBron James grabs the defensive rebound!
-=== Current Score ===
-Team1: 30 Team2: 23
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Spencer Dinwiddie (4s)
-Spencer Dinwiddie passes to Anthony Davis (7s)
-Anthony Davis passes to LeBron James (2s)
-LeBron James passes to Spencer Dinwiddie (2s)
-Spencer Dinwiddie passes to Anthony Davis (4s)
-Anthony Davis passes to D'Angelo Russell (3s)
-D'Angelo Russell makes a 3-point shot! (2s)
-=== Current Score ===
-Team1: 33 Team2: 23
-
-Kevin Durant starts with the ball
-Anthony Davis commits a foul on Kevin Durant!Kevin Durant makes a 2-point shot! (4s)
-Kevin Durant is fouled and heads to the free throw line(1 attempt) AND ONE!
-Kevin Durant makes free throw
-=== Current Score ===
-Team1: 33 Team2: 26
-=== Current Score ===
-Team1: 33 Team2: 26
-
-Quarter 1 Score: Team1 33 - Team2 26
-
-=== Quarter 2 ===
-LeBron James starts with the ball
-LeBron James dribbles (3s)
-LeBron James passes to Anthony Davis (6s)
-Anthony Davis passes to Spencer Dinwiddie (9s)
-Spencer Dinwiddie passes to D'Angelo Russell (3s)
-D'Angelo Russell misses a 3-point shot (3s)
-Draymond Green grabs the defensive rebound!
-=== Current Score ===
-Team1: 33 Team2: 26
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (3s)
-Kevin Durant dribbles (5s)
-Spencer Dinwiddie commits a foul on Kevin Durant!Kevin Durant misses a 2-point shot (5s)
-Kevin Durant is fouled and heads to the free throw line 2 attempts
-Kevin Durant makes free throw
-=== Current Score ===
-Team1: 33 Team2: 27
-Kevin Durant makes free throw
-=== Current Score ===
-Team1: 33 Team2: 28
-=== Current Score ===
-Team1: 33 Team2: 28
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (2s)
-D'Angelo Russell passes to Spencer Dinwiddie (2s)
-Spencer Dinwiddie passes to Austin Reaves (5s)
-Austin Reaves passes to Spencer Dinwiddie (2s)
-Spencer Dinwiddie passes to Austin Reaves (2s)
-Austin Reaves passes to LeBron James (2s)
-LeBron James passes to Anthony Davis (5s)
-Andre Iguodala commits a foul on Anthony Davis!Klay Thompson blocks the shot of Anthony Davis!
-=== Current Score ===
-Team1: 33 Team2: 28
-
-Kevin Durant starts with the ball
-Kevin Durant dribbles (5s)
-Kevin Durant makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 33 Team2: 30
-
-LeBron James starts with the ball
-LeBron James passes to Spencer Dinwiddie (9s)
-Spencer Dinwiddie passes to Anthony Davis (3s)
-Anthony Davis passes to D'Angelo Russell (2s)
-D'Angelo Russell passes to LeBron James (5s)
-LeBron James makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 36 Team2: 30
-
-Klay Thompson starts with the ball
-Klay Thompson dribbles (6s)
-Klay Thompson passes to Stephen Curry (4s)
-Stephen Curry passes to Klay Thompson (4s)
-Klay Thompson passes to Kevin Durant (2s)
-Kevin Durant passes to Klay Thompson (4s)
-Klay Thompson makes a 2-point shot! (2s)
-=== Current Score ===
-Team1: 36 Team2: 32
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (5s)
-D'Angelo Russell passes to LeBron James (5s)
-Draymond Green commits a foul on LeBron James!LeBron James misses a 2-point shot (2s)
-LeBron James is fouled and heads to the free throw line 2 attempts
-LeBron James missed free throw
-=== Current Score ===
-Team1: 36 Team2: 32
-LeBron James makes free throw
-=== Current Score ===
-Team1: 37 Team2: 32
-=== Current Score ===
-Team1: 37 Team2: 32
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Andre Iguodala (4s)
-Andre Iguodala passes to Draymond Green (2s)
-Draymond Green passes to Klay Thompson (5s)
-Klay Thompson misses a 3-point shot (4s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 37 Team2: 32
-
-LeBron James starts with the ball
-LeBron James passes to Austin Reaves (8s)
-Austin Reaves passes to Spencer Dinwiddie (4s)
-Spencer Dinwiddie makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 39 Team2: 32
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Klay Thompson (5s)
-Klay Thompson makes a 3-point shot! (7s)
-=== Current Score ===
-Team1: 39 Team2: 35
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (5s)
-D'Angelo Russell misses a 3-point shot (4s)
-Stephen Curry grabs the defensive rebound!
-=== Current Score ===
-Team1: 39 Team2: 35
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (5s)
-Stephen Curry dribbles (5s)
-Stephen Curry dribbles (4s)
-Stephen Curry misses a 2-point shot (7s)
-Kevin Durant grabs the offensive rebound!
-Kevin Durant passes to Klay Thompson (5s)
-Klay Thompson misses a 3-point shot (6s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 39 Team2: 35
-
-Anthony Davis starts with the ball
-Anthony Davis dribbles (6s)
-Anthony Davis makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 41 Team2: 35
-
-Kevin Durant starts with the ball
-Kevin Durant dribbles (7s)
-Kevin Durant dribbles (7s)
-Kevin Durant passes to Draymond Green (3s)
-Draymond Green passes to Kevin Durant (5s)
-Kevin Durant misses a 3-point shot (2s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 41 Team2: 35
-
-LeBron James starts with the ball
-LeBron James passes to Austin Reaves (6s)
-Austin Reaves passes to D'Angelo Russell (3s)
-D'Angelo Russell passes to Anthony Davis (3s)
-Anthony Davis makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 43 Team2: 35
-
-Stephen Curry starts with the ball
-Austin Reaves commits a foul on Stephen Curry!Stephen Curry misses a 2-point shot (5s)
-Stephen Curry is fouled and heads to the free throw line 2 attempts
-Stephen Curry makes free throw
-=== Current Score ===
-Team1: 43 Team2: 36
-Stephen Curry makes free throw
-=== Current Score ===
-Team1: 43 Team2: 37
-=== Current Score ===
-Team1: 43 Team2: 37
-
-LeBron James starts with the ball
-LeBron James passes to Spencer Dinwiddie (7s)
-Spencer Dinwiddie passes to LeBron James (6s)
-LeBron James passes to D'Angelo Russell (4s)
-D'Angelo Russell misses a 3-point shot (4s)
-Kevin Durant grabs the defensive rebound!
-=== Current Score ===
-Team1: 43 Team2: 37
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (5s)
-Austin Reaves steals the ball from Draymond Green!
-=== Current Score ===
-Team1: 43 Team2: 37
-
-LeBron James starts with the ball
-Klay Thompson commits a foul on LeBron James!LeBron James dribbles (6s)
-Kevin Durant commits a foul on LeBron James!LeBron James makes a 3-point shot! (8s)
-LeBron James is fouled and heads to the free throw line(1 attempt) AND ONE!
-LeBron James makes free throw
-=== Current Score ===
-Team1: 47 Team2: 37
-=== Current Score ===
-Team1: 47 Team2: 37
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (5s)
-Kevin Durant passes to Andre Iguodala (3s)
-Andre Iguodala dribbles (2s)
-Andre Iguodala makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 47 Team2: 39
-
-Anthony Davis starts with the ball
-Anthony Davis makes a 3-point shot! (1s)
-=== Current Score ===
-Team1: 50 Team2: 39
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (4s)
-Andre Iguodala passes to Draymond Green (4s)
-Draymond Green passes to Kevin Durant (4s)
-Kevin Durant passes to Andre Iguodala (6s)
-Andre Iguodala makes a 2-point shot! (5s)
-Substitution: Andre Iguodala OUT (17.0 min) — Zaza Pachulia IN (rested 17.0 min)
-=== Current Score ===
-Team1: 50 Team2: 41
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (3s)
-D'Angelo Russell passes to Spencer Dinwiddie (5s)
-Spencer Dinwiddie passes to Anthony Davis (5s)
-Anthony Davis passes to LeBron James (3s)
-LeBron James misses a 3-point shot (3s)
-Stephen Curry grabs the defensive rebound!
-Substitution: Austin Reaves OUT (18.0 min) — Taurean Prince IN (rested 18.0 min)
-=== Current Score ===
-Team1: 50 Team2: 41
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (4s)
-Kevin Durant passes to Stephen Curry (4s)
-Stephen Curry passes to Zaza Pachulia (3s)
-Zaza Pachulia makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 50 Team2: 43
-
-LeBron James starts with the ball
-LeBron James passes to Taurean Prince (4s)
-Taurean Prince dribbles (6s)
-Taurean Prince commits an offensive foul!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (9s)
-Draymond Green passes to Klay Thompson (4s)
-Taurean Prince blocks the shot of Klay Thompson!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-LeBron James starts with the ball
-LeBron James passes to Anthony Davis (4s)
-Anthony Davis turns the ball over (4s)
-=== Current Score ===
-Team1: 50 Team2: 43
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (5s)
-Stephen Curry dribbles (4s)
-Stephen Curry misses a 3-point shot (7s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-Anthony Davis starts with the ball
-Anthony Davis passes to D'Angelo Russell (4s)
-D'Angelo Russell passes to Anthony Davis (4s)
-Anthony Davis passes to Taurean Prince (5s)
-Kevin Durant blocks the shot of Taurean Prince!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-Kevin Durant starts with the ball
-Kevin Durant dribbles (3s)
-Kevin Durant passes to Klay Thompson (6s)
-Klay Thompson passes to Draymond Green (5s)
-Draymond Green passes to Stephen Curry (7s)
-Stephen Curry misses a 3-point shot (3s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-LeBron James starts with the ball
-LeBron James passes to Anthony Davis (8s)
-Draymond Green steals the ball from Anthony Davis!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (2s)
-Kevin Durant misses a 2-point shot (5s)
-LeBron James grabs the defensive rebound!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (6s)
-D'Angelo Russell passes to Spencer Dinwiddie (1s)
-Spencer Dinwiddie passes to D'Angelo Russell (3s)
-Kevin Durant blocks the shot of D'Angelo Russell!
-=== Current Score ===
-Team1: 50 Team2: 43
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Zaza Pachulia (2s)
-Zaza Pachulia dribbles (3s)
-Zaza Pachulia passes to Kevin Durant (4s)
 Kevin Durant passes to Klay Thompson (3s)
-Klay Thompson passes to Zaza Pachulia (6s)
-Zaza Pachulia makes a 2-point shot! (6s)
+Klay Thompson passes to Stephen Curry (5s)
+Stephen Curry passes to Draymond Green (4s)
+Kobe Bryant commits a foul on Draymond Green!Draymond Green misses a 2-point shot (3s)
+Draymond Green is fouled and heads to the free throw line 2 attempts
+Draymond Green missed free throw
 === Current Score ===
-Team1: 50 Team2: 45
+Team1: 0 Team2: 5
+Draymond Green makes free throw
+=== Current Score ===
+Team1: 0 Team2: 6
+=== Current Score ===
+Team1: 0 Team2: 6
 
-LeBron James starts with the ball
-LeBron James passes to D'Angelo Russell (8s)
-D'Angelo Russell passes to Spencer Dinwiddie (2s)
-Spencer Dinwiddie passes to LeBron James (4s)
-LeBron James misses a 2-point shot (2s)
-Zaza Pachulia grabs the defensive rebound!
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Derek Fisher (3s)
+Derek Fisher misses a 2-point shot (3s)
+Klay Thompson grabs the defensive rebound!
 === Current Score ===
-Team1: 50 Team2: 45
+Team1: 0 Team2: 6
 
 Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (6s)
-Draymond Green passes to Zaza Pachulia (3s)
-Zaza Pachulia passes to Stephen Curry (5s)
-Stephen Curry passes to Zaza Pachulia (3s)
-Zaza Pachulia misses a 2-point shot (3s)
-LeBron James grabs the defensive rebound!
+Kevin Durant misses a 2-point shot (5s)
+Kobe Bryant grabs the defensive rebound!
 === Current Score ===
-Team1: 50 Team2: 45
+Team1: 0 Team2: 6
 
-LeBron James starts with the ball
-LeBron James misses a 3-point shot (2s)
-Stephen Curry grabs the defensive rebound!
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Derek Fisher (2s)
+Derek Fisher passes to Shaquille O'Neal (8s)
+Andre Iguodala commits a foul on Shaquille O'Neal!Shaquille O'Neal dribbles (5s)
+Andre Iguodala commits a foul on Shaquille O'Neal!Shaquille O'Neal makes a 2-point shot! (7s)
+Shaquille O'Neal is fouled and heads to the free throw line(1 attempt) AND ONE!
+Shaquille O'Neal missed free throw
 === Current Score ===
-Team1: 50 Team2: 45
+Team1: 2 Team2: 6
+=== Current Score ===
+Team1: 2 Team2: 6
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Zaza Pachulia (7s)
-Zaza Pachulia passes to Klay Thompson (2s)
-Klay Thompson dribbles (2s)
-Klay Thompson makes a 2-point shot! (4s)
-Substitution: Stephen Curry OUT (21.0 min) — JaVale McGee IN (rested 21.0 min)
-=== Current Score ===
-Team1: 50 Team2: 47
-
-LeBron James starts with the ball
-Zaza Pachulia blocks the shot of LeBron James!
-Substitution: Anthony Davis OUT (22.0 min) — Christian Wood IN (rested 22.0 min)
-=== Current Score ===
-Team1: 50 Team2: 47
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to JaVale McGee (9s)
-JaVale McGee passes to Kevin Durant (5s)
-Kevin Durant misses a 2-point shot (5s)
-Taurean Prince grabs the defensive rebound!
-=== Current Score ===
-Team1: 50 Team2: 47
-
-LeBron James starts with the ball
-LeBron James passes to Taurean Prince (8s)
-Zaza Pachulia commits a foul on Taurean Prince!Taurean Prince misses a 3-point shot (5s)
-Taurean Prince is fouled and heads to the free throw line 3 attempts
-Taurean Prince makes free throw
-=== Current Score ===
-Team1: 51 Team2: 47
-Taurean Prince missed free throw
-=== Current Score ===
-Team1: 51 Team2: 47
-Taurean Prince missed free throw
-=== Current Score ===
-Team1: 51 Team2: 47
-=== Current Score ===
-Team1: 51 Team2: 47
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (7s)
-Draymond Green passes to JaVale McGee (4s)
-JaVale McGee passes to Kevin Durant (4s)
-Kevin Durant makes a 3-point shot! (7s)
-=== Current Score ===
-Team1: 51 Team2: 50
-
-LeBron James starts with the ball
-LeBron James passes to Christian Wood (3s)
-Christian Wood misses a 2-point shot (8s)
-JaVale McGee grabs the defensive rebound!
-=== Current Score ===
-Team1: 51 Team2: 50
-
-Klay Thompson starts with the ball
-Klay Thompson misses a 2-point shot (7s)
-Taurean Prince grabs the defensive rebound!
-=== Current Score ===
-Team1: 51 Team2: 50
-
-LeBron James starts with the ball
-LeBron James passes to Christian Wood (4s)
-Christian Wood makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 54 Team2: 50
-
-Kevin Durant starts with the ball
-Kevin Durant passes to JaVale McGee (4s)
-JaVale McGee passes to Klay Thompson (6s)
-Klay Thompson misses a 3-point shot (4s)
-Taurean Prince grabs the defensive rebound!
-=== Current Score ===
-Team1: 54 Team2: 50
-
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 56 Team2: 50
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (2s)
-Klay Thompson passes to Draymond Green (3s)
-Draymond Green makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 56 Team2: 52
-
-Quarter 2 Score: Team1 56 - Team2 52
-
-=== Quarter 3 ===
-LeBron James starts with the ball
-JaVale McGee steals the ball from LeBron James!
-=== Current Score ===
-Team1: 56 Team2: 52
-
-Kevin Durant starts with the ball
-Kevin Durant misses a 3-point shot (6s)
-D'Angelo Russell grabs the defensive rebound!
-=== Current Score ===
-Team1: 56 Team2: 52
-
-LeBron James starts with the ball
-LeBron James passes to Christian Wood (4s)
-Christian Wood dribbles (2s)
-Christian Wood passes to LeBron James (5s)
-LeBron James passes to Taurean Prince (3s)
-Kevin Durant commits a foul on Taurean Prince!Taurean Prince misses a 3-point shot (2s)
-Taurean Prince is fouled and heads to the free throw line 3 attempts
-Taurean Prince makes free throw
-=== Current Score ===
-Team1: 57 Team2: 52
-Taurean Prince makes free throw
-=== Current Score ===
-Team1: 58 Team2: 52
-Taurean Prince makes free throw
-=== Current Score ===
-Team1: 59 Team2: 52
-=== Current Score ===
-Team1: 59 Team2: 52
-
-Kevin Durant starts with the ball
-Kevin Durant passes to JaVale McGee (4s)
-JaVale McGee makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 59 Team2: 54
-
-LeBron James starts with the ball
-LeBron James misses a 2-point shot (9s)
-Kevin Durant grabs the defensive rebound!
-=== Current Score ===
-Team1: 59 Team2: 54
-
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (6s)
-Substitution: Kevin Durant OUT (24.0 min) — Matt Barnes IN (rested 24.0 min)
-=== Current Score ===
-Team1: 59 Team2: 56
-
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (2s)
-Substitution: D'Angelo Russell OUT (24.0 min) — Rui Hachimura IN (rested 24.0 min)
-=== Current Score ===
-Team1: 61 Team2: 56
-
-Klay Thompson starts with the ball
-Klay Thompson misses a 2-point shot (2s)
-JaVale McGee grabs the offensive rebound!
-JaVale McGee passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to JaVale McGee (4s)
-JaVale McGee misses a 2-point shot (5s)
-Taurean Prince grabs the defensive rebound!
-=== Current Score ===
-Team1: 61 Team2: 56
-
-LeBron James starts with the ball
-LeBron James passes to Christian Wood (3s)
-Christian Wood passes to Taurean Prince (6s)
-Taurean Prince passes to Rui Hachimura (4s)
-Rui Hachimura misses a 2-point shot (4s)
-Draymond Green grabs the defensive rebound!
-=== Current Score ===
-Team1: 61 Team2: 56
-
-Klay Thompson starts with the ball
-Klay Thompson passes to JaVale McGee (2s)
-LeBron James steals the ball from JaVale McGee!
-=== Current Score ===
-Team1: 61 Team2: 56
-
-LeBron James starts with the ball
-LeBron James passes to Christian Wood (4s)
-Christian Wood passes to LeBron James (7s)
-LeBron James misses a 3-point shot (5s)
-Matt Barnes grabs the defensive rebound!
-=== Current Score ===
-Team1: 61 Team2: 56
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Zaza Pachulia (4s)
-Zaza Pachulia misses a 2-point shot (4s)
-Taurean Prince grabs the defensive rebound!
-=== Current Score ===
-Team1: 61 Team2: 56
-
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 63 Team2: 56
-
-Klay Thompson starts with the ball
-Klay Thompson passes to JaVale McGee (6s)
-JaVale McGee passes to Zaza Pachulia (6s)
-Zaza Pachulia dribbles (4s)
-Zaza Pachulia misses a 2-point shot (8s)
-Draymond Green grabs the offensive rebound!
-Draymond Green passes to Zaza Pachulia (5s)
-Zaza Pachulia turns the ball over (6s)
-=== Current Score ===
-Team1: 63 Team2: 56
-
-LeBron James starts with the ball
-LeBron James passes to Rui Hachimura (5s)
-Rui Hachimura passes to Spencer Dinwiddie (2s)
-Spencer Dinwiddie dribbles (3s)
-Spencer Dinwiddie passes to Christian Wood (3s)
-Christian Wood passes to Taurean Prince (3s)
-Taurean Prince passes to Christian Wood (2s)
-Christian Wood turns the ball over (5s)
-=== Current Score ===
-Team1: 63 Team2: 56
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Draymond Green (4s)
-Draymond Green passes to Matt Barnes (3s)
-Matt Barnes passes to Klay Thompson (7s)
-Klay Thompson passes to Draymond Green (3s)
-Draymond Green makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 63 Team2: 58
-
-LeBron James starts with the ball
-LeBron James dribbles (5s)
-LeBron James passes to Spencer Dinwiddie (6s)
-Spencer Dinwiddie misses a 3-point shot (5s)
-Draymond Green grabs the defensive rebound!
-=== Current Score ===
-Team1: 63 Team2: 58
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Matt Barnes (7s)
-Matt Barnes misses a 2-point shot (4s)
-Christian Wood grabs the defensive rebound!
-=== Current Score ===
-Team1: 63 Team2: 58
-
-LeBron James starts with the ball
-LeBron James dribbles (1s)
-LeBron James passes to Christian Wood (5s)
-Christian Wood passes to Taurean Prince (4s)
-Taurean Prince passes to Spencer Dinwiddie (6s)
-Spencer Dinwiddie passes to Rui Hachimura (1s)
-Rui Hachimura makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 66 Team2: 58
-
-Klay Thompson starts with the ball
-Klay Thompson passes to JaVale McGee (5s)
-JaVale McGee passes to Klay Thompson (5s)
-Klay Thompson passes to Zaza Pachulia (4s)
-Zaza Pachulia dribbles (7s)
-Zaza Pachulia misses a 2-point shot (3s)
-Klay Thompson grabs the offensive rebound!
-Klay Thompson passes to Zaza Pachulia (6s)
-Zaza Pachulia turns the ball over (4s)
-=== Current Score ===
-Team1: 66 Team2: 58
-
-LeBron James starts with the ball
-LeBron James misses a 3-point shot (3s)
-JaVale McGee grabs the defensive rebound!
-=== Current Score ===
-Team1: 66 Team2: 58
-
-Klay Thompson starts with the ball
-Christian Wood commits a foul on Klay Thompson!Klay Thompson misses a 2-point shot (6s)
+Stephen Curry dribbles (2s)
+Stephen Curry passes to Kevin Durant (6s)
+Kevin Durant passes to Klay Thompson (3s)
+Kobe Bryant commits a foul on Klay Thompson!Klay Thompson misses a 2-point shot (6s)
 Klay Thompson is fouled and heads to the free throw line 2 attempts
 Klay Thompson makes free throw
 === Current Score ===
-Team1: 66 Team2: 59
+Team1: 2 Team2: 7
 Klay Thompson makes free throw
 === Current Score ===
-Team1: 66 Team2: 60
-Substitution: Draymond Green OUT (28.0 min) — David West IN (rested 28.0 min)
+Team1: 2 Team2: 8
 === Current Score ===
-Team1: 66 Team2: 60
+Team1: 2 Team2: 8
 
-LeBron James starts with the ball
-LeBron James passes to Rui Hachimura (6s)
-Rui Hachimura passes to LeBron James (4s)
-LeBron James passes to Taurean Prince (3s)
-Taurean Prince makes a 2-point shot! (7s)
-Substitution: Spencer Dinwiddie OUT (29.0 min) — Anthony Davis IN (rested 7.0 min)
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal misses a 2-point shot (7s)
+Kobe Bryant grabs the offensive rebound!
+Kobe Bryant misses a 2-point shot (5s)
+Kevin Durant grabs the defensive rebound!
 === Current Score ===
-Team1: 68 Team2: 60
+Team1: 2 Team2: 8
 
-David West starts with the ball
-David West passes to Zaza Pachulia (5s)
-Zaza Pachulia makes a 2-point shot! (4s)
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (4s)
+Klay Thompson passes to Draymond Green (6s)
+Draymond Green makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 68 Team2: 62
+Team1: 2 Team2: 10
 
-LeBron James starts with the ball
-LeBron James passes to Taurean Prince (3s)
-Taurean Prince passes to Anthony Davis (5s)
-Anthony Davis passes to Taurean Prince (5s)
-Taurean Prince dribbles (2s)
-Taurean Prince makes a 2-point shot! (4s)
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Derek Fisher (5s)
+Derek Fisher passes to Rick Fox (5s)
+Rick Fox passes to Kobe Bryant (5s)
+Kobe Bryant makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 70 Team2: 62
+Team1: 4 Team2: 10
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (7s)
-Klay Thompson passes to David West (4s)
-David West dribbles (4s)
-Christian Wood steals the ball from David West!
+Kevin Durant starts with the ball
+Kevin Durant passes to Andre Iguodala (2s)
+Andre Iguodala dribbles (3s)
+Andre Iguodala misses a 2-point shot (3s)
+Rick Fox grabs the defensive rebound!
 === Current Score ===
-Team1: 70 Team2: 62
+Team1: 4 Team2: 10
 
-LeBron James starts with the ball
-LeBron James makes a 3-point shot! (3s)
+Kobe Bryant starts with the ball
+Kobe Bryant makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 73 Team2: 62
+Team1: 6 Team2: 10
 
-Klay Thompson starts with the ball
-LeBron James commits a foul on Klay Thompson!Klay Thompson makes a 2-point shot! (9s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (5s)
+Klay Thompson dribbles (5s)
+Klay Thompson passes to Draymond Green (5s)
+Draymond Green dribbles (4s)
+Draymond Green passes to Kevin Durant (4s)
+Kevin Durant makes a 3-point shot! (1s)
 === Current Score ===
-Team1: 73 Team2: 65
-=== Current Score ===
-Team1: 73 Team2: 65
-
-Anthony Davis starts with the ball
-Anthony Davis makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 75 Team2: 65
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Matt Barnes (4s)
-Matt Barnes passes to David West (4s)
-David West misses a 2-point shot (6s)
-Rui Hachimura grabs the defensive rebound!
-=== Current Score ===
-Team1: 75 Team2: 65
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Taurean Prince (6s)
-Taurean Prince dribbles (4s)
-Taurean Prince passes to LeBron James (3s)
-Matt Barnes commits a foul on LeBron James!LeBron James misses a 2-point shot (5s)
-LeBron James is fouled and heads to the free throw line 2 attempts
-LeBron James missed free throw
-=== Current Score ===
-Team1: 75 Team2: 65
-LeBron James makes free throw
-=== Current Score ===
-Team1: 76 Team2: 65
-=== Current Score ===
-Team1: 76 Team2: 65
-
-Klay Thompson starts with the ball
-Klay Thompson misses a 3-point shot (2s)
-LeBron James grabs the defensive rebound!
-=== Current Score ===
-Team1: 76 Team2: 65
-
-Anthony Davis starts with the ball
-Anthony Davis makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 78 Team2: 65
-
-Klay Thompson starts with the ball
-LeBron James commits a foul on Klay Thompson!Klay Thompson makes a 2-point shot! (3s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 78 Team2: 68
-=== Current Score ===
-Team1: 78 Team2: 68
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Rui Hachimura (4s)
-Rui Hachimura misses a 3-point shot (5s)
-LeBron James grabs the offensive rebound!
-LeBron James dribbles (4s)
-LeBron James passes to Taurean Prince (4s)
-Taurean Prince passes to Anthony Davis (2s)
-David West commits a foul on Anthony Davis!Anthony Davis misses a 3-point shot (4s)
-Anthony Davis is fouled and heads to the free throw line 3 attempts
-Anthony Davis makes free throw
-=== Current Score ===
-Team1: 79 Team2: 68
-Anthony Davis makes free throw
-=== Current Score ===
-Team1: 80 Team2: 68
-Anthony Davis missed free throw
-=== Current Score ===
-Team1: 80 Team2: 68
-=== Current Score ===
-Team1: 80 Team2: 68
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Matt Barnes (4s)
-Matt Barnes dribbles (5s)
-Matt Barnes makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 80 Team2: 70
-
-LeBron James starts with the ball
-LeBron James passes to Taurean Prince (3s)
-Taurean Prince dribbles (8s)
-Taurean Prince passes to LeBron James (5s)
-Zaza Pachulia commits a foul on LeBron James!LeBron James misses a 2-point shot (5s)
-LeBron James is fouled and heads to the free throw line 2 attempts
-LeBron James makes free throw
-=== Current Score ===
-Team1: 81 Team2: 70
-LeBron James missed free throw
-=== Current Score ===
-Team1: 81 Team2: 70
-=== Current Score ===
-Team1: 81 Team2: 70
-
-David West starts with the ball
-David West passes to Zaza Pachulia (2s)
-Zaza Pachulia makes a 2-point shot! (7s)
-Substitution: Klay Thompson OUT (32.0 min) — Stephen Curry IN (rested 10.0 min)
-=== Current Score ===
-Team1: 81 Team2: 72
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Taurean Prince (5s)
-Taurean Prince passes to LeBron James (5s)
-LeBron James passes to Anthony Davis (5s)
-Anthony Davis misses a 2-point shot (4s)
-Zaza Pachulia grabs the defensive rebound!
-Substitution: LeBron James OUT (32.0 min) — Cam Reddish IN (rested 32.0 min)
-=== Current Score ===
-Team1: 81 Team2: 72
-
-David West starts with the ball
-David West dribbles (6s)
-David West passes to Matt Barnes (4s)
-Matt Barnes misses a 3-point shot (6s)
-David West grabs the offensive rebound!
-David West passes to Stephen Curry (5s)
-Stephen Curry makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 81 Team2: 75
-
-Anthony Davis starts with the ball
-Anthony Davis commits an offensive foul!
-=== Current Score ===
-Team1: 81 Team2: 75
-
-Stephen Curry starts with the ball
-Stephen Curry passes to David West (3s)
-David West passes to Stephen Curry (5s)
-Stephen Curry passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to JaVale McGee (6s)
-JaVale McGee makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 81 Team2: 77
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Taurean Prince (3s)
-Taurean Prince passes to Christian Wood (4s)
-Christian Wood passes to Anthony Davis (5s)
-Anthony Davis commits an offensive foul!
-=== Current Score ===
-Team1: 81 Team2: 77
-
-Stephen Curry starts with the ball
-Stephen Curry passes to David West (4s)
-David West misses a 2-point shot (7s)
-Rui Hachimura grabs the defensive rebound!
-=== Current Score ===
-Team1: 81 Team2: 77
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Cam Reddish (2s)
-Cam Reddish passes to Anthony Davis (2s)
-Anthony Davis passes to Taurean Prince (3s)
-Zaza Pachulia blocks the shot of Taurean Prince!
-=== Current Score ===
-Team1: 81 Team2: 77
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (4s)
-Stephen Curry dribbles (5s)
-Stephen Curry dribbles (5s)
-Cam Reddish commits a foul on Stephen Curry!Stephen Curry makes a 3-point shot! (4s)
-Stephen Curry is fouled and heads to the free throw line(1 attempt) AND ONE!
-Stephen Curry makes free throw
-=== Current Score ===
-Team1: 81 Team2: 81
-=== Current Score ===
-Team1: 81 Team2: 81
-
-Anthony Davis starts with the ball
-Matt Barnes commits a foul on Anthony Davis!Anthony Davis makes a 2-point shot! (2s)
-Anthony Davis is fouled and heads to the free throw line(1 attempt) AND ONE!
-Anthony Davis makes free throw
-=== Current Score ===
-Team1: 84 Team2: 81
-=== Current Score ===
-Team1: 84 Team2: 81
-
-Stephen Curry starts with the ball
-Stephen Curry commits an offensive foul!
-=== Current Score ===
-Team1: 84 Team2: 81
-
-Anthony Davis starts with the ball
-Anthony Davis passes to Taurean Prince (4s)
-Taurean Prince dribbles (3s)
-Taurean Prince dribbles (5s)
-Taurean Prince passes to Rui Hachimura (6s)
-Rui Hachimura turns the ball over (4s)
-=== Current Score ===
-Team1: 84 Team2: 81
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 3-point shot (6s)
-Anthony Davis grabs the defensive rebound!
-=== Current Score ===
-Team1: 84 Team2: 81
-
-Anthony Davis starts with the ball
-Anthony Davis misses a 2-point shot (4s)
-Stephen Curry grabs the defensive rebound!
-=== Current Score ===
-Team1: 84 Team2: 81
-
-Stephen Curry starts with the ball
-Stephen Curry passes to David West (8s)
-Cam Reddish commits a foul on David West!David West misses a 2-point shot (4s)
-David West is fouled and heads to the free throw line 2 attempts
-David West missed free throw
-=== Current Score ===
-Team1: 84 Team2: 81
-David West makes free throw
-=== Current Score ===
-Team1: 84 Team2: 82
-=== Current Score ===
-Team1: 84 Team2: 82
-
-Anthony Davis starts with the ball
-Anthony Davis turns the ball over (5s)
-=== Current Score ===
-Team1: 84 Team2: 82
-
-David West starts with the ball
-David West dribbles (5s)
-David West dribbles (5s)
-David West passes to JaVale McGee (4s)
-JaVale McGee dribbles (4s)
-JaVale McGee makes a 2-point shot! (6s)
-Substitution: Zaza Pachulia OUT (17.0 min) — Andre Iguodala IN (rested 17.0 min)
-=== Current Score ===
-Team1: 84 Team2: 84
+Team1: 6 Team2: 13
 
-Anthony Davis starts with the ball
-Anthony Davis misses a 2-point shot (5s)
-David West grabs the defensive rebound!
-Substitution: Anthony Davis OUT (28.0 min) — Jaxson Hayes IN (rested 35.0 min)
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Rick Fox (5s)
+Rick Fox passes to Derek Fisher (6s)
+Andre Iguodala commits a foul on Derek Fisher!Derek Fisher makes a 2-point shot! (7s)
+Derek Fisher is fouled and heads to the free throw line(1 attempt) AND ONE!
+Derek Fisher makes free throw
 === Current Score ===
-Team1: 84 Team2: 84
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (3s)
-Andre Iguodala passes to JaVale McGee (5s)
-JaVale McGee passes to Andre Iguodala (5s)
-Andre Iguodala passes to JaVale McGee (5s)
-Jaxson Hayes steals the ball from JaVale McGee!
-=== Current Score ===
-Team1: 84 Team2: 84
-
-Jaxson Hayes starts with the ball
-Jaxson Hayes misses a 3-point shot (4s)
-Stephen Curry grabs the defensive rebound!
-=== Current Score ===
-Team1: 84 Team2: 84
-
-Stephen Curry starts with the ball
-Stephen Curry misses a 3-point shot (2s)
-Rui Hachimura grabs the defensive rebound!
-=== Current Score ===
-Team1: 84 Team2: 84
-
-Quarter 3 Score: Team1 84 - Team2 84
-
-=== Quarter 4 ===
-Jaxson Hayes starts with the ball
-Jaxson Hayes misses a 3-point shot (6s)
-Taurean Prince grabs the offensive rebound!
-Taurean Prince passes to Rui Hachimura (4s)
-Rui Hachimura makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 86 Team2: 84
-
-David West starts with the ball
-David West dribbles (2s)
-David West makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 86 Team2: 86
-
-Cam Reddish starts with the ball
-Cam Reddish dribbles (4s)
-Cam Reddish passes to Rui Hachimura (4s)
-Rui Hachimura passes to Cam Reddish (5s)
-Cam Reddish passes to Taurean Prince (6s)
-Taurean Prince makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 88 Team2: 86
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (9s)
-Andre Iguodala passes to David West (4s)
-David West dribbles (7s)
-Rui Hachimura commits a foul on David West!Christian Wood blocks the shot of David West!
-=== Current Score ===
-Team1: 88 Team2: 86
-
-Rui Hachimura starts with the ball
-Rui Hachimura makes a 3-point shot! (3s)
-=== Current Score ===
-Team1: 91 Team2: 86
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (5s)
-Stephen Curry passes to Matt Barnes (1s)
-Cam Reddish commits a foul on Matt Barnes!Matt Barnes misses a 2-point shot (4s)
-Matt Barnes is fouled and heads to the free throw line 2 attempts
-Matt Barnes missed free throw
-=== Current Score ===
-Team1: 91 Team2: 86
-Matt Barnes makes free throw
-=== Current Score ===
-Team1: 91 Team2: 87
-=== Current Score ===
-Team1: 91 Team2: 87
-
-Jaxson Hayes starts with the ball
-JaVale McGee commits a foul on Jaxson Hayes!Jaxson Hayes makes a 2-point shot! (3s)
-Jaxson Hayes is fouled and heads to the free throw line(1 attempt) AND ONE!
-Jaxson Hayes makes free throw
-=== Current Score ===
-Team1: 94 Team2: 87
-=== Current Score ===
-Team1: 94 Team2: 87
-
-Stephen Curry starts with the ball
-Stephen Curry passes to JaVale McGee (5s)
-JaVale McGee passes to David West (5s)
-David West passes to Stephen Curry (5s)
-Stephen Curry passes to Andre Iguodala (2s)
-Taurean Prince blocks the shot of Andre Iguodala!
-=== Current Score ===
-Team1: 94 Team2: 87
-
-Taurean Prince starts with the ball
-Taurean Prince dribbles (5s)
-Taurean Prince passes to Rui Hachimura (3s)
-JaVale McGee commits a foul on Rui Hachimura!Rui Hachimura makes a 2-point shot! (5s)
-Rui Hachimura is fouled and heads to the free throw line(1 attempt) AND ONE!
-Rui Hachimura makes free throw
-=== Current Score ===
-Team1: 97 Team2: 87
-=== Current Score ===
-Team1: 97 Team2: 87
-
-David West starts with the ball
-David West dribbles (4s)
-David West passes to Stephen Curry (3s)
-Stephen Curry misses a 3-point shot (5s)
-David West grabs the offensive rebound!
-David West passes to JaVale McGee (8s)
-JaVale McGee makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 97 Team2: 89
-
-Cam Reddish starts with the ball
-Cam Reddish passes to Christian Wood (5s)
-Christian Wood passes to Cam Reddish (5s)
-Cam Reddish passes to Christian Wood (4s)
-Christian Wood makes a 2-point shot! (6s)
-=== Current Score ===
-Team1: 99 Team2: 89
-
-David West starts with the ball
-Christian Wood steals the ball from David West!
-Substitution: JaVale McGee OUT (16.0 min) — Shaun Livingston IN (rested 38.0 min)
-=== Current Score ===
-Team1: 99 Team2: 89
-
-Rui Hachimura starts with the ball
-Rui Hachimura passes to Taurean Prince (5s)
-Taurean Prince passes to Rui Hachimura (3s)
-Rui Hachimura makes a 2-point shot! (5s)
-Substitution: Rui Hachimura OUT (14.0 min) — Austin Reaves IN (rested 20.0 min)
-=== Current Score ===
-Team1: 101 Team2: 89
-
-Stephen Curry starts with the ball
-Stephen Curry dribbles (4s)
-Stephen Curry passes to Matt Barnes (4s)
-Matt Barnes passes to Shaun Livingston (6s)
-Shaun Livingston passes to Stephen Curry (4s)
-Stephen Curry makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 101 Team2: 92
-
-Jaxson Hayes starts with the ball
-Jaxson Hayes misses a 2-point shot (3s)
-Stephen Curry grabs the defensive rebound!
-=== Current Score ===
-Team1: 101 Team2: 92
-
-Stephen Curry starts with the ball
-Jaxson Hayes commits a foul on Stephen Curry!Stephen Curry misses a 2-point shot (5s)
-Stephen Curry is fouled and heads to the free throw line 2 attempts
-Stephen Curry makes free throw
-=== Current Score ===
-Team1: 101 Team2: 93
-Stephen Curry makes free throw
-=== Current Score ===
-Team1: 101 Team2: 94
-=== Current Score ===
-Team1: 101 Team2: 94
-
-Austin Reaves starts with the ball
-Austin Reaves passes to Jaxson Hayes (5s)
-Jaxson Hayes dribbles (4s)
-Jaxson Hayes misses a 2-point shot (7s)
-Shaun Livingston grabs the defensive rebound!
-=== Current Score ===
-Team1: 101 Team2: 94
-
-Stephen Curry starts with the ball
-Stephen Curry commits an offensive foul!
-=== Current Score ===
-Team1: 101 Team2: 94
-
-Taurean Prince starts with the ball
-Taurean Prince passes to Christian Wood (5s)
-Christian Wood makes a 3-point shot! (4s)
-=== Current Score ===
-Team1: 104 Team2: 94
-
-Stephen Curry starts with the ball
-Stephen Curry makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 104 Team2: 97
-
-Cam Reddish starts with the ball
-Cam Reddish passes to Jaxson Hayes (4s)
-Jaxson Hayes passes to Taurean Prince (7s)
-Matt Barnes commits a foul on Taurean Prince!Taurean Prince makes a 3-point shot! (5s)
-Taurean Prince is fouled and heads to the free throw line(1 attempt) AND ONE!
-Taurean Prince makes free throw
-=== Current Score ===
-Team1: 108 Team2: 97
-=== Current Score ===
-Team1: 108 Team2: 97
-
-Stephen Curry starts with the ball
-Stephen Curry passes to David West (4s)
-David West dribbles (6s)
-David West makes a 2-point shot! (7s)
+Team1: 9 Team2: 13
 === Current Score ===
-Team1: 108 Team2: 99
+Team1: 9 Team2: 13
 
-Taurean Prince starts with the ball
-Taurean Prince passes to Cam Reddish (7s)
-Cam Reddish passes to Taurean Prince (5s)
-Taurean Prince turns the ball over (4s)
+Kevin Durant starts with the ball
+Kevin Durant makes a 3-point shot! (7s)
 === Current Score ===
-Team1: 108 Team2: 99
+Team1: 9 Team2: 16
 
-Stephen Curry starts with the ball
-Stephen Curry passes to David West (3s)
-David West makes a 2-point shot! (7s)
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (4s)
+Shaquille O'Neal passes to Kobe Bryant (5s)
+Kobe Bryant passes to Shaquille O'Neal (1s)
+Draymond Green commits a foul on Shaquille O'Neal!Shaquille O'Neal makes a 2-point shot! (5s)
+Shaquille O'Neal is fouled and heads to the free throw line(1 attempt) AND ONE!
+Shaquille O'Neal makes free throw
 === Current Score ===
-Team1: 108 Team2: 101
-
-Cam Reddish starts with the ball
-Cam Reddish passes to Taurean Prince (5s)
-Taurean Prince makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 110 Team2: 101
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (3s)
-Shaun Livingston commits an offensive foul!
-=== Current Score ===
-Team1: 110 Team2: 101
-
-Cam Reddish starts with the ball
-Cam Reddish passes to Jaxson Hayes (5s)
-Jaxson Hayes dribbles (7s)
-Jaxson Hayes passes to Austin Reaves (3s)
-Austin Reaves makes a 3-point shot! (6s)
-=== Current Score ===
-Team1: 113 Team2: 101
-
-Stephen Curry starts with the ball
-Stephen Curry passes to Matt Barnes (6s)
-Matt Barnes dribbles (6s)
-Matt Barnes passes to David West (3s)
-David West passes to Stephen Curry (4s)
-Stephen Curry misses a 2-point shot (3s)
-Stephen Curry grabs the offensive rebound!
-Stephen Curry passes to Matt Barnes (5s)
-Matt Barnes passes to Stephen Curry (4s)
-Stephen Curry makes a 2-point shot! (3s)
-Substitution: Matt Barnes OUT (3 fouls, 17.0 min) — Kevin Durant IN
-=== Current Score ===
-Team1: 113 Team2: 103
-
-Austin Reaves starts with the ball
-Austin Reaves passes to Cam Reddish (4s)
-Cam Reddish passes to Taurean Prince (7s)
-Taurean Prince passes to Cam Reddish (5s)
-Cam Reddish dribbles (2s)
-Cam Reddish turns the ball over (4s)
-Substitution: Christian Wood OUT (20.0 min) — D'Angelo Russell IN (rested 17.0 min)
+Team1: 12 Team2: 16
 === Current Score ===
-Team1: 113 Team2: 103
+Team1: 12 Team2: 16
 
 Kevin Durant starts with the ball
 Kevin Durant passes to Stephen Curry (3s)
-Stephen Curry passes to Shaun Livingston (3s)
-D'Angelo Russell steals the ball from Shaun Livingston!
+Stephen Curry passes to Kevin Durant (7s)
+Kevin Durant passes to Draymond Green (4s)
+Draymond Green passes to Andre Iguodala (7s)
+Andre Iguodala makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 113 Team2: 103
+Team1: 12 Team2: 18
 
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to Austin Reaves (5s)
-Austin Reaves passes to Taurean Prince (8s)
-Taurean Prince passes to D'Angelo Russell (4s)
-D'Angelo Russell dribbles (6s)
-D'Angelo Russell makes a 3-point shot! (1s)
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (3s)
+Shaquille O'Neal passes to Robert Horry (5s)
+Robert Horry passes to Shaquille O'Neal (6s)
+Shaquille O'Neal misses a 2-point shot (5s)
+Draymond Green grabs the defensive rebound!
 === Current Score ===
-Team1: 116 Team2: 103
-
-David West starts with the ball
-David West dribbles (4s)
-David West passes to Shaun Livingston (5s)
-Shaun Livingston passes to Kevin Durant (4s)
-Kevin Durant passes to Shaun Livingston (4s)
-Shaun Livingston dribbles (4s)
-Cam Reddish commits a foul on Shaun Livingston!Shaun Livingston misses a 2-point shot (3s)
-Shaun Livingston is fouled and heads to the free throw line 2 attempts
-Shaun Livingston makes free throw
-=== Current Score ===
-Team1: 116 Team2: 104
-Shaun Livingston makes free throw
-=== Current Score ===
-Team1: 116 Team2: 105
-=== Current Score ===
-Team1: 116 Team2: 105
-
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to Cam Reddish (3s)
-Cam Reddish passes to D'Angelo Russell (5s)
-David West steals the ball from D'Angelo Russell!
-=== Current Score ===
-Team1: 116 Team2: 105
+Team1: 12 Team2: 18
 
 Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (3s)
-Shaun Livingston passes to Kevin Durant (6s)
-Kevin Durant dribbles (5s)
-Kevin Durant misses a 2-point shot (4s)
-David West grabs the offensive rebound!
-David West dribbles (3s)
-David West makes a 2-point shot! (1s)
+Kevin Durant passes to Draymond Green (9s)
+Draymond Green dribbles (8s)
+Draymond Green misses a 2-point shot (6s)
+Robert Horry grabs the defensive rebound!
 === Current Score ===
-Team1: 116 Team2: 107
+Team1: 12 Team2: 18
 
-D'Angelo Russell starts with the ball
-D'Angelo Russell misses a 2-point shot (4s)
-Stephen Curry grabs the defensive rebound!
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Derek Fisher (4s)
+Derek Fisher misses a 2-point shot (3s)
+Draymond Green grabs the defensive rebound!
 === Current Score ===
-Team1: 116 Team2: 107
+Team1: 12 Team2: 18
 
 Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (2s)
-Shaun Livingston misses a 2-point shot (5s)
-Taurean Prince grabs the defensive rebound!
+Stephen Curry passes to Klay Thompson (5s)
+Klay Thompson misses a 2-point shot (6s)
+Shaquille O'Neal grabs the defensive rebound!
 === Current Score ===
-Team1: 116 Team2: 107
+Team1: 12 Team2: 18
 
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to Taurean Prince (8s)
-Taurean Prince passes to Jaxson Hayes (3s)
-Jaxson Hayes passes to D'Angelo Russell (5s)
-D'Angelo Russell makes a 3-point shot! (6s)
+Kobe Bryant starts with the ball
+Kobe Bryant makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 119 Team2: 107
+Team1: 14 Team2: 18
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (5s)
+Stephen Curry passes to Kevin Durant (6s)
+Kevin Durant dribbles (4s)
+Kevin Durant passes to Stephen Curry (3s)
+Stephen Curry makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 14 Team2: 20
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (4s)
+Shaquille O'Neal makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 16 Team2: 20
 
 Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (5s)
-Stephen Curry passes to Andre Iguodala (5s)
-Andre Iguodala passes to David West (8s)
-David West misses a 2-point shot (3s)
-Stephen Curry grabs the offensive rebound!
-Stephen Curry passes to Shaun Livingston (7s)
-Shaun Livingston misses a 2-point shot (7s)
-D'Angelo Russell grabs the defensive rebound!
+Kevin Durant dribbles (2s)
+Kevin Durant misses a 2-point shot (6s)
+Shaquille O'Neal grabs the defensive rebound!
 === Current Score ===
-Team1: 119 Team2: 107
+Team1: 16 Team2: 20
 
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to Taurean Prince (3s)
-Taurean Prince passes to Jaxson Hayes (3s)
-Jaxson Hayes passes to Austin Reaves (4s)
-Austin Reaves passes to D'Angelo Russell (4s)
-D'Angelo Russell passes to Jaxson Hayes (4s)
-Jaxson Hayes makes a 2-point shot! (5s)
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Derek Fisher (5s)
+Derek Fisher misses a 3-point shot (7s)
+Andre Iguodala grabs the defensive rebound!
 === Current Score ===
-Team1: 121 Team2: 107
+Team1: 16 Team2: 20
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (4s)
+Kevin Durant passes to Draymond Green (5s)
+Draymond Green passes to Stephen Curry (4s)
+Stephen Curry dribbles (5s)
+Derek Fisher commits a foul on Stephen Curry!Stephen Curry misses a 3-point shot (3s)
+Stephen Curry is fouled and heads to the free throw line 3 attempts
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 16 Team2: 21
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 16 Team2: 22
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 16 Team2: 23
+=== Current Score ===
+Team1: 16 Team2: 23
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (5s)
+Kobe Bryant passes to Rick Fox (7s)
+Rick Fox dribbles (7s)
+Kevin Durant blocks the shot of Rick Fox!
+=== Current Score ===
+Team1: 16 Team2: 23
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (5s)
+Stephen Curry turns the ball over (6s)
+=== Current Score ===
+Team1: 16 Team2: 23
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Derek Fisher (3s)
+Derek Fisher makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 18 Team2: 23
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (5s)
+Draymond Green passes to Kevin Durant (1s)
+Kevin Durant passes to Andre Iguodala (5s)
+Robert Horry commits a foul on Andre Iguodala!Andre Iguodala misses a 3-point shot (4s)
+Andre Iguodala is fouled and heads to the free throw line 3 attempts
+Andre Iguodala missed free throw
+=== Current Score ===
+Team1: 18 Team2: 23
+Andre Iguodala missed free throw
+=== Current Score ===
+Team1: 18 Team2: 23
+Andre Iguodala makes free throw
+=== Current Score ===
+Team1: 18 Team2: 24
+=== Current Score ===
+Team1: 18 Team2: 24
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Derek Fisher (6s)
+Derek Fisher misses a 3-point shot (7s)
+Andre Iguodala grabs the defensive rebound!
+=== Current Score ===
+Team1: 18 Team2: 24
+
+Klay Thompson starts with the ball
+Shaquille O'Neal blocks the shot of Klay Thompson!
+=== Current Score ===
+Team1: 18 Team2: 24
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (1s)
+Draymond Green commits a foul on Shaquille O'Neal!Shaquille O'Neal dribbles (5s)
+Stephen Curry commits a foul on Shaquille O'Neal!Shaquille O'Neal misses a 2-point shot (2s)
+Shaquille O'Neal is fouled and heads to the free throw line 2 attempts
+Shaquille O'Neal makes free throw
+=== Current Score ===
+Team1: 19 Team2: 24
+Shaquille O'Neal missed free throw
+=== Current Score ===
+Team1: 19 Team2: 24
+=== Current Score ===
+Team1: 19 Team2: 24
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Draymond Green (6s)
+Draymond Green dribbles (2s)
+Draymond Green passes to Kevin Durant (6s)
+Kevin Durant turns the ball over (2s)
+=== Current Score ===
+Team1: 19 Team2: 24
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Shaquille O'Neal (4s)
+Shaquille O'Neal dribbles (3s)
+Kevin Durant commits a foul on Shaquille O'Neal!Shaquille O'Neal makes a 2-point shot! (4s)
+Shaquille O'Neal is fouled and heads to the free throw line(1 attempt) AND ONE!
+Shaquille O'Neal makes free throw
+=== Current Score ===
+Team1: 22 Team2: 24
+=== Current Score ===
+Team1: 22 Team2: 24
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (7s)
+Kevin Durant passes to Stephen Curry (6s)
+Stephen Curry passes to Klay Thompson (2s)
+Klay Thompson passes to Stephen Curry (5s)
+Kobe Bryant commits a foul on Stephen Curry!Stephen Curry makes a 3-point shot! (4s)
+Stephen Curry is fouled and heads to the free throw line(1 attempt) AND ONE!
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 22 Team2: 28
+=== Current Score ===
+Team1: 22 Team2: 28
+
+Kobe Bryant starts with the ball
+Kobe Bryant makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 24 Team2: 28
+
+Klay Thompson starts with the ball
+Klay Thompson makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 24 Team2: 31
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Rick Fox (3s)
+Rick Fox misses a 2-point shot (8s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 24 Team2: 31
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (9s)
+Stephen Curry passes to Draymond Green (5s)
+Robert Horry steals the ball from Draymond Green!
+=== Current Score ===
+Team1: 24 Team2: 31
+
+Kobe Bryant starts with the ball
+Andre Iguodala commits a foul on Kobe Bryant!Kobe Bryant misses a 2-point shot (3s)
+Kobe Bryant is fouled and heads to the free throw line 2 attempts
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 25 Team2: 31
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 26 Team2: 31
+=== Current Score ===
+Team1: 26 Team2: 31
+
+Klay Thompson starts with the ball
+Klay Thompson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 26 Team2: 33
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 28 Team2: 33
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 28 Team2: 36
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Robert Horry (6s)
+Robert Horry turns the ball over (2s)
+=== Current Score ===
+Team1: 28 Team2: 36
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (4s)
+Kevin Durant passes to Klay Thompson (2s)
+Klay Thompson passes to Kevin Durant (7s)
+Kevin Durant passes to Stephen Curry (3s)
+Stephen Curry makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 28 Team2: 39
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (2s)
+Shaquille O'Neal makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 30 Team2: 39
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 30 Team2: 41
+
+Kobe Bryant starts with the ball
+Draymond Green commits a foul on Kobe Bryant!Kobe Bryant misses a 2-point shot (6s)
+Kobe Bryant is fouled and heads to the free throw line 2 attempts
+Kobe Bryant missed free throw
+=== Current Score ===
+Team1: 30 Team2: 41
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 31 Team2: 41
+=== Current Score ===
+Team1: 31 Team2: 41
+
+Quarter 1 Score: Team1 31 - Team2 41
+
+=== Quarter 2 ===
+Klay Thompson starts with the ball
+Klay Thompson dribbles (2s)
+Klay Thompson dribbles (8s)
+Klay Thompson passes to Draymond Green (3s)
+Draymond Green dribbles (4s)
+Draymond Green turns the ball over (6s)
+=== Current Score ===
+Team1: 31 Team2: 41
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Rick Fox (4s)
+Rick Fox makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 33 Team2: 41
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (4s)
+Klay Thompson passes to Andre Iguodala (7s)
+Andre Iguodala passes to Draymond Green (3s)
+Draymond Green passes to Kevin Durant (5s)
+Kevin Durant misses a 2-point shot (4s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 33 Team2: 41
+
+Kobe Bryant starts with the ball
+Kevin Durant steals the ball from Kobe Bryant!
+=== Current Score ===
+Team1: 33 Team2: 41
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (4s)
+Klay Thompson passes to Stephen Curry (6s)
+Stephen Curry passes to Kevin Durant (6s)
+Kevin Durant makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 33 Team2: 44
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (6s)
+Kobe Bryant makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 35 Team2: 44
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (6s)
+Kevin Durant misses a 2-point shot (4s)
+Robert Horry grabs the defensive rebound!
+=== Current Score ===
+Team1: 35 Team2: 44
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Derek Fisher (4s)
+Derek Fisher passes to Shaquille O'Neal (5s)
+Shaquille O'Neal passes to Rick Fox (5s)
+Rick Fox passes to Kobe Bryant (5s)
+Stephen Curry commits a foul on Kobe Bryant!Kobe Bryant makes a 2-point shot! (5s)
+Kobe Bryant is fouled and heads to the free throw line(1 attempt) AND ONE!
+Kobe Bryant missed free throw
+=== Current Score ===
+Team1: 37 Team2: 44
+=== Current Score ===
+Team1: 37 Team2: 44
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (3s)
+Draymond Green dribbles (4s)
+Draymond Green passes to Klay Thompson (5s)
+Klay Thompson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 37 Team2: 46
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Rick Fox (4s)
+Rick Fox passes to Kobe Bryant (5s)
+Kobe Bryant passes to Rick Fox (4s)
+Rick Fox passes to Kobe Bryant (5s)
+Kevin Durant commits a foul on Kobe Bryant!Kobe Bryant makes a 2-point shot! (4s)
+Kobe Bryant is fouled and heads to the free throw line(1 attempt) AND ONE!
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 40 Team2: 46
+=== Current Score ===
+Team1: 40 Team2: 46
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 40 Team2: 48
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (8s)
+Shaquille O'Neal passes to Rick Fox (4s)
+Kevin Durant commits a foul on Rick Fox!Rick Fox makes a 2-point shot! (3s)
+Rick Fox is fouled and heads to the free throw line(1 attempt) AND ONE!
+Rick Fox missed free throw
+=== Current Score ===
+Team1: 42 Team2: 48
+=== Current Score ===
+Team1: 42 Team2: 48
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Draymond Green (5s)
+Draymond Green passes to Stephen Curry (3s)
+Stephen Curry passes to Kevin Durant (6s)
+Kevin Durant passes to Andre Iguodala (4s)
+Andre Iguodala makes a 3-point shot! (3s)
+=== Current Score ===
+Team1: 42 Team2: 51
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (7s)
+Kobe Bryant passes to Shaquille O'Neal (5s)
+Shaquille O'Neal makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 44 Team2: 51
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry passes to Andre Iguodala (3s)
+Andre Iguodala passes to Draymond Green (5s)
+Draymond Green passes to Andre Iguodala (7s)
+Andre Iguodala makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 44 Team2: 54
+
+Kobe Bryant starts with the ball
+Draymond Green commits a foul on Kobe Bryant!Kobe Bryant misses a 2-point shot (4s)
+Kobe Bryant is fouled and heads to the free throw line 2 attempts
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 45 Team2: 54
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 46 Team2: 54
+=== Current Score ===
+Team1: 46 Team2: 54
 
 Kevin Durant starts with the ball
 Kevin Durant passes to Andre Iguodala (3s)
-Andre Iguodala passes to Stephen Curry (6s)
-Stephen Curry passes to David West (7s)
-David West passes to Andre Iguodala (4s)
-Andre Iguodala makes a 3-point shot! (3s)
+Andre Iguodala passes to Draymond Green (3s)
+Draymond Green passes to Stephen Curry (6s)
+Stephen Curry makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 121 Team2: 110
+Team1: 46 Team2: 56
 
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to Cam Reddish (4s)
-Cam Reddish passes to Jaxson Hayes (7s)
-Jaxson Hayes misses a 2-point shot (5s)
+Kobe Bryant starts with the ball
+Kobe Bryant misses a 2-point shot (4s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 46 Team2: 56
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson passes to Andre Iguodala (4s)
+Andre Iguodala passes to Kevin Durant (4s)
+Kevin Durant passes to Stephen Curry (7s)
+Stephen Curry passes to Klay Thompson (2s)
+Klay Thompson misses a 3-point shot (3s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 46 Team2: 56
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 48 Team2: 56
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (5s)
+Stephen Curry passes to Kevin Durant (1s)
+Kevin Durant passes to Stephen Curry (3s)
+Stephen Curry passes to Kevin Durant (4s)
+Kevin Durant makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 48 Team2: 58
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Robert Horry (5s)
+Robert Horry passes to Shaquille O'Neal (2s)
+Shaquille O'Neal misses a 2-point shot (9s)
+Andre Iguodala grabs the defensive rebound!
+=== Current Score ===
+Team1: 48 Team2: 58
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Andre Iguodala (2s)
+Andre Iguodala makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 48 Team2: 60
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Shaquille O'Neal (4s)
+Shaquille O'Neal passes to Kobe Bryant (4s)
+Kobe Bryant passes to Rick Fox (3s)
+Rick Fox passes to Shaquille O'Neal (4s)
+Shaquille O'Neal makes a 2-point shot! (9s)
+=== Current Score ===
+Team1: 50 Team2: 60
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (3s)
+Stephen Curry passes to Andre Iguodala (4s)
+Robert Horry steals the ball from Andre Iguodala!
+Compatible Replacement Bench Found!
+Substitution: Draymond Green OUT (18.0 min, stint 18.0 min) — David West IN (rested 18.0 min)
+=== Current Score ===
+Team1: 50 Team2: 60
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (3s)
+Shaquille O'Neal passes to Kobe Bryant (2s)
+Kobe Bryant dribbles (4s)
+Kobe Bryant dribbles (1s)
+Kobe Bryant passes to Derek Fisher (8s)
+Derek Fisher misses a 2-point shot (6s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 50 Team2: 60
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (9s)
+Stephen Curry misses a 3-point shot (5s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 50 Team2: 60
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (5s)
+Kobe Bryant passes to Derek Fisher (3s)
+Derek Fisher passes to Rick Fox (4s)
+Kevin Durant commits a foul on Rick Fox!Rick Fox misses a 2-point shot (4s)
+Rick Fox is fouled and heads to the free throw line 2 attempts
+Rick Fox missed free throw
+=== Current Score ===
+Team1: 50 Team2: 60
+Rick Fox makes free throw
+=== Current Score ===
+Team1: 51 Team2: 60
+=== Current Score ===
+Team1: 51 Team2: 60
+
+Stephen Curry starts with the ball
+Stephen Curry makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 51 Team2: 63
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (4s)
+Kobe Bryant passes to Derek Fisher (5s)
+Derek Fisher misses a 2-point shot (3s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 51 Team2: 63
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (7s)
+Stephen Curry dribbles (2s)
+Stephen Curry misses a 2-point shot (6s)
+Derek Fisher grabs the defensive rebound!
+=== Current Score ===
+Team1: 51 Team2: 63
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Rick Fox (4s)
+Rick Fox passes to Shaquille O'Neal (7s)
+Shaquille O'Neal passes to Derek Fisher (5s)
+Derek Fisher passes to Shaquille O'Neal (5s)
+Shaquille O'Neal misses a 2-point shot (3s)
+Shaquille O'Neal grabs the offensive rebound!
+Shaquille O'Neal dribbles (6s)
+Shaquille O'Neal passes to Robert Horry (3s)
+Robert Horry misses a 3-point shot (5s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 51 Team2: 63
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Stephen Curry (5s)
+Stephen Curry passes to Klay Thompson (6s)
+Klay Thompson makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 51 Team2: 65
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Rick Fox (1s)
+Rick Fox passes to Kobe Bryant (4s)
+Kobe Bryant passes to Rick Fox (5s)
+Rick Fox dribbles (3s)
+David West commits a foul on Rick Fox!Rick Fox makes a 3-point shot! (5s)
+Rick Fox is fouled and heads to the free throw line(1 attempt) AND ONE!
+Rick Fox makes free throw
+=== Current Score ===
+Team1: 55 Team2: 65
+=== Current Score ===
+Team1: 55 Team2: 65
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (5s)
+Kevin Durant misses a 2-point shot (3s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 55 Team2: 65
+
+Kobe Bryant starts with the ball
+Andre Iguodala commits a foul on Kobe Bryant!Kobe Bryant misses a 2-point shot (4s)
+Kobe Bryant is fouled and heads to the free throw line 2 attempts
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 56 Team2: 65
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 57 Team2: 65
+=== Current Score ===
+Team1: 57 Team2: 65
+
+Kevin Durant starts with the ball
+Kevin Durant passes to David West (5s)
+David West misses a 2-point shot (4s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 57 Team2: 65
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (4s)
+Kobe Bryant dribbles (7s)
+Klay Thompson blocks the shot of Kobe Bryant!
+=== Current Score ===
+Team1: 57 Team2: 65
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Andre Iguodala (6s)
+Shaquille O'Neal commits a foul on Andre Iguodala!Andre Iguodala misses a 2-point shot (3s)
+Andre Iguodala is fouled and heads to the free throw line 2 attempts
+Andre Iguodala makes free throw
+=== Current Score ===
+Team1: 57 Team2: 66
+Andre Iguodala makes free throw
+=== Current Score ===
+Team1: 57 Team2: 67
+=== Current Score ===
+Team1: 57 Team2: 67
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Robert Horry (4s)
+Robert Horry misses a 2-point shot (6s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 57 Team2: 67
+
+Kevin Durant starts with the ball
+Kevin Durant misses a 2-point shot (2s)
+Shaquille O'Neal grabs the defensive rebound!
+Compatible Replacement Bench Found!
+Substitution: Andre Iguodala OUT (21.0 min, stint 21.0 min) — Shaun Livingston IN (rested 21.0 min)
+=== Current Score ===
+Team1: 57 Team2: 67
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (6s)
+Kobe Bryant passes to Derek Fisher (3s)
+Derek Fisher passes to Kobe Bryant (5s)
+Kobe Bryant misses a 3-point shot (4s)
+Stephen Curry grabs the defensive rebound!
+=== Current Score ===
+Team1: 57 Team2: 67
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry passes to Klay Thompson (2s)
+Klay Thompson dribbles (5s)
+Klay Thompson makes a 3-point shot! (7s)
+=== Current Score ===
+Team1: 57 Team2: 70
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Kobe Bryant (3s)
+Kobe Bryant passes to Robert Horry (4s)
+Robert Horry misses a 2-point shot (9s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 57 Team2: 70
+
+Kevin Durant starts with the ball
+Derek Fisher commits a foul on Kevin Durant!Kevin Durant dribbles (5s)
+Kevin Durant passes to Stephen Curry (7s)
+Stephen Curry passes to Kevin Durant (5s)
+Kevin Durant misses a 3-point shot (5s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 57 Team2: 70
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Derek Fisher (4s)
+Derek Fisher dribbles (3s)
+Derek Fisher passes to Robert Horry (6s)
+Robert Horry passes to Rick Fox (4s)
+Rick Fox makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 59 Team2: 70
+
+David West starts with the ball
+David West dribbles (4s)
+David West misses a 2-point shot (9s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 59 Team2: 70
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (4s)
+Shaun Livingston blocks the shot of Shaquille O'Neal!
+=== Current Score ===
+Team1: 59 Team2: 70
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 59 Team2: 73
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Derek Fisher (5s)
+Derek Fisher misses a 2-point shot (7s)
+Rick Fox grabs the offensive rebound!
+Rick Fox misses a 3-point shot (2s)
+Klay Thompson grabs the defensive rebound!
+=== Current Score ===
+Team1: 59 Team2: 73
+
+Quarter 2 Score: Team1 59 - Team2 73
+
+=== Quarter 3 ===
+Stephen Curry starts with the ball
+Stephen Curry makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 59 Team2: 76
+
+Kobe Bryant starts with the ball
+Kobe Bryant turns the ball over (7s)
+=== Current Score ===
+Team1: 59 Team2: 76
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (4s)
+Kevin Durant passes to Shaun Livingston (4s)
+Shaun Livingston passes to David West (3s)
+Kobe Bryant commits a foul on David West!David West misses a 2-point shot (2s)
+David West is fouled and heads to the free throw line 2 attempts
+David West missed free throw
+=== Current Score ===
+Team1: 59 Team2: 76
+David West makes free throw
+=== Current Score ===
+Team1: 59 Team2: 77
+=== Current Score ===
+Team1: 59 Team2: 77
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 61 Team2: 77
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (3s)
+Klay Thompson passes to Kevin Durant (2s)
+Kevin Durant makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 61 Team2: 79
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Robert Horry (6s)
+Robert Horry makes a 2-point shot! (7s)
+Compatible Replacement Bench Found!
+Substitution: Derek Fisher OUT (24.0 min, stint 24.0 min) — Lindsey Hunter IN (rested 24.0 min)
+=== Current Score ===
+Team1: 63 Team2: 79
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Kevin Durant (4s)
+Kevin Durant passes to Shaun Livingston (5s)
+Shaun Livingston passes to Kevin Durant (6s)
+Kevin Durant passes to Stephen Curry (5s)
+Stephen Curry passes to Shaun Livingston (3s)
+Shaun Livingston makes a 2-point shot! (1s)
+Compatible Replacement Bench Not Found!
+Substitution: Klay Thompson OUT (25.0 min, stint 25.0 min) — Matt Barnes IN (rested 25.0 min)
+=== Current Score ===
+Team1: 63 Team2: 81
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Rick Fox (5s)
+Rick Fox passes to Kobe Bryant (5s)
+Kobe Bryant passes to Rick Fox (2s)
+Rick Fox dribbles (4s)
+Rick Fox misses a 2-point shot (5s)
 Shaun Livingston grabs the defensive rebound!
 === Current Score ===
-Team1: 121 Team2: 110
+Team1: 63 Team2: 81
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry dribbles (2s)
+Stephen Curry misses a 2-point shot (6s)
+Stephen Curry grabs the offensive rebound!
+Stephen Curry passes to David West (4s)
+David West makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 63 Team2: 83
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Shaquille O'Neal (3s)
+Shaquille O'Neal misses a 2-point shot (3s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 63 Team2: 83
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (4s)
+Kevin Durant passes to Stephen Curry (3s)
+Stephen Curry passes to Matt Barnes (4s)
+Matt Barnes makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 63 Team2: 86
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 65 Team2: 86
+
+Kevin Durant starts with the ball
+Kevin Durant passes to David West (7s)
+David West makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 65 Team2: 88
+
+Kobe Bryant starts with the ball
+Shaun Livingston commits a foul on Kobe Bryant!Kobe Bryant makes a 2-point shot! (5s)
+Kobe Bryant is fouled and heads to the free throw line(1 attempt) AND ONE!
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 68 Team2: 88
+=== Current Score ===
+Team1: 68 Team2: 88
+
+Stephen Curry starts with the ball
+Stephen Curry passes to David West (6s)
+David West passes to Shaun Livingston (6s)
+Shaun Livingston passes to David West (5s)
+Rick Fox commits a foul on David West!Shaquille O'Neal blocks the shot of David West!
+=== Current Score ===
+Team1: 68 Team2: 88
+
+Kobe Bryant starts with the ball
+Kobe Bryant makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 70 Team2: 88
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Matt Barnes (5s)
+Matt Barnes dribbles (4s)
+Matt Barnes passes to Shaun Livingston (3s)
+Shaun Livingston passes to Matt Barnes (3s)
+Matt Barnes passes to David West (5s)
+David West misses a 2-point shot (4s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 70 Team2: 88
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Shaquille O'Neal (3s)
+Shaquille O'Neal dribbles (3s)
+Shaquille O'Neal makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 72 Team2: 88
+
+David West starts with the ball
+David West passes to Shaun Livingston (6s)
+Shaun Livingston passes to Stephen Curry (2s)
+Lindsey Hunter commits a foul on Stephen Curry!Stephen Curry misses a 3-point shot (5s)
+Stephen Curry is fouled and heads to the free throw line 3 attempts
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 72 Team2: 89
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 72 Team2: 90
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 72 Team2: 91
+=== Current Score ===
+Team1: 72 Team2: 91
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 74 Team2: 91
+
+Stephen Curry starts with the ball
+Stephen Curry commits an offensive foul!
+=== Current Score ===
+Team1: 74 Team2: 91
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Robert Horry (3s)
+Robert Horry passes to Shaquille O'Neal (4s)
+Shaquille O'Neal passes to Robert Horry (6s)
+Robert Horry passes to Shaquille O'Neal (3s)
+Shaquille O'Neal makes a 2-point shot! (8s)
+Compatible Replacement Bench Not Found!
+Substitution: Robert Horry OUT (28.0 min, stint 28.0 min) — John Salley IN (rested 28.0 min)
+=== Current Score ===
+Team1: 76 Team2: 91
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (4s)
+Stephen Curry passes to Shaun Livingston (3s)
+Shaun Livingston passes to Matt Barnes (3s)
+Matt Barnes dribbles (4s)
+John Salley blocks the shot of Matt Barnes!
+Compatible Replacement Bench Found!
+Substitution: Kevin Durant OUT (28.0 min, stint 28.0 min) — Draymond Green IN (rested 10.0 min)
+=== Current Score ===
+Team1: 76 Team2: 91
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Kobe Bryant (2s)
+Kobe Bryant passes to Lindsey Hunter (2s)
+Lindsey Hunter dribbles (4s)
+Lindsey Hunter passes to Shaquille O'Neal (3s)
+Shaquille O'Neal passes to John Salley (3s)
+John Salley passes to Lindsey Hunter (6s)
+Lindsey Hunter misses a 2-point shot (4s)
+Shaquille O'Neal grabs the offensive rebound!
+Shaquille O'Neal dribbles (2s)
+Shaquille O'Neal makes a 2-point shot! (9s)
+=== Current Score ===
+Team1: 78 Team2: 91
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (5s)
+Stephen Curry passes to David West (2s)
+David West dribbles (3s)
+David West dribbles (4s)
+David West passes to Matt Barnes (2s)
+Matt Barnes dribbles (4s)
+Shaquille O'Neal commits a foul on Matt Barnes!Matt Barnes misses a 3-point shot (4s)
+Matt Barnes is fouled and heads to the free throw line 3 attempts
+Matt Barnes makes free throw
+=== Current Score ===
+Team1: 78 Team2: 92
+Matt Barnes makes free throw
+=== Current Score ===
+Team1: 78 Team2: 93
+Matt Barnes missed free throw
+=== Current Score ===
+Team1: 78 Team2: 93
+=== Current Score ===
+Team1: 78 Team2: 93
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Rick Fox (6s)
+Rick Fox dribbles (8s)
+Rick Fox misses a 2-point shot (9s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 78 Team2: 93
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Matt Barnes (3s)
+Matt Barnes passes to Draymond Green (4s)
+Draymond Green passes to David West (2s)
+David West passes to Stephen Curry (9s)
+John Salley commits a foul on Stephen Curry!Stephen Curry misses a 3-point shot (6s)
+Stephen Curry is fouled and heads to the free throw line 3 attempts
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 78 Team2: 94
+Stephen Curry missed free throw
+=== Current Score ===
+Team1: 78 Team2: 94
+Stephen Curry makes free throw
+=== Current Score ===
+Team1: 78 Team2: 95
+=== Current Score ===
+Team1: 78 Team2: 95
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (6s)
+Shaun Livingston commits a foul on Kobe Bryant!Kobe Bryant misses a 2-point shot (2s)
+Kobe Bryant is fouled and heads to the free throw line 2 attempts
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 79 Team2: 95
+Kobe Bryant makes free throw
+=== Current Score ===
+Team1: 80 Team2: 95
+=== Current Score ===
+Team1: 80 Team2: 95
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (4s)
+Draymond Green passes to David West (4s)
+David West passes to Stephen Curry (4s)
+Stephen Curry passes to Shaun Livingston (5s)
+Shaun Livingston makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 80 Team2: 97
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Rick Fox (5s)
+Rick Fox makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 82 Team2: 97
+
+Stephen Curry starts with the ball
+Stephen Curry passes to David West (6s)
+David West makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 82 Team2: 99
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Lindsey Hunter (7s)
+Lindsey Hunter dribbles (4s)
+Lindsey Hunter passes to Rick Fox (6s)
+Rick Fox misses a 2-point shot (5s)
+Stephen Curry grabs the defensive rebound!
+=== Current Score ===
+Team1: 82 Team2: 99
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (6s)
+Draymond Green passes to Stephen Curry (4s)
+Stephen Curry passes to David West (4s)
+David West passes to Matt Barnes (6s)
+Rick Fox commits a foul on Matt Barnes!Matt Barnes misses a 2-point shot (4s)
+Matt Barnes is fouled and heads to the free throw line 2 attempts
+Matt Barnes makes free throw
+=== Current Score ===
+Team1: 82 Team2: 100
+Matt Barnes makes free throw
+=== Current Score ===
+Team1: 82 Team2: 101
+=== Current Score ===
+Team1: 82 Team2: 101
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal dribbles (4s)
+Shaquille O'Neal passes to Lindsey Hunter (6s)
+Lindsey Hunter passes to Rick Fox (7s)
+Rick Fox misses a 3-point shot (4s)
+David West grabs the defensive rebound!
+=== Current Score ===
+Team1: 82 Team2: 101
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Draymond Green (7s)
+Draymond Green passes to Shaun Livingston (9s)
+Shaun Livingston misses a 2-point shot (8s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 82 Team2: 101
+
+Kobe Bryant starts with the ball
+Kobe Bryant misses a 2-point shot (7s)
+Shaun Livingston grabs the defensive rebound!
+=== Current Score ===
+Team1: 82 Team2: 101
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Shaun Livingston (5s)
+Shaun Livingston passes to David West (5s)
+David West passes to Stephen Curry (2s)
+Stephen Curry dribbles (3s)
+Stephen Curry passes to Matt Barnes (6s)
+Matt Barnes misses a 2-point shot (3s)
+Rick Fox grabs the defensive rebound!
+=== Current Score ===
+Team1: 82 Team2: 101
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Lindsey Hunter (4s)
+Lindsey Hunter misses a 2-point shot (3s)
+Stephen Curry grabs the defensive rebound!
+Compatible Replacement Bench Found!
+Forced Substitution: Rick Fox OUT (2 fouls, 33.0 min) — Robert Horry IN
+=== Current Score ===
+Team1: 82 Team2: 101
+
+Stephen Curry starts with the ball
+Stephen Curry dribbles (3s)
+Stephen Curry passes to David West (4s)
+David West passes to Stephen Curry (6s)
+Stephen Curry passes to Shaun Livingston (4s)
+Shaun Livingston passes to Matt Barnes (6s)
+Matt Barnes misses a 2-point shot (1s)
+Kobe Bryant grabs the defensive rebound!
+Compatible Replacement Bench Found!
+Substitution: Stephen Curry OUT (33.0 min, stint 33.0 min) — Klay Thompson IN (rested 8.0 min)
+=== Current Score ===
+Team1: 82 Team2: 101
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to John Salley (7s)
+John Salley passes to Shaquille O'Neal (5s)
+Shaquille O'Neal passes to John Salley (2s)
+John Salley passes to Robert Horry (6s)
+Draymond Green commits a foul on Robert Horry!Robert Horry misses a 3-point shot (4s)
+Robert Horry is fouled and heads to the free throw line 3 attempts
+Robert Horry makes free throw
+=== Current Score ===
+Team1: 83 Team2: 101
+Robert Horry makes free throw
+=== Current Score ===
+Team1: 84 Team2: 101
+Robert Horry makes free throw
+=== Current Score ===
+Team1: 85 Team2: 101
+=== Current Score ===
+Team1: 85 Team2: 101
+
+Klay Thompson starts with the ball
+Shaquille O'Neal commits a foul on Klay Thompson!Klay Thompson misses a 3-point shot (5s)
+Klay Thompson is fouled and heads to the free throw line 3 attempts
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 85 Team2: 102
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 85 Team2: 103
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 85 Team2: 104
+=== Current Score ===
+Team1: 85 Team2: 104
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Lindsey Hunter (5s)
+Draymond Green steals the ball from Lindsey Hunter!
+=== Current Score ===
+Team1: 85 Team2: 104
+
+Klay Thompson starts with the ball
+Shaquille O'Neal commits a foul on Klay Thompson!Klay Thompson misses a 2-point shot (4s)
+Klay Thompson is fouled and heads to the free throw line 2 attempts
+Klay Thompson missed free throw
+=== Current Score ===
+Team1: 85 Team2: 104
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 85 Team2: 105
+=== Current Score ===
+Team1: 85 Team2: 105
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Kobe Bryant (5s)
+Kobe Bryant passes to John Salley (5s)
+John Salley passes to Robert Horry (6s)
+Robert Horry passes to John Salley (5s)
+John Salley misses a 2-point shot (3s)
+Draymond Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 85 Team2: 105
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (5s)
+Klay Thompson dribbles (4s)
+Klay Thompson passes to David West (8s)
+David West dribbles (4s)
+David West misses a 2-point shot (3s)
+Shaquille O'Neal grabs the defensive rebound!
+=== Current Score ===
+Team1: 85 Team2: 105
+
+Shaquille O'Neal starts with the ball
+Shaquille O'Neal passes to Kobe Bryant (4s)
+Kobe Bryant passes to John Salley (6s)
+John Salley passes to Kobe Bryant (4s)
+Kobe Bryant passes to John Salley (2s)
+John Salley makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 87 Team2: 105
+
+David West starts with the ball
+David West passes to Matt Barnes (5s)
+Matt Barnes turns the ball over (4s)
+=== Current Score ===
+Team1: 87 Team2: 105
+
+Kobe Bryant starts with the ball
+Kobe Bryant misses a 2-point shot (4s)
+Shaquille O'Neal grabs the offensive rebound!
+Shaquille O'Neal makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 89 Team2: 105
+
+Quarter 3 Score: Team1 89 - Team2 105
+
+=== Quarter 4 ===
+Klay Thompson starts with the ball
+Klay Thompson passes to Shaun Livingston (3s)
+Shaun Livingston passes to Draymond Green (5s)
+Draymond Green passes to Shaun Livingston (3s)
+Shaun Livingston passes to Matt Barnes (4s)
+Matt Barnes misses a 3-point shot (6s)
+Kobe Bryant grabs the defensive rebound!
+=== Current Score ===
+Team1: 89 Team2: 105
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (4s)
+Kobe Bryant passes to Robert Horry (2s)
+Robert Horry dribbles (5s)
+Robert Horry passes to Kobe Bryant (4s)
+Kobe Bryant passes to John Salley (4s)
+John Salley makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 91 Team2: 105
+
+David West starts with the ball
+David West passes to Klay Thompson (9s)
+Klay Thompson passes to Shaun Livingston (6s)
+Shaquille O'Neal commits a foul on Shaun Livingston!Compatible Replacement Bench Found!
+Forced Substitution: Shaquille O'Neal OUT (6 fouls, 36.0 min) — Horace Grant IN
+Shaquille O'Neal fouls out!Shaun Livingston misses a 2-point shot (7s)
+Shaun Livingston is fouled and heads to the free throw line 2 attempts
+Shaun Livingston makes free throw
+=== Current Score ===
+Team1: 91 Team2: 106
+Shaun Livingston makes free throw
+=== Current Score ===
+Team1: 91 Team2: 107
+=== Current Score ===
+Team1: 91 Team2: 107
+
+Kobe Bryant starts with the ball
+Klay Thompson steals the ball from Kobe Bryant!
+=== Current Score ===
+Team1: 91 Team2: 107
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (4s)
+Klay Thompson dribbles (3s)
+Klay Thompson passes to Shaun Livingston (6s)
+Shaun Livingston passes to Klay Thompson (4s)
+Klay Thompson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 91 Team2: 109
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to John Salley (7s)
+John Salley misses a 2-point shot (2s)
+Shaun Livingston grabs the defensive rebound!
+Compatible Replacement Bench Found!
+Substitution: Kobe Bryant OUT (37.0 min, stint 37.0 min) — Rick Fox IN (rested 4.0 min)
+=== Current Score ===
+Team1: 91 Team2: 109
+
+Klay Thompson starts with the ball
+Klay Thompson passes to David West (5s)
+David West turns the ball over (5s)
+Compatible Replacement Bench Found!
+Substitution: Draymond Green OUT (9.0 min, stint 9.0 min) — Kevin Durant IN (rested 9.0 min)
+=== Current Score ===
+Team1: 91 Team2: 109
+
+Lindsey Hunter starts with the ball
+Lindsey Hunter passes to Robert Horry (4s)
+Robert Horry passes to Lindsey Hunter (1s)
+Lindsey Hunter dribbles (3s)
+Lindsey Hunter passes to Horace Grant (1s)
+Horace Grant passes to John Salley (5s)
+John Salley passes to Rick Fox (4s)
+Rick Fox passes to Horace Grant (2s)
+Horace Grant makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 93 Team2: 109
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Matt Barnes (2s)
+Matt Barnes passes to Kevin Durant (3s)
+Kevin Durant passes to Matt Barnes (6s)
+Matt Barnes passes to Shaun Livingston (6s)
+Shaun Livingston passes to David West (1s)
+David West misses a 2-point shot (4s)
+Kevin Durant grabs the offensive rebound!
+Kevin Durant passes to David West (2s)
+David West misses a 2-point shot (4s)
+Rick Fox grabs the defensive rebound!
+=== Current Score ===
+Team1: 93 Team2: 109
+
+Rick Fox starts with the ball
+Rick Fox passes to John Salley (6s)
+John Salley passes to Robert Horry (6s)
+Robert Horry makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 95 Team2: 109
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (6s)
+Klay Thompson misses a 3-point shot (7s)
+Lindsey Hunter grabs the defensive rebound!
+=== Current Score ===
+Team1: 95 Team2: 109
+
+John Salley starts with the ball
+John Salley passes to Robert Horry (4s)
+Robert Horry passes to Rick Fox (4s)
+Rick Fox turns the ball over (4s)
+=== Current Score ===
+Team1: 95 Team2: 109
+
+David West starts with the ball
+David West dribbles (5s)
+David West dribbles (6s)
+David West misses a 2-point shot (3s)
+John Salley grabs the defensive rebound!
+=== Current Score ===
+Team1: 95 Team2: 109
+
+Horace Grant starts with the ball
+Horace Grant dribbles (4s)
+Horace Grant passes to Rick Fox (4s)
+Rick Fox passes to Horace Grant (2s)
+Matt Barnes steals the ball from Horace Grant!
+=== Current Score ===
+Team1: 95 Team2: 109
+
+Kevin Durant starts with the ball
+Kevin Durant misses a 2-point shot (2s)
+John Salley grabs the defensive rebound!
+=== Current Score ===
+Team1: 95 Team2: 109
+
+Lindsey Hunter starts with the ball
+Lindsey Hunter passes to Rick Fox (3s)
+Rick Fox dribbles (3s)
+Rick Fox dribbles (5s)
+Rick Fox passes to Robert Horry (6s)
+Kevin Durant steals the ball from Robert Horry while dribbling!
+=== Current Score ===
+Team1: 95 Team2: 109
+
+Klay Thompson starts with the ball
+Klay Thompson dribbles (5s)
+Klay Thompson passes to David West (4s)
+David West passes to Shaun Livingston (5s)
+Shaun Livingston misses a 2-point shot (2s)
+Kevin Durant grabs the offensive rebound!
+Kevin Durant passes to David West (5s)
+David West passes to Shaun Livingston (3s)
+Shaun Livingston passes to Klay Thompson (1s)
+Klay Thompson makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 95 Team2: 111
+
+Horace Grant starts with the ball
+Horace Grant passes to Robert Horry (4s)
+Robert Horry passes to Rick Fox (8s)
+Rick Fox passes to Robert Horry (3s)
+Robert Horry passes to Horace Grant (7s)
+Horace Grant makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 97 Team2: 111
+
+Kevin Durant starts with the ball
+Kevin Durant misses a 2-point shot (4s)
+Rick Fox grabs the defensive rebound!
+=== Current Score ===
+Team1: 97 Team2: 111
+
+Lindsey Hunter starts with the ball
+Lindsey Hunter dribbles (5s)
+Lindsey Hunter passes to Robert Horry (7s)
+Robert Horry dribbles (3s)
+Robert Horry misses a 2-point shot (5s)
+Robert Horry grabs the offensive rebound!
+Robert Horry passes to Rick Fox (6s)
+Rick Fox passes to Lindsey Hunter (4s)
+Lindsey Hunter turns the ball over (3s)
+=== Current Score ===
+Team1: 97 Team2: 111
+
+Kevin Durant starts with the ball
+Kevin Durant makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 97 Team2: 113
+
+John Salley starts with the ball
+John Salley dribbles (5s)
+John Salley dribbles (4s)
+John Salley passes to Rick Fox (3s)
+Rick Fox dribbles (5s)
+Rick Fox makes a 2-point shot! (7s)
+Compatible Replacement Bench Found!
+Forced Substitution: Rick Fox OUT (2 fouls, 4.0 min) — Kobe Bryant IN
+Compatible Replacement Bench Found!
+Forced Substitution: Lindsey Hunter OUT (1 fouls, 17.0 min) — Glen Rice IN
+Compatible Replacement Bench Not Found!
+Forced Substitution: John Salley OUT (1 fouls, 13.0 min) — Brian Shaw IN
+Compatible Replacement Bench Found!
+Forced Substitution: Robert Horry OUT (1 fouls, 8.0 min) — Rick Fox IN
+=== Current Score ===
+Team1: 99 Team2: 113
+
+Kevin Durant starts with the ball
+Kevin Durant passes to David West (5s)
+David West makes a 2-point shot! (5s)
+Compatible Replacement Bench Found!
+Forced Substitution: Klay Thompson OUT (0 fouls, 8.0 min) — Stephen Curry IN
+Compatible Replacement Bench Found!
+Forced Substitution: Shaun Livingston OUT (2 fouls, 20.0 min) — Klay Thompson IN
+Compatible Replacement Bench Not Found!
+Forced Substitution: Matt Barnes OUT (0 fouls, 17.0 min) — Zaza Pachulia IN
+=== Current Score ===
+Team1: 99 Team2: 115
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Rick Fox (6s)
+Rick Fox makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 101 Team2: 115
+
+Kevin Durant starts with the ball
+Kevin Durant dribbles (4s)
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry misses a 3-point shot (7s)
+Horace Grant grabs the defensive rebound!
+=== Current Score ===
+Team1: 101 Team2: 115
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (2s)
+Kobe Bryant passes to Brian Shaw (2s)
+David West commits a foul on Brian Shaw!Kevin Durant blocks the shot of Brian Shaw!
+=== Current Score ===
+Team1: 101 Team2: 115
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Zaza Pachulia (8s)
+Zaza Pachulia makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 101 Team2: 117
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Horace Grant (5s)
+Horace Grant passes to Glen Rice (6s)
+Glen Rice makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 103 Team2: 117
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Klay Thompson (4s)
+Klay Thompson passes to Zaza Pachulia (8s)
+Zaza Pachulia dribbles (4s)
+Rick Fox commits a foul on Zaza Pachulia!Zaza Pachulia misses a 2-point shot (8s)
+Zaza Pachulia is fouled and heads to the free throw line 2 attempts
+Zaza Pachulia missed free throw
+=== Current Score ===
+Team1: 103 Team2: 117
+Zaza Pachulia makes free throw
+=== Current Score ===
+Team1: 103 Team2: 118
+=== Current Score ===
+Team1: 103 Team2: 118
+
+Glen Rice starts with the ball
+Glen Rice passes to Rick Fox (6s)
+Rick Fox passes to Brian Shaw (3s)
+Kevin Durant commits a foul on Brian Shaw!Brian Shaw makes a 2-point shot! (4s)
+Brian Shaw is fouled and heads to the free throw line(1 attempt) AND ONE!
+Brian Shaw makes free throw
+=== Current Score ===
+Team1: 106 Team2: 118
+=== Current Score ===
+Team1: 106 Team2: 118
 
 Stephen Curry starts with the ball
 Stephen Curry passes to Kevin Durant (5s)
-D'Angelo Russell commits a foul on Kevin Durant!Kevin Durant makes a 2-point shot! (5s)
+Kevin Durant makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 106 Team2: 120
+
+Kobe Bryant starts with the ball
+Kobe Bryant misses a 2-point shot (6s)
+Kevin Durant grabs the defensive rebound!
+=== Current Score ===
+Team1: 106 Team2: 120
+
+Kevin Durant starts with the ball
+Kevin Durant passes to Stephen Curry (4s)
+Stephen Curry misses a 3-point shot (4s)
+Rick Fox grabs the defensive rebound!
+=== Current Score ===
+Team1: 106 Team2: 120
+
+Glen Rice starts with the ball
+Glen Rice passes to Kobe Bryant (3s)
+Kobe Bryant passes to Glen Rice (5s)
+Glen Rice passes to Horace Grant (4s)
+David West commits a foul on Horace Grant!Kevin Durant blocks the shot of Horace Grant!
+=== Current Score ===
+Team1: 106 Team2: 120
+
+Stephen Curry starts with the ball
+Brian Shaw commits a foul on Stephen Curry!Stephen Curry makes a 2-point shot! (7s)
+Stephen Curry is fouled and heads to the free throw line(1 attempt) AND ONE!
+Stephen Curry missed free throw
+=== Current Score ===
+Team1: 106 Team2: 122
+=== Current Score ===
+Team1: 106 Team2: 122
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Glen Rice (4s)
+Glen Rice passes to Horace Grant (7s)
+Horace Grant passes to Rick Fox (5s)
+Rick Fox makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 108 Team2: 122
+
+David West starts with the ball
+David West passes to Stephen Curry (6s)
+Stephen Curry passes to Kevin Durant (8s)
+Kevin Durant dribbles (2s)
+Horace Grant commits a foul on Kevin Durant!Kevin Durant makes a 2-point shot! (4s)
 Kevin Durant is fouled and heads to the free throw line(1 attempt) AND ONE!
 Kevin Durant makes free throw
 === Current Score ===
-Team1: 121 Team2: 113
+Team1: 108 Team2: 125
 === Current Score ===
-Team1: 121 Team2: 113
+Team1: 108 Team2: 125
 
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to Taurean Prince (4s)
-Taurean Prince passes to D'Angelo Russell (2s)
-D'Angelo Russell dribbles (5s)
-D'Angelo Russell passes to Cam Reddish (2s)
-Cam Reddish passes to Austin Reaves (3s)
-Austin Reaves misses a 3-point shot (6s)
-Andre Iguodala grabs the defensive rebound!
+Kobe Bryant starts with the ball
+Kobe Bryant misses a 2-point shot (4s)
+Klay Thompson grabs the defensive rebound!
+Compatible Replacement Bench Found!
+Forced Substitution: Rick Fox OUT (3 fouls, 3.0 min) — Robert Horry IN
 === Current Score ===
-Team1: 121 Team2: 113
+Team1: 108 Team2: 125
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (5s)
-Stephen Curry passes to Andre Iguodala (4s)
-Andre Iguodala passes to David West (5s)
-David West passes to Kevin Durant (3s)
-Kevin Durant passes to Andre Iguodala (6s)
-Austin Reaves blocks the shot of Andre Iguodala!
-Substitution: Stephen Curry OUT (37.0 min) — Matt Barnes IN (rested 5.0 min)
+David West starts with the ball
+David West misses a 2-point shot (6s)
+David West grabs the offensive rebound!
+David West misses a 2-point shot (5s)
+Robert Horry grabs the defensive rebound!
+Compatible Replacement Bench Found!
+Forced Substitution: Klay Thompson OUT (0 fouls, 3.0 min) — Shaun Livingston IN
 === Current Score ===
-Team1: 121 Team2: 113
+Team1: 108 Team2: 125
 
-D'Angelo Russell starts with the ball
-D'Angelo Russell passes to Austin Reaves (4s)
-Austin Reaves passes to D'Angelo Russell (4s)
-D'Angelo Russell passes to Jaxson Hayes (5s)
-Jaxson Hayes misses a 2-point shot (4s)
-Shaun Livingston grabs the defensive rebound!
-Substitution: Cam Reddish OUT (4 fouls, 15.0 min) — LeBron James IN
+Glen Rice starts with the ball
+Glen Rice commits an offensive foul!
 === Current Score ===
-Team1: 121 Team2: 113
+Team1: 108 Team2: 125
 
 Kevin Durant starts with the ball
-D'Angelo Russell commits a foul on Kevin Durant!Kevin Durant makes a 3-point shot! (3s)
-Kevin Durant is fouled and heads to the free throw line(1 attempt) AND ONE!
-Kevin Durant missed free throw
+Kevin Durant misses a 3-point shot (7s)
+Brian Shaw grabs the defensive rebound!
 === Current Score ===
-Team1: 121 Team2: 116
-=== Current Score ===
-Team1: 121 Team2: 116
+Team1: 108 Team2: 125
 
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (6s)
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Horace Grant (6s)
+Horace Grant passes to Robert Horry (1s)
+David West commits a foul on Robert Horry!Robert Horry makes a 3-point shot! (3s)
+Robert Horry is fouled and heads to the free throw line(1 attempt) AND ONE!
+Robert Horry missed free throw
 === Current Score ===
-Team1: 123 Team2: 116
+Team1: 111 Team2: 125
+=== Current Score ===
+Team1: 111 Team2: 125
 
-Kevin Durant starts with the ball
-Kevin Durant misses a 3-point shot (3s)
-Taurean Prince grabs the defensive rebound!
+David West starts with the ball
+David West passes to Zaza Pachulia (2s)
+Zaza Pachulia passes to Kevin Durant (4s)
+Robert Horry commits a foul on Kevin Durant!Kevin Durant misses a 2-point shot (2s)
+Kevin Durant is fouled and heads to the free throw line 2 attempts
+Kevin Durant makes free throw
 === Current Score ===
-Team1: 123 Team2: 116
+Team1: 111 Team2: 126
+Kevin Durant makes free throw
+=== Current Score ===
+Team1: 111 Team2: 127
+=== Current Score ===
+Team1: 111 Team2: 127
 
-LeBron James starts with the ball
-LeBron James passes to Taurean Prince (2s)
-Taurean Prince passes to D'Angelo Russell (3s)
-D'Angelo Russell passes to Jaxson Hayes (4s)
-Andre Iguodala commits a foul on Jaxson Hayes!Jaxson Hayes makes a 2-point shot! (3s)
-Jaxson Hayes is fouled and heads to the free throw line(1 attempt) AND ONE!
-Jaxson Hayes makes free throw
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (7s)
+Kevin Durant commits a foul on Kobe Bryant!Compatible Replacement Bench Found!
+Forced Substitution: Kevin Durant OUT (6 fouls, 8.0 min) — Matt Barnes IN
+Compatible Replacement Bench Found!
+Forced Substitution: Shaun Livingston OUT (2 fouls, 0.0 min) — Klay Thompson IN
+Kevin Durant fouls out!Kobe Bryant misses a 2-point shot (8s)
+Kobe Bryant is fouled and heads to the free throw line 2 attempts
+Kobe Bryant missed free throw
 === Current Score ===
-Team1: 126 Team2: 116
+Team1: 111 Team2: 127
+Kobe Bryant makes free throw
 === Current Score ===
-Team1: 126 Team2: 116
+Team1: 112 Team2: 127
+=== Current Score ===
+Team1: 112 Team2: 127
 
-Quarter 4 Score: Team1 126 - Team2 116
+Stephen Curry starts with the ball
+Stephen Curry dribbles (5s)
+Stephen Curry passes to Klay Thompson (5s)
+Brian Shaw commits a foul on Klay Thompson!Klay Thompson makes a 3-point shot! (6s)
+Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
+Klay Thompson makes free throw
+=== Current Score ===
+Team1: 112 Team2: 131
+=== Current Score ===
+Team1: 112 Team2: 131
+
+Kobe Bryant starts with the ball
+Kobe Bryant dribbles (4s)
+Kobe Bryant dribbles (3s)
+Kobe Bryant passes to Robert Horry (2s)
+Robert Horry passes to Horace Grant (6s)
+Horace Grant misses a 2-point shot (4s)
+Klay Thompson grabs the defensive rebound!
+=== Current Score ===
+Team1: 112 Team2: 131
+
+Klay Thompson starts with the ball
+Klay Thompson passes to Matt Barnes (4s)
+Matt Barnes passes to David West (2s)
+David West makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 112 Team2: 133
+
+Glen Rice starts with the ball
+Glen Rice dribbles (3s)
+Glen Rice passes to Brian Shaw (4s)
+Brian Shaw passes to Robert Horry (4s)
+Robert Horry passes to Kobe Bryant (4s)
+Kobe Bryant passes to Robert Horry (5s)
+David West commits a foul on Robert Horry!Robert Horry misses a 2-point shot (4s)
+Robert Horry is fouled and heads to the free throw line 2 attempts
+Robert Horry missed free throw
+=== Current Score ===
+Team1: 112 Team2: 133
+Robert Horry makes free throw
+=== Current Score ===
+Team1: 113 Team2: 133
+=== Current Score ===
+Team1: 113 Team2: 133
+
+Stephen Curry starts with the ball
+Stephen Curry passes to Klay Thompson (6s)
+Klay Thompson makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 113 Team2: 135
+
+Kobe Bryant starts with the ball
+Kobe Bryant passes to Horace Grant (6s)
+Stephen Curry steals the ball from Horace Grant!
+=== Current Score ===
+Team1: 113 Team2: 135
+
+Stephen Curry starts with the ball
+Stephen Curry passes to David West (3s)
+David West makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 113 Team2: 137
+
+Quarter 4 Score: Team1 113 - Team2 137
 
 === Final Score ===
-Team1: 126
-Team2: 116
+Team1: 113
+Team2: 137
 
 [DEBUG] expected seconds per team (5 players * game seconds): 14400
 [DEBUG] actual Team1 summed player seconds: 14400
 [DEBUG] actual Team2 summed player seconds: 14400
 --- Team1 Box Score ---
-LeBron James's recommended minutes: 34:36
-LeBron James: PTS 27, AST 3, REB 5, TOV 2, FGM/FGA 10/21, 3PM/3PA 3/8, FTM/FTA 4/7, STL 1, BLK 0, Time 32:45,plus/minus: 18fouls: 3
-D'Angelo Russell's recommended minutes: 28:06
-D'Angelo Russell: PTS 16, AST 5, REB 4, TOV 1, FGM/FGA 6/12, 3PM/3PA 4/8, FTM/FTA 0/1, STL 3, BLK 0, Time 30:10,plus/minus: 10fouls: 3
-Austin Reaves's recommended minutes: 28:06
-Austin Reaves: PTS 6, AST 5, REB 0, TOV 0, FGM/FGA 1/4, 3PM/3PA 1/3, FTM/FTA 3/3, STL 1, BLK 1, Time 27:18,plus/minus: 9fouls: 1
-Jaxson Hayes's recommended minutes: 13:06
-Jaxson Hayes: PTS 8, AST 3, REB 0, TOV 0, FGM/FGA 3/9, 3PM/3PA 0/2, FTM/FTA 2/2, STL 1, BLK 0, Time 12:27,plus/minus: 6fouls: 1
-Taurean Prince's recommended minutes: 26:31
-Taurean Prince: PTS 16, AST 5, REB 8, TOV 1, FGM/FGA 5/9, 3PM/3PA 1/3, FTM/FTA 5/7, STL 0, BLK 2, Time 29:43,plus/minus: 2fouls: 1
-Rui Hachimura's recommended minutes: 18:53
-Rui Hachimura: PTS 13, AST 0, REB 3, TOV 1, FGM/FGA 5/7, 3PM/3PA 2/3, FTM/FTA 1/1, STL 0, BLK 0, Time 14:10,plus/minus: 8fouls: 1
-Christian Wood's recommended minutes: 18:09
-Christian Wood: PTS 8, AST 0, REB 1, TOV 1, FGM/FGA 3/4, 3PM/3PA 2/2, FTM/FTA 0/0, STL 2, BLK 1, Time 20:37,plus/minus: 5fouls: 1
-Spencer Dinwiddie's recommended minutes: 28:06
-Spencer Dinwiddie: PTS 7, AST 3, REB 1, TOV 0, FGM/FGA 2/5, 3PM/3PA 0/2, FTM/FTA 3/3, STL 1, BLK 0, Time 29:09,plus/minus: 10fouls: 2
-Anthony Davis's recommended minutes: 34:36
-Anthony Davis: PTS 25, AST 2, REB 8, TOV 3, FGM/FGA 9/17, 3PM/3PA 2/3, FTM/FTA 5/6, STL 0, BLK 0, Time 28:26,plus/minus: 2fouls: 3
-Cam Reddish's recommended minutes: 9:51
-Cam Reddish: PTS 0, AST 3, REB 0, TOV 1, FGM/FGA 0/0, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 15:15,plus/minus: -5fouls: 4
+Kobe Bryant's recommended minutes: 35:04
+Kobe Bryant, FORWARD-GUARD: PTS 30, AST 11, REB 5, TOV 5, FGM/FGA 9/25, 3PM/3PA 0/2, FTM/FTA 12/15, STL 0, BLK 0, Time 43:31,plus/minus: -42fouls: 4
+Horace Grant's recommended minutes: 35:04
+Horace Grant, CENTER: PTS 4, AST 3, REB 1, TOV 2, FGM/FGA 2/4, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 11:15,plus/minus: -8fouls: 1
+Glen Rice's recommended minutes: 14:35
+Glen Rice, GUARD-FORWARD: PTS 2, AST 0, REB 0, TOV 0, FGM/FGA 1/1, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 5:48,plus/minus: -8fouls: 1
+Brian Shaw's recommended minutes: 14:35
+Brian Shaw, GUARD: PTS 3, AST 0, REB 1, TOV 0, FGM/FGA 1/2, 3PM/3PA 0/0, FTM/FTA 1/1, STL 0, BLK 0, Time 5:48,plus/minus: -8fouls: 2
+Robert Horry's recommended minutes: 27:34
+Robert Horry, FORWARD-CENTER: PTS 11, AST 3, REB 4, TOV 2, FGM/FGA 3/9, 3PM/3PA 1/3, FTM/FTA 4/6, STL 2, BLK 0, Time 39:31,plus/minus: -33fouls: 2
+Shaquille O'Neal's recommended minutes: 35:04
+Shaquille O'Neal, CENTER: PTS 35, AST 2, REB 17, TOV 0, FGM/FGA 16/23, 3PM/3PA 0/0, FTM/FTA 3/5, STL 0, BLK 2, Time 36:45,plus/minus: -30fouls: 6
+John Salley's recommended minutes: 11:05
+John Salley, CENTER-FORWARD: PTS 4, AST 3, REB 2, TOV 0, FGM/FGA 2/4, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 1, Time 13:52,plus/minus: 1fouls: 1
+Lindsey Hunter's recommended minutes: 11:53
+Lindsey Hunter, GUARD: PTS 0, AST 0, REB 1, TOV 2, FGM/FGA 0/2, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 17:22,plus/minus: 0fouls: 1
+Derek Fisher's recommended minutes: 27:34
+Derek Fisher, GUARD: PTS 5, AST 1, REB 1, TOV 0, FGM/FGA 2/9, 3PM/3PA 0/2, FTM/FTA 1/1, STL 0, BLK 0, Time 24:50,plus/minus: -30fouls: 2
+Rick Fox's recommended minutes: 27:34
+Rick Fox, FORWARD: PTS 19, AST 7, REB 6, TOV 1, FGM/FGA 8/16, 3PM/3PA 1/3, FTM/FTA 2/4, STL 0, BLK 0, Time 41:18,plus/minus: -32fouls: 3
 
 
 --- Team2 Box Score ---
-Kevin Durant's recommended minutes: 35:00
-Kevin Durant: PTS 26, AST 6, REB 7, TOV 1, FGM/FGA 10/18, 3PM/3PA 2/5, FTM/FTA 4/5, STL 0, BLK 2, Time 30:30,plus/minus: -8fouls: 3
-Shaun Livingston's recommended minutes: 13:47
-Shaun Livingston: PTS 2, AST 2, REB 3, TOV 1, FGM/FGA 0/3, 3PM/3PA 0/0, FTM/FTA 2/2, STL 0, BLK 0, Time 9:14,plus/minus: 0fouls: 1
-David West's recommended minutes: 29:57
-David West: PTS 9, AST 6, REB 4, TOV 2, FGM/FGA 4/9, 3PM/3PA 0/0, FTM/FTA 1/2, STL 1, BLK 0, Time 19:11,plus/minus: -5fouls: 1
-Andre Iguodala's recommended minutes: 27:31
-Andre Iguodala: PTS 11, AST 1, REB 1, TOV 0, FGM/FGA 5/8, 3PM/3PA 1/2, FTM/FTA 0/1, STL 1, BLK 0, Time 30:30,plus/minus: -17fouls: 2
 Matt Barnes's recommended minutes: 12:47
-Matt Barnes: PTS 3, AST 1, REB 1, TOV 0, FGM/FGA 1/4, 3PM/3PA 0/1, FTM/FTA 1/2, STL 0, BLK 0, Time 18:11,plus/minus: -8fouls: 3
-Draymond Green's recommended minutes: 27:31
-Draymond Green: PTS 6, AST 2, REB 6, TOV 2, FGM/FGA 3/3, 3PM/3PA 0/0, FTM/FTA 0/0, STL 1, BLK 0, Time 28:49,plus/minus: -8fouls: 3
-Zaza Pachulia's recommended minutes: 16:43
-Zaza Pachulia: PTS 8, AST 2, REB 2, TOV 2, FGM/FGA 4/8, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 2, Time 17:30,plus/minus: 4fouls: 2
-Klay Thompson's recommended minutes: 27:31
-Klay Thompson: PTS 24, AST 5, REB 1, TOV 2, FGM/FGA 8/20, 3PM/3PA 2/8, FTM/FTA 6/6, STL 0, BLK 2, Time 32:02,plus/minus: -15fouls: 2
-JaVale McGee's recommended minutes: 14:14
-JaVale McGee: PTS 8, AST 1, REB 3, TOV 2, FGM/FGA 4/5, 3PM/3PA 0/0, FTM/FTA 0/0, STL 1, BLK 0, Time 16:47,plus/minus: -8fouls: 2
+Matt Barnes, FORWARD: PTS 7, AST 1, REB 0, TOV 1, FGM/FGA 1/7, 3PM/3PA 1/3, FTM/FTA 4/5, STL 1, BLK 0, Time 18:55,plus/minus: 5fouls: 0
 Stephen Curry's recommended minutes: 35:00
-Stephen Curry: PTS 19, AST 6, REB 9, TOV 0, FGM/FGA 5/16, 3PM/3PA 4/9, FTM/FTA 5/5, STL 0, BLK 1, Time 37:16,plus/minus: 0fouls: 3
+Stephen Curry, GUARD: PTS 29, AST 15, REB 5, TOV 1, FGM/FGA 8/16, 3PM/3PA 4/10, FTM/FTA 9/11, STL 1, BLK 0, Time 39:30,plus/minus: 41fouls: 3
+David West's recommended minutes: 29:57
+David West, FORWARD: PTS 13, AST 0, REB 4, TOV 1, FGM/FGA 6/17, 3PM/3PA 0/0, FTM/FTA 1/2, STL 0, BLK 0, Time 29:49,plus/minus: 17fouls: 5
+Klay Thompson's recommended minutes: 27:31
+Klay Thompson, GUARD: PTS 33, AST 3, REB 4, TOV 0, FGM/FGA 11/18, 3PM/3PA 4/7, FTM/FTA 7/8, STL 1, BLK 1, Time 38:53,plus/minus: 33fouls: 0
+Zaza Pachulia's recommended minutes: 16:43
+Zaza Pachulia, CENTER: PTS 3, AST 0, REB 0, TOV 0, FGM/FGA 1/2, 3PM/3PA 0/0, FTM/FTA 1/2, STL 0, BLK 0, Time 5:38,plus/minus: 6fouls: 0
+Draymond Green's recommended minutes: 27:31
+Draymond Green, FORWARD: PTS 3, AST 5, REB 4, TOV 2, FGM/FGA 1/3, 3PM/3PA 0/0, FTM/FTA 1/2, STL 1, BLK 0, Time 27:26,plus/minus: 24fouls: 5
+Kevin Durant's recommended minutes: 35:00
+Kevin Durant, FORWARD: PTS 30, AST 8, REB 10, TOV 1, FGM/FGA 11/24, 3PM/3PA 5/7, FTM/FTA 3/3, STL 2, BLK 3, Time 36:58,plus/minus: 30fouls: 6
+JaVale McGee's recommended minutes: 14:14
+JaVale McGee, CENTER-FORWARD: PTS 0, AST 0, REB 0, TOV 0, FGM/FGA 0/0, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 0:00,plus/minus: 0fouls: 0
+Andre Iguodala's recommended minutes: 27:31
+Andre Iguodala, GUARD-FORWARD: PTS 13, AST 1, REB 4, TOV 1, FGM/FGA 4/7, 3PM/3PA 2/3, FTM/FTA 3/5, STL 0, BLK 0, Time 21:47,plus/minus: 24fouls: 5
+Shaun Livingston's recommended minutes: 13:47
+Shaun Livingston, GUARD: PTS 6, AST 2, REB 3, TOV 0, FGM/FGA 2/5, 3PM/3PA 0/0, FTM/FTA 2/2, STL 0, BLK 1, Time 21:04,plus/minus: 10fouls: 2
 
 

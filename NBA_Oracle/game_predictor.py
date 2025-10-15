@@ -375,7 +375,7 @@ class Game:
 
                 b = getattr(p, "box", None)
                 if b:
-                    log(f"{p.name}: PTS {b.points}, AST {b.ast}, REB {b.oreb + b.dreb}, TOV {b.tov}, "
+                    log(f"{p.name}, {p.position}: PTS {b.points}, AST {b.ast}, REB {b.oreb + b.dreb}, TOV {b.tov}, "
                         f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, "
                         f"FTM/FTA {b.ftm}/{b.fta}, "
                         f"STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}"
@@ -408,19 +408,18 @@ class Game:
 
     def perform_substitution(self, team, actions, players_on_court, original_starters):
         """
-        Smart substitution logic ensuring:
-        - Fouled-out players are always subbed out immediately.
-        - Starters play close to their recommended minutes.
-        - Minimum stint before subbing out.
-        - Balanced rotation with weighted minute control.
+        Improved substitution model with fatigue awareness:
+        - Avoids excessive consecutive minutes.
+        - Ensures starters get realistic playing time near recommended values.
+        - Always subs out fouled-out or overplayed players.
         """
         MAX_GAME_SECONDS = 48 * 60
-        MIN_STINT = 60 * 3         # 3 minutes minimum stint
-        MAX_STINT = 60 * 10        # 10 minutes maximum stint
-        MIN_REST = 60 * 2.5        # 2.5 minutes minimum rest
-        MAX_FOULS = 5              # 6th foul = foul out
+        MIN_STINT = 60 * 3          # Minimum 3 minutes before considering sub
+        MAX_STINT = 60 * random.randint(12,24)         # Max 10 consecutive minutes
+        MIN_REST = 60 * 2.5         # Minimum rest time before re-entry
+        MAX_FOULS = 5               # 6th foul = foul out
 
-        # --- Identify mandatory subs ---
+        # --- Mandatory subs: fouled out or severely overplayed ---
         mandatory_subs = [
             s for s in team.starters
             if s.box.foul >= 6 or s.total_seconds >= s.recommended_seconds * 1.2
@@ -428,79 +427,105 @@ class Game:
 
         if mandatory_subs:
             for sub_out in mandatory_subs:
-                # Find bench candidates who can sub in
                 bench_candidates = [
                     b for b in team.bench
                     if b.total_seconds < MAX_GAME_SECONDS
-                    and b.box.foul <= MAX_FOULS
+                    and b.box.foul < MAX_FOULS
                 ]
-
                 if not bench_candidates:
                     continue
 
-                # Weighted toward those needing more minutes
                 remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in bench_candidates]
-                total_needed = sum(remaining_needed)
-                weights = [r / total_needed for r in remaining_needed]
+                weights = [r / sum(remaining_needed) for r in remaining_needed]
                 sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
+                #check for position
+                # Filter bench candidates that match the first letter of the position
+                compatible_bench = [
+                    b for b in bench_candidates if b.position[0].lower() == sub_out.position[0].lower()
+                ]
 
-                # Swap players
+                if compatible_bench:
+                    actions += (
+                    f"Compatible Replacement Bench Found!\n")
+                    # Weighted choice among compatible players
+                    remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in compatible_bench]
+                    total_needed = sum(remaining_needed)
+                    weights = [r / total_needed for r in remaining_needed]
+                    sub_in = random.choices(compatible_bench, weights=weights, k=1)[0]
+                else:
+                    actions += (
+                    f"Compatible Replacement Bench Not Found!\n")
+                    # Fallback: pick any bench player (ignore position)
+                    sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
+                # Swap
                 idx_starter = team.starters.index(sub_out)
                 idx_bench = team.bench.index(sub_in)
                 team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
                 players_on_court[:] = team.starters
 
                 actions += (
-                    f"Substitution: {sub_out.name} OUT ({sub_out.box.foul} fouls, "
-                    f"{sub_out.total_seconds//60:.1f} min) — {sub_in.name} IN\n"
+                    f"Forced Substitution: {sub_out.name} OUT ({sub_out.box.foul} fouls, "
+                    f"{sub_out.stint_seconds//60:.1f} min) — {sub_in.name} IN\n"
                 )
 
-                # Reset stint timers
                 sub_out.stint_seconds = 0
                 sub_in.stint_seconds = 0
                 sub_in.bench_stint_seconds = 0
 
             return actions
 
-        # --- Optional substitutions ---
-        optional_subs = [
-            s for s in team.starters
-            if s.box.foul <= 5
-            or (s.stint_seconds >= 60 * 12)
-            or (s.total_seconds >= s.recommended_seconds * 0.9)
-        ]
-
-        # Filter out underplayed starters (protect them)
-        optional_subs = [
-            s for s in optional_subs
-            if s.total_seconds >= s.recommended_seconds * 0.6
-            and s.stint_seconds >= MIN_STINT
-        ]
+        # --- Optional subs: fatigue or foul management ---
+        optional_subs = []
+        for s in team.starters:
+            if s.box.foul >= 5:
+                optional_subs.append(s)
+            elif s.stint_seconds >= MAX_STINT:
+                optional_subs.append(s)
+            else:
+                # Compute fatigue score
+                fatigue = (s.stint_seconds / MAX_STINT) * 0.7 + (s.total_seconds / s.recommended_seconds) * 0.3
+                if fatigue > 1.0 and s.stint_seconds >= MIN_STINT:
+                    optional_subs.append(s)
 
         if not optional_subs:
             return actions
 
-        # --- Choose player to sub out ---
-        # Weighted by how much they’ve exceeded recommended time
-        excess_play = [max(s.total_seconds - s.recommended_seconds, 1) for s in optional_subs]
-        total_excess = sum(excess_play)
-        weights_out = [e / total_excess for e in excess_play]
-        sub_out = random.choices(optional_subs, weights=weights_out, k=1)[0]
+        # --- Pick sub out: highest fatigue ---
+        sub_out = max(optional_subs, key=lambda s: s.stint_seconds / MAX_STINT + s.total_seconds / s.recommended_seconds)
 
-        # --- Choose player to sub in ---
+        # --- Eligible bench players ---
         bench_candidates = [
             b for b in team.bench
             if b.bench_stint_seconds >= MIN_REST
             and b.total_seconds < MAX_GAME_SECONDS
             and b.box.foul < MAX_FOULS
         ]
+
         if not bench_candidates:
             return actions
 
+        # Weighted by how much they *need* to play
         remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in bench_candidates]
         total_needed = sum(remaining_needed)
-        weights_in = [r / total_needed for r in remaining_needed]
-        sub_in = random.choices(bench_candidates, weights=weights_in, k=1)[0]
+        weights = [r / total_needed for r in remaining_needed]
+        sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
+        compatible_bench = [
+            b for b in bench_candidates if b.position[0].lower() == sub_out.position[0].lower()
+        ]
+        if compatible_bench:
+            actions += (
+            f"Compatible Replacement Bench Found!\n")
+            # Weighted choice among compatible players
+            remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in compatible_bench]
+            total_needed = sum(remaining_needed)
+            weights = [r / total_needed for r in remaining_needed]
+            sub_in = random.choices(compatible_bench, weights=weights, k=1)[0]
+        else:
+            actions += (
+            f"Compatible Replacement Bench Not Found!\n")
+            # Fallback: pick any bench player (ignore position)
+            sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
+    # Swap
 
         # --- Perform substitution ---
         idx_starter = team.starters.index(sub_out)
@@ -509,15 +534,18 @@ class Game:
         players_on_court[:] = team.starters
 
         actions += (
-            f"Substitution: {sub_out.name} OUT ({sub_out.total_seconds//60:.1f} min) — "
+            f"Substitution: {sub_out.name} OUT ({sub_out.stint_seconds//60:.1f} min, "
+            f"stint {sub_out.stint_seconds//60:.1f} min) — "
             f"{sub_in.name} IN (rested {sub_in.bench_stint_seconds//60:.1f} min)\n"
         )
 
+        # Reset stint timers
         sub_out.stint_seconds = 0
         sub_in.stint_seconds = 0
         sub_in.bench_stint_seconds = 0
 
         return actions
+
 
 
 
@@ -623,20 +651,7 @@ class Game:
 
             # Update defenders
             defenders_on_court = defense.starters
-            defenders_bench = defense.bench
 
-
-            for p in defenders_on_court:
-                p.stint_seconds += action_time
-            
-            for p in players_on_court:
-                p.stint_seconds += action_time
-
-            for b in players_bench:
-                b.bench_stint_seconds += action_time
-
-            for b in defenders_bench:
-                b.bench_stint_seconds += action_time
 
             # --- Calculate probabilities ---
             turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) * 0.06 + 0.012, 0.03)
@@ -746,7 +761,10 @@ class Game:
                         self.perform_substitution(team,actions,players_on_court,team.original_starters)
                     break
 
-                steal_weights = [p.spg / max(p.gp, 1) + 0.01 for p in defenders_on_court]
+                steal_weights = [
+                    ((p.spg / max(p.gp, 1)) * 3 + 0.01) * (5 if p.spg > 1 else 1)
+                    for p in defenders_on_court
+                ]
                 if random.random() < 0.03:
                     stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
                     stealer.box.stl += 1
@@ -784,7 +802,11 @@ class Game:
                 fg_chance = shooter.FG3_PCT if is_three and shooter.FG3_PCT else shooter.FG_PCT
                 fg_chance = fg_chance if fg_chance else 0.45
 
-                block_weights = [p.bpg ** 1.2 / max(p.gp, 1) * 3 + 0.01 for p in defenders_on_court]
+                block_weights = [
+                    ((p.bpg / max(p.gp, 1)) * 3 + 0.01) * (5 if p.bpg > 1 else 1)
+                    for p in defenders_on_court
+                ]
+
                 if random.random() < 0.05:
                     points = 0
                     blocker = random.choices(defenders_on_court, weights=block_weights, k=1)[0]
@@ -847,7 +869,7 @@ class Game:
                     if random.random() < team_off_reb_rate:
                         # Offensive rebound
                         rebounder = random.choices(players_on_court, weights=
-                                                   [p.rpg * 1.5 if p.rpg > 6.5 else p.rpg for p in players_on_court], k=1)[0]
+                                                   [p.rpg ** 1.2 if p.rpg > 5.5 else p.rpg * 2.1 for p in players_on_court], k=1)[0]
                         rebounder.box.oreb += 1
                         actions += f"{rebounder.name} grabs the offensive rebound!\n"
                         # reset shot clock for continuation
@@ -887,6 +909,9 @@ class Game:
         for p in players_on_court + defenders_on_court:
             p.total_seconds = getattr(p, "total_seconds", 0) + possession_time
             p.stint_seconds = getattr(p, "stint_seconds", 0) + possession_time
+
+        for p in players_bench + defenders_bench:
+            p.bench_stint_seconds = getattr(p, "bench_stint_seconds", 0) + possession_time
 
         # --- Perform substitutions ---
 
@@ -929,26 +954,19 @@ if __name__ == "__main__":
     
     # 2016 Philadelphia 76ers
     knicks_2024_25 = [
-    "Anthony Davis",
-    "LeBron James",
-    "Austin Reaves",
-    "D'Angelo Russell",
-    "Rui Hachimura",
-    "Taurean Prince",
-    "Christian Wood",
-    "Jaxson Hayes",
-    "Max Christie",
-    "Cam Reddish",
-    "Spencer Dinwiddie",
-    "Harry Giles",
-    "Jalen Hood-Schifino",
-    "Alex Fudge",
-    "Gabe Vincent",
-    "Colin Castleton",
-    "Maxwell Lewis",
-    "Skylar Mays",
-    "D’Moi Hodge",
-    "Alex Fudge"
+    "Shaquille O'Neal",
+    "Kobe Bryant",
+    "Derek Fisher",
+    "Rick Fox",
+    "Horace Grant",
+    "Robert Horry",
+    "Glen Rice",
+    "Mark Madsen",
+    "Brian Shaw",
+    "Slava Medvedenko",
+    "Lindsey Hunter",
+    "Tyronn Lue",
+    "John Salley"
 ]
 
 
@@ -985,11 +1003,17 @@ if __name__ == "__main__":
     curry_points = 0
     curry_assists = 0
     curry_rebounds = 0
+    curry_steals = 0
+    curry_blocks = 0
     curry_fgm = 0
     curry_fga = 0
+    curry_tpm = 0
+    curry_tpa = 0
+    curry_ftm = 0
+    curry_fta = 0
     secs = 0
     
-    while team1_wins < 4 and team2_wins < 4:
+    while team1_wins < 41 and team2_wins < 41:
         #resets team stats to 0
         
         Team1 = Team(sorted_team1)
@@ -1004,27 +1028,40 @@ if __name__ == "__main__":
             team2_wins += 1
 
         for p in Team2.starters + Team2.bench + Team1.starters + Team1.bench:
-            if "Anthony Davis" == p.name:
+            if "Shaquille O'Neal" == p.name:
                 curry_points += p.box.points
                 curry_assists += p.box.ast
                 curry_rebounds += (p.box.dreb + p.box.oreb)
                 curry_fgm += p.box.fgm
                 curry_fga += p.box.fga
+                curry_tpm += p.box.tpm
+                curry_tpa += p.box.tpa
+                curry_ftm += p.box.ftm
+                curry_fta += p.box.fta
+                curry_steals += p.box.stl
+                curry_blocks += p.box.blk
                 secs += p.total_seconds
                 break
 
 
     accuracy = curry_fgm/curry_fga
+    three_acc = curry_tpm/curry_tpa
+    free_acc = curry_ftm/curry_fta
     print(f"team1 wins: {team1_wins}, team2wins: {team2_wins}")
     
     print(
     f"ppg: {curry_points/(team1_wins + team2_wins):.3f} "
     f"apg: {curry_assists/(team1_wins + team2_wins):.3f} "
-    f"rpg: {curry_rebounds/(team1_wins + team2_wins):.3f}"
+    f"rpg: {curry_rebounds/(team1_wins + team2_wins):.3f} "
+    f"spg: {curry_steals/(team1_wins + team2_wins):.3f} "
+    f"bpg: {curry_blocks/(team1_wins + team2_wins):.3f} "
     )
 
 
-    print(f"accuracy: {accuracy:.3f}")
+    print(f"accuracy: {accuracy:.3f} ")
+    print(f"three point accuracy: {three_acc:.3f}")
+    print(f"free throw accuracy: {free_acc:.3f}")
+
 
     secs = secs/(team1_wins + team2_wins)
     minutes = secs // 60
@@ -1040,6 +1077,8 @@ if __name__ == "__main__":
         score_sum2 += p.box.points
     
     print(f"Team1: {score_sum1} Team2: {score_sum2}")
+    print(f"Team1 possessions: {G.poss_counter1}")
+    print(f"Team2 possessions: {G.poss_counter2}")
 
 
     #Team 1 odds: 41-45 percent
