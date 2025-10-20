@@ -188,11 +188,11 @@ def determine_seconds(team_stats):
     return team_stats
 '''
 
+def 
 
 
 
-
-def determine_seconds(team_data):
+def determine_seconds_and_make_team(team_data):
 
     players_by_merit = []
 
@@ -224,22 +224,24 @@ def determine_seconds(team_data):
         steals_generated = stats.get('SPG',0) * stats.get('total_games', 0)
         blocks_generated = stats.get('BPG',0) * stats.get('total_games', 0)
         turnovers_generated = stats.get('TPG',0) * stats.get('total_games', 0)
-        defensive_merit = math.sqrt(steals_generated * blocks_generated) - turnovers_generated/10  # scaled down
+        defensive_merit = math.sqrt(steals_generated * blocks_generated) - turnovers_generated/ 10
 
         # --- combine with weighted sum ---
-        merit = int(award_merit_sum * 0.2 + offensive_merit * 0.5 + defensive_merit * 0.3)
+        merit = int(award_merit_sum * 0.25 + offensive_merit * 0.45 + defensive_merit * 0.3)
 
         # optional floor to avoid very small numbers
         merit = max(merit, 100)
         players_by_merit.append((player_name,merit))
 
-        print(f"player: {player_name} merit: {merit}")
-    #Sort Players By Merit:
+        #print(f"player: {player_name} merit: {merit}")
+    # Sort Players By Merit:
     players_by_merit.sort(key=lambda x: x[1], reverse=True)
 
     # Print sorted
     for name, merit in players_by_merit:
         print(f"{name}: {merit}")
+
+
 
 
 
@@ -1166,7 +1168,7 @@ if __name__ == "__main__":
     team2_data = build_cumulative_data(Team2,team2_year)
     #print(team1_data)
 
-    determine_seconds(team1_data)
+    determine_seconds_and_make_team(team1_data)
 
     #print(team1_data)
 
