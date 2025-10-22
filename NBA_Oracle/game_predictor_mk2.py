@@ -4,255 +4,11 @@ import random
 import math
 import os
 import json
-
-#get all players from nba_dataset.csv 
-
-#convert csv to be comma space instead
-
-#retrieve all column names
-#print(players_df.columns)
-#print("\n")
-
-#make a team with 15 different players and assign minutes to them accordingly
-
-''' OLD TEAM FUNCTION
-def make_team(player_names=None, excluded_players=None):
-    """
-    Build a team from a given list of players.
-    Ensures no players overlap with `excluded_players`.
-    """
-    if excluded_players is None:
-        excluded_players = []
-
-    total_minutes = 240  # 5 players * 48 minutes
-    team = []
-    team_stats = {}
-
-    if player_names:
-        for name in player_names:
-            player_row = players_df.loc[players_df['full_name'] == name]
-            if not player_row.empty:
-                player_stats = player_row.iloc[0].to_dict()
-                pid = player_stats['player_id']
-                if pid not in excluded_players and pid not in team:
-                    team_stats[pid] = player_stats
-                    team.append(pid)
-    # Fill team to 15 players
-    while len(team) < 12:
-        candidates = players_df[~players_df['player_id'].isin(team + excluded_players)]
-        if candidates.empty:
-            break
-        filler = candidates['player_id'].sample(n=1).iloc[0]
-        player_stats = players_df.loc[players_df['player_id'] == filler].iloc[0].to_dict()
-        team_stats[filler] = player_stats
-        team.append(filler)
-
-    return pd.DataFrame.from_dict(team_stats, orient='index')
-    '''
-
-
-
-
-def choose_best_formation(team_stats):
-    """
-    Selects the best starting 5 formation based on combined player merit.
-    Valid formations:
-        1. G G G F F
-        2. G G F F C
-        3. G F F F C
-    """
-    # Normalize Position column
-    team_stats['Position'] = team_stats['Position'].str.upper().str.strip()
-
-    # Helper: try to select players for a given formation
-    def try_formation(requirements):
-        chosen = []
-        remaining = team_stats.copy()
-        for pos, count in requirements.items():
-            candidates = remaining[remaining['Position'].str.contains(pos, na=False)]
-            top = candidates.nlargest(count, 'player_merit')
-            if len(top) < count:
-                return None  # formation not possible
-            chosen.append(top)
-            remaining = remaining.drop(top.index)
-        return pd.concat(chosen)
-
-    # Define formations
-    formations = [
-        {"G": 3, "F": 2},          # G G G F F
-        {"G": 2, "F": 2, "C": 1},  # G G F F C
-        {"G": 1, "F": 3, "C": 1}   # G F F F C
-    ]
-
-    # Evaluate formations
-    best = None
-    best_merit = -1
-    for formation in formations:
-        lineup = try_formation(formation)
-        if lineup is not None:
-            merit_sum = lineup['player_merit'].sum()
-            if merit_sum > best_merit:
-                best_merit = merit_sum
-                best = lineup
-
-    return best
-'''
-def determine_seconds(team_stats):
-    import math
-    import pandas as pd
-
-    # --- 1. Calculate player merit ---
-    for index, player in team_stats.iterrows():
-        player_merit_sum = (math.sqrt(player['seasons_played']) +
-                            player['NBA All-Star'] * 2 +
-                            player['All-NBA-First'] * 4.5 +
-                            player['All-NBA-Second'] * 3.5 +
-                            player['All-NBA-Third'] * 2.5 +
-                            player['Championships'] * 2 +
-                            player['MVP'] * 5 +
-                            player['FMVP'] * 4 +
-                            player['DPOY'] * 2.5 +
-                            player['All-Defensive-First'] * 1.8 +
-                            player['All-Defensive-Second'] * 1.3)
-
-        points_generated = (player['season_PPG'] * player['season_GP'] +
-                            player['season_APG'] * player['season_GP'] * 2.33)
-        rebounds_generated = player['season_RBG'] * player['season_GP'] * 1.15
-        defensive_contribution = (player['season_SPG'] * player['season_GP'] * 2.25 +
-                                  player['season_BPG'] * player['season_GP'] * 2)
-        turnovers_loss = player['season_TPG'] * player['season_GP'] * 2.25
-
-        net_contribution = points_generated + rebounds_generated + defensive_contribution - turnovers_loss
-
-        if player_merit_sum < 5:
-            player_merit_sum = 5
-
-        team_stats.at[index, 'player_merit'] = net_contribution * math.log(player_merit_sum)
-
-    # --- 2. Sort by merit ---
-    team_stats.sort_values(by='player_merit', ascending=False, inplace=True)
-
-    # --- 3. Select best starting 5 formation ---
-    starters = choose_best_formation(team_stats)
-    if starters is None:
-        starters = team_stats.head(5)
-
-    # --- 4. Assign starter/bench roles ---
-    team_stats['role'] = 'Bench'
-    team_stats.loc[starters.index, 'role'] = 'Starter'
-
-    # --- 5. Initialize seconds column ---
-    team_stats['seconds'] = 0.0
-    total_game_seconds = 240 * 60  # 14,400 seconds
-
-    # Starter allocation
-    starter_seconds_total = 160 * 60  # 9,600 seconds for 5 starters
-    min_starter_seconds = 25 * 60
-    max_starter_seconds = 42 * 60
-
-    starters_seconds = starters['player_merit'] / starters['player_merit'].sum() * starter_seconds_total
-    starters_seconds = starters_seconds.clip(lower=min_starter_seconds, upper=max_starter_seconds)
-
-    # Rescale back to exactly starter_seconds_total
-    starters_seconds *= starter_seconds_total / starters_seconds.sum()
-    team_stats.loc[starters.index, 'seconds'] = starters_seconds
-
-    # Bench allocation (top 5)
-    bench_seconds_total = total_game_seconds - team_stats['seconds'].sum()
-    bench = team_stats[team_stats['role'] == 'Bench']
-    top5_bench = bench.nlargest(7, 'player_merit')
-
-    if not top5_bench.empty and bench_seconds_total > 0:
-        bench_merit_sum = top5_bench['player_merit'].sum()
-        if bench_merit_sum > 0:
-            bench_seconds = top5_bench['player_merit'] / bench_merit_sum * bench_seconds_total
-        else:
-            bench_seconds = [bench_seconds_total / len(top5_bench)] * len(top5_bench)
-        team_stats.loc[top5_bench.index, 'seconds'] = bench_seconds
-
-    # --- 6. Final adjustments ---
-    # Clip to reasonable max for bench
-    team_stats['seconds'] = team_stats['seconds'].clip(lower=0, upper=32*60)
-
-    # Rescale total seconds to exactly total_game_seconds
-    total_seconds = team_stats['seconds'].sum()
-    if total_seconds > 0:
-        team_stats['seconds'] = team_stats['seconds'] * (total_game_seconds / total_seconds)
-
-    # Round to nearest second
-    team_stats['seconds'] = team_stats['seconds'].round().astype(int)
-
-    # --- 7. Remove last 5 unused players ---
-    team_stats = team_stats[team_stats['seconds'] > 0].copy()
-
-    return team_stats
-'''
-
-def 
-
-
-
-def determine_seconds_and_make_team(team_data):
-
-    players_by_merit = []
-
-    for player_name, player_info in team_data.items():
-        awards = player_info.get('awards', {})
-        stats = player_info.get('stats', {})
-
-        # --- award merit ---
-        award_merit_sum = (math.sqrt(stats.get('total_games', 0)) +
-                           awards.get('NBA All-Star', 0) * 2 +
-                           awards.get('All-NBA-First', 0) * 4.5 +
-                           awards.get('All-NBA-Second', 0) * 3.5 +
-                           awards.get('All-NBA-Third', 0) * 2.5 +
-                           awards.get('Championships', 0) * 2 +
-                           awards.get('MVP', 0) * 5 +
-                           awards.get('FMVP', 0) * 4 +
-                           awards.get('DPOY', 0) * 3.5 +
-                           awards.get('All-Defensive-First', 0) * 1.8 +
-                           awards.get('All-Defensive-Second', 0) * 1.3)
-
-        # --- offensive merit ---
-        points_contributed = stats.get('PPG',0) * stats.get('total_games', 0)
-        assists_contributed = stats.get('APG',0) * stats.get('total_games', 0)
-        if stats.get('FG3_PCT',0) > 0.38:
-            points_contributed *= 1.5
-        offensive_merit = math.sqrt(points_contributed * assists_contributed)  # use sqrt to reduce scale
-
-        # --- defensive merit ---
-        steals_generated = stats.get('SPG',0) * stats.get('total_games', 0)
-        blocks_generated = stats.get('BPG',0) * stats.get('total_games', 0)
-        turnovers_generated = stats.get('TPG',0) * stats.get('total_games', 0)
-        defensive_merit = math.sqrt(steals_generated * blocks_generated) - turnovers_generated/ 10
-
-        # --- combine with weighted sum ---
-        merit = int(award_merit_sum * 0.25 + offensive_merit * 0.45 + defensive_merit * 0.3)
-
-        # optional floor to avoid very small numbers
-        merit = max(merit, 100)
-        players_by_merit.append((player_name,merit))
-
-        #print(f"player: {player_name} merit: {merit}")
-    # Sort Players By Merit:
-    players_by_merit.sort(key=lambda x: x[1], reverse=True)
-
-    # Print sorted
-    for name, merit in players_by_merit:
-        print(f"{name}: {merit}")
-
-
-
-
-
-
-
-
+import numpy as np
 
 class PlayerBoxScore:
-    def __init__(self,Player_id,Player_name):
+    def __init__(self,Player_name):
         self.name = Player_name
-        self.id = Player_id
         self.points = 0
         self.ast = 0
         self.oreb = 0
@@ -279,55 +35,220 @@ class PlayerBoxScore:
         self.plus_minus = 0
 
 class Player:
-    def __init__(self,player_df):
-        self.name = player_df['full_name']
-        self.id = player_df['player_id']
-        self.ppg = player_df['season_PPG']
-        self.apg = player_df['season_APG']
-        self.rpg = player_df['season_RBG']
-        self.spg = player_df['season_SPG']
-        self.bpg = player_df['season_BPG']
-        self.tpg = player_df['season_TPG']
-        self.gp = player_df['season_GP']
-        self.FGM = player_df['season_FGM']
-        self.FGA = player_df['season_FGA']
-        self.FG_PCT = player_df['season_FG_PCT']
-        self.FG3M = player_df['season_FG3M']
-        self.FG3A = player_df['season_FG3A']
-        self.FG3_PCT = player_df['season_FG3_PCT']
-        self.FTM = player_df['season_FTM']
-        self.FTA= player_df['season_FTA']
-        self.FT_PCT = player_df['season_FT_PCT']
-        self.role = player_df['role']
-        self.position = player_df['Position']
-        
-        #calculate tendencies
-        '''
-        self.two_point_tendency = (self.FGM - self.FG3M) / self.FGA if self.FGA > 0 else 0
-        self.three_point_tendency = self.FG3M / self.FGA if self.FGA > 0 else 0
+    def __init__(self, player, player_data):
+        self.name = player
+        stats = player_data.get('stats', {})
+        awards = player_data.get('awards', {})
 
-        ''' 
-        self.total_seconds = 0 #total seconds played in game
-        self.recommended_seconds = player_df['seconds']
+        # --- Stats ---
+        self.ppg = stats.get('PPG', 0)
+        self.apg = stats.get('APG', 0)
+        self.rpg = stats.get('RBG', 0)
+        self.spg = stats.get('SPG', 0)
+        self.bpg = stats.get('BPG', 0)
+        self.tpg = stats.get('TPG', 0)
+        self.gp = stats.get('total_games', 0)
+        self.FGM = stats.get('FGM', 0)
+        self.FGA = stats.get('FGA', 0)
+        self.FG_PCT = stats.get('FG_PCT', 0)
+        self.FG3M = stats.get('FG3M', 0)
+        self.FG3A = stats.get('FG3A', 0)
+        self.FG3_PCT = stats.get('FG3_PCT', 0)
+        self.FTM = stats.get('FTM', 0)
+        self.FTA = stats.get('FTA', 0)
+        self.FT_PCT = stats.get('FT_PCT', 0)
+
+
+        # --- Attributes ---
+        self.position = player_data.get('Position', 'Unknown')
+        self.role = player_data.get('role', 'Bench')
+        self.height = player_data.get('height', 0)
+        self.weight = player_data.get('weight', 0)
+        self.merit = 0
+
+        # --- Timing ---
+        self.total_seconds = 0
+        self.recommended_seconds = player_data.get('seconds', 0)
+        self.game_recommended_seconds = 0
         self.stint_seconds = 0
-        self.bench_stint_seconds  = 0 #seconds played in stint
-        self.box = PlayerBoxScore(self.id,self.name)
+        self.bench_stint_seconds = 0
 
-        
-
-
-        
+        self.box = PlayerBoxScore(self.name)
 
 
 class Team:
-    def __init__(self,team_df):
-        # Create Player objects
-        self.players = {row['player_id']: Player(row) for _, row in team_df.iterrows()}
+    def __init__(self, team_dict):
+
+        self.players = {pid: Player(pid, pdata) for pid, pdata in team_dict.items()}
         self.starters = [p for p in self.players.values() if p.role == 'Starter']
-        self.original_starters = [p for p in self.players.values() if p.role == 'Starter']
+        self.original_starters = None
         self.bench = [p for p in self.players.values() if p.role == 'Bench']
+        self.original_bench = None
         self.wins = 0
         self.losses = 0
+        self.name = ""
+        self.schedule = ""
+
+
+
+
+def choose_best_formation(team: Team):
+    """
+    Select the best starting 5 from a Team object based on player merit.
+    Returns a list of Player objects for starters.
+    """
+
+    # Helper to select players for a formation
+    def try_formation(requirements):
+        chosen = []
+        remaining = list(team.players.values())
+        for pos, count in requirements.items():
+            # Filter players by position
+            candidates = [p for p in remaining if pos in p.position.upper()]
+            # Sort by merit
+            candidates.sort(key=lambda x: x.merit, reverse=True)
+            if len(candidates) < count:
+                return None  # formation not possible
+            # Take top `count` players
+            top_players = candidates[:count]
+            chosen.extend(top_players)
+            # Remove chosen from remaining
+            for p in top_players:
+                remaining.remove(p)
+        return chosen
+
+    # Define formations
+    formations = [
+        {"G": 3, "F": 2},          # G G G F F
+        {"G": 2, "F": 2, "C": 1},  # G G F F C
+        {"G": 1, "F": 3, "C": 1},  # G F F F C
+        {"G": 2, "F": 3}           # G G F F F
+    ]
+
+    best = None
+    best_merit = -1
+    for formation in formations:
+        lineup = try_formation(formation)
+        if lineup is not None:
+            merit_sum = sum(p.merit for p in lineup)
+            if merit_sum > best_merit:
+                best_merit = merit_sum
+                best = lineup
+
+    # Update team starters and bench
+    if best:
+        team.starters = best
+        team.bench = [p for p in team.players.values() if p not in best]
+
+    
+
+def determine_seconds_and_make_team(team_data, top_bench_boost=3):
+    import math
+
+    # --- Initialize team ---
+    team = Team(team_data)
+
+    # --- Calculate player merit ---
+    for player_name, player_info in team_data.items():
+        awards = player_info.get('awards', {})
+        stats = player_info.get('stats', {})
+
+        award_merit_sum = ((stats.get('total_games', 0) ** (1/3)) +
+                           awards.get('NBA All-Star', 0) * 2.5 +
+                           awards.get('All-NBA-First', 0) * 5 +
+                           awards.get('All-NBA-Second', 0) * 4 +
+                           awards.get('All-NBA-Third', 0) * 3 +
+                           awards.get('Championships', 0) * 2 +
+                           awards.get('MVP', 0) * 8 +
+                           awards.get('FMVP', 0) * 4 +
+                           awards.get('DPOY', 0) * 3.5 +
+                           awards.get('All-Defensive-First', 0) * 1.8 +
+                           awards.get('All-Defensive-Second', 0) * 1.3)
+
+        points_contributed = stats.get('PPG', 0) * stats.get('total_games', 0)
+        assists_contributed = stats.get('APG', 0) * stats.get('total_games', 0)
+        if stats.get('FG3_PCT', 0) > 0.38 and stats.get('FG3M', 0) > 100:
+            points_contributed *= 1.5
+        offensive_merit = math.sqrt(points_contributed * assists_contributed)
+
+        steals_generated = stats.get('SPG', 0) * stats.get('total_games', 0)
+        blocks_generated = stats.get('BPG', 0) * stats.get('total_games', 0)
+        turnovers_generated = stats.get('TPG', 0) * stats.get('total_games', 0)
+        defensive_merit = math.sqrt(steals_generated * blocks_generated) - turnovers_generated / 10
+
+        merit = int(award_merit_sum * 0.15 + offensive_merit * 0.55 + defensive_merit * 0.45)
+        merit = max(merit, 60)
+
+        if player_name in team.players:
+            team.players[player_name].merit = merit
+
+    # --- Choose starters ---
+    choose_best_formation(team)
+
+    # --- Assign roles ---
+    for player in team.players.values():
+        player.role = "Starter" if player in team.starters else "Bench"
+
+    # --- Parameters ---
+    min_starter_seconds = 25 * 60
+    max_starter_seconds = 42 * 60
+    min_bench_seconds = 0 * 60
+    max_bench_seconds = 32 * 60
+    target_starters_total = 160 * 60  # 5 starters
+    target_bench_total = 80 * 60      # bench total
+
+    # --- Nonlinear merit-to-seconds scaling ---
+    def merit_to_seconds(merit, base_merit, base_seconds, max_seconds):
+        if merit <= base_merit:
+            return base_seconds
+        scaled = base_seconds + math.sqrt(max(0, merit - base_merit)) * 0.4 * 60
+        return min(max(scaled, base_seconds), max_seconds)
+
+    # --- Initial recommended seconds ---
+    for p in team.starters:
+        p.game_recommended_seconds = merit_to_seconds(p.merit, 400, min_starter_seconds, max_starter_seconds)
+    for p in team.bench:
+        p.game_recommended_seconds = merit_to_seconds(p.merit, 60, min_bench_seconds, max_bench_seconds)
+
+    # --- Scale starters proportionally ---
+    starters = list(team.starters)
+    starter_sum = sum(p.game_recommended_seconds for p in starters)
+    starter_scale = target_starters_total / starter_sum if starter_sum > 0 else 1.0
+    for p in starters:
+        p.game_recommended_seconds = min(max(p.game_recommended_seconds * starter_scale, min_starter_seconds), max_starter_seconds)
+
+    # --- Scale bench proportionally, top N chosen by merit ---
+    bench = list(team.bench)
+    if bench:
+        # Sort bench by merit descending
+        bench_sorted = sorted(bench, key=lambda x: x.merit, reverse=True)
+        top_n = min(top_bench_boost, len(bench_sorted))
+
+        # Boost top N bench players slightly
+        for i, p in enumerate(bench_sorted[:top_n]):
+            p.game_recommended_seconds *= 1.1  # 10% boost
+
+        # Scale all bench proportionally to fit target_bench_total
+        bench_sum_after_boost = sum(p.game_recommended_seconds for p in bench_sorted)
+        scale_factor = target_bench_total / bench_sum_after_boost if bench_sum_after_boost > 0 else 1.0
+        for p in bench_sorted:
+            p.game_recommended_seconds = min(max(p.game_recommended_seconds * scale_factor, min_bench_seconds), max_bench_seconds)
+
+    # --- Final normalization for all players to match 48*5 minutes total ---
+    all_players = starters + bench
+    total_after = sum(p.game_recommended_seconds for p in all_players)
+    final_factor = (48 * 60 * 5) / total_after if total_after > 0 else 1.0
+    for p in all_players:
+        p.game_recommended_seconds = round(p.game_recommended_seconds * final_factor, 1)
+    
+    team.original_starters = list(team.starters)
+    team.original_bench = list(team.bench)
+
+    return team
+
+
+
+
 
 class Game:
     def __init__(self,team1,team2,minutes):
@@ -421,34 +342,42 @@ class Game:
 
         # Print box scores
         def print_box(team, name):
-            log(f"--- {name} Box Score ---")
-            total_secs = 0
-            total_shot_attempts = 0
-            total_shots_made = 0
-            for p in team.starters + team.bench:
-                rec_mins = p.recommended_seconds // 60
-                rec_secs = p.recommended_seconds % 60
+            log(f"=== {name} Box Score ===\n")
 
+            def print_players(players, label):
+                log(f"--- {label} ---")
+                total_secs = 0
+                total_shot_attempts = 0
+                total_shots_made = 0
 
-                log(f"{p.name}'s recommended minutes: {rec_mins}:{rec_secs:02d}")
-                total_secs += p.total_seconds
-                total_shots_made += p.box.fgm
-                total_shot_attempts += p.box.fga
-                #convert total seconds into minutes : seconds
-                minutes = p.total_seconds // 60
-                seconds = p.total_seconds % 60
+                for p in players:
+                    rec_mins = int(p.game_recommended_seconds) // 60
+                    rec_secs = int(p.game_recommended_seconds) % 60
+                    log(f"{p.name}'s recommended minutes: {rec_mins}:{rec_secs:02d}")
 
-                b = getattr(p, "box", None)
-                if b:
-                    log(f"{p.name}, {p.position}: PTS {b.points}, AST {b.ast}, REB {b.oreb + b.dreb}, TOV {b.tov}, "
-                        f"FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, "
-                        f"FTM/FTA {b.ftm}/{b.fta}, "
-                        f"STL {b.stl}, BLK {b.blk}, Time {minutes}:{seconds:02d}"
-                        f",plus/minus: {b.plus_minus}"
-                        f"fouls: {b.foul}")
+                    total_secs += p.total_seconds
+                    total_shots_made += p.box.fgm
+                    total_shot_attempts += p.box.fga
+
+                    minutes = p.total_seconds // 60
+                    seconds = p.total_seconds % 60
+                    b = getattr(p, "box", None)
+                    if b:
+                        log(f"{p.name}, {p.position}: PTS {b.points}, AST {b.ast}, REB {b.oreb + b.dreb}, "
+                            f"TOV {b.tov}, FGM/FGA {b.fgm}/{b.fga}, 3PM/3PA {b.tpm}/{b.tpa}, "
+                            f"FTM/FTA {b.ftm}/{b.fta}, STL {b.stl}, BLK {b.blk}, "
+                            f"Time {minutes}:{seconds:02d}, Plus/Minus {b.plus_minus}, Fouls {b.foul}")
+
+                log(f"{label} total seconds: {total_secs}")
+                log(f"{label} shots made: {total_shots_made}, shots attempted: {total_shot_attempts}\n")
+
+            # Print starters first
+            print_players(team.original_starters, "Starters")
+
+            # Then print bench
+            print_players(team.original_bench, "Bench")
+
             log("\n")
-            print(f"team total seconds {total_secs}\n")
-            print(f"shots made: {total_shots_made}  shots attempted: {total_shot_attempts}\n")
 
         print_box(self.team1, "Team1")
         print_box(self.team2, "Team2")
@@ -473,138 +402,119 @@ class Game:
 
     def perform_substitution(self, team, actions, players_on_court, original_starters):
         """
-        Improved substitution model with fatigue awareness:
-        - Avoids excessive consecutive minutes.
-        - Ensures starters get realistic playing time near recommended values.
-        - Always subs out fouled-out or overplayed players.
+        Substitution with fatigue awareness and flexible positions:
+        - Avoid excessive consecutive minutes.
+        - Ensure realistic playing time.
+        - Always sub out fouled-out or overplayed players.
+        - Flexible position rules (e.g., C can replace F, F can replace C).
         """
         MAX_GAME_SECONDS = 48 * 60
-        MIN_STINT = 60 * 3          # Minimum 3 minutes before considering sub
-        MAX_STINT = 60 * random.randint(12,24)         # Max 10 consecutive minutes
-        MIN_REST = 60 * 2.5         # Minimum rest time before re-entry
-        MAX_FOULS = 5               # 6th foul = foul out
+        MIN_STINT = 60 * 3
+        MAX_STINT = 60 * random.randint(12, 24)
+        MIN_REST = 60 * 2.5
+        MAX_FOULS = 5
 
-        # --- Mandatory subs: fouled out or severely overplayed ---
+        def get_compatible_bench(sub_out, bench_list):
+            compatible = []
+            for b in bench_list:
+                # Exact position match
+                if b.position[0].lower() == sub_out.position[0].lower():
+                    compatible.append(b)
+                # Flexibility: C <-> F
+                elif sub_out.position[0].lower() in ["c","f"] and b.position[0].lower() in ["c","f"]:
+                    compatible.append(b)
+                # Optionally extend: G <-> SG/PG, etc.
+            return compatible
+
+        # --- Mandatory subs ---
         mandatory_subs = [
             s for s in team.starters
-            if s.box.foul >= 6 or s.total_seconds >= s.recommended_seconds * random.uniform(0.9,1.1)
+            if s.box.foul >= 6 or s.total_seconds >= s.game_recommended_seconds * random.uniform(0.9, 1.1)
         ]
 
+        for sub_out in mandatory_subs:
+            bench_candidates = [
+                b for b in team.bench
+                if b.total_seconds < MAX_GAME_SECONDS and b.box.foul < MAX_FOULS
+            ]
+            if not bench_candidates:
+                continue
+
+            compatible_bench = get_compatible_bench(sub_out, bench_candidates)
+            if compatible_bench:
+                chosen_pool = compatible_bench
+                actions += "Compatible Replacement Bench Found!\n"
+            else:
+                chosen_pool = bench_candidates
+                actions += "Compatible Replacement Bench Not Found!\n"
+
+            # Weighted selection based on remaining recommended seconds
+            remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in chosen_pool]
+            total_needed = sum(remaining_needed)
+            weights = [r / total_needed for r in remaining_needed]
+            sub_in = random.choices(chosen_pool, weights=weights, k=1)[0]
+
+            # Swap players
+            idx_starter = team.starters.index(sub_out)
+            idx_bench = team.bench.index(sub_in)
+            team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
+            players_on_court[:] = team.starters
+
+            actions += (
+                f"Forced Substitution: {sub_out.name} OUT ({sub_out.box.foul} fouls, "
+                f"{sub_out.stint_seconds//60:.1f} min) — {sub_in.name} IN\n"
+            )
+
+            # Reset stint timers
+            sub_out.stint_seconds = 0
+            sub_in.stint_seconds = 0
+            sub_in.bench_stint_seconds = 0
+
         if mandatory_subs:
-            for sub_out in mandatory_subs:
-                bench_candidates = [
-                    b for b in team.bench
-                    if b.total_seconds < MAX_GAME_SECONDS
-                    and b.box.foul < MAX_FOULS
-                ]
-                if not bench_candidates:
-                    continue
-
-                remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in bench_candidates]
-                weights = [r / sum(remaining_needed) for r in remaining_needed]
-                sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
-                #check for position
-                # Filter bench candidates that match the first letter of the position
-                compatible_bench = [
-                    b for b in bench_candidates if b.position[0].lower() == sub_out.position[0].lower()
-                ]
-
-                if compatible_bench:
-                    actions += (
-                    f"Compatible Replacement Bench Found!\n")
-                    # Weighted choice among compatible players
-                    remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in compatible_bench]
-                    total_needed = sum(remaining_needed)
-                    weights = [r / total_needed for r in remaining_needed]
-                    sub_in = random.choices(compatible_bench, weights=weights, k=1)[0]
-                else:
-                    actions += (
-                    f"Compatible Replacement Bench Not Found!\n")
-                    # Fallback: pick any bench player (ignore position)
-                    sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
-                # Swap
-                idx_starter = team.starters.index(sub_out)
-                idx_bench = team.bench.index(sub_in)
-                team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
-                players_on_court[:] = team.starters
-
-                actions += (
-                    f"Forced Substitution: {sub_out.name} OUT ({sub_out.box.foul} fouls, "
-                    f"{sub_out.stint_seconds//60:.1f} min) — {sub_in.name} IN\n"
-                )
-
-                sub_out.stint_seconds = 0
-                sub_in.stint_seconds = 0
-                sub_in.bench_stint_seconds = 0
-
             return actions
 
-        # --- Optional subs: fatigue or foul management ---
+        # --- Optional subs (fatigue/foul) ---
         optional_subs = []
         for s in team.starters:
-            if s.box.foul >= 5:
+            fatigue = (s.stint_seconds / MAX_STINT) * 0.7 + (s.total_seconds / s.game_recommended_seconds) * 0.3
+            if s.box.foul >= 5 or s.stint_seconds >= MAX_STINT or (fatigue > 1.0 and s.stint_seconds >= MIN_STINT):
                 optional_subs.append(s)
-            elif s.stint_seconds >= MAX_STINT:
-                optional_subs.append(s)
-            else:
-                # Compute fatigue score
-                fatigue = (s.stint_seconds / MAX_STINT) * 0.7 + (s.total_seconds / s.recommended_seconds) * 0.3
-                if fatigue > 1.0 and s.stint_seconds >= MIN_STINT:
-                    optional_subs.append(s)
 
         if not optional_subs:
             return actions
 
-        # --- Pick sub out: highest fatigue ---
-        sub_out = max(optional_subs, key=lambda s: s.stint_seconds / MAX_STINT + s.total_seconds / s.recommended_seconds)
+        sub_out = max(optional_subs, key=lambda s: s.stint_seconds / MAX_STINT + s.total_seconds / s.game_recommended_seconds)
 
-        # --- Eligible bench players ---
         bench_candidates = [
             b for b in team.bench
-            if b.bench_stint_seconds >= MIN_REST
-            and b.total_seconds < MAX_GAME_SECONDS
-            and b.box.foul < MAX_FOULS
+            if b.bench_stint_seconds >= MIN_REST and b.total_seconds < MAX_GAME_SECONDS and b.box.foul < MAX_FOULS
         ]
-
         if not bench_candidates:
             return actions
 
-        # Weighted by how much they *need* to play
-        remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in bench_candidates]
+        compatible_bench = get_compatible_bench(sub_out, bench_candidates)
+        chosen_pool = compatible_bench if compatible_bench else bench_candidates
+        if compatible_bench:
+            actions += "Compatible Replacement Bench Found!\n"
+        else:
+            actions += "Compatible Replacement Bench Not Found!\n"
+
+        remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in chosen_pool]
         total_needed = sum(remaining_needed)
         weights = [r / total_needed for r in remaining_needed]
-        sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
-        compatible_bench = [
-            b for b in bench_candidates if b.position[0].lower() == sub_out.position[0].lower()
-        ]
-        if compatible_bench:
-            actions += (
-            f"Compatible Replacement Bench Found!\n")
-            # Weighted choice among compatible players
-            remaining_needed = [max(b.recommended_seconds - b.total_seconds, 1) for b in compatible_bench]
-            total_needed = sum(remaining_needed)
-            weights = [r / total_needed for r in remaining_needed]
-            sub_in = random.choices(compatible_bench, weights=weights, k=1)[0]
-        else:
-            actions += (
-            f"Compatible Replacement Bench Not Found!\n")
-            # Fallback: pick any bench player (ignore position)
-            sub_in = random.choices(bench_candidates, weights=weights, k=1)[0]
-    # Swap
+        sub_in = random.choices(chosen_pool, weights=weights, k=1)[0]
 
-        # --- Perform substitution ---
+        # Swap players
         idx_starter = team.starters.index(sub_out)
         idx_bench = team.bench.index(sub_in)
         team.starters[idx_starter], team.bench[idx_bench] = sub_in, sub_out
         players_on_court[:] = team.starters
 
         actions += (
-            f"Substitution: {sub_out.name} OUT ({sub_out.stint_seconds//60:.1f} min, "
-            f"stint {sub_out.stint_seconds//60:.1f} min) — "
+            f"Substitution: {sub_out.name} OUT ({sub_out.stint_seconds//60:.1f} min) — "
             f"{sub_in.name} IN (rested {sub_in.bench_stint_seconds//60:.1f} min)\n"
         )
 
-        # Reset stint timers
         sub_out.stint_seconds = 0
         sub_in.stint_seconds = 0
         sub_in.bench_stint_seconds = 0
@@ -612,18 +522,13 @@ class Game:
         return actions
 
 
-
-
-
-
-    
     def free_throw(self,player,num,action):
 
         """
         Simulate Free throw attempts
         """
         for __ in range(num):
-            if random.random() <= player.FT_PCT / random.gauss(0.95,0.15):
+            if random.random() <= player.FT_PCT:
                 player.box.ftm += 1
                 player.box.points += 1
                 action += f"{player.name} makes free throw\n"
@@ -676,31 +581,24 @@ class Game:
         defenders_bench = defense.bench
 
         #adjust tendencies for players to have the ball
-        weights = []
+        total_team_apg = sum(p.apg for p in players_on_court)
+        pass_weights = []
         for p in players_on_court:
+            # Fraction of team's assists player typically accounts for, plus small baseline
+            weight = (p.apg ** 3 / max(total_team_apg, 1)) * 0.7 + 0.3
+            pass_weights.append(weight)
 
-            assist_weight = 1 + (p.apg * 1.2 / 5) ** 2 if p.apg >= 5.5 else 1
-            
-            base_weight = (assist_weight + p.ppg * 0.25 + max(0.3, p.FGM / max(p.gp, 1)))
-            if (p.FGA / max(p.gp, 1)) > 11:  # FGA per game exceeds 10
-                base_weight *= (p.FGA ** 2/ p.gp) 
-            weights.append(base_weight)
-            
+        # Pick initial ball handler based on weighted shot probability
+        ball_handler = random.choices(players_on_court, weights=pass_weights, k=1)[0]
 
-
-
-
-
-
-        ball_handler = random.choices(players_on_court, weights=weights, k=1)[0]
+        last_passer = None
+        passes = 0
+        actions = f"{ball_handler.name} starts with the ball\n"
 
         #shot_clock = 24
         possession_time = 0
-        actions = f"{ball_handler.name} starts with the ball\n"
-        passes = 0
         last_passer = None
         points = 0
-        result = None
 
         rem = int(remaining_secs)
 
@@ -720,7 +618,7 @@ class Game:
 
             # --- Calculate probabilities ---
             turnover_prob = min(ball_handler.tpg / max(ball_handler.gp,1) * 0.06 + 0.012, 0.03)
-            shooting_volume = min(ball_handler.FGM / max(ball_handler.gp,1)/20,1)
+            shooting_volume = min((ball_handler.FGM / max(ball_handler.gp,1))/20,1)
             shooting_efficiency = ball_handler.FGM / max(ball_handler.FGA,1) if ball_handler.FGA else random.uniform(0.35,0.55)
 
             # Low-volume boost for efficient shooters
@@ -732,7 +630,7 @@ class Game:
 
             # Normalize weights to probabilities
             total_offense = score_weight * 1.5 + assist_weight
-            shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.4
+            shot_prob = (score_weight / total_offense) * (1 - turnover_prob) * 0.6
             shot_prob = min(shot_prob,0.6)
 
             # Factor goes from 1 (lots of time) → 0 (no time left)
@@ -777,8 +675,8 @@ class Game:
 
             # --- PASS ACTION ---
             if action == "pass":
-                steal_weights = [math.pow(p.spg,2) / max(p.gp, 1) + 0.01 for p in defenders_on_court]
-                if random.random() < 0.03:
+                steal_weights = [math.pow(p.spg,3) / max(p.gp, 1) + 0.02 for p in defenders_on_court]
+                if random.random() < 0.04:
                     stealer = random.choices(defenders_on_court, weights=steal_weights, k=1)[0]
                     stealer.box.stl += 1
                     ball_handler.box.tov += 1
@@ -799,14 +697,14 @@ class Game:
                 for defender in defenders_on_court:
 
                     #player bait odds are better if they attempt more free throws
-                    foul_weight = ball_handler.FTA/ ball_handler.gp
+                    foul_weight = ball_handler.FTA/ max(ball_handler.gp,1)
                     foul_tendency = 1 / (1 + math.exp(-0.6 * (foul_weight - 5)))
                     foul_factor = foul_tendency * 0.2
 
-                    if random.random() < foul_factor * 0.1:  # 2% chance per defender per action
+                    if random.random() < foul_factor * 0.08:  # 2% chance per defender per action
                         defender.box.foul += 1
     
-                        actions += (f"{defender.name} commits a foul on {ball_handler.name}!")
+                        actions += (f"{defender.name} commits a foul on {ball_handler.name}!\n")
                         
                         # Check for foul-out
                         if defender.box.foul == 6:
@@ -868,10 +766,13 @@ class Game:
                 fg_chance = fg_chance if fg_chance else 0.45
 
                 block_weights = [
-                    ((p.bpg / max(p.gp, 1)) * 3 + 0.01) * (3 if p.bpg > 1 else 1)
-                    * (3 if p.position[0].lower() == "c" else 1)
+                    ((p.bpg / max(p.gp, 1)) * 3 + 0.01)                     # base BPG factor
+                    * (3 if p.bpg > 1 else 1)                               # high-block bonus
+                    * (3 if p.position[0].lower() == "c" else 1)            # center bonus
+                    * (3 if getattr(p, "height", 0) > 81 else 1)            # height bonus (in inches)
                     for p in defenders_on_court
                 ]
+
 
 
                 if random.random() < 0.04:
@@ -930,8 +831,15 @@ class Game:
                         break
 
                     #offensive rebound!
-                    team_off_reb_rate = (sum(p.rpg for p in players_on_court) * random.gauss(0.4,0.15) 
-                                            / max(1, sum(p.rpg for p in players_on_court + defenders_on_court)))
+                    # --- Offensive rebound probability ---
+                    #print(players_on_court)
+
+                    total_team_rpg = sum(p.rpg for p in players_on_court)
+                    total_def_rpg = sum(p.rpg for p in players_on_court + defenders_on_court)
+
+                    team_off_reb_rate = (total_team_rpg * random.gauss(0.4, 0.15) 
+                                        / max(1, total_def_rpg))
+
                     
                     if random.random() < team_off_reb_rate:
                         # Offensive rebound
@@ -980,19 +888,14 @@ class Game:
         for p in players_bench + defenders_bench:
             p.bench_stint_seconds = getattr(p, "bench_stint_seconds", 0) + possession_time
 
-        # --- Perform substitutions ---
-
-
-        MIN_POSSESSIONS_BETWEEN_SUBS = 8
+        # --- Perform substitutions --_
+        MIN_POSSESSIONS_BETWEEN_SUBS = 6
         if (self.poss_counter1 - self.last_sub_poss1) >= MIN_POSSESSIONS_BETWEEN_SUBS:
             actions = self.perform_substitution(self.team1,actions,self.team1.starters,self.team1.original_starters)
             self.last_sub_poss1 = self.poss_counter1
         if (self.poss_counter2 - self.last_sub_poss2) >= MIN_POSSESSIONS_BETWEEN_SUBS:
             actions = self.perform_substitution(self.team2,actions,self.team2.starters,self.team2.original_starters)
             self.last_sub_poss2 = self.poss_counter2
-
-        actions += (f"=== Current Score ===\nTeam1: {self.team1_score} Team2: {self.team2_score}\n")
-        self.occurances.append(actions)
 
         return possession_time
 
@@ -1072,7 +975,6 @@ def build_cumulative_data(team, year, json_folder="seasons_json"):
         for season, season_data in player_seasons.items():
             awards = season_data.get("awards", {})
             stats = season_data.get("stats", {})
-
             # Update awards
             for key in cumulative_data[player]["awards"]:
                 cumulative_data[player]["awards"][key] += int(awards.get(key, 0) or awards.get(key, False))
@@ -1093,7 +995,10 @@ def build_cumulative_data(team, year, json_folder="seasons_json"):
             cumulative_data[player]["stats"]["FG3A"] += stats.get("FG3A",0)
             cumulative_data[player]["stats"]["FTM"] += stats.get("FTM",0)
             cumulative_data[player]["stats"]["FTA"] += stats.get("FTA",0)
-            cumulative_data[player]["stats"]["total_games"] += GP
+            #Update height/weight attributes
+            cumulative_data[player]["Position"] = season_data.get("position","Unknown")
+            cumulative_data[player]["height"] = season_data.get("height",0)
+            cumulative_data[player]["weight"] = season_data.get("weight",0)
 
         # Compute percentages and per-game averages
         s = cumulative_data[player]["stats"]
@@ -1114,200 +1019,245 @@ def build_cumulative_data(team, year, json_folder="seasons_json"):
             for key in s:
                 s[key] = 0
 
+        #last season!
     return cumulative_data
-
-
 
 if __name__ == "__main__":
 
-    team1_year = "2016-17"
+    year = "2016-17"
 
-    Team1 = [
-        "Stephen Curry",
-        "Kevin Durant",
-        "Klay Thompson",
-        "Draymond Green",
-        "Zaza Pachulia",
-        "Andre Iguodala",
-        "Shaun Livingston",
-        "David West",
-        "JaVale McGee",
-        "Ian Clark",
-        "Patrick McCaw",
-        "James Michael McAdoo",
-        "Kevon Looney",
-        "Matt Barnes",
-        "Nick Young"
+    # 2016-17 NBA Rosters
+
+    nba_2016_17 = {
+        "Boston Celtics": [
+            "Isaiah Thomas", "Avery Bradley", "Al Horford", "Jae Crowder", "Marcus Smart",
+            "Kelly Olynyk", "Amir Johnson", "Terry Rozier", "Jaylen Brown", "Gerald Green"
+        ],
+        "Brooklyn Nets": [
+            "Jeremy Lin", "Brook Lopez", "Rondae Hollis-Jefferson", "Sean Kilpatrick", "Trevor Booker",
+            "Caris LeVert", "Justin Hamilton", "Isaiah Whitehead"
+        ],
+        "New York Knicks": [
+            "Derrick Rose", "Carmelo Anthony", "Kristaps Porzingis", "Courtney Lee", "Joakim Noah",
+            "Willy Hernangomez", "Brandon Jennings", "Lance Thomas"
+        ],
+        "Philadelphia 76ers": [
+            "Jahlil Okafor", "Joel Embiid", "Dario Saric", "Robert Covington", "T.J. McConnell",
+            "Sergio Rodriguez", "Gerald Henderson"
+        ],
+        "Toronto Raptors": [
+            "Kyle Lowry", "DeMar DeRozan", "Serge Ibaka", "Jonas Valanciunas", "Norman Powell",
+            "Cory Joseph", "P.J. Tucker", "Terrence Ross"
+        ],
+        "Chicago Bulls": [
+            "Rajon Rondo", "Jimmy Butler", "Dwyane Wade", "Robin Lopez", "Nikola Mirotic",
+            "Bobby Portis", "Jerian Grant", "Michael Carter-Williams"
+        ],
+        "Cleveland Cavaliers": [
+            "Kyrie Irving", "LeBron James", "Kevin Love", "Tristan Thompson", "J.R. Smith",
+            "Iman Shumpert", "Richard Jefferson", "Channing Frye"
+        ],
+        "Detroit Pistons": [
+            "Reggie Jackson", "Andre Drummond", "Tobias Harris", "Kentavious Caldwell-Pope", "Stanley Johnson",
+            "Marcus Morris", "Jon Leuer", "Ish Smith"
+        ],
+        "Indiana Pacers": [
+            "Paul George", "Jeff Teague", "Myles Turner", "Monta Ellis", "Thaddeus Young",
+            "C.J. Miles", "Glenn Robinson III", "Al Jefferson"
+        ],
+        "Milwaukee Bucks": [
+            "Giannis Antetokounmpo", "Malcolm Brogdon", "Jabari Parker", "Matthew Dellavedova", "Tony Snell",
+            "John Henson", "Mirza Teletovic", "Greg Monroe"
+        ],
+        "Atlanta Hawks": [
+            "Dennis Schroder", "Paul Millsap", "Dwight Howard", "Kent Bazemore", "Thabo Sefolosha",
+            "Kyle Korver", "Tim Hardaway Jr.", "Mike Muscala"
+        ],
+        "Charlotte Hornets": [
+            "Kemba Walker", "Nicolas Batum", "Michael Kidd-Gilchrist", "Marvin Williams", "Cody Zeller",
+            "Frank Kaminsky", "Jeremy Lamb", "Spencer Hawes"
+        ],
+        "Miami Heat": [
+            "Goran Dragic", "Hassan Whiteside", "Dion Waiters", "Josh Richardson", "James Johnson",
+            "Tyler Johnson", "Wayne Ellington", "Luke Babbitt"
+        ],
+        "Orlando Magic": [
+            "Elfrid Payton", "Nikola Vucevic", "Aaron Gordon", "Evan Fournier", "Terrence Ross",
+            "Bismack Biyombo", "Jeff Green", "Mario Hezonja"
+        ],
+        "Washington Wizards": [
+            "John Wall", "Bradley Beal", "Otto Porter Jr.", "Markieff Morris", "Marcin Gortat",
+            "Kelly Oubre Jr.", "Trey Burke", "Tomas Satoransky"
+        ],
+        "Denver Nuggets": [
+            "Jamal Murray", "Nikola Jokic", "Gary Harris", "Wilson Chandler", "Danilo Gallinari",
+            "Emmanuel Mudiay", "Jusuf Nurkic", "Kenneth Faried"
+        ],
+        "Minnesota Timberwolves": [
+            "Ricky Rubio", "Andrew Wiggins", "Karl-Anthony Towns", "Zach LaVine", "Gorgui Dieng",
+            "Shabazz Muhammad", "Brandon Rush", "Cole Aldrich"
+        ],
+        "Oklahoma City Thunder": [
+            "Russell Westbrook", "Victor Oladipo", "Steven Adams", "Enes Kanter", "Andre Roberson",
+            "Taj Gibson", "Doug McDermott", "Jerami Grant"
+        ],
+        "Portland Trail Blazers": [
+            "Damian Lillard", "C.J. McCollum", "Al-Farouq Aminu", "Jusuf Nurkic", "Maurice Harkless",
+            "Noah Vonleh", "Ed Davis", "Evan Turner"
+        ],
+        "Utah Jazz": [
+            "Gordon Hayward", "Rudy Gobert", "George Hill", "Rodney Hood", "Derrick Favors",
+            "Joe Johnson", "Alec Burks", "Shelvin Mack"
+        ],
+        "Golden State Warriors": [
+            "Stephen Curry", "Klay Thompson", "Kevin Durant", "Draymond Green", "Zaza Pachulia",
+            "Andre Iguodala", "Shaun Livingston", "David West"
+        ],
+        "Los Angeles Clippers": [
+            "Chris Paul", "Blake Griffin", "DeAndre Jordan", "J.J. Redick", "Austin Rivers",
+            "Jamal Crawford", "Luc Mbah a Moute", "Raymond Felton"
+        ],
+        "Los Angeles Lakers": [
+            "D'Angelo Russell", "Jordan Clarkson", "Julius Randle", "Larry Nance Jr.", "Timofey Mozgov",
+            "Luol Deng", "Brandon Ingram", "Nick Young"
+        ],
+        "Phoenix Suns": [
+            "Eric Bledsoe", "Devin Booker", "T.J. Warren", "Marquese Chriss", "Tyson Chandler",
+            "Jared Dudley", "Alan Williams", "Brandon Knight"
+        ],
+        "Sacramento Kings": [
+            "DeMarcus Cousins", "Rudy Gay", "Darren Collison", "Ben McLemore", "Willie Cauley-Stein",
+            "Ty Lawson", "Garrett Temple", "Skal Labissiere"
+        ],
+        "Dallas Mavericks": [
+            "Deron Williams", "Wesley Matthews", "Harrison Barnes", "Dirk Nowitzki", "Andrew Bogut",
+            "Seth Curry", "Dwight Powell", "Nerlens Noel"
+        ],
+        "Houston Rockets": [
+            "James Harden", "Eric Gordon", "Clint Capela", "Ryan Anderson", "Trevor Ariza",
+            "Lou Williams", "PJ Tucker", "Nene"
+        ],
+        "Memphis Grizzlies": [
+            "Mike Conley", "Marc Gasol", "Zach Randolph", "Tony Allen", "Chandler Parsons",
+            "JaMychal Green", "Vince Carter", "James Ennis"
+        ],
+        "New Orleans Pelicans": [
+            "Jrue Holiday", "Anthony Davis", "DeMarcus Cousins", "ETwaun Moore", "Solomon Hill",
+            "Terrence Jones", "Dante Cunningham", "Tim Frazier"
+        ],
+        "San Antonio Spurs": [
+            "Tony Parker", "Kawhi Leonard", "LaMarcus Aldridge", "Pau Gasol", "Danny Green",
+            "Manu Ginobili", "Patty Mills", "Jonathon Simmons"
+        ]
+    }
+
+    season_data_storage = {}
+
+
+
+    # --------------------------
+    # Teams
+    # --------------------------
+    west_teams = [
+        "Golden State Warriors", "Los Angeles Clippers", "Los Angeles Lakers", "Sacramento Kings", "Phoenix Suns",
+        "San Antonio Spurs", "Houston Rockets", "Dallas Mavericks", "Memphis Grizzlies", "New Orleans Pelicans",
+        "Oklahoma City Thunder", "Portland Trail Blazers", "Denver Nuggets", "Utah Jazz", "Minnesota Timberwolves"
     ]
 
-    team2_year = "2013-14"
-    # 
-    Team2 = [
-    "LeBron James",
-    "Dwyane Wade",
-    "Chris Bosh",
-    "Mario Chalmers",
-    "Rashard Lewis",
-    "Ray Allen",
-    "Norris Cole",
-    "Shane Battier",
-    "Chris Andersen",
-    "Michael Beasley",
-    "James Jones",
-    "Udonis Haslem",
-    "Toney Douglas",
-    "Greg Oden",
-    "Justin Hamilton",
-    "Roger Mason",
-    "DeAndre Liggins",
-    "Joel Anthony"
+    east_teams = [
+        "Cleveland Cavaliers", "Boston Celtics", "Toronto Raptors", "Washington Wizards", "Atlanta Hawks",
+        "Chicago Bulls", "Milwaukee Bucks", "Indiana Pacers", "Detroit Pistons", "Charlotte Hornets",
+        "Miami Heat", "New York Knicks", "Orlando Magic", "Philadelphia 76ers", "Brooklyn Nets"
     ]
 
+    # Divisions (5 teams each)
+    west_divisions = [
+        ["Golden State Warriors", "Los Angeles Clippers", "Los Angeles Lakers", "Sacramento Kings", "Phoenix Suns"],
+        ["San Antonio Spurs", "Houston Rockets", "Dallas Mavericks", "Memphis Grizzlies", "New Orleans Pelicans"],
+        ["Oklahoma City Thunder", "Portland Trail Blazers", "Denver Nuggets", "Utah Jazz", "Minnesota Timberwolves"]
+    ]
 
-    team1_data = build_cumulative_data(Team1,team1_year)
-    team2_data = build_cumulative_data(Team2,team2_year)
-    #print(team1_data)
+    east_divisions = [
+        ["Cleveland Cavaliers", "Boston Celtics", "Toronto Raptors", "Washington Wizards", "Atlanta Hawks"],
+        ["Chicago Bulls", "Milwaukee Bucks", "Indiana Pacers", "Detroit Pistons", "Charlotte Hornets"],
+        ["Miami Heat", "New York Knicks", "Orlando Magic", "Philadelphia 76ers", "Brooklyn Nets"]
+    ]
 
-    determine_seconds_and_make_team(team1_data)
+    all_teams = west_teams + east_teams
+    #print(all_teams)
 
-    #print(team1_data)
+    #try for Golden State:
 
+    all_teams = west_teams + east_teams
+    schedule = {t: {} for t in all_teams}
 
+    def add_matchup(a, b, games):
+        if a == b:
+            return
+        schedule[a][b] = games
+        schedule[b][a] = games
 
+    # Step 1: Inter-conference games (2 each)
+    for w in west_teams:
+        for e in east_teams:
+            add_matchup(w, e, 2)
 
+    def arrange_team(conference, divisions):
+        for team in conference:
+            # Find the division this team belongs to
+            team_idx = -1
+            team_division = None
+            for division in divisions:
+                if team in division:
+                    team_division = division
+                    break
+            
+            if team_division is None:
+                continue  # just in case
 
+            # Assign 4-game matchups within the same division
+            for team_a in team_division:
+                if team_a == team:
+                    team_idx = team_division.index(team_a)
+                    continue  # skip self
+                add_matchup(team, team_a, 4)
 
-
-
-
-    '''
-    team1 = make_team(knicks_2024_25)
-
-    team2 = make_team(warriors_2017) 
-    #print(team1)
-    #print(team2)
-    sorted_team1 = determine_seconds(team1)
-    sorted_team2 = determine_seconds(team2)
-    #adjust minutes for team1 and 2
-
-
-    #print(sorted_team1[['full_name', 'Position', 'role','player_merit', 'minutes']])
-    #print("\n")
-    #print("minutes total = ",sorted_team1['minutes'].sum())
-    #print(sorted_team2[['full_name', 'Position', 'role','player_merit', 'minutes']])
-    #print("minutes total = ",sorted_team2['minutes'].sum())
-    team1_wins = 0
-    team2_wins = 0
-
-    #random.seed(42)
-
-    Team1 = Team(sorted_team1)
-    Team2 = Team(sorted_team2)
-    G = Game(Team1,Team2,48)
-    G.tip_off()
-    r = G.simulate_full_game()
-
-    
-    curry_points = 0
-    curry_assists = 0
-    curry_rebounds = 0
-    curry_steals = 0
-    curry_blocks = 0
-    curry_fgm = 0
-    curry_fga = 0
-    curry_tpm = 0
-    curry_tpa = 0
-    curry_ftm = 0
-    curry_fta = 0
-    secs = 0
-    
-    while team1_wins < 41 and team2_wins < 41:
-        #resets team stats to 0
-        
-        Team1 = Team(sorted_team1)
-        Team2 = Team(sorted_team2)
-        G = Game(Team1,Team2,48)
-        G.tip_off()
-        r = G.simulate_full_game()
-
-        if r == "Team1":
-            team1_wins += 1
-        else:
-            team2_wins += 1
-
-        for p in Team2.starters + Team2.bench + Team1.starters + Team1.bench:
-            if "LeBron James" == p.name:
-                curry_points += p.box.points
-                curry_assists += p.box.ast
-                curry_rebounds += (p.box.dreb + p.box.oreb)
-                curry_fgm += p.box.fgm
-                curry_fga += p.box.fga
-                curry_tpm += p.box.tpm
-                curry_tpa += p.box.tpa
-                curry_ftm += p.box.ftm
-                curry_fta += p.box.fta
-                curry_steals += p.box.stl
-                curry_blocks += p.box.blk
-                secs += p.total_seconds
-                break
-
-    if curry_tpa == 0: three_acc = 0
-    else: three_acc = curry_tpm/curry_tpa
-
-    accuracy = curry_fgm/curry_fga
-    
-    free_acc = curry_ftm/curry_fta
-
+            # For team NOT in divisions: 
+            for division in divisions:
+                if team not in division:
+                    for i in range(5):
+                        if i < 3:
+                            add_matchup(division[(team_idx + i) % 5], team, 4)
+                        else:
+                            add_matchup(division[(team_idx + i) % 5], team, 3)
     
 
-    print(f"team1 wins: {team1_wins}, team2wins: {team2_wins}")
+    #Schedule now correctly contains every matchup each team has with opposing teams correctly!
+    arrange_team(west_teams,west_divisions)
+    arrange_team(east_teams,east_divisions)
+
+    for team_a, opponents in schedule.items():
+        for team_b, games in opponents.items():
+            # To avoid simulating the same game twice, only simulate if team_a < team_b alphabetically
+            if team_a < team_b:
+                for game_num in range(1, games + 1):
+                    
+                    #Add players into team:
+                    team_1 = 
+                    
+
+
+
+
+            
+
+
+
+
+
+
+
+
     
-    print(
-    f"ppg: {curry_points/(team1_wins + team2_wins):.3f} "
-    f"apg: {curry_assists/(team1_wins + team2_wins):.3f} "
-    f"rpg: {curry_rebounds/(team1_wins + team2_wins):.3f} "
-    f"spg: {curry_steals/(team1_wins + team2_wins):.3f} "
-    f"bpg: {curry_blocks/(team1_wins + team2_wins):.3f} "
-    )
-
-
-    print(f"accuracy: {accuracy:.3f} ")
-    print(f"three point accuracy: {three_acc:.3f}")
-    print(f"free throw accuracy: {free_acc:.3f}")
-
-
-    secs = secs//(team1_wins + team2_wins)
-    minutes = secs // 60
-    seconds = secs % 60
-    print(f"time played: {int(minutes)}:{int(seconds)}")
-
-    #
-    score_sum1 = 0
-    score_sum2 = 0
-    for p in Team1.starters + Team1.bench:
-        score_sum1 += p.box.points
-    for p in Team2.starters + Team2.bench:
-        score_sum2 += p.box.points
-    
-    print(f"Team1: {score_sum1} Team2: {score_sum2}")
-    print(f"Team1 possessions: {G.poss_counter1}")
-    print(f"Team2 possessions: {G.poss_counter2}")
-
-
-    #Team 1 odds: 41-45 percent
-    
-    #G.simulate_possession()
-
-
-
-    #simulate_game(sorted_team1, sorted_team2,48)
-
-    '''
-
-        
-
-   
-
-
 
 
