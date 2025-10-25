@@ -1,1887 +1,3031 @@
 === Quarter 1 ===
-LeBron James starts with the ball
-LeBron James passes to Ray Allen (3s)
-Ray Allen dribbles (6s)
-Ray Allen dribbles (4s)
-Andre Iguodala commits a foul on Ray Allen!Ray Allen makes a 3-point shot! (7s)
-Ray Allen is fouled and heads to the free throw line(1 attempt) AND ONE!
-Ray Allen makes free throw
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (3s)
+C.J. Watson grabs the defensive rebound!
 === Current Score ===
-Team1: 4 Team2: 0
-=== Current Score ===
-Team1: 4 Team2: 0
+Team1: 0 Team2: 0
 
-Kevin Durant starts with the ball
-Dwyane Wade commits a foul on Kevin Durant!Kevin Durant dribbles (5s)
-Kevin Durant passes to Stephen Curry (5s)
-Ray Allen commits a foul on Stephen Curry!Stephen Curry misses a 2-point shot (5s)
-Stephen Curry is fouled and heads to the free throw line 2 attempts
-Stephen Curry makes free throw
+C.J. Watson starts with the ball
+C.J. Watson dribbles (3s)
+C.J. Watson dribbles (4s)
+C.J. Watson makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 4 Team2: 1
-Stephen Curry makes free throw
-=== Current Score ===
-Team1: 4 Team2: 2
-=== Current Score ===
-Team1: 4 Team2: 2
+Team1: 0 Team2: 2
 
-LeBron James starts with the ball
-LeBron James passes to Bam Adebayo (2s)
-Bam Adebayo makes a 2-point shot! (2s)
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead dribbles (3s)
+Isaiah Whitehead dribbles (1s)
+Isaiah Whitehead makes a 2-point shot! (7s)
 === Current Score ===
-Team1: 6 Team2: 2
+Team1: 2 Team2: 2
 
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (4s)
+D.J. Augustin starts with the ball
+D.J. Augustin dribbles (2s)
+D.J. Augustin makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 6 Team2: 4
+Team1: 2 Team2: 4
 
-Dwyane Wade starts with the ball
-Dwyane Wade makes a 2-point shot! (5s)
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead misses a 2-point shot (4s)
+Elfrid Payton grabs the defensive rebound!
 === Current Score ===
-Team1: 8 Team2: 4
+Team1: 2 Team2: 4
 
-Klay Thompson starts with the ball
-Klay Thompson misses a 2-point shot (4s)
-Draymond Green grabs the offensive rebound!
-Draymond Green passes to Stephen Curry (5s)
-Stephen Curry makes a 2-point shot! (6s)
+Aaron Gordon starts with the ball
+Joe Harris commits a foul on Aaron Gordon!
+Aaron Gordon misses a 2-point shot (2s)
+Aaron Gordon is fouled and heads to the free throw line:  2 attempts! 
+Aaron Gordon missed free throw
 === Current Score ===
-Team1: 8 Team2: 6
+Team1: 2 Team2: 4
+Aaron Gordon missed free throw
+=== Current Score ===
+Team1: 2 Team2: 4
+=== Current Score ===
+Team1: 2 Team2: 4
 
-LeBron James starts with the ball
-LeBron James passes to Ray Allen (3s)
-Ray Allen passes to LeBron James (4s)
-Stephen Curry commits a foul on LeBron James!LeBron James dribbles (6s)
-LeBron James passes to Dwyane Wade (2s)
-Dwyane Wade makes a 2-point shot! (5s)
+Trevor Booker starts with the ball
+Trevor Booker misses a 2-point shot (7s)
+Aaron Gordon grabs the defensive rebound!
 === Current Score ===
-Team1: 10 Team2: 6
+Team1: 2 Team2: 4
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (4s)
-Klay Thompson passes to Draymond Green (2s)
-Draymond Green passes to Kevin Durant (3s)
-Kevin Durant passes to Klay Thompson (4s)
-Klay Thompson misses a 3-point shot (7s)
-Chris Bosh grabs the defensive rebound!
+Elfrid Payton starts with the ball
+Elfrid Payton makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 10 Team2: 6
+Team1: 2 Team2: 6
 
-LeBron James starts with the ball
-LeBron James passes to Bam Adebayo (4s)
-Bam Adebayo dribbles (6s)
-Andre Iguodala commits a foul on Bam Adebayo!Bam Adebayo commits an offensive foul!
+Sean Kilpatrick starts with the ball
+D.J. Augustin commits a foul on Sean Kilpatrick!
+Sean Kilpatrick makes a 2-point shot! (3s)
+Sean Kilpatrick is fouled and heads to the free throw line (1 attempt) AND-ONE!
+Sean Kilpatrick missed free throw
 === Current Score ===
-Team1: 10 Team2: 6
+Team1: 4 Team2: 6
+=== Current Score ===
+Team1: 4 Team2: 6
 
-Klay Thompson starts with the ball
-Klay Thompson passes to Draymond Green (2s)
-Draymond Green passes to Andre Iguodala (3s)
-LeBron James commits a foul on Andre Iguodala!Andre Iguodala dribbles (2s)
-Andre Iguodala passes to Draymond Green (1s)
-Draymond Green passes to Stephen Curry (5s)
-Stephen Curry dribbles (5s)
-Stephen Curry turns the ball over (2s)
+Evan Fournier starts with the ball
+Evan Fournier dribbles (3s)
+Evan Fournier commits an offensive foul!
 === Current Score ===
-Team1: 10 Team2: 6
+Team1: 4 Team2: 6
 
-LeBron James starts with the ball
-LeBron James makes a 3-point shot! (6s)
+Joe Harris starts with the ball
+Joe Harris dribbles (4s)
+Joe Harris dribbles (4s)
+Joe Harris misses a 2-point shot (4s)
+C.J. Watson grabs the defensive rebound!
 === Current Score ===
-Team1: 13 Team2: 6
+Team1: 4 Team2: 6
 
-Stephen Curry starts with the ball
-Stephen Curry passes to Draymond Green (6s)
-Draymond Green passes to Klay Thompson (3s)
-LeBron James commits a foul on Klay Thompson!Klay Thompson makes a 2-point shot! (7s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
+Evan Fournier starts with the ball
+Evan Fournier dribbles (4s)
+Evan Fournier makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 13 Team2: 9
-=== Current Score ===
-Team1: 13 Team2: 9
+Team1: 4 Team2: 8
 
-LeBron James starts with the ball
-LeBron James passes to Bam Adebayo (4s)
-Bam Adebayo passes to LeBron James (4s)
-Draymond Green blocks the shot of LeBron James!
+Brook Lopez starts with the ball
+Brook Lopez makes a 2-point shot! (7s)
 === Current Score ===
-Team1: 13 Team2: 9
+Team1: 6 Team2: 8
 
-Klay Thompson starts with the ball
-Klay Thompson passes to Draymond Green (7s)
-Draymond Green passes to Stephen Curry (4s)
-Stephen Curry passes to Draymond Green (6s)
-Draymond Green turns the ball over (6s)
+Bismack Biyombo starts with the ball
+Bismack Biyombo dribbles (7s)
+Bismack Biyombo misses a 2-point shot (5s)
+Justin Hamilton grabs the defensive rebound!
 === Current Score ===
-Team1: 13 Team2: 9
+Team1: 6 Team2: 8
 
-LeBron James starts with the ball
-LeBron James makes a 3-point shot! (1s)
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 16 Team2: 9
+Team1: 8 Team2: 8
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (5s)
-Klay Thompson makes a 3-point shot! (5s)
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 16 Team2: 12
+Team1: 8 Team2: 10
 
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (7s)
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson turns the ball over (6s)
 === Current Score ===
-Team1: 18 Team2: 12
+Team1: 8 Team2: 10
 
-Klay Thompson starts with the ball
-Klay Thompson passes to Draymond Green (3s)
-Draymond Green passes to Stephen Curry (5s)
-Stephen Curry passes to Andre Iguodala (4s)
-Andre Iguodala dribbles (5s)
-Andre Iguodala makes a 3-point shot! (6s)
+Evan Fournier starts with the ball
+Evan Fournier turns the ball over (6s)
 === Current Score ===
-Team1: 18 Team2: 15
+Team1: 8 Team2: 10
 
-Chris Bosh starts with the ball
-Stephen Curry commits a foul on Chris Bosh!Chris Bosh makes a 2-point shot! (6s)
-Chris Bosh is fouled and heads to the free throw line(1 attempt) AND ONE!
-Chris Bosh makes free throw
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (8s)
+Bismack Biyombo grabs the defensive rebound!
 === Current Score ===
-Team1: 21 Team2: 15
-=== Current Score ===
-Team1: 21 Team2: 15
+Team1: 8 Team2: 10
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (4s)
-Draymond Green passes to Klay Thompson (5s)
-Klay Thompson misses a 2-point shot (3s)
-Chris Bosh grabs the defensive rebound!
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (6s)
+Aaron Gordon makes a 2-point shot! (1s)
 === Current Score ===
-Team1: 21 Team2: 15
+Team1: 8 Team2: 12
 
-LeBron James starts with the ball
-Draymond Green commits a foul on LeBron James!LeBron James dribbles (4s)
-LeBron James passes to Bam Adebayo (6s)
-Bam Adebayo passes to Ray Allen (3s)
-Ray Allen misses a 3-point shot (2s)
-Chris Bosh grabs the offensive rebound!
-Andre Iguodala commits a foul on Chris Bosh!Chris Bosh misses a 2-point shot (6s)
-Chris Bosh is fouled and heads to the free throw line 2 attempts
-Chris Bosh missed free throw
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie dribbles (2s)
+Spencer Dinwiddie misses a 2-point shot (7s)
+C.J. Watson grabs the defensive rebound!
 === Current Score ===
-Team1: 21 Team2: 15
-Chris Bosh makes free throw
-=== Current Score ===
-Team1: 22 Team2: 15
-=== Current Score ===
-Team1: 22 Team2: 15
+Team1: 8 Team2: 12
 
-Stephen Curry starts with the ball
-LeBron James steals the ball from Stephen Curry!
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (6s)
+Sean Kilpatrick grabs the defensive rebound!
 === Current Score ===
-Team1: 22 Team2: 15
+Team1: 8 Team2: 12
 
-LeBron James starts with the ball
-LeBron James passes to Ray Allen (4s)
-Ray Allen passes to Bam Adebayo (4s)
-Bam Adebayo passes to LeBron James (4s)
-LeBron James makes a 2-point shot! (7s)
+Caris LeVert starts with the ball
+Caris LeVert makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 24 Team2: 15
+Team1: 10 Team2: 12
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (6s)
-Klay Thompson passes to Andre Iguodala (3s)
-Andre Iguodala dribbles (5s)
-Dwyane Wade blocks the shot of Andre Iguodala!
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 24 Team2: 15
+Team1: 10 Team2: 14
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Dwyane Wade (7s)
-Dwyane Wade makes a 2-point shot! (6s)
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 26 Team2: 15
+Team1: 12 Team2: 14
 
-Stephen Curry starts with the ball
-Bam Adebayo commits a foul on Stephen Curry!Stephen Curry dribbles (4s)
-Stephen Curry passes to Kevin Durant (3s)
-Kevin Durant passes to Andre Iguodala (4s)
-Andre Iguodala passes to Draymond Green (6s)
-Draymond Green misses a 2-point shot (6s)
-Chris Bosh grabs the defensive rebound!
+Aaron Gordon starts with the ball
+Aaron Gordon makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 26 Team2: 15
+Team1: 12 Team2: 16
 
-LeBron James starts with the ball
-LeBron James passes to Chris Bosh (7s)
-Chris Bosh passes to LeBron James (3s)
-Draymond Green commits a foul on LeBron James!LeBron James misses a 2-point shot (1s)
-LeBron James is fouled and heads to the free throw line 2 attempts
-LeBron James makes free throw
+Caris LeVert starts with the ball
+Caris LeVert misses a 2-point shot (5s)
+Bismack Biyombo grabs the defensive rebound!
 === Current Score ===
-Team1: 27 Team2: 15
-LeBron James makes free throw
-=== Current Score ===
-Team1: 28 Team2: 15
-=== Current Score ===
-Team1: 28 Team2: 15
+Team1: 12 Team2: 16
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (5s)
-Draymond Green dribbles (4s)
-Chris Bosh commits a foul on Draymond Green!Draymond Green misses a 3-point shot (7s)
-Draymond Green is fouled and heads to the free throw line 3 attempts
-Draymond Green makes free throw
+Bismack Biyombo starts with the ball
+Bismack Biyombo dribbles (4s)
+Bismack Biyombo dribbles (6s)
+Bismack Biyombo dribbles (4s)
+Bismack Biyombo misses a 2-point shot (4s)
+Brook Lopez grabs the defensive rebound!
 === Current Score ===
-Team1: 28 Team2: 16
-Draymond Green makes free throw
-=== Current Score ===
-Team1: 28 Team2: 17
-Draymond Green makes free throw
-=== Current Score ===
-Team1: 28 Team2: 18
-=== Current Score ===
-Team1: 28 Team2: 18
+Team1: 12 Team2: 16
 
-Ray Allen starts with the ball
-Ray Allen passes to Dwyane Wade (6s)
-Dwyane Wade passes to Ray Allen (2s)
-Andre Iguodala commits a foul on Ray Allen!Ray Allen dribbles (5s)
-Ray Allen makes a 2-point shot! (6s)
+Caris LeVert starts with the ball
+Caris LeVert misses a 2-point shot (2s)
+Nikola Vucevic grabs the defensive rebound!
 === Current Score ===
-Team1: 30 Team2: 18
+Team1: 12 Team2: 16
 
-Stephen Curry starts with the ball
-Stephen Curry passes to Andre Iguodala (6s)
-Andre Iguodala passes to Klay Thompson (3s)
-Klay Thompson passes to Andre Iguodala (5s)
-Andre Iguodala makes a 2-point shot! (5s)
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (3s)
+Isaiah Whitehead grabs the defensive rebound!
 === Current Score ===
-Team1: 30 Team2: 20
+Team1: 12 Team2: 16
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Dwyane Wade (4s)
-Dwyane Wade dribbles (4s)
-Andre Iguodala commits a foul on Dwyane Wade!Dwyane Wade dribbles (7s)
-Dwyane Wade turns the ball over (5s)
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (2s)
+Jeff Green steals the ball from Justin Hamilton while dribbling!
 === Current Score ===
-Team1: 30 Team2: 20
+Team1: 12 Team2: 16
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (3s)
-Stephen Curry passes to Kevin Durant (5s)
-Kevin Durant misses a 2-point shot (5s)
-Draymond Green grabs the offensive rebound!
-Draymond Green passes to Stephen Curry (6s)
-Stephen Curry makes a 3-point shot! (4s)
+Jeff Green starts with the ball
+Jeff Green misses a 3-point shot (4s)
+Joe Harris grabs the defensive rebound!
 === Current Score ===
-Team1: 30 Team2: 23
+Team1: 12 Team2: 16
 
-LeBron James starts with the ball
-LeBron James passes to Dwyane Wade (5s)
-Dwyane Wade misses a 2-point shot (4s)
-Kevin Durant grabs the defensive rebound!
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 30 Team2: 23
+Team1: 14 Team2: 16
 
-Stephen Curry starts with the ball
-Stephen Curry dribbles (8s)
-Stephen Curry passes to Klay Thompson (4s)
-Bam Adebayo commits a foul on Klay Thompson!Klay Thompson makes a 3-point shot! (6s)
-Klay Thompson is fouled and heads to the free throw line(1 attempt) AND ONE!
-Klay Thompson makes free throw
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (2s)
+Sean Kilpatrick grabs the defensive rebound!
 === Current Score ===
-Team1: 30 Team2: 27
-=== Current Score ===
-Team1: 30 Team2: 27
+Team1: 14 Team2: 16
 
-Dwyane Wade starts with the ball
-Andre Iguodala commits a foul on Dwyane Wade!Substitution: Andre Iguodala out, Shaun Livingston in (plus-minus: -3, total seconds: 489/1651)
-Andre Iguodala fouls out!Dwyane Wade dribbles (5s)
-Dwyane Wade passes to LeBron James (4s)
-LeBron James misses a 2-point shot (4s)
-Draymond Green grabs the defensive rebound!
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead dribbles (4s)
+Isaiah Whitehead misses a 2-point shot (7s)
+C.J. Watson grabs the defensive rebound!
 === Current Score ===
-Team1: 30 Team2: 27
+Team1: 14 Team2: 16
 
-Klay Thompson starts with the ball
-Klay Thompson passes to Draymond Green (6s)
-Draymond Green passes to Shaun Livingston (5s)
-Shaun Livingston dribbles (8s)
-Bam Adebayo commits a foul on Shaun Livingston!Shaun Livingston misses a 3-point shot (4s)
-Shaun Livingston is fouled and heads to the free throw line 3 attempts
-Shaun Livingston makes free throw
+Jeff Green starts with the ball
+Jeff Green makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 30 Team2: 28
-Shaun Livingston makes free throw
-=== Current Score ===
-Team1: 30 Team2: 29
-Shaun Livingston makes free throw
-=== Current Score ===
-Team1: 30 Team2: 30
-=== Current Score ===
-Team1: 30 Team2: 30
+Team1: 14 Team2: 18
 
-LeBron James starts with the ball
-LeBron James misses a 2-point shot (6s)
-Chris Bosh grabs the offensive rebound!
-Chris Bosh passes to Ray Allen (4s)
-Stephen Curry commits a foul on Ray Allen!Ray Allen misses a 2-point shot (6s)
-Ray Allen is fouled and heads to the free throw line 2 attempts
-Ray Allen makes free throw
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick dribbles (1s)
+Sean Kilpatrick dribbles (6s)
+Mario Hezonja commits a foul on Sean Kilpatrick!
+Sean Kilpatrick misses a 2-point shot (5s)
+Sean Kilpatrick is fouled and heads to the free throw line:  2 attempts! 
+Sean Kilpatrick missed free throw
 === Current Score ===
-Team1: 31 Team2: 30
-Ray Allen makes free throw
+Team1: 14 Team2: 18
+Sean Kilpatrick missed free throw
 === Current Score ===
-Team1: 32 Team2: 30
+Team1: 14 Team2: 18
 === Current Score ===
-Team1: 32 Team2: 30
+Team1: 14 Team2: 18
 
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (6s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (5s)
+Brook Lopez grabs the defensive rebound!
 === Current Score ===
-Team1: 32 Team2: 32
+Team1: 14 Team2: 18
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to Bam Adebayo (3s)
-Bam Adebayo passes to LeBron James (4s)
-LeBron James misses a 2-point shot (5s)
-Draymond Green grabs the defensive rebound!
+Caris LeVert starts with the ball
+Caris LeVert turns the ball over (4s)
 === Current Score ===
-Team1: 32 Team2: 32
+Team1: 14 Team2: 18
 
-Stephen Curry starts with the ball
-Chris Bosh commits a foul on Stephen Curry!Bam Adebayo blocks the shot of Stephen Curry!
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (3s)
+Caris LeVert grabs the defensive rebound!
 === Current Score ===
-Team1: 32 Team2: 32
+Team1: 14 Team2: 18
 
-LeBron James starts with the ball
-LeBron James passes to Bam Adebayo (8s)
-Bam Adebayo passes to Chris Bosh (3s)
-Draymond Green steals the ball from Chris Bosh!
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 32 Team2: 32
+Team1: 16 Team2: 18
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (6s)
-Shaun Livingston dribbles (4s)
-Shaun Livingston passes to Klay Thompson (7s)
-Klay Thompson passes to Kevin Durant (4s)
-Kevin Durant makes a 2-point shot! (3s)
+Mario Hezonja starts with the ball
+Mario Hezonja dribbles (4s)
+Mario Hezonja makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 32 Team2: 34
+Team1: 16 Team2: 20
 
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (5s)
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 34 Team2: 34
+Team1: 18 Team2: 20
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (3s)
-Klay Thompson makes a 3-point shot! (6s)
+Jeff Green starts with the ball
+Jeff Green dribbles (4s)
+Jeff Green misses a 2-point shot (6s)
+Caris LeVert grabs the defensive rebound!
 === Current Score ===
-Team1: 34 Team2: 37
+Team1: 18 Team2: 20
 
-LeBron James starts with the ball
-LeBron James makes a 2-point shot! (3s)
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick dribbles (3s)
+Sean Kilpatrick dribbles (3s)
+Sean Kilpatrick misses a 2-point shot (3s)
+Elfrid Payton grabs the defensive rebound!
 === Current Score ===
-Team1: 36 Team2: 37
+Team1: 18 Team2: 20
 
-Stephen Curry starts with the ball
-Stephen Curry passes to Shaun Livingston (5s)
-Shaun Livingston makes a 2-point shot! (2s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (5s)
+Justin Hamilton grabs the defensive rebound!
 === Current Score ===
-Team1: 36 Team2: 39
+Team1: 18 Team2: 20
 
-LeBron James starts with the ball
-LeBron James passes to Dwyane Wade (6s)
-Dwyane Wade passes to LeBron James (2s)
-LeBron James dribbles (5s)
-LeBron James dribbles (5s)
-LeBron James makes a 2-point shot! (3s)
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (3s)
+Justin Hamilton dribbles (8s)
+Justin Hamilton makes a 3-point shot! (4s)
 === Current Score ===
-Team1: 38 Team2: 39
+Team1: 21 Team2: 20
 
-Stephen Curry starts with the ball
-Stephen Curry makes a 3-point shot! (6s)
+Bismack Biyombo starts with the ball
+Bismack Biyombo makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 38 Team2: 42
+Team1: 21 Team2: 22
 
-LeBron James starts with the ball
-LeBron James passes to Bam Adebayo (5s)
-Bam Adebayo dribbles (4s)
-Bam Adebayo passes to Dwyane Wade (7s)
-Dwyane Wade passes to Chris Bosh (5s)
-Chris Bosh misses a 2-point shot (2s)
-Stephen Curry grabs the defensive rebound!
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (4s)
+Bismack Biyombo grabs the defensive rebound!
 === Current Score ===
-Team1: 38 Team2: 42
+Team1: 21 Team2: 22
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (4s)
-Ray Allen commits a foul on Shaun Livingston!Shaun Livingston dribbles (3s)
-Shaun Livingston dribbles (6s)
-Shaun Livingston makes a 2-point shot! (4s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic dribbles (2s)
+Nikola Vucevic misses a 3-point shot (8s)
+Spencer Dinwiddie grabs the defensive rebound!
 === Current Score ===
-Team1: 38 Team2: 44
+Team1: 21 Team2: 22
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to LeBron James (2s)
-LeBron James passes to Ray Allen (7s)
-Ray Allen misses a 2-point shot (2s)
-Kevin Durant grabs the defensive rebound!
+Jeremy Lin starts with the ball
+Jeremy Lin misses a 3-point shot (2s)
+D.J. Augustin grabs the defensive rebound!
 === Current Score ===
-Team1: 38 Team2: 44
+Team1: 21 Team2: 22
 
-Klay Thompson starts with the ball
-Klay Thompson makes a 2-point shot! (5s)
+Jeff Green starts with the ball
+Jeff Green commits an offensive foul!
 === Current Score ===
-Team1: 38 Team2: 46
+Team1: 21 Team2: 22
 
-LeBron James starts with the ball
-LeBron James passes to Chris Bosh (3s)
-Chris Bosh passes to Ray Allen (4s)
-Ray Allen makes a 2-point shot! (1s)
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (4s)
+Elfrid Payton grabs the defensive rebound!
 === Current Score ===
-Team1: 40 Team2: 46
+Team1: 21 Team2: 22
 
-Quarter 1 Score: Team1 40 - Team2 46
+C.J. Watson starts with the ball
+C.J. Watson dribbles (7s)
+C.J. Watson misses a 2-point shot (5s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 21 Team2: 22
+
+Trevor Booker starts with the ball
+Trevor Booker makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 23 Team2: 22
+
+C.J. Watson starts with the ball
+C.J. Watson dribbles (3s)
+C.J. Watson misses a 2-point shot (5s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 23 Team2: 22
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (5s)
+Rondae Hollis-Jefferson misses a 2-point shot (5s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 23 Team2: 22
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 23 Team2: 24
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie dribbles (3s)
+Jeff Green blocks the shot of Spencer Dinwiddie!
+=== Current Score ===
+Team1: 23 Team2: 24
+
+Evan Fournier starts with the ball
+Evan Fournier dribbles (7s)
+Justin Hamilton commits a foul on Evan Fournier!
+Evan Fournier makes a 2-point shot! (6s)
+Evan Fournier is fouled and heads to the free throw line (1 attempt) AND-ONE!
+Evan Fournier missed free throw
+=== Current Score ===
+Team1: 23 Team2: 26
+=== Current Score ===
+Team1: 23 Team2: 26
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie misses a 2-point shot (4s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 23 Team2: 26
+
+C.J. Watson starts with the ball
+C.J. Watson dribbles (5s)
+C.J. Watson turns the ball over (5s)
+=== Current Score ===
+Team1: 23 Team2: 26
+
+Joe Harris starts with the ball
+Joe Harris misses a 3-point shot (6s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 23 Team2: 26
+
+Jeff Green starts with the ball
+Jeff Green dribbles (5s)
+Jeff Green dribbles (4s)
+Jeff Green misses a 2-point shot (2s)
+Spencer Dinwiddie grabs the defensive rebound!
+=== Current Score ===
+Team1: 23 Team2: 26
+
+Trevor Booker starts with the ball
+Trevor Booker dribbles (4s)
+Trevor Booker misses a 2-point shot (6s)
+Nikola Vucevic grabs the defensive rebound!
+=== Current Score ===
+Team1: 23 Team2: 26
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 23 Team2: 28
+
+Trevor Booker starts with the ball
+Trevor Booker makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 25 Team2: 28
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 25 Team2: 30
+
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 27 Team2: 30
+
+Mario Hezonja starts with the ball
+Sean Kilpatrick commits a foul on Mario Hezonja!
+Mario Hezonja dribbles (7s)
+Mario Hezonja dribbles (4s)
+Mario Hezonja misses a 2-point shot (4s)
+Trevor Booker grabs the defensive rebound!
+=== Current Score ===
+Team1: 27 Team2: 30
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (4s)
+Mario Hezonja grabs the defensive rebound!
+=== Current Score ===
+Team1: 27 Team2: 30
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 27 Team2: 32
+
+Joe Harris starts with the ball
+Joe Harris dribbles (7s)
+Joe Harris misses a 2-point shot (6s)
+Nikola Vucevic grabs the defensive rebound!
+=== Current Score ===
+Team1: 27 Team2: 32
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (3s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
+=== Current Score ===
+Team1: 27 Team2: 32
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie dribbles (2s)
+Spencer Dinwiddie makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 29 Team2: 32
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo turns the ball over (8s)
+=== Current Score ===
+Team1: 29 Team2: 32
+
+Brook Lopez starts with the ball
+D.J. Augustin blocks the shot of Brook Lopez!
+=== Current Score ===
+Team1: 29 Team2: 32
+
+Terrence Ross starts with the ball
+Terrence Ross turns the ball over (1s)
+=== Current Score ===
+Team1: 29 Team2: 32
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (4s)
+Bismack Biyombo grabs the defensive rebound!
+=== Current Score ===
+Team1: 29 Team2: 32
+
+Aaron Gordon starts with the ball
+Aaron Gordon misses a 2-point shot (7s)
+Spencer Dinwiddie grabs the defensive rebound!
+=== Current Score ===
+Team1: 29 Team2: 32
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 31 Team2: 32
+
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 31 Team2: 34
+
+Caris LeVert starts with the ball
+Caris LeVert dribbles (8s)
+Caris LeVert misses a 2-point shot (4s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 31 Team2: 34
+
+Elfrid Payton starts with the ball
+Elfrid Payton misses a 2-point shot (5s)
+Jeremy Lin grabs the defensive rebound!
+=== Current Score ===
+Team1: 31 Team2: 34
+
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 33 Team2: 34
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (6s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
+=== Current Score ===
+Team1: 33 Team2: 34
+
+Trevor Booker starts with the ball
+Trevor Booker makes a 3-point shot! (7s)
+=== Current Score ===
+Team1: 36 Team2: 34
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 36 Team2: 36
+
+Trevor Booker starts with the ball
+Trevor Booker misses a 2-point shot (6s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 36 Team2: 36
+
+D.J. Augustin starts with the ball
+D.J. Augustin dribbles (7s)
+D.J. Augustin makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 36 Team2: 38
+
+Spencer Dinwiddie starts with the ball
+Bismack Biyombo commits a foul on Spencer Dinwiddie!
+Spencer Dinwiddie makes a 2-point shot! (5s)
+Spencer Dinwiddie is fouled and heads to the free throw line (1 attempt) AND-ONE!
+Spencer Dinwiddie missed free throw
+=== Current Score ===
+Team1: 38 Team2: 38
+=== Current Score ===
+Team1: 38 Team2: 38
+
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (5s)
+Isaiah Whitehead grabs the defensive rebound!
+=== Current Score ===
+Team1: 38 Team2: 38
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (3s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 38 Team2: 38
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 3-point shot (2s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 38 Team2: 38
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 40 Team2: 38
+
+C.J. Watson starts with the ball
+C.J. Watson makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 40 Team2: 40
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (4s)
+Nikola Vucevic grabs the defensive rebound!
+=== Current Score ===
+Team1: 40 Team2: 40
+
+D.J. Augustin starts with the ball
+D.J. Augustin misses a 2-point shot (1s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 40 Team2: 40
+
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 42 Team2: 40
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (5s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 42 Team2: 40
+
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 3-point shot! (1s)
+=== Current Score ===
+Team1: 45 Team2: 40
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 45 Team2: 42
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 47 Team2: 42
+
+C.J. Watson starts with the ball
+Rondae Hollis-Jefferson commits a foul on C.J. Watson!
+C.J. Watson dribbles (6s)
+C.J. Watson makes a 3-point shot! (2s)
+=== Current Score ===
+Team1: 47 Team2: 45
+
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 49 Team2: 45
+
+Jeff Green starts with the ball
+Jeff Green dribbles (4s)
+Spencer Dinwiddie blocks the shot of Jeff Green!
+=== Current Score ===
+Team1: 49 Team2: 45
+
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (7s)
+Terrence Ross grabs the defensive rebound!
+=== Current Score ===
+Team1: 49 Team2: 45
+
+Elfrid Payton starts with the ball
+Elfrid Payton turns the ball over (4s)
+=== Current Score ===
+Team1: 49 Team2: 45
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (7s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 49 Team2: 45
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 49 Team2: 47
+
+Caris LeVert starts with the ball
+Caris LeVert makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 51 Team2: 47
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 51 Team2: 49
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick dribbles (3s)
+Sean Kilpatrick misses a 2-point shot (5s)
+Terrence Ross grabs the defensive rebound!
+=== Current Score ===
+Team1: 51 Team2: 49
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 51 Team2: 51
+
+Joe Harris starts with the ball
+Joe Harris dribbles (4s)
+Joe Harris misses a 2-point shot (5s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 51 Team2: 51
+
+Terrence Ross starts with the ball
+Caris LeVert blocks the shot of Terrence Ross!
+=== Current Score ===
+Team1: 51 Team2: 51
+
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 53 Team2: 51
+
+Terrence Ross starts with the ball
+Terrence Ross makes a 2-point shot! (1s)
+=== Current Score ===
+Team1: 53 Team2: 53
+
+Quarter 1 Score: Team1 53 - Team2 53
 
 === Quarter 2 ===
-Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (7s)
-Stephen Curry misses a 2-point shot (6s)
-Kevin Durant grabs the offensive rebound!
-Kevin Durant misses a 3-point shot (5s)
-Chris Bosh grabs the defensive rebound!
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead dribbles (2s)
+Isaiah Whitehead misses a 3-point shot (4s)
+Mario Hezonja grabs the defensive rebound!
 === Current Score ===
-Team1: 40 Team2: 46
+Team1: 53 Team2: 53
 
-LeBron James starts with the ball
-LeBron James misses a 2-point shot (5s)
-Klay Thompson grabs the defensive rebound!
+D.J. Augustin starts with the ball
+D.J. Augustin turns the ball over (7s)
 === Current Score ===
-Team1: 40 Team2: 46
+Team1: 53 Team2: 53
 
-Klay Thompson starts with the ball
-Dwyane Wade commits a foul on Klay Thompson!Klay Thompson misses a 3-point shot (5s)
-Klay Thompson is fouled and heads to the free throw line 3 attempts
-Klay Thompson makes free throw
+Trevor Booker starts with the ball
+Trevor Booker makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 40 Team2: 47
-Klay Thompson missed free throw
-=== Current Score ===
-Team1: 40 Team2: 47
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 40 Team2: 48
-=== Current Score ===
-Team1: 40 Team2: 48
+Team1: 55 Team2: 53
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to Ray Allen (3s)
-Ray Allen misses a 3-point shot (6s)
-Stephen Curry grabs the defensive rebound!
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (1s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
 === Current Score ===
-Team1: 40 Team2: 48
+Team1: 55 Team2: 53
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (3s)
-Shaun Livingston passes to Draymond Green (5s)
-Draymond Green passes to Stephen Curry (5s)
-Stephen Curry passes to Shaun Livingston (5s)
-Shaun Livingston makes a 2-point shot! (6s)
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (5s)
+Jeff Green grabs the defensive rebound!
 === Current Score ===
-Team1: 40 Team2: 50
+Team1: 55 Team2: 53
 
-Chris Bosh starts with the ball
-Chris Bosh dribbles (5s)
-Chris Bosh passes to LeBron James (5s)
-LeBron James makes a 2-point shot! (6s)
+Mario Hezonja starts with the ball
+Mario Hezonja dribbles (1s)
+Mario Hezonja misses a 2-point shot (2s)
+Caris LeVert grabs the defensive rebound!
 === Current Score ===
-Team1: 42 Team2: 50
+Team1: 55 Team2: 53
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (7s)
-Draymond Green passes to Shaun Livingston (6s)
-Shaun Livingston misses a 2-point shot (4s)
-Chris Bosh grabs the defensive rebound!
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead dribbles (5s)
+Isaiah Whitehead misses a 2-point shot (4s)
+D.J. Augustin grabs the defensive rebound!
 === Current Score ===
-Team1: 42 Team2: 50
+Team1: 55 Team2: 53
 
-Dwyane Wade starts with the ball
-Dwyane Wade dribbles (6s)
-Stephen Curry commits a foul on Dwyane Wade!Dwyane Wade dribbles (4s)
-Dwyane Wade passes to Ray Allen (4s)
-Draymond Green blocks the shot of Ray Allen!
+C.J. Watson starts with the ball
+C.J. Watson dribbles (4s)
+C.J. Watson makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 42 Team2: 50
+Team1: 55 Team2: 55
 
-Stephen Curry starts with the ball
-Stephen Curry dribbles (4s)
-Stephen Curry passes to Klay Thompson (4s)
-Klay Thompson passes to Draymond Green (5s)
-Draymond Green passes to Kevin Durant (7s)
-Kevin Durant makes a 2-point shot! (3s)
+Trevor Booker starts with the ball
+Terrence Ross blocks the shot of Trevor Booker!
 === Current Score ===
-Team1: 42 Team2: 52
+Team1: 55 Team2: 55
 
-Dwyane Wade starts with the ball
-Dwyane Wade dribbles (7s)
-Dwyane Wade passes to Chris Bosh (3s)
-Kevin Durant commits a foul on Chris Bosh!Chris Bosh misses a 2-point shot (3s)
-Chris Bosh is fouled and heads to the free throw line 2 attempts
-Chris Bosh makes free throw
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 3-point shot (3s)
+Brook Lopez grabs the defensive rebound!
 === Current Score ===
-Team1: 43 Team2: 52
-Chris Bosh makes free throw
-=== Current Score ===
-Team1: 44 Team2: 52
-=== Current Score ===
-Team1: 44 Team2: 52
+Team1: 55 Team2: 55
 
-Stephen Curry starts with the ball
-Stephen Curry passes to Kevin Durant (6s)
-Kevin Durant passes to Stephen Curry (2s)
-Stephen Curry passes to Shaun Livingston (6s)
-Shaun Livingston misses a 2-point shot (4s)
-Bam Adebayo grabs the defensive rebound!
+Trevor Booker starts with the ball
+Trevor Booker dribbles (2s)
+Trevor Booker makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 44 Team2: 52
+Team1: 57 Team2: 55
 
-LeBron James starts with the ball
-Kevin Durant blocks the shot of LeBron James!
+Nikola Vucevic starts with the ball
+Nikola Vucevic dribbles (8s)
+Nikola Vucevic misses a 2-point shot (5s)
+Sean Kilpatrick grabs the defensive rebound!
 === Current Score ===
-Team1: 44 Team2: 52
+Team1: 57 Team2: 55
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Stephen Curry (5s)
-Stephen Curry misses a 3-point shot (4s)
-LeBron James grabs the defensive rebound!
+Jeremy Lin starts with the ball
+Jeremy Lin misses a 2-point shot (7s)
+Mario Hezonja grabs the defensive rebound!
 === Current Score ===
-Team1: 44 Team2: 52
+Team1: 57 Team2: 55
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Ray Allen (7s)
-Draymond Green commits a foul on Ray Allen!Ray Allen dribbles (5s)
-Ray Allen dribbles (3s)
-Ray Allen turns the ball over (8s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (7s)
+Isaiah Whitehead grabs the defensive rebound!
 === Current Score ===
-Team1: 44 Team2: 52
+Team1: 57 Team2: 55
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (5s)
-Klay Thompson passes to Draymond Green (5s)
-Draymond Green makes a 3-point shot! (5s)
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (7s)
+Mario Hezonja grabs the defensive rebound!
 === Current Score ===
-Team1: 44 Team2: 55
+Team1: 57 Team2: 55
 
-LeBron James starts with the ball
-LeBron James dribbles (5s)
-LeBron James passes to Chris Bosh (3s)
-Chris Bosh passes to Bam Adebayo (6s)
-Bam Adebayo passes to Dwyane Wade (4s)
-Dwyane Wade turns the ball over (2s)
+C.J. Watson starts with the ball
+C.J. Watson dribbles (3s)
+C.J. Watson turns the ball over (4s)
 === Current Score ===
-Team1: 44 Team2: 55
+Team1: 57 Team2: 55
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Shaun Livingston (5s)
-Shaun Livingston misses a 2-point shot (3s)
-Bam Adebayo grabs the defensive rebound!
-Substitution: Shaun Livingston out, Matt Barnes in (plus-minus: 14, total seconds: 476/827)
+Trevor Booker starts with the ball
+Trevor Booker misses a 2-point shot (2s)
+Aaron Gordon grabs the defensive rebound!
 === Current Score ===
-Team1: 44 Team2: 55
+Team1: 57 Team2: 55
 
-LeBron James starts with the ball
-LeBron James passes to Dwyane Wade (1s)
-Dwyane Wade makes a 2-point shot! (6s)
+Elfrid Payton starts with the ball
+Elfrid Payton dribbles (5s)
+Isaiah Whitehead commits a foul on Elfrid Payton!
+Elfrid Payton misses a 2-point shot (4s)
+Elfrid Payton is fouled and heads to the free throw line:  2 attempts! 
+Elfrid Payton missed free throw
 === Current Score ===
-Team1: 46 Team2: 55
+Team1: 57 Team2: 55
+Elfrid Payton missed free throw
+=== Current Score ===
+Team1: 57 Team2: 55
+=== Current Score ===
+Team1: 57 Team2: 55
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (4s)
-Draymond Green misses a 2-point shot (7s)
-Chris Bosh grabs the defensive rebound!
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (3s)
+Rondae Hollis-Jefferson makes a 2-point shot! (7s)
 === Current Score ===
-Team1: 46 Team2: 55
+Team1: 59 Team2: 55
 
-LeBron James starts with the ball
-LeBron James passes to Dwyane Wade (6s)
-Dwyane Wade passes to Ray Allen (4s)
-Ray Allen misses a 2-point shot (5s)
-Kevin Durant grabs the defensive rebound!
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (2s)
+Brook Lopez grabs the defensive rebound!
 === Current Score ===
-Team1: 46 Team2: 55
+Team1: 59 Team2: 55
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (7s)
-Klay Thompson passes to Draymond Green (5s)
-Draymond Green makes a 3-point shot! (6s)
+Brook Lopez starts with the ball
+Brook Lopez dribbles (3s)
+Brook Lopez misses a 3-point shot (5s)
+D.J. Augustin grabs the defensive rebound!
 === Current Score ===
-Team1: 46 Team2: 58
+Team1: 59 Team2: 55
 
-LeBron James starts with the ball
-Stephen Curry blocks the shot of LeBron James!
+C.J. Watson starts with the ball
+C.J. Watson makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 46 Team2: 58
+Team1: 59 Team2: 57
 
-Stephen Curry starts with the ball
-Stephen Curry passes to Matt Barnes (3s)
-Matt Barnes passes to Stephen Curry (5s)
-Stephen Curry dribbles (3s)
-Ray Allen steals the ball from Stephen Curry!
+Spencer Dinwiddie starts with the ball
+C.J. Watson blocks the shot of Spencer Dinwiddie!
 === Current Score ===
-Team1: 46 Team2: 58
+Team1: 59 Team2: 57
 
-LeBron James starts with the ball
-Stephen Curry commits a foul on LeBron James!LeBron James misses a 3-point shot (5s)
-LeBron James is fouled and heads to the free throw line 3 attempts
-LeBron James missed free throw
+Elfrid Payton starts with the ball
+Elfrid Payton dribbles (4s)
+Elfrid Payton misses a 2-point shot (4s)
+Caris LeVert grabs the defensive rebound!
 === Current Score ===
-Team1: 46 Team2: 58
-LeBron James makes free throw
-=== Current Score ===
-Team1: 47 Team2: 58
-LeBron James makes free throw
-=== Current Score ===
-Team1: 48 Team2: 58
-=== Current Score ===
-Team1: 48 Team2: 58
+Team1: 59 Team2: 57
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Matt Barnes (6s)
-Matt Barnes makes a 2-point shot! (7s)
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (6s)
+Nikola Vucevic grabs the defensive rebound!
 === Current Score ===
-Team1: 48 Team2: 60
+Team1: 59 Team2: 57
 
-Ray Allen starts with the ball
-Ray Allen dribbles (5s)
-Ray Allen misses a 3-point shot (5s)
-Stephen Curry grabs the defensive rebound!
+Jeff Green starts with the ball
+Jeff Green dribbles (5s)
+Jeff Green misses a 2-point shot (3s)
+Trevor Booker grabs the defensive rebound!
 === Current Score ===
-Team1: 48 Team2: 60
+Team1: 59 Team2: 57
 
-Stephen Curry starts with the ball
-Stephen Curry misses a 3-point shot (2s)
-Bam Adebayo grabs the defensive rebound!
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie misses a 2-point shot (6s)
+C.J. Watson grabs the defensive rebound!
 === Current Score ===
-Team1: 48 Team2: 60
+Team1: 59 Team2: 57
 
-Chris Bosh starts with the ball
-Chris Bosh passes to LeBron James (7s)
-LeBron James passes to Ray Allen (5s)
-Kevin Durant commits a foul on Ray Allen!Ray Allen misses a 3-point shot (4s)
-Ray Allen is fouled and heads to the free throw line 3 attempts
-Ray Allen makes free throw
+Terrence Ross starts with the ball
+Terrence Ross dribbles (3s)
+Terrence Ross makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 49 Team2: 60
-Ray Allen makes free throw
-=== Current Score ===
-Team1: 50 Team2: 60
-Ray Allen makes free throw
-=== Current Score ===
-Team1: 51 Team2: 60
-=== Current Score ===
-Team1: 51 Team2: 60
+Team1: 59 Team2: 59
 
-Kevin Durant starts with the ball
-Kevin Durant misses a 3-point shot (4s)
-Dwyane Wade grabs the defensive rebound!
+Joe Harris starts with the ball
+Joe Harris dribbles (4s)
+Joe Harris makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 51 Team2: 60
+Team1: 61 Team2: 59
 
-Ray Allen starts with the ball
-Matt Barnes steals the ball from Ray Allen!
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (7s)
+Trevor Booker grabs the defensive rebound!
 === Current Score ===
-Team1: 51 Team2: 60
+Team1: 61 Team2: 59
 
-Kevin Durant starts with the ball
-Dwyane Wade commits a foul on Kevin Durant!Kevin Durant makes a 2-point shot! (3s)
-Kevin Durant is fouled and heads to the free throw line(1 attempt) AND ONE!
-Kevin Durant makes free throw
+Trevor Booker starts with the ball
+Bismack Biyombo blocks the shot of Trevor Booker!
 === Current Score ===
-Team1: 51 Team2: 63
-=== Current Score ===
-Team1: 51 Team2: 63
+Team1: 61 Team2: 59
 
-LeBron James starts with the ball
-LeBron James dribbles (6s)
-LeBron James makes a 2-point shot! (2s)
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 53 Team2: 63
+Team1: 61 Team2: 61
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (4s)
-Klay Thompson makes a 3-point shot! (5s)
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (5s)
+Rondae Hollis-Jefferson makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 53 Team2: 66
+Team1: 63 Team2: 61
 
-Ray Allen starts with the ball
-Ray Allen dribbles (3s)
-Ray Allen passes to LeBron James (6s)
-LeBron James passes to Bam Adebayo (4s)
-Bam Adebayo passes to LeBron James (5s)
-LeBron James misses a 2-point shot (6s)
-Ray Allen grabs the offensive rebound!
-Stephen Curry commits a foul on Ray Allen!Substitution: Stephen Curry out, David West in (plus-minus: 11, total seconds: 1112/2100)
-Stephen Curry fouls out!Ray Allen dribbles (5s)
-Ray Allen dribbles (3s)
-Ray Allen passes to Chris Bosh (3s)
-Chris Bosh misses a 2-point shot (3s)
-David West grabs the defensive rebound!
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (6s)
+Justin Hamilton grabs the defensive rebound!
 === Current Score ===
-Team1: 53 Team2: 66
+Team1: 63 Team2: 61
 
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (4s)
+Spencer Dinwiddie starts with the ball
+Mario Hezonja steals the ball from Spencer Dinwiddie while dribbling!
 === Current Score ===
-Team1: 53 Team2: 68
+Team1: 63 Team2: 61
 
-LeBron James starts with the ball
-LeBron James makes a 3-point shot! (7s)
+D.J. Augustin starts with the ball
+D.J. Augustin misses a 2-point shot (3s)
+Spencer Dinwiddie grabs the defensive rebound!
 === Current Score ===
-Team1: 56 Team2: 68
+Team1: 63 Team2: 61
 
-Kevin Durant starts with the ball
-LeBron James commits a foul on Kevin Durant!Kevin Durant dribbles (1s)
-Kevin Durant passes to David West (4s)
-David West passes to Kevin Durant (5s)
-Kevin Durant passes to Draymond Green (4s)
-Draymond Green passes to Matt Barnes (7s)
-Matt Barnes makes a 2-point shot! (3s)
+Brook Lopez starts with the ball
+Brook Lopez makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 56 Team2: 70
+Team1: 65 Team2: 61
 
-LeBron James starts with the ball
-LeBron James dribbles (3s)
-LeBron James passes to Dwyane Wade (2s)
-Dwyane Wade makes a 2-point shot! (6s)
+Elfrid Payton starts with the ball
+Elfrid Payton misses a 2-point shot (4s)
+Spencer Dinwiddie grabs the defensive rebound!
 === Current Score ===
-Team1: 58 Team2: 70
+Team1: 65 Team2: 61
 
-Kevin Durant starts with the ball
-Kevin Durant misses a 3-point shot (3s)
-Bam Adebayo grabs the defensive rebound!
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 58 Team2: 70
+Team1: 67 Team2: 61
 
-LeBron James starts with the ball
-LeBron James dribbles (4s)
-LeBron James passes to Ray Allen (4s)
-Ray Allen passes to Chris Bosh (3s)
-Chris Bosh passes to Bam Adebayo (5s)
-Bam Adebayo makes a 2-point shot! (6s)
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (4s)
+Justin Hamilton grabs the defensive rebound!
 === Current Score ===
-Team1: 60 Team2: 70
+Team1: 67 Team2: 61
 
-Kevin Durant starts with the ball
-Kevin Durant passes to David West (4s)
-David West passes to Klay Thompson (7s)
-Klay Thompson misses a 3-point shot (4s)
-Chris Bosh grabs the defensive rebound!
+Caris LeVert starts with the ball
+Caris LeVert dribbles (5s)
+Caris LeVert misses a 2-point shot (7s)
+Bismack Biyombo grabs the defensive rebound!
 === Current Score ===
-Team1: 60 Team2: 70
+Team1: 67 Team2: 61
 
-Dwyane Wade starts with the ball
-Draymond Green commits a foul on Dwyane Wade!Dwyane Wade dribbles (5s)
-Kevin Durant commits a foul on Dwyane Wade!Dwyane Wade dribbles (3s)
-Dwyane Wade misses a 2-point shot (4s)
-Draymond Green grabs the defensive rebound!
+Bismack Biyombo starts with the ball
+Bismack Biyombo makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 60 Team2: 70
+Team1: 67 Team2: 63
 
-Kevin Durant starts with the ball
-Kevin Durant makes a 2-point shot! (5s)
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 60 Team2: 72
+Team1: 69 Team2: 63
 
-Ray Allen starts with the ball
-Ray Allen passes to LeBron James (2s)
-LeBron James passes to Dwyane Wade (2s)
-Dwyane Wade passes to Bam Adebayo (6s)
-Bam Adebayo passes to LeBron James (6s)
-LeBron James passes to Ray Allen (5s)
-Ray Allen misses a 2-point shot (2s)
-Matt Barnes grabs the defensive rebound!
+Jeff Green starts with the ball
+Jeff Green makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 60 Team2: 72
+Team1: 69 Team2: 65
 
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (4s)
-Kevin Durant passes to Matt Barnes (3s)
-Matt Barnes passes to Klay Thompson (7s)
-Klay Thompson dribbles (2s)
-Bam Adebayo blocks the shot of Klay Thompson!
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (2s)
+Rondae Hollis-Jefferson dribbles (6s)
+Rondae Hollis-Jefferson misses a 2-point shot (7s)
+Bismack Biyombo grabs the defensive rebound!
 === Current Score ===
-Team1: 60 Team2: 72
+Team1: 69 Team2: 65
 
-LeBron James starts with the ball
-LeBron James misses a 2-point shot (4s)
-Kevin Durant grabs the defensive rebound!
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (7s)
+Aaron Gordon makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 60 Team2: 72
+Team1: 69 Team2: 67
 
-Kevin Durant starts with the ball
-Bam Adebayo steals the ball from Kevin Durant!
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 60 Team2: 72
+Team1: 71 Team2: 67
 
-Bam Adebayo starts with the ball
-Bam Adebayo passes to Chris Bosh (4s)
-Chris Bosh makes a 2-point shot! (5s)
+Elfrid Payton starts with the ball
+Elfrid Payton misses a 2-point shot (2s)
+Joe Harris grabs the defensive rebound!
 === Current Score ===
-Team1: 62 Team2: 72
+Team1: 71 Team2: 67
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (6s)
-Draymond Green passes to Klay Thompson (5s)
-Klay Thompson dribbles (4s)
-Klay Thompson misses a 3-point shot (3s)
-Klay Thompson grabs the offensive rebound!
-Klay Thompson passes to David West (6s)
-David West passes to Klay Thompson (5s)
-Klay Thompson misses a 2-point shot (2s)
-Bam Adebayo grabs the defensive rebound!
+Caris LeVert starts with the ball
+Caris LeVert dribbles (3s)
+Caris LeVert makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 62 Team2: 72
+Team1: 73 Team2: 67
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to Bam Adebayo (6s)
-Bam Adebayo turns the ball over (6s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (2s)
+Joe Harris grabs the defensive rebound!
 === Current Score ===
-Team1: 62 Team2: 72
+Team1: 73 Team2: 67
 
-Klay Thompson starts with the ball
-Klay Thompson passes to Draymond Green (2s)
-Draymond Green passes to Klay Thompson (3s)
-Klay Thompson passes to Draymond Green (6s)
-Draymond Green passes to Klay Thompson (4s)
-Klay Thompson passes to Kevin Durant (7s)
-LeBron James commits a foul on Kevin Durant!Kevin Durant misses a 2-point shot (2s)
-Kevin Durant is fouled and heads to the free throw line 2 attempts
-Kevin Durant makes free throw
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 62 Team2: 73
-Kevin Durant makes free throw
-=== Current Score ===
-Team1: 62 Team2: 74
-=== Current Score ===
-Team1: 62 Team2: 74
+Team1: 75 Team2: 67
 
-LeBron James starts with the ball
-LeBron James turns the ball over (5s)
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (7s)
+Jeremy Lin grabs the defensive rebound!
 === Current Score ===
-Team1: 62 Team2: 74
+Team1: 75 Team2: 67
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (5s)
-Bam Adebayo commits a foul on Klay Thompson!Klay Thompson misses a 2-point shot (6s)
-Klay Thompson is fouled and heads to the free throw line 2 attempts
-Klay Thompson makes free throw
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 62 Team2: 75
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 62 Team2: 76
-=== Current Score ===
-Team1: 62 Team2: 76
+Team1: 77 Team2: 67
 
-LeBron James starts with the ball
-LeBron James misses a 3-point shot (2s)
-Dwyane Wade grabs the offensive rebound!
-Dwyane Wade passes to LeBron James (4s)
-LeBron James misses a 2-point shot (5s)
-Chris Bosh grabs the offensive rebound!
-Chris Bosh passes to Dwyane Wade (4s)
-Kevin Durant commits a foul on Dwyane Wade!Dwyane Wade makes a 2-point shot! (4s)
-Dwyane Wade is fouled and heads to the free throw line(1 attempt) AND ONE!
-Dwyane Wade makes free throw
+Elfrid Payton starts with the ball
+Elfrid Payton makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 65 Team2: 76
-=== Current Score ===
-Team1: 65 Team2: 76
+Team1: 77 Team2: 69
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Matt Barnes (4s)
-Matt Barnes passes to Klay Thompson (5s)
-Klay Thompson passes to Draymond Green (7s)
-Draymond Green makes a 3-point shot! (4s)
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (5s)
+Elfrid Payton grabs the defensive rebound!
 === Current Score ===
-Team1: 65 Team2: 79
+Team1: 77 Team2: 69
 
-Dwyane Wade starts with the ball
-Dwyane Wade misses a 2-point shot (1s)
-LeBron James grabs the offensive rebound!
+C.J. Watson starts with the ball
+C.J. Watson makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 65 Team2: 79
+Team1: 77 Team2: 71
 
-Quarter 2 Score: Team1 65 - Team2 79
+Brook Lopez starts with the ball
+Brook Lopez makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 79 Team2: 71
+
+C.J. Watson starts with the ball
+C.J. Watson turns the ball over (1s)
+=== Current Score ===
+Team1: 79 Team2: 71
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 81 Team2: 71
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (4s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 81 Team2: 71
+
+Jeremy Lin starts with the ball
+Jeremy Lin misses a 2-point shot (7s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 81 Team2: 71
+
+Evan Fournier starts with the ball
+Evan Fournier misses a 2-point shot (6s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 81 Team2: 71
+
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (6s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 81 Team2: 71
+
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (6s)
+Isaiah Whitehead grabs the defensive rebound!
+=== Current Score ===
+Team1: 81 Team2: 71
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 83 Team2: 71
+
+Elfrid Payton starts with the ball
+Elfrid Payton dribbles (4s)
+Elfrid Payton misses a 2-point shot (5s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 83 Team2: 71
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (4s)
+Justin Hamilton misses a 2-point shot (6s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 83 Team2: 71
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic dribbles (7s)
+Nikola Vucevic makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 83 Team2: 73
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick dribbles (8s)
+Sean Kilpatrick misses a 2-point shot (5s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 83 Team2: 73
+
+Jeff Green starts with the ball
+Jeff Green makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 83 Team2: 75
+
+Sean Kilpatrick starts with the ball
+Bismack Biyombo blocks the shot of Sean Kilpatrick!
+=== Current Score ===
+Team1: 83 Team2: 75
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 83 Team2: 77
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 85 Team2: 77
+
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (6s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 85 Team2: 77
+
+Rondae Hollis-Jefferson starts with the ball
+C.J. Watson commits a foul on Rondae Hollis-Jefferson!
+Rondae Hollis-Jefferson misses a 2-point shot (4s)
+Rondae Hollis-Jefferson is fouled and heads to the free throw line:  2 attempts! 
+Rondae Hollis-Jefferson missed free throw
+=== Current Score ===
+Team1: 85 Team2: 77
+Rondae Hollis-Jefferson missed free throw
+=== Current Score ===
+Team1: 85 Team2: 77
+=== Current Score ===
+Team1: 85 Team2: 77
+
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (7s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 85 Team2: 77
+
+Trevor Booker starts with the ball
+Trevor Booker makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 88 Team2: 77
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 88 Team2: 79
+
+Caris LeVert starts with the ball
+Caris LeVert turns the ball over (6s)
+=== Current Score ===
+Team1: 88 Team2: 79
+
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (7s)
+Jeremy Lin grabs the defensive rebound!
+=== Current Score ===
+Team1: 88 Team2: 79
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (6s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 88 Team2: 79
+
+Jeff Green starts with the ball
+Jeff Green commits an offensive foul!
+=== Current Score ===
+Team1: 88 Team2: 79
+
+Jeremy Lin starts with the ball
+Jeremy Lin dribbles (3s)
+Jeremy Lin makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 91 Team2: 79
+
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (4s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 91 Team2: 79
+
+Jeremy Lin starts with the ball
+Jeremy Lin dribbles (3s)
+Jeremy Lin misses a 2-point shot (5s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 91 Team2: 79
+
+C.J. Watson starts with the ball
+C.J. Watson dribbles (3s)
+Jeremy Lin commits a foul on C.J. Watson!
+C.J. Watson dribbles (5s)
+C.J. Watson makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 91 Team2: 81
+
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 93 Team2: 81
+
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (3s)
+Aaron Gordon dribbles (2s)
+Aaron Gordon dribbles (5s)
+Aaron Gordon makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 93 Team2: 83
+
+Justin Hamilton starts with the ball
+Justin Hamilton misses a 2-point shot (6s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 93 Team2: 83
+
+C.J. Watson starts with the ball
+Sean Kilpatrick commits a foul on C.J. Watson!
+C.J. Watson dribbles (4s)
+C.J. Watson dribbles (6s)
+C.J. Watson makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 93 Team2: 85
+
+Brook Lopez starts with the ball
+Brook Lopez dribbles (7s)
+Brook Lopez dribbles (2s)
+Brook Lopez misses a 2-point shot (4s)
+Jeff Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 93 Team2: 85
+
+Aaron Gordon starts with the ball
+Isaiah Whitehead commits a foul on Aaron Gordon!
+Aaron Gordon makes a 2-point shot! (5s)
+Aaron Gordon is fouled and heads to the free throw line (1 attempt) AND-ONE!
+Aaron Gordon missed free throw
+=== Current Score ===
+Team1: 93 Team2: 87
+=== Current Score ===
+Team1: 93 Team2: 87
+
+Trevor Booker starts with the ball
+Trevor Booker dribbles (2s)
+Trevor Booker makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 95 Team2: 87
+
+Jeff Green starts with the ball
+Jeff Green makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 95 Team2: 89
+
+Jeremy Lin starts with the ball
+Jeremy Lin dribbles (2s)
+Nikola Vucevic blocks the shot of Jeremy Lin!
+=== Current Score ===
+Team1: 95 Team2: 89
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 3-point shot! (7s)
+=== Current Score ===
+Team1: 95 Team2: 92
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (7s)
+Rondae Hollis-Jefferson dribbles (4s)
+Rondae Hollis-Jefferson commits an offensive foul!
+=== Current Score ===
+Team1: 95 Team2: 92
+
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (4s)
+Aaron Gordon misses a 2-point shot (3s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 95 Team2: 92
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (5s)
+Justin Hamilton makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 98 Team2: 92
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (8s)
+=== Current Score ===
+Team1: 98 Team2: 94
+
+Jeremy Lin starts with the ball
+Jeremy Lin dribbles (5s)
+Jeremy Lin misses a 2-point shot (3s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 98 Team2: 94
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 98 Team2: 96
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (4s)
+Justin Hamilton misses a 2-point shot (3s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 98 Team2: 96
+
+Terrence Ross starts with the ball
+Terrence Ross makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 98 Team2: 99
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead dribbles (7s)
+Isaiah Whitehead misses a 2-point shot (4s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 98 Team2: 99
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 3-point shot (7s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 98 Team2: 99
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (5s)
+Rondae Hollis-Jefferson makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 100 Team2: 99
+
+Elfrid Payton starts with the ball
+Elfrid Payton misses a 2-point shot (7s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 100 Team2: 99
+
+Trevor Booker starts with the ball
+Mario Hezonja blocks the shot of Trevor Booker!
+=== Current Score ===
+Team1: 100 Team2: 99
+
+Elfrid Payton starts with the ball
+Elfrid Payton makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 100 Team2: 101
+
+Quarter 2 Score: Team1 100 - Team2 101
 
 === Quarter 3 ===
-LeBron James starts with the ball
-LeBron James passes to Dwyane Wade (4s)
-Dwyane Wade makes a 2-point shot! (5s)
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 67 Team2: 79
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (3s)
-Klay Thompson makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 67 Team2: 81
-
-LeBron James starts with the ball
-LeBron James passes to Dwyane Wade (3s)
-Dwyane Wade passes to Chris Bosh (2s)
-Chris Bosh dribbles (5s)
-Chris Bosh misses a 2-point shot (7s)
-Draymond Green grabs the defensive rebound!
-=== Current Score ===
-Team1: 67 Team2: 81
+Team1: 102 Team2: 101
 
-Kevin Durant starts with the ball
-Kevin Durant passes to David West (4s)
-David West passes to Kevin Durant (3s)
-Kevin Durant passes to Matt Barnes (7s)
-LeBron James commits a foul on Matt Barnes!Matt Barnes dribbles (2s)
-Matt Barnes misses a 2-point shot (5s)
-LeBron James grabs the defensive rebound!
-Substitution: David West out, JaVale McGee in (plus-minus: 3, total seconds: 381/1797)
-=== Current Score ===
-Team1: 67 Team2: 81
-
-LeBron James starts with the ball
-LeBron James passes to Dwyane Wade (6s)
-Kevin Durant commits a foul on Dwyane Wade!Dwyane Wade dribbles (7s)
-Dwyane Wade passes to LeBron James (1s)
-LeBron James misses a 2-point shot (6s)
-Chris Bosh grabs the offensive rebound!
-Chris Bosh makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 69 Team2: 81
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (7s)
-Klay Thompson passes to JaVale McGee (4s)
-JaVale McGee dribbles (6s)
-JaVale McGee makes a 2-point shot! (1s)
-=== Current Score ===
-Team1: 69 Team2: 83
-
-Chris Bosh starts with the ball
-Chris Bosh passes to Bam Adebayo (6s)
-Bam Adebayo dribbles (6s)
-Draymond Green commits a foul on Bam Adebayo!Bam Adebayo misses a 2-point shot (6s)
-Bam Adebayo is fouled and heads to the free throw line 2 attempts
-Bam Adebayo makes free throw
-=== Current Score ===
-Team1: 70 Team2: 83
-Bam Adebayo makes free throw
+Evan Fournier starts with the ball
+Evan Fournier misses a 3-point shot (4s)
+Brook Lopez grabs the defensive rebound!
 === Current Score ===
-Team1: 71 Team2: 83
-=== Current Score ===
-Team1: 71 Team2: 83
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Matt Barnes (7s)
-Matt Barnes passes to JaVale McGee (5s)
-JaVale McGee makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 71 Team2: 85
-
-LeBron James starts with the ball
-LeBron James misses a 2-point shot (6s)
-Matt Barnes grabs the defensive rebound!
-=== Current Score ===
-Team1: 71 Team2: 85
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (3s)
-Kevin Durant passes to JaVale McGee (2s)
-JaVale McGee passes to Matt Barnes (4s)
-Matt Barnes passes to Kevin Durant (6s)
-Kevin Durant passes to Klay Thompson (2s)
-Klay Thompson makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 71 Team2: 88
-
-Ray Allen starts with the ball
-Ray Allen passes to Dwyane Wade (3s)
-Dwyane Wade passes to Chris Bosh (3s)
-Chris Bosh passes to Bam Adebayo (7s)
-Bam Adebayo makes a 2-point shot! (3s)
-=== Current Score ===
-Team1: 73 Team2: 88
-
-Kevin Durant starts with the ball
-Kevin Durant misses a 2-point shot (6s)
-Bam Adebayo grabs the defensive rebound!
-=== Current Score ===
-Team1: 73 Team2: 88
-
-Chris Bosh starts with the ball
-Chris Bosh dribbles (7s)
-Chris Bosh passes to Bam Adebayo (4s)
-Bam Adebayo misses a 2-point shot (7s)
-JaVale McGee grabs the defensive rebound!
-=== Current Score ===
-Team1: 73 Team2: 88
+Team1: 102 Team2: 101
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (2s)
-Draymond Green passes to Klay Thompson (7s)
-Klay Thompson passes to Draymond Green (3s)
-Draymond Green dribbles (5s)
-Draymond Green misses a 3-point shot (5s)
-Chris Bosh grabs the defensive rebound!
+Rondae Hollis-Jefferson starts with the ball
+Nikola Vucevic blocks the shot of Rondae Hollis-Jefferson!
 === Current Score ===
-Team1: 73 Team2: 88
-
-LeBron James starts with the ball
-LeBron James makes a 3-point shot! (5s)
-=== Current Score ===
-Team1: 76 Team2: 88
+Team1: 102 Team2: 101
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Matt Barnes (4s)
-Matt Barnes passes to Draymond Green (5s)
-Draymond Green passes to Matt Barnes (5s)
-Matt Barnes passes to JaVale McGee (5s)
-Bam Adebayo commits a foul on JaVale McGee!Ray Allen blocks the shot of JaVale McGee!
-=== Current Score ===
-Team1: 76 Team2: 88
-
-LeBron James starts with the ball
-LeBron James dribbles (4s)
-LeBron James passes to Bam Adebayo (4s)
-Bam Adebayo passes to Dwyane Wade (7s)
-Klay Thompson commits a foul on Dwyane Wade!Dwyane Wade makes a 2-point shot! (2s)
-Dwyane Wade is fouled and heads to the free throw line(1 attempt) AND ONE!
-Dwyane Wade makes free throw
+Mario Hezonja starts with the ball
+Mario Hezonja dribbles (2s)
+Mario Hezonja dribbles (4s)
+Mario Hezonja makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 79 Team2: 88
-Substitution: Bam Adebayo out, Juwan Howard in (plus-minus: -11, total seconds: 1704/1726)
-=== Current Score ===
-Team1: 79 Team2: 88
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Kevin Durant (4s)
-Kevin Durant passes to Matt Barnes (6s)
-LeBron James commits a foul on Matt Barnes!Matt Barnes makes a 3-point shot! (4s)
-Matt Barnes is fouled and heads to the free throw line(1 attempt) AND ONE!
-Matt Barnes makes free throw
-=== Current Score ===
-Team1: 79 Team2: 92
-Substitution: Matt Barnes out, Zaza Pachulia in (plus-minus: 1, total seconds: 753/767)
-=== Current Score ===
-Team1: 79 Team2: 92
-
-Ray Allen starts with the ball
-Ray Allen dribbles (3s)
-Ray Allen passes to Juwan Howard (4s)
-Juwan Howard passes to Ray Allen (3s)
-Ray Allen passes to Juwan Howard (3s)
-Juwan Howard passes to Chris Bosh (2s)
-Chris Bosh passes to Juwan Howard (3s)
-Juwan Howard makes a 2-point shot! (4s)
-=== Current Score ===
-Team1: 81 Team2: 92
-
-Kevin Durant starts with the ball
-Kevin Durant passes to JaVale McGee (3s)
-JaVale McGee passes to Kevin Durant (7s)
-Kevin Durant passes to JaVale McGee (6s)
-Chris Bosh commits a foul on JaVale McGee!JaVale McGee makes a 2-point shot! (2s)
-JaVale McGee is fouled and heads to the free throw line(1 attempt) AND ONE!
-JaVale McGee missed free throw
-=== Current Score ===
-Team1: 81 Team2: 94
-=== Current Score ===
-Team1: 81 Team2: 94
-
-LeBron James starts with the ball
-LeBron James passes to Juwan Howard (5s)
-Juwan Howard passes to Dwyane Wade (3s)
-Dwyane Wade passes to Ray Allen (7s)
-Kevin Durant commits a foul on Ray Allen!Ray Allen makes a 2-point shot! (4s)
-Ray Allen is fouled and heads to the free throw line(1 attempt) AND ONE!
-Ray Allen makes free throw
-=== Current Score ===
-Team1: 84 Team2: 94
-=== Current Score ===
-Team1: 84 Team2: 94
-
-Klay Thompson starts with the ball
-Klay Thompson passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to Klay Thompson (6s)
-Klay Thompson dribbles (3s)
-Klay Thompson makes a 2-point shot! (7s)
-=== Current Score ===
-Team1: 84 Team2: 96
+Team1: 102 Team2: 103
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to LeBron James (4s)
-LeBron James turns the ball over (4s)
-=== Current Score ===
-Team1: 84 Team2: 96
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Klay Thompson (3s)
-Klay Thompson passes to Zaza Pachulia (8s)
-Zaza Pachulia makes a 2-point shot! (8s)
-=== Current Score ===
-Team1: 84 Team2: 98
-
-LeBron James starts with the ball
-LeBron James passes to Juwan Howard (4s)
-Juwan Howard passes to Dwyane Wade (5s)
-Dwyane Wade passes to Chris Bosh (7s)
-Chris Bosh makes a 2-point shot! (5s)
-=== Current Score ===
-Team1: 86 Team2: 98
-
-Kevin Durant starts with the ball
-Kevin Durant passes to Draymond Green (7s)
-Draymond Green dribbles (4s)
-Draymond Green passes to JaVale McGee (8s)
-JaVale McGee misses a 2-point shot (5s)
-Zaza Pachulia grabs the offensive rebound!
-Zaza Pachulia passes to Klay Thompson (2s)
-Ray Allen commits a foul on Klay Thompson!Klay Thompson misses a 2-point shot (5s)
-Klay Thompson is fouled and heads to the free throw line 2 attempts
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 86 Team2: 99
-Klay Thompson makes free throw
-=== Current Score ===
-Team1: 86 Team2: 100
-=== Current Score ===
-Team1: 86 Team2: 100
-
-LeBron James starts with the ball
-LeBron James passes to Chris Bosh (4s)
-Chris Bosh passes to Juwan Howard (5s)
-Juwan Howard passes to Ray Allen (5s)
-Ray Allen dribbles (1s)
-Ray Allen passes to Dwyane Wade (6s)
-Dwyane Wade makes a 2-point shot! (3s)
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (3s)
+Rondae Hollis-Jefferson makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 88 Team2: 100
+Team1: 104 Team2: 103
 
-Kevin Durant starts with the ball
-Kevin Durant passes to Zaza Pachulia (4s)
-Zaza Pachulia passes to JaVale McGee (2s)
-JaVale McGee passes to Kevin Durant (4s)
-Kevin Durant misses a 2-point shot (4s)
-Ray Allen grabs the defensive rebound!
+Bismack Biyombo starts with the ball
+Bismack Biyombo dribbles (3s)
+Bismack Biyombo makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 88 Team2: 100
+Team1: 104 Team2: 105
 
-LeBron James starts with the ball
-LeBron James passes to Ray Allen (6s)
-Ray Allen turns the ball over (4s)
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (7s)
+Bismack Biyombo grabs the defensive rebound!
 === Current Score ===
-Team1: 88 Team2: 100
+Team1: 104 Team2: 105
 
-Kevin Durant starts with the ball
-Kevin Durant dribbles (5s)
-Kevin Durant makes a 3-point shot! (7s)
+Aaron Gordon starts with the ball
+Aaron Gordon misses a 2-point shot (4s)
+Caris LeVert grabs the defensive rebound!
 === Current Score ===
-Team1: 88 Team2: 103
+Team1: 104 Team2: 105
 
-LeBron James starts with the ball
-LeBron James passes to Chris Bosh (5s)
-Chris Bosh passes to Juwan Howard (5s)
-Kevin Durant commits a foul on Juwan Howard!Juwan Howard misses a 2-point shot (1s)
-Juwan Howard is fouled and heads to the free throw line 2 attempts
-Juwan Howard missed free throw
+Trevor Booker starts with the ball
+Trevor Booker dribbles (4s)
+Trevor Booker makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 88 Team2: 103
-Juwan Howard makes free throw
+Team1: 106 Team2: 105
+
+Jeff Green starts with the ball
+Sean Kilpatrick commits a foul on Jeff Green!
+Jeff Green makes a 2-point shot! (4s)
+Jeff Green is fouled and heads to the free throw line (1 attempt) AND-ONE!
+Jeff Green missed free throw
 === Current Score ===
-Team1: 89 Team2: 103
-Substitution: LeBron James out, Udonis Haslem in (plus-minus: -13, total seconds: 1948/2048)
+Team1: 106 Team2: 107
 === Current Score ===
-Team1: 89 Team2: 103
+Team1: 106 Team2: 107
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (5s)
-Klay Thompson misses a 3-point shot (6s)
-Draymond Green grabs the offensive rebound!
-Draymond Green passes to Zaza Pachulia (4s)
-Udonis Haslem commits a foul on Zaza Pachulia!Zaza Pachulia makes a 2-point shot! (8s)
-Zaza Pachulia is fouled and heads to the free throw line(1 attempt) AND ONE!
-Zaza Pachulia makes free throw
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 89 Team2: 106
-Substitution: Kevin Durant out, David West in (plus-minus: 14, total seconds: 1971/2100)
+Team1: 108 Team2: 107
+
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 89 Team2: 106
+Team1: 108 Team2: 109
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Ray Allen (5s)
-Ray Allen passes to Chris Bosh (2s)
-Chris Bosh dribbles (5s)
-Draymond Green steals the ball from Chris Bosh while dribbling!
+Caris LeVert starts with the ball
+Caris LeVert dribbles (3s)
+Caris LeVert makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 89 Team2: 106
+Team1: 110 Team2: 109
 
-Klay Thompson starts with the ball
-Klay Thompson misses a 3-point shot (6s)
-Udonis Haslem grabs the defensive rebound!
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (4s)
+Spencer Dinwiddie grabs the defensive rebound!
 === Current Score ===
-Team1: 89 Team2: 106
+Team1: 110 Team2: 109
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Dwyane Wade (5s)
-Dwyane Wade passes to Juwan Howard (4s)
-Juwan Howard passes to Chris Bosh (6s)
-Chris Bosh misses a 2-point shot (2s)
-David West grabs the defensive rebound!
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (5s)
+Mario Hezonja grabs the defensive rebound!
 === Current Score ===
-Team1: 89 Team2: 106
+Team1: 110 Team2: 109
 
-David West starts with the ball
-David West passes to JaVale McGee (3s)
-JaVale McGee passes to Klay Thompson (6s)
-Klay Thompson passes to David West (1s)
-Chris Bosh commits a foul on David West!David West dribbles (5s)
-David West passes to JaVale McGee (7s)
-JaVale McGee makes a 2-point shot! (2s)
+Mario Hezonja starts with the ball
+Joe Harris commits a foul on Mario Hezonja!
+Mario Hezonja makes a 2-point shot! (4s)
+Mario Hezonja is fouled and heads to the free throw line (1 attempt) AND-ONE!
+Mario Hezonja missed free throw
 === Current Score ===
-Team1: 89 Team2: 108
+Team1: 110 Team2: 111
+=== Current Score ===
+Team1: 110 Team2: 111
 
-Juwan Howard starts with the ball
-JaVale McGee commits a foul on Juwan Howard!Juwan Howard misses a 2-point shot (4s)
-Juwan Howard is fouled and heads to the free throw line 2 attempts
-Juwan Howard makes free throw
+Brook Lopez starts with the ball
+Brook Lopez dribbles (3s)
+Brook Lopez misses a 2-point shot (6s)
+Jeff Green grabs the defensive rebound!
 === Current Score ===
-Team1: 90 Team2: 108
-Juwan Howard makes free throw
+Team1: 110 Team2: 111
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (6s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
 === Current Score ===
-Team1: 91 Team2: 108
+Team1: 110 Team2: 111
+
+Trevor Booker starts with the ball
+Bismack Biyombo blocks the shot of Trevor Booker!
 === Current Score ===
-Team1: 91 Team2: 108
+Team1: 110 Team2: 111
 
-David West starts with the ball
-David West passes to JaVale McGee (4s)
-JaVale McGee makes a 2-point shot! (4s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 91 Team2: 110
+Team1: 110 Team2: 113
 
-Chris Bosh starts with the ball
-Chris Bosh misses a 2-point shot (3s)
-David West grabs the defensive rebound!
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (2s)
+Aaron Gordon grabs the defensive rebound!
 === Current Score ===
-Team1: 91 Team2: 110
+Team1: 110 Team2: 113
 
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (4s)
-David West misses a 2-point shot (5s)
-Klay Thompson grabs the offensive rebound!
-Chris Bosh blocks the shot of Klay Thompson!
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (4s)
+Trevor Booker grabs the defensive rebound!
 === Current Score ===
-Team1: 91 Team2: 110
+Team1: 110 Team2: 113
 
-Ray Allen starts with the ball
-Ray Allen passes to Dwyane Wade (3s)
-Dwyane Wade turns the ball over (5s)
+Brook Lopez starts with the ball
+Brook Lopez dribbles (4s)
+Brook Lopez dribbles (2s)
+Brook Lopez misses a 2-point shot (3s)
+Bismack Biyombo grabs the defensive rebound!
 === Current Score ===
-Team1: 91 Team2: 110
+Team1: 110 Team2: 113
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (5s)
-Klay Thompson passes to Draymond Green (6s)
-Draymond Green passes to Klay Thompson (3s)
-Klay Thompson dribbles (6s)
-Klay Thompson makes a 3-point shot! (4s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (7s)
+Sean Kilpatrick grabs the defensive rebound!
 === Current Score ===
-Team1: 91 Team2: 113
+Team1: 110 Team2: 113
 
-Ray Allen starts with the ball
-Ray Allen passes to Chris Bosh (6s)
-Chris Bosh passes to Juwan Howard (3s)
-Juwan Howard passes to Ray Allen (4s)
-Ray Allen passes to Chris Bosh (3s)
-Chris Bosh makes a 2-point shot! (4s)
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie dribbles (5s)
+Spencer Dinwiddie misses a 2-point shot (4s)
+Terrence Ross grabs the defensive rebound!
 === Current Score ===
-Team1: 93 Team2: 113
+Team1: 110 Team2: 113
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (5s)
-Juwan Howard blocks the shot of Klay Thompson!
+D.J. Augustin starts with the ball
+D.J. Augustin dribbles (8s)
+D.J. Augustin makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 93 Team2: 113
+Team1: 110 Team2: 115
 
-Juwan Howard starts with the ball
-Juwan Howard dribbles (5s)
-Juwan Howard passes to Ray Allen (6s)
-Ray Allen passes to Chris Bosh (5s)
-Chris Bosh turns the ball over (7s)
-Substitution: Dwyane Wade out, Shane Battier in (plus-minus: -17, total seconds: 2145/2048)
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (7s)
+Terrence Ross grabs the defensive rebound!
 === Current Score ===
-Team1: 93 Team2: 113
+Team1: 110 Team2: 115
 
-David West starts with the ball
-David West passes to JaVale McGee (4s)
-JaVale McGee makes a 2-point shot! (8s)
-Substitution: JaVale McGee out, Shaun Livingston in (plus-minus: 5, total seconds: 664/854)
+Jeff Green starts with the ball
+Jeff Green dribbles (5s)
+Isaiah Whitehead commits a foul on Jeff Green!
+Jeff Green misses a 2-point shot (5s)
+Jeff Green is fouled and heads to the free throw line:  2 attempts! 
+Jeff Green missed free throw
 === Current Score ===
-Team1: 93 Team2: 115
+Team1: 110 Team2: 115
+Jeff Green missed free throw
+=== Current Score ===
+Team1: 110 Team2: 115
+=== Current Score ===
+Team1: 110 Team2: 115
 
-Ray Allen starts with the ball
-Ray Allen misses a 2-point shot (3s)
-Draymond Green grabs the defensive rebound!
+Jeremy Lin starts with the ball
+Jeremy Lin dribbles (3s)
+Jeremy Lin makes a 3-point shot! (6s)
 === Current Score ===
-Team1: 93 Team2: 115
+Team1: 113 Team2: 115
 
-Quarter 3 Score: Team1 93 - Team2 115
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 3-point shot (7s)
+Jeremy Lin grabs the defensive rebound!
+=== Current Score ===
+Team1: 113 Team2: 115
 
-=== Quarter 4 ===
-Klay Thompson starts with the ball
-Klay Thompson passes to Shaun Livingston (3s)
-Shaun Livingston passes to David West (6s)
-Ray Allen commits a foul on David West!David West dribbles (3s)
-David West makes a 2-point shot! (2s)
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick dribbles (4s)
+Sean Kilpatrick dribbles (4s)
+Sean Kilpatrick dribbles (5s)
+Sean Kilpatrick makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 93 Team2: 117
+Team1: 115 Team2: 115
 
-Ray Allen starts with the ball
-Draymond Green commits a foul on Ray Allen!Ray Allen makes a 2-point shot! (6s)
-Ray Allen is fouled and heads to the free throw line(1 attempt) AND ONE!
-Ray Allen makes free throw
+Evan Fournier starts with the ball
+Evan Fournier misses a 2-point shot (3s)
+Isaiah Whitehead grabs the defensive rebound!
 === Current Score ===
-Team1: 96 Team2: 117
+Team1: 115 Team2: 115
+
+Jeremy Lin starts with the ball
+Jeremy Lin misses a 2-point shot (4s)
+Aaron Gordon grabs the defensive rebound!
 === Current Score ===
-Team1: 96 Team2: 117
+Team1: 115 Team2: 115
 
-Klay Thompson starts with the ball
-Klay Thompson dribbles (6s)
-Klay Thompson makes a 3-point shot! (4s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (6s)
+Sean Kilpatrick grabs the defensive rebound!
 === Current Score ===
-Team1: 96 Team2: 120
+Team1: 115 Team2: 115
 
-Ray Allen starts with the ball
-Ray Allen passes to Udonis Haslem (6s)
-Udonis Haslem passes to Shane Battier (4s)
-Shaun Livingston commits a foul on Shane Battier!Shane Battier dribbles (5s)
-Shane Battier passes to Udonis Haslem (6s)
-Udonis Haslem makes a 2-point shot! (3s)
+Caris LeVert starts with the ball
+Caris LeVert makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 98 Team2: 120
+Team1: 117 Team2: 115
 
-David West starts with the ball
-David West passes to Zaza Pachulia (2s)
-Zaza Pachulia passes to Draymond Green (4s)
-Draymond Green commits an offensive foul!
+Aaron Gordon starts with the ball
+Aaron Gordon makes a 2-point shot! (7s)
 === Current Score ===
-Team1: 98 Team2: 120
+Team1: 117 Team2: 117
 
-Juwan Howard starts with the ball
-Juwan Howard passes to Ray Allen (3s)
-Ray Allen dribbles (6s)
-Ray Allen passes to Juwan Howard (5s)
-Juwan Howard makes a 2-point shot! (7s)
+Jeremy Lin starts with the ball
+Jeremy Lin misses a 2-point shot (5s)
+Aaron Gordon grabs the defensive rebound!
 === Current Score ===
-Team1: 100 Team2: 120
+Team1: 117 Team2: 117
 
-Klay Thompson starts with the ball
-Klay Thompson passes to Shaun Livingston (8s)
-Shaun Livingston makes a 2-point shot! (5s)
+Mario Hezonja starts with the ball
+Mario Hezonja turns the ball over (5s)
 === Current Score ===
-Team1: 100 Team2: 122
+Team1: 117 Team2: 117
 
-Chris Bosh starts with the ball
-Klay Thompson commits a foul on Chris Bosh!Chris Bosh makes a 2-point shot! (2s)
-Chris Bosh is fouled and heads to the free throw line(1 attempt) AND ONE!
-Chris Bosh makes free throw
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 2-point shot! (8s)
 === Current Score ===
-Team1: 103 Team2: 122
+Team1: 119 Team2: 117
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 3-point shot (6s)
+Caris LeVert grabs the defensive rebound!
 === Current Score ===
-Team1: 103 Team2: 122
+Team1: 119 Team2: 117
 
-Klay Thompson starts with the ball
-Klay Thompson passes to David West (3s)
-Chris Bosh blocks the shot of David West!
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (2s)
+D.J. Augustin grabs the defensive rebound!
 === Current Score ===
-Team1: 103 Team2: 122
+Team1: 119 Team2: 117
 
-Ray Allen starts with the ball
-Ray Allen passes to Shane Battier (3s)
-Shane Battier dribbles (6s)
-Shane Battier passes to Ray Allen (3s)
-Ray Allen dribbles (3s)
-Ray Allen makes a 2-point shot! (2s)
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 3-point shot (5s)
+Isaiah Whitehead grabs the defensive rebound!
 === Current Score ===
-Team1: 105 Team2: 122
+Team1: 119 Team2: 117
 
-Klay Thompson starts with the ball
-Klay Thompson passes to JaVale McGee (7s)
-JaVale McGee dribbles (5s)
-JaVale McGee dribbles (4s)
-JaVale McGee makes a 2-point shot! (5s)
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (4s)
+D.J. Augustin grabs the defensive rebound!
 === Current Score ===
-Team1: 105 Team2: 124
+Team1: 119 Team2: 117
 
-Chris Bosh starts with the ball
-Chris Bosh dribbles (5s)
-Chris Bosh misses a 2-point shot (4s)
-Klay Thompson grabs the defensive rebound!
-Substitution: Ray Allen out, Mario Chalmers in (plus-minus: -20, total seconds: 2315/1731)
+Jeff Green starts with the ball
+Jeff Green makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 105 Team2: 124
+Team1: 119 Team2: 119
 
-David West starts with the ball
-David West passes to Zaza Pachulia (6s)
-Udonis Haslem blocks the shot of Zaza Pachulia!
-Substitution: Klay Thompson out, Matt Barnes in (plus-minus: 20, total seconds: 2326/1651)
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (7s)
+Mario Hezonja grabs the defensive rebound!
 === Current Score ===
-Team1: 105 Team2: 124
+Team1: 119 Team2: 119
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Udonis Haslem (8s)
-Udonis Haslem passes to Mario Chalmers (5s)
-Mario Chalmers misses a 3-point shot (5s)
-Chris Bosh grabs the offensive rebound!
-Chris Bosh passes to Juwan Howard (4s)
-Matt Barnes blocks the shot of Juwan Howard!
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (6s)
+Aaron Gordon makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 105 Team2: 124
+Team1: 119 Team2: 121
 
-David West starts with the ball
-David West dribbles (7s)
-David West passes to JaVale McGee (3s)
-JaVale McGee passes to David West (6s)
-David West makes a 2-point shot! (4s)
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (6s)
 === Current Score ===
-Team1: 105 Team2: 126
+Team1: 121 Team2: 121
 
-Juwan Howard starts with the ball
-Juwan Howard dribbles (1s)
-Juwan Howard makes a 2-point shot! (5s)
+Aaron Gordon starts with the ball
+Aaron Gordon misses a 2-point shot (4s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
 === Current Score ===
-Team1: 107 Team2: 126
+Team1: 121 Team2: 121
 
-David West starts with the ball
-David West passes to Zaza Pachulia (2s)
-Zaza Pachulia dribbles (2s)
-Zaza Pachulia misses a 2-point shot (3s)
-Juwan Howard grabs the defensive rebound!
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie turns the ball over (5s)
 === Current Score ===
-Team1: 107 Team2: 126
+Team1: 121 Team2: 121
 
-Chris Bosh starts with the ball
-Chris Bosh makes a 2-point shot! (5s)
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (6s)
+Jeremy Lin grabs the defensive rebound!
 === Current Score ===
-Team1: 109 Team2: 126
+Team1: 121 Team2: 121
 
-David West starts with the ball
-David West passes to JaVale McGee (4s)
-JaVale McGee misses a 2-point shot (5s)
-Udonis Haslem grabs the defensive rebound!
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie misses a 2-point shot (5s)
+Mario Hezonja grabs the defensive rebound!
 === Current Score ===
-Team1: 109 Team2: 126
+Team1: 121 Team2: 121
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Juwan Howard (5s)
-Juwan Howard makes a 2-point shot! (5s)
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (7s)
+Caris LeVert grabs the defensive rebound!
 === Current Score ===
-Team1: 111 Team2: 126
+Team1: 121 Team2: 121
 
-David West starts with the ball
-David West passes to Shaun Livingston (4s)
-Shaun Livingston dribbles (3s)
-Shaun Livingston passes to Matt Barnes (5s)
-Matt Barnes dribbles (5s)
-Juwan Howard commits a foul on Matt Barnes!Matt Barnes makes a 2-point shot! (4s)
-Matt Barnes is fouled and heads to the free throw line(1 attempt) AND ONE!
-Matt Barnes makes free throw
+Spencer Dinwiddie starts with the ball
+Elfrid Payton blocks the shot of Spencer Dinwiddie!
 === Current Score ===
-Team1: 111 Team2: 129
+Team1: 121 Team2: 121
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo dribbles (4s)
+Bismack Biyombo makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 111 Team2: 129
+Team1: 121 Team2: 123
 
-Chris Bosh starts with the ball
-Zaza Pachulia commits a foul on Chris Bosh!Chris Bosh makes a 2-point shot! (8s)
-Chris Bosh is fouled and heads to the free throw line(1 attempt) AND ONE!
-Chris Bosh makes free throw
+Joe Harris starts with the ball
+Joe Harris misses a 3-point shot (3s)
+Nikola Vucevic grabs the defensive rebound!
 === Current Score ===
-Team1: 114 Team2: 129
+Team1: 121 Team2: 123
+
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (4s)
+Spencer Dinwiddie grabs the defensive rebound!
 === Current Score ===
-Team1: 114 Team2: 129
+Team1: 121 Team2: 123
 
-David West starts with the ball
-David West dribbles (5s)
-Shane Battier commits a foul on David West!David West dribbles (5s)
-David West passes to Shaun Livingston (5s)
-Shaun Livingston makes a 2-point shot! (5s)
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (2s)
+Evan Fournier grabs the defensive rebound!
 === Current Score ===
-Team1: 114 Team2: 131
+Team1: 121 Team2: 123
 
-Chris Bosh starts with the ball
-Chris Bosh passes to Udonis Haslem (3s)
-Udonis Haslem passes to Shane Battier (4s)
-Shane Battier makes a 3-point shot! (5s)
+D.J. Augustin starts with the ball
+D.J. Augustin misses a 2-point shot (3s)
+Jeremy Lin grabs the defensive rebound!
 === Current Score ===
-Team1: 117 Team2: 131
+Team1: 121 Team2: 123
 
-David West starts with the ball
-David West passes to Shaun Livingston (6s)
-Shaun Livingston dribbles (8s)
-Shaun Livingston makes a 2-point shot! (3s)
+Jeremy Lin starts with the ball
+Jeremy Lin misses a 2-point shot (4s)
+Elfrid Payton grabs the defensive rebound!
 === Current Score ===
-Team1: 117 Team2: 133
+Team1: 121 Team2: 123
 
-Chris Bosh starts with the ball
-Chris Bosh misses a 2-point shot (4s)
-David West grabs the defensive rebound!
-Substitution: Chris Bosh out, Chris Andersen in (plus-minus: -17, total seconds: 2492/1726)
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 117 Team2: 133
+Team1: 121 Team2: 125
 
-David West starts with the ball
-David West dribbles (7s)
-David West passes to Zaza Pachulia (2s)
-Zaza Pachulia misses a 2-point shot (6s)
-Zaza Pachulia grabs the offensive rebound!
-Zaza Pachulia dribbles (3s)
-Zaza Pachulia turns the ball over (3s)
-Substitution: Zaza Pachulia out, Andre Iguodala in (plus-minus: 5, total seconds: 795/1003)
+Trevor Booker starts with the ball
+Trevor Booker misses a 2-point shot (2s)
+Terrence Ross grabs the defensive rebound!
 === Current Score ===
-Team1: 117 Team2: 133
+Team1: 121 Team2: 125
 
-Juwan Howard starts with the ball
-Juwan Howard passes to Shane Battier (4s)
-Shane Battier passes to Juwan Howard (3s)
-Juwan Howard commits an offensive foul!
+Terrence Ross starts with the ball
+Terrence Ross dribbles (5s)
+Terrence Ross misses a 2-point shot (2s)
+Brook Lopez grabs the defensive rebound!
 === Current Score ===
-Team1: 117 Team2: 133
+Team1: 121 Team2: 125
 
-David West starts with the ball
-Shane Battier commits a foul on David West!David West misses a 2-point shot (4s)
-David West is fouled and heads to the free throw line 2 attempts
-David West makes free throw
+Joe Harris starts with the ball
+Mario Hezonja commits a foul on Joe Harris!
+Joe Harris misses a 2-point shot (6s)
+Joe Harris is fouled and heads to the free throw line:  2 attempts! 
+Joe Harris missed free throw
 === Current Score ===
-Team1: 117 Team2: 134
-David West missed free throw
+Team1: 121 Team2: 125
+Joe Harris missed free throw
 === Current Score ===
-Team1: 117 Team2: 134
+Team1: 121 Team2: 125
 === Current Score ===
-Team1: 117 Team2: 134
+Team1: 121 Team2: 125
 
-Dwyane Wade starts with the ball
-David West steals the ball from Dwyane Wade while dribbling!
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (2s)
+Trevor Booker grabs the defensive rebound!
 === Current Score ===
-Team1: 117 Team2: 134
+Team1: 121 Team2: 125
 
-David West starts with the ball
-David West turns the ball over (6s)
+Caris LeVert starts with the ball
+Caris LeVert misses a 2-point shot (5s)
+Jeff Green grabs the defensive rebound!
 === Current Score ===
-Team1: 117 Team2: 134
+Team1: 121 Team2: 125
 
-Dwyane Wade starts with the ball
-Dwyane Wade makes a 2-point shot! (5s)
+Aaron Gordon starts with the ball
+Aaron Gordon misses a 3-point shot (2s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
 === Current Score ===
-Team1: 119 Team2: 134
+Team1: 121 Team2: 125
 
-David West starts with the ball
-Mario Chalmers blocks the shot of David West!
+Justin Hamilton starts with the ball
+Justin Hamilton misses a 2-point shot (4s)
+Jeff Green grabs the defensive rebound!
 === Current Score ===
-Team1: 119 Team2: 134
+Team1: 121 Team2: 125
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to Shane Battier (4s)
-Shane Battier passes to Mario Chalmers (4s)
-Mario Chalmers dribbles (3s)
-Mario Chalmers passes to Dwyane Wade (5s)
-JaVale McGee commits a foul on Dwyane Wade!Dwyane Wade makes a 2-point shot! (2s)
-Dwyane Wade is fouled and heads to the free throw line(1 attempt) AND ONE!
-Dwyane Wade makes free throw
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (5s)
+Joe Harris grabs the defensive rebound!
 === Current Score ===
-Team1: 122 Team2: 134
+Team1: 121 Team2: 125
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson makes a 3-point shot! (6s)
 === Current Score ===
-Team1: 122 Team2: 134
+Team1: 124 Team2: 125
 
-David West starts with the ball
-David West dribbles (6s)
-David West passes to Matt Barnes (4s)
-Matt Barnes passes to David West (4s)
-David West misses a 3-point shot (7s)
-Chris Andersen grabs the defensive rebound!
+Evan Fournier starts with the ball
+Evan Fournier dribbles (4s)
+Evan Fournier makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 122 Team2: 134
+Team1: 124 Team2: 127
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to Udonis Haslem (3s)
-Andre Iguodala commits a foul on Udonis Haslem!Substitution: JaVale McGee out, Zaza Pachulia in (plus-minus: -1, total seconds: 1033/854)
-Andre Iguodala fouls out!Udonis Haslem dribbles (2s)
-Udonis Haslem passes to Dwyane Wade (4s)
-Dwyane Wade passes to Shane Battier (2s)
-Shane Battier turns the ball over (5s)
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (5s)
+Evan Fournier grabs the defensive rebound!
 === Current Score ===
-Team1: 122 Team2: 134
+Team1: 124 Team2: 127
 
-David West starts with the ball
-David West passes to Andre Iguodala (6s)
-Andre Iguodala misses a 2-point shot (7s)
-Chris Andersen grabs the defensive rebound!
+Mario Hezonja starts with the ball
+Mario Hezonja dribbles (5s)
+Mario Hezonja misses a 2-point shot (4s)
+Jeremy Lin grabs the defensive rebound!
 === Current Score ===
-Team1: 122 Team2: 134
+Team1: 124 Team2: 127
 
-Dwyane Wade starts with the ball
-Dwyane Wade makes a 2-point shot! (3s)
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 2-point shot! (3s)
 === Current Score ===
-Team1: 124 Team2: 134
+Team1: 126 Team2: 127
 
-David West starts with the ball
-David West passes to Shaun Livingston (5s)
-Shaun Livingston passes to David West (3s)
-David West dribbles (3s)
-David West dribbles (4s)
-David West dribbles (4s)
-David West misses a 2-point shot (4s)
-Chris Andersen grabs the defensive rebound!
+Jeff Green starts with the ball
+Jeff Green makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 124 Team2: 134
+Team1: 126 Team2: 129
 
-Dwyane Wade starts with the ball
-Dwyane Wade dribbles (5s)
-Dwyane Wade dribbles (2s)
-Dwyane Wade commits an offensive foul!
-Substitution: Shane Battier out, Udonis Haslem in (plus-minus: 4, total seconds: 505/1290)
+Justin Hamilton starts with the ball
+Justin Hamilton misses a 2-point shot (3s)
+Elfrid Payton grabs the defensive rebound!
 === Current Score ===
-Team1: 124 Team2: 134
+Team1: 126 Team2: 129
 
-David West starts with the ball
-Mario Chalmers commits a foul on David West!Mario Chalmers blocks the shot of David West!
-Substitution: David West out, JaVale McGee in (plus-minus: 2, total seconds: 1062/1797)
+Elfrid Payton starts with the ball
+Elfrid Payton makes a 2-point shot! (7s)
 === Current Score ===
-Team1: 124 Team2: 134
+Team1: 126 Team2: 131
 
-Dwyane Wade starts with the ball
-Dwyane Wade passes to Juwan Howard (6s)
-Juwan Howard passes to Mario Chalmers (5s)
-Mario Chalmers dribbles (3s)
-Mario Chalmers passes to Chris Andersen (5s)
-Chris Andersen makes a 2-point shot! (5s)
+Trevor Booker starts with the ball
+Trevor Booker dribbles (2s)
+Trevor Booker makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 126 Team2: 134
+Team1: 128 Team2: 131
 
-Zaza Pachulia starts with the ball
-Mario Chalmers commits a foul on Zaza Pachulia!Zaza Pachulia misses a 2-point shot (3s)
-Zaza Pachulia is fouled and heads to the free throw line 2 attempts
-Zaza Pachulia makes free throw
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (3s)
+Sean Kilpatrick grabs the defensive rebound!
 === Current Score ===
-Team1: 126 Team2: 135
-Zaza Pachulia makes free throw
+Team1: 128 Team2: 131
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie misses a 2-point shot (5s)
+Terrence Ross grabs the defensive rebound!
 === Current Score ===
-Team1: 126 Team2: 136
+Team1: 128 Team2: 131
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic makes a 2-point shot! (2s)
 === Current Score ===
-Team1: 126 Team2: 136
+Team1: 128 Team2: 133
 
-Dwyane Wade starts with the ball
-JaVale McGee blocks the shot of Dwyane Wade!
+Brook Lopez starts with the ball
+C.J. Watson blocks the shot of Brook Lopez!
 === Current Score ===
-Team1: 126 Team2: 136
+Team1: 128 Team2: 133
 
-Shaun Livingston starts with the ball
-Shaun Livingston passes to Andre Iguodala (5s)
-Andre Iguodala passes to Shaun Livingston (6s)
-Shaun Livingston dribbles (3s)
-Shaun Livingston passes to Zaza Pachulia (6s)
-Zaza Pachulia makes a 2-point shot! (4s)
+Terrence Ross starts with the ball
+Rondae Hollis-Jefferson steals the ball from Terrence Ross while dribbling!
 === Current Score ===
-Team1: 126 Team2: 138
+Team1: 128 Team2: 133
 
-Juwan Howard starts with the ball
-Juwan Howard passes to Dwyane Wade (4s)
-Dwyane Wade passes to Udonis Haslem (6s)
-Udonis Haslem passes to Dwyane Wade (4s)
-Dwyane Wade passes to Mario Chalmers (4s)
-Mario Chalmers passes to Udonis Haslem (4s)
-Matt Barnes blocks the shot of Udonis Haslem!
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (2s)
+Justin Hamilton dribbles (1s)
+Justin Hamilton turns the ball over (6s)
 === Current Score ===
-Team1: 126 Team2: 138
+Team1: 128 Team2: 133
 
-Andre Iguodala starts with the ball
-Andre Iguodala dribbles (3s)
-Andre Iguodala passes to Zaza Pachulia (4s)
-Zaza Pachulia makes a 2-point shot! (5s)
+Evan Fournier starts with the ball
+Evan Fournier dribbles (2s)
+Evan Fournier makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 126 Team2: 140
+Team1: 128 Team2: 135
 
-Dwyane Wade starts with the ball
-Dwyane Wade makes a 2-point shot! (6s)
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 128 Team2: 140
+Team1: 130 Team2: 135
 
-Shaun Livingston starts with the ball
-Shaun Livingston passes to Zaza Pachulia (6s)
-Mario Chalmers blocks the shot of Zaza Pachulia!
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (6s)
+Spencer Dinwiddie grabs the defensive rebound!
 === Current Score ===
-Team1: 128 Team2: 140
+Team1: 130 Team2: 135
 
-Dwyane Wade starts with the ball
-Dwyane Wade turns the ball over (5s)
+Rondae Hollis-Jefferson starts with the ball
+Terrence Ross steals the ball from Rondae Hollis-Jefferson while dribbling!
 === Current Score ===
-Team1: 128 Team2: 140
+Team1: 130 Team2: 135
 
-JaVale McGee starts with the ball
-JaVale McGee passes to Andre Iguodala (3s)
-Andre Iguodala passes to Zaza Pachulia (7s)
-Zaza Pachulia passes to JaVale McGee (2s)
-JaVale McGee misses a 2-point shot (6s)
-Matt Barnes grabs the offensive rebound!
-Matt Barnes passes to Shaun Livingston (5s)
-Shaun Livingston misses a 2-point shot (5s)
-Chris Andersen grabs the defensive rebound!
+C.J. Watson starts with the ball
+C.J. Watson makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 128 Team2: 140
+Team1: 130 Team2: 137
 
-Juwan Howard starts with the ball
-Juwan Howard makes a 2-point shot! (4s)
+Brook Lopez starts with the ball
+Brook Lopez makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 130 Team2: 140
+Team1: 132 Team2: 137
 
-Andre Iguodala starts with the ball
-Andre Iguodala passes to Zaza Pachulia (3s)
-Zaza Pachulia misses a 2-point shot (3s)
-Dwyane Wade grabs the defensive rebound!
+Aaron Gordon starts with the ball
+Aaron Gordon makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 130 Team2: 140
+Team1: 132 Team2: 139
 
-Dwyane Wade starts with the ball
-Dwyane Wade makes a 2-point shot! (6s)
-Substitution: Mario Chalmers out, Shane Battier in (plus-minus: 9, total seconds: 495/726)
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (5s)
+Nikola Vucevic grabs the defensive rebound!
 === Current Score ===
-Team1: 132 Team2: 140
+Team1: 132 Team2: 139
 
-Matt Barnes starts with the ball
-Matt Barnes passes to Shaun Livingston (5s)
-Shaun Livingston makes a 2-point shot! (5s)
-Substitution: Matt Barnes out, David West in (plus-minus: -6, total seconds: 1247/767)
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 132 Team2: 142
+Team1: 132 Team2: 141
 
-Juwan Howard starts with the ball
-David West commits a foul on Juwan Howard!Juwan Howard dribbles (3s)
-Juwan Howard misses a 2-point shot (4s)
-David West grabs the defensive rebound!
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (5s)
+C.J. Watson grabs the defensive rebound!
 === Current Score ===
-Team1: 132 Team2: 142
+Team1: 132 Team2: 141
 
-David West starts with the ball
-David West misses a 2-point shot (5s)
-Chris Andersen grabs the defensive rebound!
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (6s)
+Spencer Dinwiddie grabs the defensive rebound!
 === Current Score ===
-Team1: 132 Team2: 142
+Team1: 132 Team2: 141
 
-Juwan Howard starts with the ball
-Juwan Howard passes to Dwyane Wade (4s)
-Zaza Pachulia commits a foul on Dwyane Wade!Dwyane Wade misses a 2-point shot (3s)
-Dwyane Wade is fouled and heads to the free throw line 2 attempts
-Dwyane Wade makes free throw
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (4s)
 === Current Score ===
-Team1: 133 Team2: 142
-Dwyane Wade makes free throw
+Team1: 134 Team2: 141
+
+Bismack Biyombo starts with the ball
+Justin Hamilton blocks the shot of Bismack Biyombo!
 === Current Score ===
-Team1: 134 Team2: 142
+Team1: 134 Team2: 141
+
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (6s)
+Elfrid Payton grabs the defensive rebound!
 === Current Score ===
-Team1: 134 Team2: 142
+Team1: 134 Team2: 141
 
-David West starts with the ball
-David West passes to Zaza Pachulia (5s)
-Zaza Pachulia passes to JaVale McGee (3s)
-JaVale McGee makes a 2-point shot! (6s)
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (5s)
 === Current Score ===
-Team1: 134 Team2: 144
+Team1: 134 Team2: 143
 
-Juwan Howard starts with the ball
-Juwan Howard makes a 2-point shot! (2s)
+Joe Harris starts with the ball
+Joe Harris dribbles (3s)
+Joe Harris misses a 2-point shot (3s)
+Evan Fournier grabs the defensive rebound!
 === Current Score ===
-Team1: 136 Team2: 144
+Team1: 134 Team2: 143
 
-David West starts with the ball
-David West dribbles (5s)
-David West passes to Zaza Pachulia (3s)
-Zaza Pachulia passes to JaVale McGee (3s)
-JaVale McGee misses a 2-point shot (5s)
-Udonis Haslem grabs the defensive rebound!
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (5s)
+Brook Lopez grabs the defensive rebound!
 === Current Score ===
-Team1: 136 Team2: 144
+Team1: 134 Team2: 143
 
-Dwyane Wade starts with the ball
-Dwyane Wade dribbles (5s)
-Andre Iguodala blocks the shot of Dwyane Wade!
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (7s)
 === Current Score ===
-Team1: 136 Team2: 144
+Team1: 136 Team2: 143
 
-David West starts with the ball
-Dwyane Wade commits a foul on David West!David West misses a 2-point shot (1s)
-David West is fouled and heads to the free throw line 2 attempts
-David West makes free throw
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (7s)
 === Current Score ===
 Team1: 136 Team2: 145
-David West makes free throw
-=== Current Score ===
-Team1: 136 Team2: 146
-=== Current Score ===
-Team1: 136 Team2: 146
 
-Quarter 4 Score: Team1 136 - Team2 146
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie misses a 2-point shot (6s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 145
+
+Aaron Gordon starts with the ball
+Aaron Gordon misses a 3-point shot (2s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 145
+
+Justin Hamilton starts with the ball
+Justin Hamilton misses a 2-point shot (3s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 145
+
+D.J. Augustin starts with the ball
+D.J. Augustin misses a 2-point shot (3s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 145
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie commits an offensive foul!
+=== Current Score ===
+Team1: 136 Team2: 145
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (5s)
+Trevor Booker grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 145
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead dribbles (2s)
+Isaiah Whitehead misses a 2-point shot (8s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 145
+
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 136 Team2: 147
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick commits an offensive foul!
+=== Current Score ===
+Team1: 136 Team2: 147
+
+Evan Fournier starts with the ball
+Evan Fournier misses a 3-point shot (3s)
+Jeremy Lin grabs the defensive rebound!
+=== Current Score ===
+Team1: 136 Team2: 147
+
+Isaiah Whitehead starts with the ball
+Aaron Gordon steals the ball from Isaiah Whitehead while dribbling!
+=== Current Score ===
+Team1: 136 Team2: 147
+
+Jeff Green starts with the ball
+Jeff Green turns the ball over (6s)
+=== Current Score ===
+Team1: 136 Team2: 147
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 138 Team2: 147
+
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (3s)
+Spencer Dinwiddie grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 147
+
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (5s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 147
+
+Mario Hezonja starts with the ball
+Mario Hezonja dribbles (4s)
+Mario Hezonja makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 138 Team2: 149
+
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (5s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 149
+
+Jeff Green starts with the ball
+Jeff Green dribbles (4s)
+Jeff Green makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 138 Team2: 151
+
+Trevor Booker starts with the ball
+D.J. Augustin steals the ball from Trevor Booker while dribbling!
+=== Current Score ===
+Team1: 138 Team2: 151
+
+Aaron Gordon starts with the ball
+Aaron Gordon misses a 2-point shot (7s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 151
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (3s)
+Justin Hamilton misses a 2-point shot (7s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 151
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 138 Team2: 153
+
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (4s)
+Bismack Biyombo grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 153
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic dribbles (5s)
+Justin Hamilton steals the ball from Nikola Vucevic while dribbling!
+=== Current Score ===
+Team1: 138 Team2: 153
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick dribbles (5s)
+Sean Kilpatrick misses a 2-point shot (4s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 153
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 138 Team2: 155
+
+Jeremy Lin starts with the ball
+Jeremy Lin dribbles (6s)
+Jeremy Lin misses a 2-point shot (5s)
+Jeff Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 155
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 138 Team2: 157
+
+Quarter 3 Score: Team1 138 - Team2 157
+
+=== Quarter 4 ===
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (3s)
+Justin Hamilton misses a 2-point shot (5s)
+Terrence Ross grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 157
+
+C.J. Watson starts with the ball
+C.J. Watson makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 138 Team2: 159
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (2s)
+Justin Hamilton dribbles (1s)
+Justin Hamilton misses a 2-point shot (5s)
+Mario Hezonja grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 159
+
+Terrence Ross starts with the ball
+Terrence Ross makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 138 Team2: 161
+
+Justin Hamilton starts with the ball
+Justin Hamilton misses a 2-point shot (6s)
+D.J. Augustin grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 161
+
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (5s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 161
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick turns the ball over (6s)
+=== Current Score ===
+Team1: 138 Team2: 161
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (6s)
+Trevor Booker grabs the defensive rebound!
+=== Current Score ===
+Team1: 138 Team2: 161
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 140 Team2: 161
+
+Elfrid Payton starts with the ball
+Justin Hamilton steals the ball from Elfrid Payton while dribbling!
+=== Current Score ===
+Team1: 140 Team2: 161
+
+Joe Harris starts with the ball
+Joe Harris dribbles (8s)
+Joe Harris misses a 2-point shot (4s)
+Elfrid Payton grabs the defensive rebound!
+=== Current Score ===
+Team1: 140 Team2: 161
+
+Aaron Gordon starts with the ball
+Aaron Gordon turns the ball over (4s)
+=== Current Score ===
+Team1: 140 Team2: 161
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 142 Team2: 161
+
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (4s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 142 Team2: 161
+
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 144 Team2: 161
+
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 144 Team2: 163
+
+Justin Hamilton starts with the ball
+Jeff Green blocks the shot of Justin Hamilton!
+=== Current Score ===
+Team1: 144 Team2: 163
+
+D.J. Augustin starts with the ball
+D.J. Augustin misses a 2-point shot (3s)
+Joe Harris grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 163
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (7s)
+Rondae Hollis-Jefferson misses a 2-point shot (4s)
+Terrence Ross grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 163
+
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (4s)
+Aaron Gordon makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 144 Team2: 165
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie turns the ball over (5s)
+=== Current Score ===
+Team1: 144 Team2: 165
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic dribbles (5s)
+Nikola Vucevic makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Joe Harris starts with the ball
+Joe Harris dribbles (6s)
+Mario Hezonja blocks the shot of Joe Harris!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Jeff Green starts with the ball
+Joe Harris commits a foul on Jeff Green!
+Jeff Green misses a 3-point shot (5s)
+Jeff Green is fouled and heads to the free throw line:  3 attempts! 
+Jeff Green missed free throw
+=== Current Score ===
+Team1: 144 Team2: 167
+Jeff Green missed free throw
+=== Current Score ===
+Team1: 144 Team2: 167
+Jeff Green missed free throw
+=== Current Score ===
+Team1: 144 Team2: 167
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (4s)
+Nikola Vucevic grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (3s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (5s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+D.J. Augustin starts with the ball
+D.J. Augustin misses a 2-point shot (3s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick misses a 2-point shot (4s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Terrence Ross starts with the ball
+Terrence Ross dribbles (3s)
+Terrence Ross dribbles (1s)
+Terrence Ross misses a 2-point shot (7s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie dribbles (4s)
+Spencer Dinwiddie misses a 3-point shot (7s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 167
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 144 Team2: 170
+
+Justin Hamilton starts with the ball
+Justin Hamilton misses a 3-point shot (2s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 170
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 144 Team2: 172
+
+Isaiah Whitehead starts with the ball
+Evan Fournier steals the ball from Isaiah Whitehead while dribbling!
+=== Current Score ===
+Team1: 144 Team2: 172
+
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (7s)
+Joe Harris grabs the defensive rebound!
+=== Current Score ===
+Team1: 144 Team2: 172
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 146 Team2: 172
+
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 146 Team2: 174
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson dribbles (2s)
+D.J. Augustin blocks the shot of Rondae Hollis-Jefferson!
+=== Current Score ===
+Team1: 146 Team2: 174
+
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (6s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 146 Team2: 174
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead misses a 2-point shot (5s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 146 Team2: 174
+
+Evan Fournier starts with the ball
+Evan Fournier misses a 2-point shot (3s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 146 Team2: 174
+
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 148 Team2: 174
+
+Elfrid Payton starts with the ball
+Elfrid Payton dribbles (5s)
+Elfrid Payton misses a 2-point shot (3s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 148 Team2: 174
+
+Brook Lopez starts with the ball
+Brook Lopez makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 150 Team2: 174
+
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (3s)
+Aaron Gordon misses a 2-point shot (6s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
+=== Current Score ===
+Team1: 150 Team2: 174
+
+Brook Lopez starts with the ball
+Brook Lopez dribbles (6s)
+Brook Lopez misses a 3-point shot (5s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 150 Team2: 174
+
+Mario Hezonja starts with the ball
+Mario Hezonja makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 150 Team2: 176
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie misses a 2-point shot (5s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 150 Team2: 176
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (4s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
+=== Current Score ===
+Team1: 150 Team2: 176
+
+Caris LeVert starts with the ball
+Caris LeVert misses a 2-point shot (1s)
+Aaron Gordon grabs the defensive rebound!
+=== Current Score ===
+Team1: 150 Team2: 176
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 150 Team2: 178
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 152 Team2: 178
+
+Elfrid Payton starts with the ball
+Elfrid Payton dribbles (4s)
+Elfrid Payton misses a 3-point shot (6s)
+Joe Harris grabs the defensive rebound!
+=== Current Score ===
+Team1: 152 Team2: 178
+
+Isaiah Whitehead starts with the ball
+Aaron Gordon commits a foul on Isaiah Whitehead!
+Isaiah Whitehead misses a 3-point shot (1s)
+Isaiah Whitehead is fouled and heads to the free throw line:  3 attempts! 
+Isaiah Whitehead missed free throw
+=== Current Score ===
+Team1: 152 Team2: 178
+Isaiah Whitehead missed free throw
+=== Current Score ===
+Team1: 152 Team2: 178
+Isaiah Whitehead missed free throw
+=== Current Score ===
+Team1: 152 Team2: 178
+=== Current Score ===
+Team1: 152 Team2: 178
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 152 Team2: 180
+
+Joe Harris starts with the ball
+Joe Harris misses a 2-point shot (3s)
+Jeff Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 152 Team2: 180
+
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (4s)
+Trevor Booker grabs the defensive rebound!
+=== Current Score ===
+Team1: 152 Team2: 180
+
+Brook Lopez starts with the ball
+Terrence Ross commits a foul on Brook Lopez!
+Brook Lopez misses a 3-point shot (4s)
+Brook Lopez is fouled and heads to the free throw line:  3 attempts! 
+Brook Lopez missed free throw
+=== Current Score ===
+Team1: 152 Team2: 180
+Brook Lopez missed free throw
+=== Current Score ===
+Team1: 152 Team2: 180
+Brook Lopez missed free throw
+=== Current Score ===
+Team1: 152 Team2: 180
+=== Current Score ===
+Team1: 152 Team2: 180
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (4s)
+Isaiah Whitehead grabs the defensive rebound!
+=== Current Score ===
+Team1: 152 Team2: 180
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (6s)
+Justin Hamilton dribbles (7s)
+Justin Hamilton makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 154 Team2: 180
+
+Aaron Gordon starts with the ball
+Aaron Gordon misses a 2-point shot (5s)
+Isaiah Whitehead grabs the defensive rebound!
+=== Current Score ===
+Team1: 154 Team2: 180
+
+Jeremy Lin starts with the ball
+Evan Fournier blocks the shot of Jeremy Lin!
+=== Current Score ===
+Team1: 154 Team2: 180
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (4s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 154 Team2: 180
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick turns the ball over (4s)
+=== Current Score ===
+Team1: 154 Team2: 180
+
+Jeff Green starts with the ball
+Jeff Green misses a 2-point shot (7s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 154 Team2: 180
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead misses a 3-point shot (3s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 154 Team2: 180
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 154 Team2: 182
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson misses a 2-point shot (5s)
+Terrence Ross grabs the defensive rebound!
+=== Current Score ===
+Team1: 154 Team2: 182
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic misses a 2-point shot (5s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 154 Team2: 182
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead misses a 2-point shot (3s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 154 Team2: 182
+
+Evan Fournier starts with the ball
+Rondae Hollis-Jefferson commits a foul on Evan Fournier!
+Evan Fournier misses a 2-point shot (3s)
+Evan Fournier is fouled and heads to the free throw line:  2 attempts! 
+Evan Fournier missed free throw
+=== Current Score ===
+Team1: 154 Team2: 182
+Evan Fournier missed free throw
+=== Current Score ===
+Team1: 154 Team2: 182
+=== Current Score ===
+Team1: 154 Team2: 182
+
+Justin Hamilton starts with the ball
+Justin Hamilton turns the ball over (7s)
+=== Current Score ===
+Team1: 154 Team2: 182
+
+Evan Fournier starts with the ball
+Evan Fournier dribbles (2s)
+Evan Fournier makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 154 Team2: 184
+
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 156 Team2: 184
+
+C.J. Watson starts with the ball
+C.J. Watson dribbles (4s)
+C.J. Watson misses a 2-point shot (4s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 156 Team2: 184
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (5s)
+Justin Hamilton misses a 2-point shot (4s)
+Bismack Biyombo grabs the defensive rebound!
+=== Current Score ===
+Team1: 156 Team2: 184
+
+Nikola Vucevic starts with the ball
+Nikola Vucevic makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 156 Team2: 186
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick turns the ball over (4s)
+=== Current Score ===
+Team1: 156 Team2: 186
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (3s)
+Spencer Dinwiddie grabs the defensive rebound!
+=== Current Score ===
+Team1: 156 Team2: 186
+
+Joe Harris starts with the ball
+Joe Harris dribbles (3s)
+Joe Harris makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 158 Team2: 186
+
+Mario Hezonja starts with the ball
+Mario Hezonja dribbles (4s)
+Mario Hezonja misses a 2-point shot (5s)
+Joe Harris grabs the defensive rebound!
+=== Current Score ===
+Team1: 158 Team2: 186
+
+Rondae Hollis-Jefferson starts with the ball
+Rondae Hollis-Jefferson makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 160 Team2: 186
+
+Mario Hezonja starts with the ball
+Mario Hezonja dribbles (6s)
+Mario Hezonja misses a 2-point shot (2s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 160 Team2: 186
+
+Caris LeVert starts with the ball
+Caris LeVert dribbles (4s)
+Caris LeVert makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 162 Team2: 186
+
+Aaron Gordon starts with the ball
+Aaron Gordon dribbles (6s)
+Aaron Gordon misses a 2-point shot (2s)
+Joe Harris grabs the defensive rebound!
+=== Current Score ===
+Team1: 162 Team2: 186
+
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 164 Team2: 186
+
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (8s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 164 Team2: 186
+
+Joe Harris starts with the ball
+Joe Harris makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 166 Team2: 186
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo dribbles (5s)
+Bismack Biyombo dribbles (5s)
+Bismack Biyombo makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Caris LeVert starts with the ball
+Caris LeVert turns the ball over (7s)
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (6s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Caris LeVert starts with the ball
+D.J. Augustin blocks the shot of Caris LeVert!
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (7s)
+Trevor Booker grabs the defensive rebound!
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Sean Kilpatrick starts with the ball
+Terrence Ross blocks the shot of Sean Kilpatrick!
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Evan Fournier starts with the ball
+Evan Fournier misses a 2-point shot (4s)
+Spencer Dinwiddie grabs the defensive rebound!
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Justin Hamilton starts with the ball
+Justin Hamilton misses a 2-point shot (3s)
+Mario Hezonja grabs the defensive rebound!
+=== Current Score ===
+Team1: 166 Team2: 188
+
+Jeff Green starts with the ball
+Jeff Green dribbles (1s)
+Jeff Green makes a 3-point shot! (6s)
+=== Current Score ===
+Team1: 166 Team2: 191
+
+Joe Harris starts with the ball
+Joe Harris misses a 3-point shot (4s)
+Jeff Green grabs the defensive rebound!
+=== Current Score ===
+Team1: 166 Team2: 191
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 166 Team2: 193
+
+Spencer Dinwiddie starts with the ball
+Spencer Dinwiddie makes a 3-point shot! (4s)
+=== Current Score ===
+Team1: 169 Team2: 193
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo dribbles (5s)
+Bismack Biyombo makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 169 Team2: 195
+
+Trevor Booker starts with the ball
+Trevor Booker misses a 2-point shot (1s)
+Mario Hezonja grabs the defensive rebound!
+=== Current Score ===
+Team1: 169 Team2: 195
+
+Evan Fournier starts with the ball
+Evan Fournier misses a 2-point shot (5s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 169 Team2: 195
+
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (2s)
+=== Current Score ===
+Team1: 171 Team2: 195
+
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (5s)
+Joe Harris grabs the defensive rebound!
+=== Current Score ===
+Team1: 171 Team2: 195
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 173 Team2: 195
+
+Mario Hezonja starts with the ball
+Mario Hezonja misses a 2-point shot (6s)
+Brook Lopez grabs the defensive rebound!
+=== Current Score ===
+Team1: 173 Team2: 195
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick makes a 3-point shot! (5s)
+=== Current Score ===
+Team1: 176 Team2: 195
+
+Bismack Biyombo starts with the ball
+Bismack Biyombo misses a 2-point shot (2s)
+Rondae Hollis-Jefferson grabs the defensive rebound!
+=== Current Score ===
+Team1: 176 Team2: 195
+
+Justin Hamilton starts with the ball
+Justin Hamilton dribbles (4s)
+Justin Hamilton makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 178 Team2: 195
+
+D.J. Augustin starts with the ball
+D.J. Augustin dribbles (5s)
+D.J. Augustin makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 178 Team2: 197
+
+Brook Lopez starts with the ball
+Brook Lopez misses a 2-point shot (7s)
+Evan Fournier grabs the defensive rebound!
+=== Current Score ===
+Team1: 178 Team2: 197
+
+Aaron Gordon starts with the ball
+Aaron Gordon makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 178 Team2: 199
+
+Isaiah Whitehead starts with the ball
+Isaiah Whitehead makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 180 Team2: 199
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (3s)
+Spencer Dinwiddie grabs the defensive rebound!
+=== Current Score ===
+Team1: 180 Team2: 199
+
+Sean Kilpatrick starts with the ball
+Sean Kilpatrick commits an offensive foul!
+=== Current Score ===
+Team1: 180 Team2: 199
+
+C.J. Watson starts with the ball
+C.J. Watson misses a 2-point shot (6s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 180 Team2: 199
+
+Joe Harris starts with the ball
+Joe Harris dribbles (4s)
+Joe Harris makes a 2-point shot! (5s)
+=== Current Score ===
+Team1: 182 Team2: 199
+
+Elfrid Payton starts with the ball
+Elfrid Payton misses a 2-point shot (1s)
+Sean Kilpatrick grabs the defensive rebound!
+=== Current Score ===
+Team1: 182 Team2: 199
+
+Spencer Dinwiddie starts with the ball
+Evan Fournier commits a foul on Spencer Dinwiddie!
+Spencer Dinwiddie makes a 2-point shot! (5s)
+Spencer Dinwiddie is fouled and heads to the free throw line (1 attempt) AND-ONE!
+Spencer Dinwiddie missed free throw
+=== Current Score ===
+Team1: 184 Team2: 199
+=== Current Score ===
+Team1: 184 Team2: 199
+
+Evan Fournier starts with the ball
+Evan Fournier makes a 2-point shot! (7s)
+=== Current Score ===
+Team1: 184 Team2: 201
+
+Caris LeVert starts with the ball
+Caris LeVert makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 186 Team2: 201
+
+Terrence Ross starts with the ball
+Terrence Ross misses a 2-point shot (4s)
+Caris LeVert grabs the defensive rebound!
+=== Current Score ===
+Team1: 186 Team2: 201
+
+Jeremy Lin starts with the ball
+Jeremy Lin misses a 2-point shot (4s)
+C.J. Watson grabs the defensive rebound!
+=== Current Score ===
+Team1: 186 Team2: 201
+
+D.J. Augustin starts with the ball
+D.J. Augustin makes a 2-point shot! (6s)
+=== Current Score ===
+Team1: 186 Team2: 203
+
+Jeremy Lin starts with the ball
+Jeremy Lin makes a 2-point shot! (4s)
+=== Current Score ===
+Team1: 188 Team2: 203
+
+Jeff Green starts with the ball
+Jeff Green misses a 3-point shot (7s)
+Justin Hamilton grabs the defensive rebound!
+=== Current Score ===
+Team1: 188 Team2: 203
+
+Justin Hamilton starts with the ball
+Justin Hamilton makes a 2-point shot! (3s)
+=== Current Score ===
+Team1: 190 Team2: 203
+
+Quarter 4 Score: Team1 190 - Team2 203
 
 === Final Score ===
-Team1: 136
-Team2: 146
+Team1: 190
+Team2: 203
 
 [DEBUG] expected seconds per team (5 players * game seconds): 14400
 [DEBUG] actual Team1 summed player seconds: 14400
 [DEBUG] actual Team2 summed player seconds: 14400
---- Team1 Box Score ---
-Juwan Howard's recommended minutes: 31:10
-Juwan Howard: PTS 15, AST 0, REB 1, TOV 0, FGM/FGA 6/10, 3PM/3PA 0/0, FTM/FTA 3/4, STL 0, BLK 1, Time 17:31,plus/minus: -6
-Udonis Haslem's recommended minutes: 12:51
-Udonis Haslem: PTS 2, AST 1, REB 3, TOV 0, FGM/FGA 1/2, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 1, Time 15:20,plus/minus: 0
-Shane Battier's recommended minutes: 21:30
-Shane Battier: PTS 3, AST 2, REB 0, TOV 1, FGM/FGA 1/1, 3PM/3PA 1/1, FTM/FTA 0/0, STL 0, BLK 0, Time 9:35,plus/minus: 2
-Chris Andersen's recommended minutes: 7:44
-Chris Andersen: PTS 2, AST 0, REB 5, TOV 0, FGM/FGA 1/1, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 0, Time 6:28,plus/minus: 4
-Dwyane Wade's recommended minutes: 34:08
-Dwyane Wade: PTS 33, AST 5, REB 3, TOV 5, FGM/FGA 14/20, 3PM/3PA 0/0, FTM/FTA 5/5, STL 0, BLK 1, Time 41:52,plus/minus: -13
-Bam Adebayo's recommended minutes: 28:46
-Bam Adebayo: PTS 8, AST 3, REB 6, TOV 1, FGM/FGA 3/5, 3PM/3PA 0/0, FTM/FTA 2/2, STL 1, BLK 2, Time 28:24,plus/minus: -11
-Mario Chalmers's recommended minutes: 12:06
-Mario Chalmers: PTS 0, AST 2, REB 0, TOV 0, FGM/FGA 0/1, 3PM/3PA 0/1, FTM/FTA 0/0, STL 0, BLK 3, Time 8:15,plus/minus: 9
-LeBron James's recommended minutes: 34:08
-LeBron James: PTS 30, AST 6, REB 3, TOV 2, FGM/FGA 11/26, 3PM/3PA 4/6, FTM/FTA 4/5, STL 1, BLK 0, Time 32:28,plus/minus: -13
-Ray Allen's recommended minutes: 28:51
-Ray Allen: PTS 21, AST 3, REB 2, TOV 3, FGM/FGA 6/16, 3PM/3PA 1/5, FTM/FTA 8/8, STL 1, BLK 1, Time 38:35,plus/minus: -20
-Chris Bosh's recommended minutes: 28:46
-Chris Bosh: PTS 22, AST 8, REB 13, TOV 3, FGM/FGA 8/17, 3PM/3PA 0/0, FTM/FTA 6/7, STL 0, BLK 2, Time 41:32,plus/minus: -17
+=== Team1 Box Score ===
+
+--- Starters ---
+Starters total seconds: 0
+Starters shots made: 0, shots attempted: 0
+
+--- Bench ---
+Jeremy Lin's recommended minutes: 26:40
+Jeremy Lin, Unknown: PTS 23, AST 0, REB 8, TOV 0, FGM/FGA 10/22, 3PM/3PA 3/4, FTM/FTA 0/0, STL 0, BLK 0, Time 23:51, Plus/Minus 17, Fouls 1
+Brook Lopez's recommended minutes: 21:27
+Brook Lopez, Unknown: PTS 10, AST 0, REB 16, TOV 0, FGM/FGA 5/23, 3PM/3PA 0/3, FTM/FTA 0/3, STL 0, BLK 0, Time 22:48, Plus/Minus -36, Fouls 0
+Rondae Hollis-Jefferson's recommended minutes: 15:04
+Rondae Hollis-Jefferson, Unknown: PTS 19, AST 0, REB 10, TOV 2, FGM/FGA 9/23, 3PM/3PA 1/1, FTM/FTA 0/2, STL 1, BLK 0, Time 24:42, Plus/Minus -43, Fouls 3
+Sean Kilpatrick's recommended minutes: 29:08
+Sean Kilpatrick, Unknown: PTS 21, AST 0, REB 16, TOV 3, FGM/FGA 10/27, 3PM/3PA 1/1, FTM/FTA 0/3, STL 0, BLK 0, Time 26:09, Plus/Minus 18, Fouls 5
+Trevor Booker's recommended minutes: 21:49
+Trevor Booker, Unknown: PTS 20, AST 0, REB 9, TOV 1, FGM/FGA 9/19, 3PM/3PA 2/2, FTM/FTA 0/0, STL 0, BLK 0, Time 20:01, Plus/Minus 3, Fouls 0
+Caris LeVert's recommended minutes: 29:16
+Caris LeVert, Unknown: PTS 14, AST 0, REB 16, TOV 3, FGM/FGA 7/14, 3PM/3PA 0/0, FTM/FTA 0/0, STL 0, BLK 1, Time 21:57, Plus/Minus -4, Fouls 0
+Justin Hamilton's recommended minutes: 23:40
+Justin Hamilton, Unknown: PTS 26, AST 0, REB 13, TOV 3, FGM/FGA 12/26, 3PM/3PA 2/3, FTM/FTA 0/0, STL 2, BLK 1, Time 24:33, Plus/Minus -17, Fouls 1
+Isaiah Whitehead's recommended minutes: 23:07
+Isaiah Whitehead, Unknown: PTS 12, AST 0, REB 8, TOV 2, FGM/FGA 6/16, 3PM/3PA 0/3, FTM/FTA 0/3, STL 0, BLK 0, Time 25:10, Plus/Minus -2, Fouls 3
+Joe Harris's recommended minutes: 28:40
+Joe Harris, Unknown: PTS 24, AST 0, REB 10, TOV 0, FGM/FGA 12/31, 3PM/3PA 0/3, FTM/FTA 0/2, STL 0, BLK 0, Time 26:47, Plus/Minus -7, Fouls 3
+Spencer Dinwiddie's recommended minutes: 21:04
+Spencer Dinwiddie, Unknown: PTS 21, AST 0, REB 13, TOV 3, FGM/FGA 10/22, 3PM/3PA 1/2, FTM/FTA 0/2, STL 0, BLK 1, Time 24:02, Plus/Minus 16, Fouls 1
+Bench total seconds: 14400
+Bench shots made: 90, shots attempted: 223
 
 
---- Team2 Box Score ---
-JaVale McGee's recommended minutes: 14:14
-JaVale McGee: PTS 16, AST 1, REB 1, TOV 0, FGM/FGA 8/13, 3PM/3PA 0/0, FTM/FTA 0/1, STL 0, BLK 1, Time 21:01,plus/minus: -1
-Shaun Livingston's recommended minutes: 13:47
-Shaun Livingston: PTS 17, AST 3, REB 0, TOV 0, FGM/FGA 7/12, 3PM/3PA 0/1, FTM/FTA 3/3, STL 0, BLK 0, Time 19:59,plus/minus: 8
-Zaza Pachulia's recommended minutes: 16:43
-Zaza Pachulia: PTS 11, AST 2, REB 2, TOV 1, FGM/FGA 4/10, 3PM/3PA 0/0, FTM/FTA 3/3, STL 0, BLK 0, Time 18:12,plus/minus: 3
-Andre Iguodala's recommended minutes: 27:31
-Andre Iguodala: PTS 5, AST 1, REB 0, TOV 0, FGM/FGA 2/4, 3PM/3PA 1/1, FTM/FTA 0/0, STL 0, BLK 1, Time 14:16,plus/minus: -7
-David West's recommended minutes: 29:57
-David West: PTS 7, AST 5, REB 5, TOV 1, FGM/FGA 2/11, 3PM/3PA 0/1, FTM/FTA 3/4, STL 1, BLK 0, Time 18:42,plus/minus: 2
-Stephen Curry's recommended minutes: 35:00
-Stephen Curry: PTS 10, AST 4, REB 3, TOV 3, FGM/FGA 3/8, 3PM/3PA 2/4, FTM/FTA 2/2, STL 0, BLK 1, Time 18:32,plus/minus: 11
-Klay Thompson's recommended minutes: 27:31
-Klay Thompson: PTS 37, AST 9, REB 4, TOV 0, FGM/FGA 11/25, 3PM/3PA 7/13, FTM/FTA 8/9, STL 0, BLK 0, Time 38:46,plus/minus: 20
-Kevin Durant's recommended minutes: 35:00
-Kevin Durant: PTS 20, AST 9, REB 5, TOV 1, FGM/FGA 8/15, 3PM/3PA 1/4, FTM/FTA 3/3, STL 0, BLK 1, Time 32:51,plus/minus: 14
-Matt Barnes's recommended minutes: 12:47
-Matt Barnes: PTS 11, AST 2, REB 3, TOV 0, FGM/FGA 4/5, 3PM/3PA 1/1, FTM/FTA 2/2, STL 1, BLK 2, Time 20:47,plus/minus: -6
-Draymond Green's recommended minutes: 27:31
-Draymond Green: PTS 12, AST 7, REB 8, TOV 1, FGM/FGA 3/7, 3PM/3PA 3/5, FTM/FTA 3/3, STL 2, BLK 2, Time 36:54,plus/minus: 21
+
+=== Team2 Box Score ===
+
+--- Starters ---
+Starters total seconds: 0
+Starters shots made: 0, shots attempted: 0
+
+--- Bench ---
+Elfrid Payton's recommended minutes: 17:54
+Elfrid Payton, Unknown: PTS 8, AST 0, REB 15, TOV 2, FGM/FGA 4/14, 3PM/3PA 0/1, FTM/FTA 0/2, STL 0, BLK 1, Time 22:27, Plus/Minus 5, Fouls 0
+Nikola Vucevic's recommended minutes: 30:36
+Nikola Vucevic, Unknown: PTS 14, AST 0, REB 8, TOV 1, FGM/FGA 7/23, 3PM/3PA 0/5, FTM/FTA 0/0, STL 0, BLK 2, Time 22:59, Plus/Minus -20, Fouls 0
+Aaron Gordon's recommended minutes: 27:39
+Aaron Gordon, Unknown: PTS 20, AST 0, REB 14, TOV 1, FGM/FGA 10/21, 3PM/3PA 0/2, FTM/FTA 0/3, STL 1, BLK 0, Time 23:51, Plus/Minus 6, Fouls 1
+Evan Fournier's recommended minutes: 31:40
+Evan Fournier, Unknown: PTS 35, AST 0, REB 15, TOV 1, FGM/FGA 17/25, 3PM/3PA 1/3, FTM/FTA 0/3, STL 1, BLK 1, Time 22:46, Plus/Minus 48, Fouls 2
+Terrence Ross's recommended minutes: 17:32
+Terrence Ross, Unknown: PTS 9, AST 0, REB 9, TOV 2, FGM/FGA 4/16, 3PM/3PA 1/1, FTM/FTA 0/0, STL 1, BLK 2, Time 22:45, Plus/Minus -21, Fouls 1
+Bismack Biyombo's recommended minutes: 24:01
+Bismack Biyombo, Unknown: PTS 22, AST 0, REB 10, TOV 1, FGM/FGA 11/24, 3PM/3PA 0/2, FTM/FTA 0/0, STL 0, BLK 3, Time 26:42, Plus/Minus 29, Fouls 1
+Jeff Green's recommended minutes: 31:33
+Jeff Green, Unknown: PTS 19, AST 0, REB 8, TOV 1, FGM/FGA 9/25, 3PM/3PA 1/4, FTM/FTA 0/6, STL 1, BLK 2, Time 26:15, Plus/Minus -18, Fouls 2
+Mario Hezonja's recommended minutes: 18:52
+Mario Hezonja, Unknown: PTS 28, AST 0, REB 10, TOV 1, FGM/FGA 14/31, 3PM/3PA 0/0, FTM/FTA 0/1, STL 1, BLK 2, Time 24:02, Plus/Minus -9, Fouls 2
+D.J. Augustin's recommended minutes: 16:24
+D.J. Augustin, Unknown: PTS 27, AST 0, REB 6, TOV 1, FGM/FGA 13/19, 3PM/3PA 1/1, FTM/FTA 0/0, STL 1, BLK 3, Time 24:41, Plus/Minus 15, Fouls 1
+C.J. Watson's recommended minutes: 23:42
+C.J. Watson, Unknown: PTS 21, AST 0, REB 15, TOV 3, FGM/FGA 10/28, 3PM/3PA 1/1, FTM/FTA 0/0, STL 0, BLK 2, Time 23:32, Plus/Minus 20, Fouls 1
+Bench total seconds: 14400
+Bench shots made: 99, shots attempted: 226
+
 
 

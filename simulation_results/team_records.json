@@ -1,0 +1,122 @@
+{
+    "Boston Celtics": {
+        "W": 47,
+        "L": 35
+    },
+    "Brooklyn Nets": {
+        "W": 42,
+        "L": 40
+    },
+    "New York Knicks": {
+        "W": 41,
+        "L": 41
+    },
+    "Philadelphia 76ers": {
+        "W": 47,
+        "L": 35
+    },
+    "Toronto Raptors": {
+        "W": 37,
+        "L": 45
+    },
+    "Chicago Bulls": {
+        "W": 40,
+        "L": 42
+    },
+    "Cleveland Cavaliers": {
+        "W": 43,
+        "L": 39
+    },
+    "Detroit Pistons": {
+        "W": 35,
+        "L": 47
+    },
+    "Indiana Pacers": {
+        "W": 47,
+        "L": 35
+    },
+    "Milwaukee Bucks": {
+        "W": 48,
+        "L": 34
+    },
+    "Atlanta Hawks": {
+        "W": 42,
+        "L": 40
+    },
+    "Charlotte Hornets": {
+        "W": 46,
+        "L": 36
+    },
+    "Miami Heat": {
+        "W": 42,
+        "L": 39
+    },
+    "Orlando Magic": {
+        "W": 36,
+        "L": 46
+    },
+    "Washington Wizards": {
+        "W": 42,
+        "L": 39
+    },
+    "Denver Nuggets": {
+        "W": 34,
+        "L": 47
+    },
+    "Minnesota Timberwolves": {
+        "W": 42,
+        "L": 40
+    },
+    "Oklahoma City Thunder": {
+        "W": 40,
+        "L": 42
+    },
+    "Portland Trail Blazers": {
+        "W": 43,
+        "L": 38
+    },
+    "Utah Jazz": {
+        "W": 40,
+        "L": 42
+    },
+    "Golden State Warriors": {
+        "W": 27,
+        "L": 55
+    },
+    "Los Angeles Clippers": {
+        "W": 35,
+        "L": 47
+    },
+    "Los Angeles Lakers": {
+        "W": 43,
+        "L": 39
+    },
+    "Phoenix Suns": {
+        "W": 43,
+        "L": 39
+    },
+    "Sacramento Kings": {
+        "W": 43,
+        "L": 39
+    },
+    "Dallas Mavericks": {
+        "W": 41,
+        "L": 41
+    },
+    "Houston Rockets": {
+        "W": 43,
+        "L": 39
+    },
+    "Memphis Grizzlies": {
+        "W": 39,
+        "L": 43
+    },
+    "New Orleans Pelicans": {
+        "W": 41,
+        "L": 41
+    },
+    "San Antonio Spurs": {
+        "W": 39,
+        "L": 43
+    }
+}

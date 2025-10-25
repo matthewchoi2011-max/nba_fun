@@ -1,0 +1,5179 @@
+{
+    "Boston Celtics": [
+        {
+            "name": "Isaiah Thomas",
+            "stats": {
+                "points": 20.6,
+                "fgm": 7.0,
+                "fga": 16.0,
+                "ast": 9.2,
+                "reb": 4.6,
+                "oreb": 0.7,
+                "dreb": 3.8,
+                "stl": 1.3,
+                "blk": 0.2,
+                "tov": 4.8,
+                "fouls": 3.3,
+                "minutes": "34:18"
+            }
+        },
+        {
+            "name": "Avery Bradley",
+            "stats": {
+                "points": 12.4,
+                "fgm": 4.3,
+                "fga": 10.3,
+                "ast": 2.0,
+                "reb": 3.7,
+                "oreb": 0.5,
+                "dreb": 3.2,
+                "stl": 1.5,
+                "blk": 0.1,
+                "tov": 2.1,
+                "fouls": 2.8,
+                "minutes": "30:52"
+            }
+        },
+        {
+            "name": "Al Horford",
+            "stats": {
+                "points": 12.9,
+                "fgm": 5.3,
+                "fga": 10.0,
+                "ast": 2.8,
+                "reb": 6.8,
+                "oreb": 1.8,
+                "dreb": 5.0,
+                "stl": 1.2,
+                "blk": 1.7,
+                "tov": 2.1,
+                "fouls": 2.1,
+                "minutes": "28:32"
+            }
+        },
+        {
+            "name": "Jae Crowder",
+            "stats": {
+                "points": 6.1,
+                "fgm": 2.0,
+                "fga": 5.0,
+                "ast": 0.7,
+                "reb": 2.3,
+                "oreb": 0.4,
+                "dreb": 1.9,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 1.0,
+                "fouls": 1.2,
+                "minutes": "15:19"
+            }
+        },
+        {
+            "name": "Marcus Smart",
+            "stats": {
+                "points": 4.6,
+                "fgm": 1.5,
+                "fga": 4.4,
+                "ast": 3.5,
+                "reb": 2.5,
+                "oreb": 0.6,
+                "dreb": 1.9,
+                "stl": 1.1,
+                "blk": 0.1,
+                "tov": 1.6,
+                "fouls": 1.5,
+                "minutes": "18:33"
+            }
+        },
+        {
+            "name": "Kelly Olynyk",
+            "stats": {
+                "points": 6.3,
+                "fgm": 2.2,
+                "fga": 5.1,
+                "ast": 1.2,
+                "reb": 2.4,
+                "oreb": 0.6,
+                "dreb": 1.9,
+                "stl": 0.6,
+                "blk": 0.4,
+                "tov": 1.0,
+                "fouls": 1.2,
+                "minutes": "15:11"
+            }
+        },
+        {
+            "name": "Amir Johnson",
+            "stats": {
+                "points": 11.7,
+                "fgm": 5.0,
+                "fga": 9.1,
+                "ast": 2.0,
+                "reb": 5.0,
+                "oreb": 1.3,
+                "dreb": 3.7,
+                "stl": 0.8,
+                "blk": 1.1,
+                "tov": 1.7,
+                "fouls": 2.1,
+                "minutes": "25:36"
+            }
+        },
+        {
+            "name": "Terry Rozier",
+            "stats": {
+                "points": 1.4,
+                "fgm": 0.5,
+                "fga": 1.8,
+                "ast": 2.7,
+                "reb": 1.8,
+                "oreb": 0.3,
+                "dreb": 1.5,
+                "stl": 0.4,
+                "blk": 0.0,
+                "tov": 1.0,
+                "fouls": 1.1,
+                "minutes": "11:45"
+            }
+        },
+        {
+            "name": "Jaylen Brown",
+            "stats": {
+                "points": 18.4,
+                "fgm": 7.7,
+                "fga": 17.0,
+                "ast": 3.4,
+                "reb": 3.7,
+                "oreb": 0.5,
+                "dreb": 3.2,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 2.1,
+                "fouls": 2.5,
+                "minutes": "27:34"
+            }
+        },
+        {
+            "name": "Gerald Green",
+            "stats": {
+                "points": 11.1,
+                "fgm": 3.5,
+                "fga": 8.6,
+                "ast": 1.0,
+                "reb": 2.9,
+                "oreb": 0.4,
+                "dreb": 2.5,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 1.3,
+                "fouls": 2.1,
+                "minutes": "22:36"
+            }
+        },
+        {
+            "name": "Jonas Jerebko",
+            "stats": {
+                "points": 4.8,
+                "fgm": 1.6,
+                "fga": 3.9,
+                "ast": 0.9,
+                "reb": 1.9,
+                "oreb": 0.3,
+                "dreb": 1.5,
+                "stl": 0.3,
+                "blk": 0.3,
+                "tov": 0.6,
+                "fouls": 1.0,
+                "minutes": "12:35"
+            }
+        }
+    ],
+    "Brooklyn Nets": [
+        {
+            "name": "Jeremy Lin",
+            "stats": {
+                "points": 11.5,
+                "fgm": 3.8,
+                "fga": 9.7,
+                "ast": 5.6,
+                "reb": 4.5,
+                "oreb": 0.5,
+                "dreb": 3.9,
+                "stl": 1.0,
+                "blk": 0.2,
+                "tov": 3.2,
+                "fouls": 3.2,
+                "minutes": "34:32"
+            }
+        },
+        {
+            "name": "Brook Lopez",
+            "stats": {
+                "points": 26.6,
+                "fgm": 11.1,
+                "fga": 20.8,
+                "ast": 2.3,
+                "reb": 8.3,
+                "oreb": 2.0,
+                "dreb": 6.3,
+                "stl": 0.8,
+                "blk": 3.1,
+                "tov": 4.1,
+                "fouls": 3.0,
+                "minutes": "31:06"
+            }
+        },
+        {
+            "name": "Rondae Hollis-Jefferson",
+            "stats": {
+                "points": 7.6,
+                "fgm": 3.1,
+                "fga": 7.2,
+                "ast": 3.8,
+                "reb": 5.0,
+                "oreb": 1.1,
+                "dreb": 4.0,
+                "stl": 3.3,
+                "blk": 0.9,
+                "tov": 2.4,
+                "fouls": 2.9,
+                "minutes": "32:27"
+            }
+        },
+        {
+            "name": "Sean Kilpatrick",
+            "stats": {
+                "points": 6.3,
+                "fgm": 2.0,
+                "fga": 5.0,
+                "ast": 1.0,
+                "reb": 1.7,
+                "oreb": 0.2,
+                "dreb": 1.5,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.2,
+                "fouls": 1.6,
+                "minutes": "15:54"
+            }
+        },
+        {
+            "name": "Trevor Booker",
+            "stats": {
+                "points": 14.4,
+                "fgm": 6.0,
+                "fga": 12.2,
+                "ast": 2.2,
+                "reb": 5.0,
+                "oreb": 1.1,
+                "dreb": 3.9,
+                "stl": 0.9,
+                "blk": 0.3,
+                "tov": 2.0,
+                "fouls": 2.5,
+                "minutes": "32:29"
+            }
+        },
+        {
+            "name": "Caris LeVert",
+            "stats": {
+                "points": 16.5,
+                "fgm": 7.2,
+                "fga": 15.9,
+                "ast": 3.0,
+                "reb": 3.7,
+                "oreb": 0.4,
+                "dreb": 3.3,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.7,
+                "fouls": 2.4,
+                "minutes": "29:23"
+            }
+        },
+        {
+            "name": "Justin Hamilton",
+            "stats": {
+                "points": 1.0,
+                "fgm": 0.3,
+                "fga": 0.8,
+                "ast": 0.4,
+                "reb": 0.5,
+                "oreb": 0.1,
+                "dreb": 0.4,
+                "stl": 0.0,
+                "blk": 0.1,
+                "tov": 0.4,
+                "fouls": 0.5,
+                "minutes": "3:49"
+            }
+        },
+        {
+            "name": "Isaiah Whitehead",
+            "stats": {
+                "points": 17.0,
+                "fgm": 7.2,
+                "fga": 16.0,
+                "ast": 2.9,
+                "reb": 3.9,
+                "oreb": 0.5,
+                "dreb": 3.4,
+                "stl": 0.8,
+                "blk": 0.2,
+                "tov": 2.0,
+                "fouls": 2.9,
+                "minutes": "31:30"
+            }
+        },
+        {
+            "name": "Joe Harris",
+            "stats": {
+                "points": 3.8,
+                "fgm": 1.1,
+                "fga": 2.9,
+                "ast": 1.8,
+                "reb": 2.1,
+                "oreb": 0.2,
+                "dreb": 1.8,
+                "stl": 0.3,
+                "blk": 0.1,
+                "tov": 1.4,
+                "fouls": 1.3,
+                "minutes": "16:14"
+            }
+        },
+        {
+            "name": "Spencer Dinwiddie",
+            "stats": {
+                "points": 2.5,
+                "fgm": 0.7,
+                "fga": 2.7,
+                "ast": 3.8,
+                "reb": 1.8,
+                "oreb": 0.3,
+                "dreb": 1.6,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.1,
+                "fouls": 1.2,
+                "minutes": "15:27"
+            }
+        }
+    ],
+    "New York Knicks": [
+        {
+            "name": "Derrick Rose",
+            "stats": {
+                "points": 12.5,
+                "fgm": 4.4,
+                "fga": 10.8,
+                "ast": 4.5,
+                "reb": 3.6,
+                "oreb": 0.6,
+                "dreb": 3.0,
+                "stl": 1.2,
+                "blk": 0.1,
+                "tov": 3.2,
+                "fouls": 2.6,
+                "minutes": "32:37"
+            }
+        },
+        {
+            "name": "Carmelo Anthony",
+            "stats": {
+                "points": 14.6,
+                "fgm": 5.1,
+                "fga": 12.6,
+                "ast": 2.5,
+                "reb": 7.2,
+                "oreb": 1.7,
+                "dreb": 5.5,
+                "stl": 1.4,
+                "blk": 0.2,
+                "tov": 3.1,
+                "fouls": 2.7,
+                "minutes": "32:49"
+            }
+        },
+        {
+            "name": "Kristaps Porzingis",
+            "stats": {
+                "points": 6.6,
+                "fgm": 2.3,
+                "fga": 5.4,
+                "ast": 0.8,
+                "reb": 3.0,
+                "oreb": 0.8,
+                "dreb": 2.2,
+                "stl": 0.6,
+                "blk": 1.0,
+                "tov": 1.6,
+                "fouls": 1.3,
+                "minutes": "14:43"
+            }
+        },
+        {
+            "name": "Courtney Lee",
+            "stats": {
+                "points": 14.8,
+                "fgm": 5.1,
+                "fga": 11.2,
+                "ast": 2.3,
+                "reb": 3.6,
+                "oreb": 0.5,
+                "dreb": 3.1,
+                "stl": 1.1,
+                "blk": 0.1,
+                "tov": 2.2,
+                "fouls": 2.7,
+                "minutes": "33:00"
+            }
+        },
+        {
+            "name": "Joakim Noah",
+            "stats": {
+                "points": 10.1,
+                "fgm": 4.2,
+                "fga": 8.9,
+                "ast": 5.2,
+                "reb": 7.9,
+                "oreb": 2.2,
+                "dreb": 5.7,
+                "stl": 1.2,
+                "blk": 1.7,
+                "tov": 2.6,
+                "fouls": 2.2,
+                "minutes": "28:01"
+            }
+        },
+        {
+            "name": "Willy Hernangomez",
+            "stats": {
+                "points": 14.1,
+                "fgm": 6.0,
+                "fga": 13.8,
+                "ast": 2.2,
+                "reb": 2.7,
+                "oreb": 0.3,
+                "dreb": 2.4,
+                "stl": 0.6,
+                "blk": 0.5,
+                "tov": 1.4,
+                "fouls": 1.8,
+                "minutes": "22:15"
+            }
+        },
+        {
+            "name": "Brandon Jennings",
+            "stats": {
+                "points": 12.2,
+                "fgm": 3.8,
+                "fga": 10.5,
+                "ast": 7.2,
+                "reb": 3.3,
+                "oreb": 0.4,
+                "dreb": 2.9,
+                "stl": 1.2,
+                "blk": 0.1,
+                "tov": 3.2,
+                "fouls": 2.7,
+                "minutes": "33:19"
+            }
+        },
+        {
+            "name": "Lance Thomas",
+            "stats": {
+                "points": 5.8,
+                "fgm": 2.3,
+                "fga": 4.6,
+                "ast": 1.0,
+                "reb": 1.6,
+                "oreb": 0.1,
+                "dreb": 1.5,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.0,
+                "fouls": 1.2,
+                "minutes": "15:26"
+            }
+        },
+        {
+            "name": "Kyle O'Quinn",
+            "stats": {
+                "points": 6.4,
+                "fgm": 2.6,
+                "fga": 5.3,
+                "ast": 1.3,
+                "reb": 2.1,
+                "oreb": 0.4,
+                "dreb": 1.6,
+                "stl": 0.4,
+                "blk": 0.4,
+                "tov": 1.2,
+                "fouls": 1.2,
+                "minutes": "16:05"
+            }
+        },
+        {
+            "name": "Justin Holiday",
+            "stats": {
+                "points": 3.5,
+                "fgm": 1.2,
+                "fga": 2.9,
+                "ast": 1.2,
+                "reb": 1.6,
+                "oreb": 0.2,
+                "dreb": 1.4,
+                "stl": 0.4,
+                "blk": 0.1,
+                "tov": 1.1,
+                "fouls": 1.1,
+                "minutes": "13:08"
+            }
+        }
+    ],
+    "Philadelphia 76ers": [
+        {
+            "name": "Jahlil Okafor",
+            "stats": {
+                "points": 14.3,
+                "fgm": 6.1,
+                "fga": 11.8,
+                "ast": 1.5,
+                "reb": 5.4,
+                "oreb": 1.3,
+                "dreb": 4.1,
+                "stl": 0.9,
+                "blk": 2.1,
+                "tov": 2.6,
+                "fouls": 2.1,
+                "minutes": "21:28"
+            }
+        },
+        {
+            "name": "Joel Embiid",
+            "stats": {
+                "points": 19.5,
+                "fgm": 8.4,
+                "fga": 17.8,
+                "ast": 4.0,
+                "reb": 5.0,
+                "oreb": 0.8,
+                "dreb": 4.2,
+                "stl": 1.0,
+                "blk": 1.3,
+                "tov": 2.2,
+                "fouls": 3.4,
+                "minutes": "35:56"
+            }
+        },
+        {
+            "name": "Dario Saric",
+            "stats": {
+                "points": 0.2,
+                "fgm": 0.1,
+                "fga": 0.2,
+                "ast": 0.0,
+                "reb": 0.1,
+                "oreb": 0.0,
+                "dreb": 0.1,
+                "stl": 0.0,
+                "blk": 0.0,
+                "tov": 0.1,
+                "fouls": 0.0,
+                "minutes": "0:34"
+            }
+        },
+        {
+            "name": "Robert Covington",
+            "stats": {
+                "points": 13.7,
+                "fgm": 4.0,
+                "fga": 10.7,
+                "ast": 3.5,
+                "reb": 5.5,
+                "oreb": 1.2,
+                "dreb": 4.3,
+                "stl": 2.1,
+                "blk": 0.2,
+                "tov": 2.7,
+                "fouls": 2.7,
+                "minutes": "33:31"
+            }
+        },
+        {
+            "name": "T.J. McConnell",
+            "stats": {
+                "points": 5.4,
+                "fgm": 2.1,
+                "fga": 4.4,
+                "ast": 5.1,
+                "reb": 2.5,
+                "oreb": 0.4,
+                "dreb": 2.1,
+                "stl": 1.0,
+                "blk": 0.0,
+                "tov": 1.5,
+                "fouls": 1.5,
+                "minutes": "17:58"
+            }
+        },
+        {
+            "name": "Sergio Rodriguez",
+            "stats": {
+                "points": 16.1,
+                "fgm": 6.8,
+                "fga": 14.9,
+                "ast": 3.0,
+                "reb": 3.7,
+                "oreb": 0.5,
+                "dreb": 3.2,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 1.8,
+                "fouls": 3.2,
+                "minutes": "29:49"
+            }
+        },
+        {
+            "name": "Gerald Henderson",
+            "stats": {
+                "points": 13.1,
+                "fgm": 4.6,
+                "fga": 11.6,
+                "ast": 3.6,
+                "reb": 4.1,
+                "oreb": 0.7,
+                "dreb": 3.4,
+                "stl": 1.1,
+                "blk": 0.2,
+                "tov": 2.4,
+                "fouls": 3.0,
+                "minutes": "31:06"
+            }
+        },
+        {
+            "name": "Ersan Ilyasova",
+            "stats": {
+                "points": 18.1,
+                "fgm": 6.5,
+                "fga": 14.7,
+                "ast": 2.6,
+                "reb": 5.5,
+                "oreb": 1.1,
+                "dreb": 4.4,
+                "stl": 1.2,
+                "blk": 0.3,
+                "tov": 2.9,
+                "fouls": 3.1,
+                "minutes": "34:09"
+            }
+        },
+        {
+            "name": "Nik Stauskas",
+            "stats": {
+                "points": 4.4,
+                "fgm": 1.3,
+                "fga": 4.0,
+                "ast": 2.5,
+                "reb": 2.4,
+                "oreb": 0.3,
+                "dreb": 2.1,
+                "stl": 0.6,
+                "blk": 0.0,
+                "tov": 1.2,
+                "fouls": 1.8,
+                "minutes": "17:21"
+            }
+        },
+        {
+            "name": "Richaun Holmes",
+            "stats": {
+                "points": 4.9,
+                "fgm": 1.9,
+                "fga": 4.2,
+                "ast": 1.1,
+                "reb": 2.6,
+                "oreb": 0.3,
+                "dreb": 2.3,
+                "stl": 0.8,
+                "blk": 0.4,
+                "tov": 1.4,
+                "fouls": 1.7,
+                "minutes": "18:48"
+            }
+        }
+    ],
+    "Toronto Raptors": [
+        {
+            "name": "Kyle Lowry",
+            "stats": {
+                "points": 20.5,
+                "fgm": 6.6,
+                "fga": 16.6,
+                "ast": 10.2,
+                "reb": 4.2,
+                "oreb": 1.0,
+                "dreb": 3.3,
+                "stl": 1.6,
+                "blk": 0.2,
+                "tov": 4.8,
+                "fouls": 3.5,
+                "minutes": "35:41"
+            }
+        },
+        {
+            "name": "DeMar DeRozan",
+            "stats": {
+                "points": 15.2,
+                "fgm": 5.8,
+                "fga": 13.4,
+                "ast": 3.0,
+                "reb": 4.5,
+                "oreb": 0.8,
+                "dreb": 3.7,
+                "stl": 1.1,
+                "blk": 0.1,
+                "tov": 3.3,
+                "fouls": 3.4,
+                "minutes": "34:52"
+            }
+        },
+        {
+            "name": "Serge Ibaka",
+            "stats": {
+                "points": 13.9,
+                "fgm": 5.3,
+                "fga": 10.7,
+                "ast": 0.6,
+                "reb": 6.6,
+                "oreb": 1.6,
+                "dreb": 5.0,
+                "stl": 0.6,
+                "blk": 1.6,
+                "tov": 1.6,
+                "fouls": 2.2,
+                "minutes": "26:16"
+            }
+        },
+        {
+            "name": "Jonas Valanciunas",
+            "stats": {
+                "points": 11.0,
+                "fgm": 4.7,
+                "fga": 8.0,
+                "ast": 0.3,
+                "reb": 5.4,
+                "oreb": 1.4,
+                "dreb": 4.0,
+                "stl": 0.5,
+                "blk": 1.3,
+                "tov": 0.8,
+                "fouls": 1.5,
+                "minutes": "17:43"
+            }
+        },
+        {
+            "name": "Norman Powell",
+            "stats": {
+                "points": 5.3,
+                "fgm": 1.9,
+                "fga": 4.0,
+                "ast": 1.7,
+                "reb": 1.6,
+                "oreb": 0.2,
+                "dreb": 1.4,
+                "stl": 0.8,
+                "blk": 0.0,
+                "tov": 1.4,
+                "fouls": 1.4,
+                "minutes": "15:25"
+            }
+        },
+        {
+            "name": "Cory Joseph",
+            "stats": {
+                "points": 10.2,
+                "fgm": 3.8,
+                "fga": 8.8,
+                "ast": 5.7,
+                "reb": 4.0,
+                "oreb": 0.6,
+                "dreb": 3.4,
+                "stl": 0.7,
+                "blk": 0.0,
+                "tov": 2.8,
+                "fouls": 2.5,
+                "minutes": "30:33"
+            }
+        },
+        {
+            "name": "P.J. Tucker",
+            "stats": {
+                "points": 10.1,
+                "fgm": 3.4,
+                "fga": 9.0,
+                "ast": 2.8,
+                "reb": 4.2,
+                "oreb": 0.8,
+                "dreb": 3.3,
+                "stl": 0.9,
+                "blk": 0.1,
+                "tov": 2.2,
+                "fouls": 2.1,
+                "minutes": "26:23"
+            }
+        },
+        {
+            "name": "Terrence Ross",
+            "stats": {
+                "points": 13.0,
+                "fgm": 4.2,
+                "fga": 10.0,
+                "ast": 1.1,
+                "reb": 2.8,
+                "oreb": 0.4,
+                "dreb": 2.4,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 1.5,
+                "fouls": 2.3,
+                "minutes": "24:34"
+            }
+        },
+        {
+            "name": "Patrick Patterson",
+            "stats": {
+                "points": 8.7,
+                "fgm": 2.9,
+                "fga": 7.0,
+                "ast": 2.2,
+                "reb": 3.0,
+                "oreb": 0.6,
+                "dreb": 2.4,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.5,
+                "fouls": 1.7,
+                "minutes": "19:58"
+            }
+        },
+        {
+            "name": "Lucas Nogueira",
+            "stats": {
+                "points": 2.8,
+                "fgm": 1.2,
+                "fga": 2.0,
+                "ast": 0.5,
+                "reb": 1.2,
+                "oreb": 0.2,
+                "dreb": 1.0,
+                "stl": 0.3,
+                "blk": 0.4,
+                "tov": 0.6,
+                "fouls": 0.6,
+                "minutes": "9:29"
+            }
+        }
+    ],
+    "Chicago Bulls": [
+        {
+            "name": "Rajon Rondo",
+            "stats": {
+                "points": 11.8,
+                "fgm": 4.6,
+                "fga": 11.2,
+                "ast": 10.4,
+                "reb": 5.2,
+                "oreb": 1.2,
+                "dreb": 4.0,
+                "stl": 1.5,
+                "blk": 0.2,
+                "tov": 3.8,
+                "fouls": 2.7,
+                "minutes": "34:03"
+            }
+        },
+        {
+            "name": "Jimmy Butler",
+            "stats": {
+                "points": 11.1,
+                "fgm": 4.0,
+                "fga": 9.8,
+                "ast": 2.2,
+                "reb": 4.3,
+                "oreb": 1.0,
+                "dreb": 3.3,
+                "stl": 1.1,
+                "blk": 0.2,
+                "tov": 2.1,
+                "fouls": 2.3,
+                "minutes": "28:06"
+            }
+        },
+        {
+            "name": "Dwyane Wade",
+            "stats": {
+                "points": 17.0,
+                "fgm": 6.9,
+                "fga": 14.5,
+                "ast": 3.1,
+                "reb": 4.8,
+                "oreb": 1.1,
+                "dreb": 3.8,
+                "stl": 1.2,
+                "blk": 0.2,
+                "tov": 3.5,
+                "fouls": 3.1,
+                "minutes": "36:27"
+            }
+        },
+        {
+            "name": "Robin Lopez",
+            "stats": {
+                "points": 11.9,
+                "fgm": 5.0,
+                "fga": 9.1,
+                "ast": 0.7,
+                "reb": 5.6,
+                "oreb": 1.6,
+                "dreb": 4.0,
+                "stl": 0.5,
+                "blk": 1.8,
+                "tov": 1.6,
+                "fouls": 1.9,
+                "minutes": "22:17"
+            }
+        },
+        {
+            "name": "Nikola Mirotic",
+            "stats": {
+                "points": 8.9,
+                "fgm": 2.7,
+                "fga": 7.5,
+                "ast": 1.0,
+                "reb": 3.6,
+                "oreb": 0.8,
+                "dreb": 2.8,
+                "stl": 0.6,
+                "blk": 0.9,
+                "tov": 1.7,
+                "fouls": 2.1,
+                "minutes": "25:55"
+            }
+        },
+        {
+            "name": "Bobby Portis",
+            "stats": {
+                "points": 2.9,
+                "fgm": 1.1,
+                "fga": 2.7,
+                "ast": 0.5,
+                "reb": 1.6,
+                "oreb": 0.3,
+                "dreb": 1.2,
+                "stl": 0.2,
+                "blk": 0.3,
+                "tov": 0.7,
+                "fouls": 0.9,
+                "minutes": "11:41"
+            }
+        },
+        {
+            "name": "Jerian Grant",
+            "stats": {
+                "points": 3.9,
+                "fgm": 1.5,
+                "fga": 4.1,
+                "ast": 3.2,
+                "reb": 2.3,
+                "oreb": 0.3,
+                "dreb": 2.0,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.5,
+                "fouls": 1.3,
+                "minutes": "18:25"
+            }
+        },
+        {
+            "name": "Michael Carter-Williams",
+            "stats": {
+                "points": 14.1,
+                "fgm": 5.3,
+                "fga": 13.5,
+                "ast": 5.4,
+                "reb": 5.8,
+                "oreb": 1.4,
+                "dreb": 4.4,
+                "stl": 1.3,
+                "blk": 0.4,
+                "tov": 3.5,
+                "fouls": 2.8,
+                "minutes": "35:02"
+            }
+        },
+        {
+            "name": "Denzel Valentine",
+            "stats": {
+                "points": 14.3,
+                "fgm": 6.0,
+                "fga": 13.1,
+                "ast": 2.0,
+                "reb": 2.8,
+                "oreb": 0.4,
+                "dreb": 2.4,
+                "stl": 0.4,
+                "blk": 0.0,
+                "tov": 1.3,
+                "fouls": 1.9,
+                "minutes": "21:05"
+            }
+        },
+        {
+            "name": "Cristiano Felicio",
+            "stats": {
+                "points": 2.8,
+                "fgm": 1.1,
+                "fga": 2.2,
+                "ast": 0.8,
+                "reb": 1.3,
+                "oreb": 0.2,
+                "dreb": 1.1,
+                "stl": 0.2,
+                "blk": 0.3,
+                "tov": 0.6,
+                "fouls": 0.9,
+                "minutes": "10:35"
+            }
+        }
+    ],
+    "Cleveland Cavaliers": [
+        {
+            "name": "Kyrie Irving",
+            "stats": {
+                "points": 19.6,
+                "fgm": 6.9,
+                "fga": 14.9,
+                "ast": 5.2,
+                "reb": 3.7,
+                "oreb": 0.5,
+                "dreb": 3.2,
+                "stl": 1.5,
+                "blk": 0.4,
+                "tov": 4.0,
+                "fouls": 2.6,
+                "minutes": "33:19"
+            }
+        },
+        {
+            "name": "LeBron James",
+            "stats": {
+                "points": 19.7,
+                "fgm": 7.6,
+                "fga": 15.4,
+                "ast": 4.8,
+                "reb": 6.1,
+                "oreb": 1.6,
+                "dreb": 4.5,
+                "stl": 1.1,
+                "blk": 0.5,
+                "tov": 3.8,
+                "fouls": 2.5,
+                "minutes": "30:21"
+            }
+        },
+        {
+            "name": "Kevin Love",
+            "stats": {
+                "points": 10.2,
+                "fgm": 3.2,
+                "fga": 7.9,
+                "ast": 1.8,
+                "reb": 6.8,
+                "oreb": 1.7,
+                "dreb": 5.1,
+                "stl": 0.7,
+                "blk": 0.4,
+                "tov": 1.8,
+                "fouls": 1.8,
+                "minutes": "25:07"
+            }
+        },
+        {
+            "name": "Tristan Thompson",
+            "stats": {
+                "points": 6.3,
+                "fgm": 2.8,
+                "fga": 5.0,
+                "ast": 0.3,
+                "reb": 3.6,
+                "oreb": 0.9,
+                "dreb": 2.8,
+                "stl": 0.5,
+                "blk": 0.6,
+                "tov": 0.7,
+                "fouls": 0.8,
+                "minutes": "14:01"
+            }
+        },
+        {
+            "name": "Iman Shumpert",
+            "stats": {
+                "points": 6.8,
+                "fgm": 2.2,
+                "fga": 5.5,
+                "ast": 2.7,
+                "reb": 2.4,
+                "oreb": 0.4,
+                "dreb": 2.0,
+                "stl": 1.0,
+                "blk": 0.2,
+                "tov": 1.6,
+                "fouls": 1.7,
+                "minutes": "20:29"
+            }
+        },
+        {
+            "name": "Richard Jefferson",
+            "stats": {
+                "points": 5.8,
+                "fgm": 1.9,
+                "fga": 4.4,
+                "ast": 0.8,
+                "reb": 1.8,
+                "oreb": 0.3,
+                "dreb": 1.5,
+                "stl": 0.4,
+                "blk": 0.1,
+                "tov": 0.7,
+                "fouls": 0.7,
+                "minutes": "13:24"
+            }
+        },
+        {
+            "name": "Channing Frye",
+            "stats": {
+                "points": 5.3,
+                "fgm": 1.6,
+                "fga": 4.1,
+                "ast": 0.9,
+                "reb": 1.5,
+                "oreb": 0.3,
+                "dreb": 1.2,
+                "stl": 0.3,
+                "blk": 0.6,
+                "tov": 0.8,
+                "fouls": 1.0,
+                "minutes": "13:11"
+            }
+        },
+        {
+            "name": "J.R. Smith",
+            "stats": {
+                "points": 13.3,
+                "fgm": 4.3,
+                "fga": 10.2,
+                "ast": 3.3,
+                "reb": 4.0,
+                "oreb": 0.5,
+                "dreb": 3.4,
+                "stl": 0.9,
+                "blk": 0.5,
+                "tov": 2.2,
+                "fouls": 2.6,
+                "minutes": "32:05"
+            }
+        },
+        {
+            "name": "Kyle Korver",
+            "stats": {
+                "points": 12.5,
+                "fgm": 3.8,
+                "fga": 8.4,
+                "ast": 3.6,
+                "reb": 3.0,
+                "oreb": 0.5,
+                "dreb": 2.5,
+                "stl": 1.0,
+                "blk": 0.3,
+                "tov": 2.1,
+                "fouls": 2.2,
+                "minutes": "27:18"
+            }
+        },
+        {
+            "name": "Deron Williams",
+            "stats": {
+                "points": 13.4,
+                "fgm": 4.6,
+                "fga": 10.9,
+                "ast": 7.3,
+                "reb": 3.6,
+                "oreb": 0.5,
+                "dreb": 3.1,
+                "stl": 1.3,
+                "blk": 0.3,
+                "tov": 3.1,
+                "fouls": 2.8,
+                "minutes": "33:12"
+            }
+        }
+    ],
+    "Detroit Pistons": [
+        {
+            "name": "Reggie Jackson",
+            "stats": {
+                "points": 14.4,
+                "fgm": 5.0,
+                "fga": 11.8,
+                "ast": 6.5,
+                "reb": 4.0,
+                "oreb": 0.6,
+                "dreb": 3.3,
+                "stl": 1.5,
+                "blk": 0.1,
+                "tov": 3.4,
+                "fouls": 3.1,
+                "minutes": "33:49"
+            }
+        },
+        {
+            "name": "Andre Drummond",
+            "stats": {
+                "points": 20.8,
+                "fgm": 9.5,
+                "fga": 16.4,
+                "ast": 0.7,
+                "reb": 11.3,
+                "oreb": 2.7,
+                "dreb": 8.6,
+                "stl": 1.2,
+                "blk": 2.0,
+                "tov": 1.9,
+                "fouls": 2.5,
+                "minutes": "28:13"
+            }
+        },
+        {
+            "name": "Tobias Harris",
+            "stats": {
+                "points": 15.6,
+                "fgm": 5.9,
+                "fga": 13.0,
+                "ast": 1.8,
+                "reb": 6.3,
+                "oreb": 1.7,
+                "dreb": 4.6,
+                "stl": 1.0,
+                "blk": 0.2,
+                "tov": 2.5,
+                "fouls": 2.7,
+                "minutes": "28:51"
+            }
+        },
+        {
+            "name": "Kentavious Caldwell-Pope",
+            "stats": {
+                "points": 13.6,
+                "fgm": 4.5,
+                "fga": 11.0,
+                "ast": 2.0,
+                "reb": 3.1,
+                "oreb": 0.4,
+                "dreb": 2.7,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 1.8,
+                "fouls": 2.2,
+                "minutes": "23:35"
+            }
+        },
+        {
+            "name": "Stanley Johnson",
+            "stats": {
+                "points": 4.9,
+                "fgm": 1.6,
+                "fga": 4.6,
+                "ast": 2.2,
+                "reb": 1.9,
+                "oreb": 0.4,
+                "dreb": 1.6,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 1.4,
+                "fouls": 1.4,
+                "minutes": "15:52"
+            }
+        },
+        {
+            "name": "Marcus Morris",
+            "stats": {
+                "points": 14.2,
+                "fgm": 4.8,
+                "fga": 11.5,
+                "ast": 2.2,
+                "reb": 3.5,
+                "oreb": 0.7,
+                "dreb": 2.8,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 2.5,
+                "fouls": 2.5,
+                "minutes": "29:00"
+            }
+        },
+        {
+            "name": "Jon Leuer",
+            "stats": {
+                "points": 8.7,
+                "fgm": 3.4,
+                "fga": 7.2,
+                "ast": 1.2,
+                "reb": 2.4,
+                "oreb": 0.4,
+                "dreb": 2.0,
+                "stl": 0.6,
+                "blk": 0.3,
+                "tov": 1.2,
+                "fouls": 1.7,
+                "minutes": "18:38"
+            }
+        },
+        {
+            "name": "Ish Smith",
+            "stats": {
+                "points": 8.3,
+                "fgm": 3.3,
+                "fga": 8.1,
+                "ast": 8.4,
+                "reb": 3.8,
+                "oreb": 0.6,
+                "dreb": 3.2,
+                "stl": 1.1,
+                "blk": 0.1,
+                "tov": 2.9,
+                "fouls": 2.9,
+                "minutes": "31:46"
+            }
+        },
+        {
+            "name": "Aron Baynes",
+            "stats": {
+                "points": 10.0,
+                "fgm": 4.2,
+                "fga": 8.0,
+                "ast": 0.6,
+                "reb": 2.8,
+                "oreb": 0.6,
+                "dreb": 2.2,
+                "stl": 0.5,
+                "blk": 0.8,
+                "tov": 1.3,
+                "fouls": 1.7,
+                "minutes": "20:04"
+            }
+        },
+        {
+            "name": "Boban Marjanovic",
+            "stats": {
+                "points": 4.8,
+                "fgm": 2.1,
+                "fga": 3.7,
+                "ast": 0.5,
+                "reb": 1.7,
+                "oreb": 0.3,
+                "dreb": 1.4,
+                "stl": 0.4,
+                "blk": 0.5,
+                "tov": 0.7,
+                "fouls": 1.0,
+                "minutes": "12:20"
+            }
+        }
+    ],
+    "Indiana Pacers": [
+        {
+            "name": "Paul George",
+            "stats": {
+                "points": 14.9,
+                "fgm": 5.0,
+                "fga": 12.1,
+                "ast": 3.4,
+                "reb": 6.3,
+                "oreb": 1.7,
+                "dreb": 4.6,
+                "stl": 1.7,
+                "blk": 0.2,
+                "tov": 3.1,
+                "fouls": 3.0,
+                "minutes": "31:41"
+            }
+        },
+        {
+            "name": "Jeff Teague",
+            "stats": {
+                "points": 13.6,
+                "fgm": 4.7,
+                "fga": 11.2,
+                "ast": 6.6,
+                "reb": 3.3,
+                "oreb": 0.5,
+                "dreb": 2.8,
+                "stl": 1.0,
+                "blk": 0.1,
+                "tov": 2.9,
+                "fouls": 2.8,
+                "minutes": "31:35"
+            }
+        },
+        {
+            "name": "Myles Turner",
+            "stats": {
+                "points": 5.8,
+                "fgm": 2.4,
+                "fga": 5.0,
+                "ast": 0.7,
+                "reb": 2.3,
+                "oreb": 0.4,
+                "dreb": 1.9,
+                "stl": 0.5,
+                "blk": 1.4,
+                "tov": 0.9,
+                "fouls": 1.2,
+                "minutes": "15:04"
+            }
+        },
+        {
+            "name": "Monta Ellis",
+            "stats": {
+                "points": 13.1,
+                "fgm": 5.0,
+                "fga": 11.2,
+                "ast": 4.6,
+                "reb": 3.1,
+                "oreb": 0.5,
+                "dreb": 2.6,
+                "stl": 1.2,
+                "blk": 0.1,
+                "tov": 2.8,
+                "fouls": 2.5,
+                "minutes": "30:22"
+            }
+        },
+        {
+            "name": "Thaddeus Young",
+            "stats": {
+                "points": 14.4,
+                "fgm": 5.8,
+                "fga": 12.9,
+                "ast": 2.5,
+                "reb": 7.0,
+                "oreb": 1.5,
+                "dreb": 5.5,
+                "stl": 1.3,
+                "blk": 0.2,
+                "tov": 2.8,
+                "fouls": 2.6,
+                "minutes": "31:12"
+            }
+        },
+        {
+            "name": "C.J. Miles",
+            "stats": {
+                "points": 9.6,
+                "fgm": 3.0,
+                "fga": 6.8,
+                "ast": 0.9,
+                "reb": 1.9,
+                "oreb": 0.2,
+                "dreb": 1.7,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.1,
+                "fouls": 1.4,
+                "minutes": "16:48"
+            }
+        },
+        {
+            "name": "Glenn Robinson III",
+            "stats": {
+                "points": 4.3,
+                "fgm": 1.4,
+                "fga": 3.5,
+                "ast": 1.3,
+                "reb": 1.6,
+                "oreb": 0.2,
+                "dreb": 1.4,
+                "stl": 0.3,
+                "blk": 0.1,
+                "tov": 1.0,
+                "fouls": 1.2,
+                "minutes": "14:36"
+            }
+        },
+        {
+            "name": "Al Jefferson",
+            "stats": {
+                "points": 15.4,
+                "fgm": 6.4,
+                "fga": 13.4,
+                "ast": 1.8,
+                "reb": 7.5,
+                "oreb": 1.8,
+                "dreb": 5.7,
+                "stl": 0.7,
+                "blk": 1.8,
+                "tov": 2.6,
+                "fouls": 2.4,
+                "minutes": "29:32"
+            }
+        },
+        {
+            "name": "Aaron Brooks",
+            "stats": {
+                "points": 6.9,
+                "fgm": 2.3,
+                "fga": 5.6,
+                "ast": 3.9,
+                "reb": 2.0,
+                "oreb": 0.3,
+                "dreb": 1.7,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.8,
+                "fouls": 1.6,
+                "minutes": "18:26"
+            }
+        },
+        {
+            "name": "Lavoy Allen",
+            "stats": {
+                "points": 9.9,
+                "fgm": 4.3,
+                "fga": 8.3,
+                "ast": 2.1,
+                "reb": 3.3,
+                "oreb": 0.6,
+                "dreb": 2.7,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.7,
+                "fouls": 1.8,
+                "minutes": "23:34"
+            }
+        }
+    ],
+    "Milwaukee Bucks": [
+        {
+            "name": "Giannis Antetokounmpo",
+            "stats": {
+                "points": 11.8,
+                "fgm": 4.7,
+                "fga": 10.1,
+                "ast": 4.6,
+                "reb": 5.4,
+                "oreb": 1.2,
+                "dreb": 4.2,
+                "stl": 1.1,
+                "blk": 2.1,
+                "tov": 2.7,
+                "fouls": 2.5,
+                "minutes": "31:18"
+            }
+        },
+        {
+            "name": "Malcolm Brogdon",
+            "stats": {
+                "points": 18.8,
+                "fgm": 7.9,
+                "fga": 17.0,
+                "ast": 3.2,
+                "reb": 3.6,
+                "oreb": 0.5,
+                "dreb": 3.1,
+                "stl": 0.9,
+                "blk": 0.1,
+                "tov": 1.8,
+                "fouls": 3.1,
+                "minutes": "31:54"
+            }
+        },
+        {
+            "name": "Jabari Parker",
+            "stats": {
+                "points": 8.4,
+                "fgm": 3.6,
+                "fga": 7.2,
+                "ast": 1.6,
+                "reb": 2.5,
+                "oreb": 0.5,
+                "dreb": 2.0,
+                "stl": 1.0,
+                "blk": 0.2,
+                "tov": 1.6,
+                "fouls": 1.6,
+                "minutes": "16:59"
+            }
+        },
+        {
+            "name": "Matthew Dellavedova",
+            "stats": {
+                "points": 7.6,
+                "fgm": 2.3,
+                "fga": 6.0,
+                "ast": 8.8,
+                "reb": 3.8,
+                "oreb": 0.5,
+                "dreb": 3.3,
+                "stl": 1.0,
+                "blk": 0.1,
+                "tov": 2.7,
+                "fouls": 3.0,
+                "minutes": "32:03"
+            }
+        },
+        {
+            "name": "Tony Snell",
+            "stats": {
+                "points": 8.2,
+                "fgm": 2.5,
+                "fga": 6.4,
+                "ast": 2.2,
+                "reb": 2.8,
+                "oreb": 0.4,
+                "dreb": 2.4,
+                "stl": 0.8,
+                "blk": 0.2,
+                "tov": 1.4,
+                "fouls": 2.1,
+                "minutes": "23:08"
+            }
+        },
+        {
+            "name": "John Henson",
+            "stats": {
+                "points": 9.9,
+                "fgm": 4.3,
+                "fga": 7.9,
+                "ast": 1.3,
+                "reb": 2.8,
+                "oreb": 0.7,
+                "dreb": 2.2,
+                "stl": 0.7,
+                "blk": 1.0,
+                "tov": 1.5,
+                "fouls": 1.8,
+                "minutes": "19:28"
+            }
+        },
+        {
+            "name": "Mirza Teletovic",
+            "stats": {
+                "points": 8.6,
+                "fgm": 2.7,
+                "fga": 6.5,
+                "ast": 1.1,
+                "reb": 2.2,
+                "oreb": 0.3,
+                "dreb": 1.8,
+                "stl": 0.6,
+                "blk": 0.2,
+                "tov": 1.0,
+                "fouls": 1.4,
+                "minutes": "16:32"
+            }
+        },
+        {
+            "name": "Greg Monroe",
+            "stats": {
+                "points": 17.8,
+                "fgm": 7.4,
+                "fga": 14.2,
+                "ast": 2.9,
+                "reb": 9.0,
+                "oreb": 2.3,
+                "dreb": 6.7,
+                "stl": 1.4,
+                "blk": 0.8,
+                "tov": 3.2,
+                "fouls": 2.8,
+                "minutes": "30:06"
+            }
+        },
+        {
+            "name": "Michael Beasley",
+            "stats": {
+                "points": 5.0,
+                "fgm": 2.0,
+                "fga": 4.2,
+                "ast": 0.7,
+                "reb": 1.6,
+                "oreb": 0.3,
+                "dreb": 1.2,
+                "stl": 0.4,
+                "blk": 0.1,
+                "tov": 0.8,
+                "fouls": 1.0,
+                "minutes": "11:35"
+            }
+        },
+        {
+            "name": "Thon Maker",
+            "stats": {
+                "points": 15.7,
+                "fgm": 6.6,
+                "fga": 14.5,
+                "ast": 2.8,
+                "reb": 3.1,
+                "oreb": 0.4,
+                "dreb": 2.7,
+                "stl": 0.9,
+                "blk": 0.5,
+                "tov": 1.6,
+                "fouls": 2.1,
+                "minutes": "29:04"
+            }
+        }
+    ],
+    "Atlanta Hawks": [
+        {
+            "name": "Dennis Schroder",
+            "stats": {
+                "points": 8.8,
+                "fgm": 3.2,
+                "fga": 7.7,
+                "ast": 6.2,
+                "reb": 3.3,
+                "oreb": 0.4,
+                "dreb": 2.9,
+                "stl": 1.0,
+                "blk": 0.1,
+                "tov": 2.8,
+                "fouls": 2.3,
+                "minutes": "29:13"
+            }
+        },
+        {
+            "name": "Paul Millsap",
+            "stats": {
+                "points": 15.6,
+                "fgm": 5.9,
+                "fga": 12.8,
+                "ast": 4.5,
+                "reb": 8.8,
+                "oreb": 2.3,
+                "dreb": 6.5,
+                "stl": 1.8,
+                "blk": 0.9,
+                "tov": 3.5,
+                "fouls": 3.4,
+                "minutes": "33:42"
+            }
+        },
+        {
+            "name": "Dwight Howard",
+            "stats": {
+                "points": 21.7,
+                "fgm": 9.8,
+                "fga": 15.2,
+                "ast": 2.1,
+                "reb": 9.2,
+                "oreb": 2.3,
+                "dreb": 7.0,
+                "stl": 0.8,
+                "blk": 2.3,
+                "tov": 2.6,
+                "fouls": 2.5,
+                "minutes": "28:28"
+            }
+        },
+        {
+            "name": "Kent Bazemore",
+            "stats": {
+                "points": 8.7,
+                "fgm": 3.1,
+                "fga": 7.3,
+                "ast": 2.6,
+                "reb": 2.7,
+                "oreb": 0.4,
+                "dreb": 2.3,
+                "stl": 0.8,
+                "blk": 0.2,
+                "tov": 1.7,
+                "fouls": 2.3,
+                "minutes": "21:46"
+            }
+        },
+        {
+            "name": "Thabo Sefolosha",
+            "stats": {
+                "points": 7.0,
+                "fgm": 2.4,
+                "fga": 5.9,
+                "ast": 2.5,
+                "reb": 2.3,
+                "oreb": 0.4,
+                "dreb": 1.9,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.4,
+                "fouls": 1.5,
+                "minutes": "18:32"
+            }
+        },
+        {
+            "name": "Kyle Korver",
+            "stats": {
+                "points": 12.5,
+                "fgm": 3.8,
+                "fga": 8.4,
+                "ast": 3.6,
+                "reb": 3.0,
+                "oreb": 0.5,
+                "dreb": 2.5,
+                "stl": 1.0,
+                "blk": 0.3,
+                "tov": 2.1,
+                "fouls": 2.2,
+                "minutes": "27:18"
+            }
+        },
+        {
+            "name": "Tim Hardaway Jr.",
+            "stats": {
+                "points": 9.7,
+                "fgm": 3.1,
+                "fga": 7.5,
+                "ast": 1.9,
+                "reb": 2.3,
+                "oreb": 0.2,
+                "dreb": 2.0,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.5,
+                "fouls": 1.7,
+                "minutes": "19:54"
+            }
+        },
+        {
+            "name": "Mike Muscala",
+            "stats": {
+                "points": 4.6,
+                "fgm": 1.8,
+                "fga": 3.5,
+                "ast": 0.9,
+                "reb": 1.4,
+                "oreb": 0.2,
+                "dreb": 1.2,
+                "stl": 0.2,
+                "blk": 0.4,
+                "tov": 0.8,
+                "fouls": 1.2,
+                "minutes": "12:20"
+            }
+        },
+        {
+            "name": "Kris Humphries",
+            "stats": {
+                "points": 8.6,
+                "fgm": 3.3,
+                "fga": 7.1,
+                "ast": 1.2,
+                "reb": 3.0,
+                "oreb": 0.7,
+                "dreb": 2.2,
+                "stl": 0.7,
+                "blk": 0.2,
+                "tov": 1.2,
+                "fouls": 1.6,
+                "minutes": "18:51"
+            }
+        },
+        {
+            "name": "Taurean Prince",
+            "stats": {
+                "points": 18.2,
+                "fgm": 7.7,
+                "fga": 16.4,
+                "ast": 3.0,
+                "reb": 2.8,
+                "oreb": 0.3,
+                "dreb": 2.5,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 1.7,
+                "fouls": 2.3,
+                "minutes": "27:33"
+            }
+        }
+    ],
+    "Charlotte Hornets": [
+        {
+            "name": "Kemba Walker",
+            "stats": {
+                "points": 22.2,
+                "fgm": 7.4,
+                "fga": 18.4,
+                "ast": 6.8,
+                "reb": 4.9,
+                "oreb": 1.0,
+                "dreb": 3.9,
+                "stl": 1.5,
+                "blk": 0.3,
+                "tov": 5.1,
+                "fouls": 3.1,
+                "minutes": "35:43"
+            }
+        },
+        {
+            "name": "Nicolas Batum",
+            "stats": {
+                "points": 15.1,
+                "fgm": 4.8,
+                "fga": 12.0,
+                "ast": 6.7,
+                "reb": 7.7,
+                "oreb": 2.0,
+                "dreb": 5.7,
+                "stl": 1.5,
+                "blk": 0.5,
+                "tov": 3.6,
+                "fouls": 2.8,
+                "minutes": "34:52"
+            }
+        },
+        {
+            "name": "Michael Kidd-Gilchrist",
+            "stats": {
+                "points": 5.7,
+                "fgm": 2.5,
+                "fga": 4.7,
+                "ast": 0.7,
+                "reb": 2.7,
+                "oreb": 0.5,
+                "dreb": 2.2,
+                "stl": 0.6,
+                "blk": 0.2,
+                "tov": 1.0,
+                "fouls": 1.3,
+                "minutes": "15:09"
+            }
+        },
+        {
+            "name": "Marvin Williams",
+            "stats": {
+                "points": 12.2,
+                "fgm": 3.9,
+                "fga": 9.5,
+                "ast": 1.5,
+                "reb": 4.2,
+                "oreb": 1.0,
+                "dreb": 3.2,
+                "stl": 0.8,
+                "blk": 0.3,
+                "tov": 1.8,
+                "fouls": 1.9,
+                "minutes": "27:32"
+            }
+        },
+        {
+            "name": "Cody Zeller",
+            "stats": {
+                "points": 8.4,
+                "fgm": 3.4,
+                "fga": 6.9,
+                "ast": 1.3,
+                "reb": 3.1,
+                "oreb": 0.6,
+                "dreb": 2.5,
+                "stl": 0.5,
+                "blk": 0.6,
+                "tov": 1.5,
+                "fouls": 1.5,
+                "minutes": "19:58"
+            }
+        },
+        {
+            "name": "Frank Kaminsky",
+            "stats": {
+                "points": 2.5,
+                "fgm": 0.8,
+                "fga": 2.4,
+                "ast": 0.9,
+                "reb": 1.4,
+                "oreb": 0.1,
+                "dreb": 1.3,
+                "stl": 0.3,
+                "blk": 0.5,
+                "tov": 0.8,
+                "fouls": 0.8,
+                "minutes": "10:27"
+            }
+        },
+        {
+            "name": "Jeremy Lamb",
+            "stats": {
+                "points": 9.5,
+                "fgm": 3.2,
+                "fga": 7.5,
+                "ast": 1.5,
+                "reb": 2.5,
+                "oreb": 0.4,
+                "dreb": 2.2,
+                "stl": 0.6,
+                "blk": 0.2,
+                "tov": 1.5,
+                "fouls": 1.8,
+                "minutes": "21:31"
+            }
+        },
+        {
+            "name": "Spencer Hawes",
+            "stats": {
+                "points": 9.2,
+                "fgm": 3.1,
+                "fga": 7.6,
+                "ast": 2.5,
+                "reb": 3.5,
+                "oreb": 0.8,
+                "dreb": 2.7,
+                "stl": 0.7,
+                "blk": 0.9,
+                "tov": 2.2,
+                "fouls": 2.0,
+                "minutes": "25:13"
+            }
+        },
+        {
+            "name": "Marco Belinelli",
+            "stats": {
+                "points": 13.5,
+                "fgm": 4.3,
+                "fga": 10.3,
+                "ast": 2.4,
+                "reb": 3.5,
+                "oreb": 0.5,
+                "dreb": 3.1,
+                "stl": 0.7,
+                "blk": 0.3,
+                "tov": 2.2,
+                "fouls": 2.5,
+                "minutes": "29:23"
+            }
+        },
+        {
+            "name": "Brian Roberts",
+            "stats": {
+                "points": 7.3,
+                "fgm": 2.4,
+                "fga": 6.2,
+                "ast": 3.9,
+                "reb": 2.8,
+                "oreb": 0.5,
+                "dreb": 2.3,
+                "stl": 0.7,
+                "blk": 0.2,
+                "tov": 1.9,
+                "fouls": 1.8,
+                "minutes": "23:03"
+            }
+        }
+    ],
+    "Miami Heat": [
+        {
+            "name": "Goran Dragic",
+            "stats": {
+                "points": 14.3,
+                "fgm": 5.3,
+                "fga": 11.9,
+                "ast": 6.9,
+                "reb": 3.8,
+                "oreb": 0.6,
+                "dreb": 3.3,
+                "stl": 1.3,
+                "blk": 0.2,
+                "tov": 3.5,
+                "fouls": 3.1,
+                "minutes": "32:29"
+            }
+        },
+        {
+            "name": "Hassan Whiteside",
+            "stats": {
+                "points": 21.0,
+                "fgm": 9.4,
+                "fga": 15.0,
+                "ast": 0.4,
+                "reb": 8.0,
+                "oreb": 2.0,
+                "dreb": 6.0,
+                "stl": 0.8,
+                "blk": 2.3,
+                "tov": 2.1,
+                "fouls": 2.2,
+                "minutes": "22:49"
+            }
+        },
+        {
+            "name": "Dion Waiters",
+            "stats": {
+                "points": 12.2,
+                "fgm": 4.3,
+                "fga": 10.9,
+                "ast": 3.8,
+                "reb": 4.1,
+                "oreb": 0.5,
+                "dreb": 3.6,
+                "stl": 1.2,
+                "blk": 0.3,
+                "tov": 2.6,
+                "fouls": 2.8,
+                "minutes": "31:02"
+            }
+        },
+        {
+            "name": "Josh Richardson",
+            "stats": {
+                "points": 4.6,
+                "fgm": 1.6,
+                "fga": 3.5,
+                "ast": 2.0,
+                "reb": 1.6,
+                "oreb": 0.2,
+                "dreb": 1.5,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 1.4,
+                "fouls": 1.3,
+                "minutes": "14:04"
+            }
+        },
+        {
+            "name": "James Johnson",
+            "stats": {
+                "points": 10.7,
+                "fgm": 4.3,
+                "fga": 8.9,
+                "ast": 3.3,
+                "reb": 3.7,
+                "oreb": 0.7,
+                "dreb": 3.0,
+                "stl": 1.0,
+                "blk": 0.5,
+                "tov": 2.1,
+                "fouls": 2.4,
+                "minutes": "29:18"
+            }
+        },
+        {
+            "name": "Tyler Johnson",
+            "stats": {
+                "points": 6.4,
+                "fgm": 2.3,
+                "fga": 4.7,
+                "ast": 2.5,
+                "reb": 2.2,
+                "oreb": 0.3,
+                "dreb": 2.0,
+                "stl": 1.0,
+                "blk": 0.1,
+                "tov": 1.4,
+                "fouls": 1.4,
+                "minutes": "16:36"
+            }
+        },
+        {
+            "name": "Wayne Ellington",
+            "stats": {
+                "points": 8.7,
+                "fgm": 2.7,
+                "fga": 7.0,
+                "ast": 2.2,
+                "reb": 2.4,
+                "oreb": 0.5,
+                "dreb": 1.9,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 1.5,
+                "fouls": 1.9,
+                "minutes": "20:23"
+            }
+        },
+        {
+            "name": "Luke Babbitt",
+            "stats": {
+                "points": 10.5,
+                "fgm": 3.3,
+                "fga": 7.8,
+                "ast": 2.2,
+                "reb": 3.5,
+                "oreb": 0.5,
+                "dreb": 3.0,
+                "stl": 0.7,
+                "blk": 0.3,
+                "tov": 2.0,
+                "fouls": 2.2,
+                "minutes": "28:25"
+            }
+        },
+        {
+            "name": "Rodney McGruder",
+            "stats": {
+                "points": 19.1,
+                "fgm": 8.1,
+                "fga": 17.7,
+                "ast": 3.5,
+                "reb": 3.9,
+                "oreb": 0.5,
+                "dreb": 3.4,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 2.1,
+                "fouls": 2.7,
+                "minutes": "29:59"
+            }
+        },
+        {
+            "name": "Willie Reed",
+            "stats": {
+                "points": 5.9,
+                "fgm": 2.6,
+                "fga": 4.2,
+                "ast": 0.6,
+                "reb": 2.0,
+                "oreb": 0.3,
+                "dreb": 1.7,
+                "stl": 0.6,
+                "blk": 0.7,
+                "tov": 1.0,
+                "fouls": 1.4,
+                "minutes": "15:33"
+            }
+        }
+    ],
+    "Orlando Magic": [
+        {
+            "name": "Elfrid Payton",
+            "stats": {
+                "points": 11.3,
+                "fgm": 4.5,
+                "fga": 10.6,
+                "ast": 8.0,
+                "reb": 4.2,
+                "oreb": 1.0,
+                "dreb": 3.2,
+                "stl": 1.8,
+                "blk": 0.2,
+                "tov": 3.3,
+                "fouls": 2.6,
+                "minutes": "32:23"
+            }
+        },
+        {
+            "name": "Nikola Vucevic",
+            "stats": {
+                "points": 16.3,
+                "fgm": 6.8,
+                "fga": 12.7,
+                "ast": 1.7,
+                "reb": 8.5,
+                "oreb": 1.9,
+                "dreb": 6.5,
+                "stl": 0.8,
+                "blk": 2.1,
+                "tov": 2.7,
+                "fouls": 2.7,
+                "minutes": "28:40"
+            }
+        },
+        {
+            "name": "Aaron Gordon",
+            "stats": {
+                "points": 5.3,
+                "fgm": 2.0,
+                "fga": 5.1,
+                "ast": 1.2,
+                "reb": 2.8,
+                "oreb": 0.6,
+                "dreb": 2.2,
+                "stl": 0.7,
+                "blk": 0.3,
+                "tov": 1.7,
+                "fouls": 1.1,
+                "minutes": "16:01"
+            }
+        },
+        {
+            "name": "Evan Fournier",
+            "stats": {
+                "points": 14.6,
+                "fgm": 4.8,
+                "fga": 11.8,
+                "ast": 2.4,
+                "reb": 3.8,
+                "oreb": 0.6,
+                "dreb": 3.2,
+                "stl": 1.0,
+                "blk": 0.1,
+                "tov": 2.7,
+                "fouls": 2.6,
+                "minutes": "31:19"
+            }
+        },
+        {
+            "name": "Terrence Ross",
+            "stats": {
+                "points": 13.0,
+                "fgm": 4.2,
+                "fga": 10.0,
+                "ast": 1.1,
+                "reb": 2.8,
+                "oreb": 0.4,
+                "dreb": 2.4,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 1.5,
+                "fouls": 2.3,
+                "minutes": "24:34"
+            }
+        },
+        {
+            "name": "Bismack Biyombo",
+            "stats": {
+                "points": 6.5,
+                "fgm": 2.8,
+                "fga": 5.0,
+                "ast": 0.1,
+                "reb": 2.9,
+                "oreb": 0.7,
+                "dreb": 2.2,
+                "stl": 0.4,
+                "blk": 1.1,
+                "tov": 0.5,
+                "fouls": 1.3,
+                "minutes": "14:43"
+            }
+        },
+        {
+            "name": "Jeff Green",
+            "stats": {
+                "points": 13.4,
+                "fgm": 4.6,
+                "fga": 11.1,
+                "ast": 1.1,
+                "reb": 3.2,
+                "oreb": 0.6,
+                "dreb": 2.6,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 2.0,
+                "fouls": 2.1,
+                "minutes": "26:36"
+            }
+        },
+        {
+            "name": "Mario Hezonja",
+            "stats": {
+                "points": 4.1,
+                "fgm": 1.2,
+                "fga": 3.4,
+                "ast": 1.3,
+                "reb": 1.4,
+                "oreb": 0.2,
+                "dreb": 1.2,
+                "stl": 0.4,
+                "blk": 0.1,
+                "tov": 0.9,
+                "fouls": 0.9,
+                "minutes": "11:29"
+            }
+        },
+        {
+            "name": "D.J. Augustin",
+            "stats": {
+                "points": 13.5,
+                "fgm": 4.2,
+                "fga": 10.5,
+                "ast": 5.8,
+                "reb": 4.0,
+                "oreb": 0.4,
+                "dreb": 3.5,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 3.1,
+                "fouls": 2.9,
+                "minutes": "33:49"
+            }
+        },
+        {
+            "name": "C.J. Watson",
+            "stats": {
+                "points": 8.6,
+                "fgm": 2.8,
+                "fga": 6.8,
+                "ast": 3.9,
+                "reb": 3.0,
+                "oreb": 0.6,
+                "dreb": 2.4,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 2.3,
+                "fouls": 2.1,
+                "minutes": "23:44"
+            }
+        }
+    ],
+    "Washington Wizards": [
+        {
+            "name": "John Wall",
+            "stats": {
+                "points": 18.3,
+                "fgm": 6.7,
+                "fga": 15.8,
+                "ast": 12.1,
+                "reb": 4.9,
+                "oreb": 1.0,
+                "dreb": 3.9,
+                "stl": 2.0,
+                "blk": 0.4,
+                "tov": 5.1,
+                "fouls": 3.4,
+                "minutes": "36:36"
+            }
+        },
+        {
+            "name": "Bradley Beal",
+            "stats": {
+                "points": 13.9,
+                "fgm": 4.8,
+                "fga": 11.5,
+                "ast": 3.6,
+                "reb": 5.1,
+                "oreb": 1.1,
+                "dreb": 4.1,
+                "stl": 1.3,
+                "blk": 0.4,
+                "tov": 2.9,
+                "fouls": 2.9,
+                "minutes": "35:41"
+            }
+        },
+        {
+            "name": "Otto Porter Jr.",
+            "stats": {
+                "points": 5.8,
+                "fgm": 2.1,
+                "fga": 4.8,
+                "ast": 1.1,
+                "reb": 2.5,
+                "oreb": 0.4,
+                "dreb": 2.1,
+                "stl": 0.3,
+                "blk": 0.2,
+                "tov": 1.0,
+                "fouls": 1.4,
+                "minutes": "16:14"
+            }
+        },
+        {
+            "name": "Markieff Morris",
+            "stats": {
+                "points": 10.3,
+                "fgm": 3.9,
+                "fga": 8.7,
+                "ast": 1.4,
+                "reb": 4.5,
+                "oreb": 1.2,
+                "dreb": 3.3,
+                "stl": 1.0,
+                "blk": 0.3,
+                "tov": 1.4,
+                "fouls": 1.9,
+                "minutes": "25:41"
+            }
+        },
+        {
+            "name": "Marcin Gortat",
+            "stats": {
+                "points": 11.0,
+                "fgm": 4.8,
+                "fga": 8.3,
+                "ast": 0.8,
+                "reb": 5.9,
+                "oreb": 1.7,
+                "dreb": 4.2,
+                "stl": 0.5,
+                "blk": 1.6,
+                "tov": 1.3,
+                "fouls": 1.6,
+                "minutes": "19:11"
+            }
+        },
+        {
+            "name": "Kelly Oubre Jr.",
+            "stats": {
+                "points": 2.5,
+                "fgm": 1.0,
+                "fga": 2.0,
+                "ast": 0.2,
+                "reb": 1.2,
+                "oreb": 0.2,
+                "dreb": 1.0,
+                "stl": 0.3,
+                "blk": 0.1,
+                "tov": 0.3,
+                "fouls": 0.8,
+                "minutes": "8:30"
+            }
+        },
+        {
+            "name": "Trey Burke",
+            "stats": {
+                "points": 10.7,
+                "fgm": 3.5,
+                "fga": 9.6,
+                "ast": 6.5,
+                "reb": 4.4,
+                "oreb": 0.7,
+                "dreb": 3.7,
+                "stl": 1.2,
+                "blk": 0.2,
+                "tov": 3.0,
+                "fouls": 2.9,
+                "minutes": "33:29"
+            }
+        },
+        {
+            "name": "Tomas Satoransky",
+            "stats": {
+                "points": 18.3,
+                "fgm": 7.9,
+                "fga": 17.4,
+                "ast": 2.9,
+                "reb": 3.4,
+                "oreb": 0.4,
+                "dreb": 3.0,
+                "stl": 0.6,
+                "blk": 0.2,
+                "tov": 1.9,
+                "fouls": 2.6,
+                "minutes": "26:13"
+            }
+        },
+        {
+            "name": "Jason Smith",
+            "stats": {
+                "points": 8.5,
+                "fgm": 3.4,
+                "fga": 7.8,
+                "ast": 1.5,
+                "reb": 3.3,
+                "oreb": 0.7,
+                "dreb": 2.6,
+                "stl": 0.7,
+                "blk": 0.8,
+                "tov": 1.3,
+                "fouls": 1.9,
+                "minutes": "24:51"
+            }
+        },
+        {
+            "name": "Bojan Bogdanovic",
+            "stats": {
+                "points": 5.9,
+                "fgm": 1.9,
+                "fga": 4.5,
+                "ast": 0.8,
+                "reb": 2.2,
+                "oreb": 0.4,
+                "dreb": 1.8,
+                "stl": 0.5,
+                "blk": 0.2,
+                "tov": 1.0,
+                "fouls": 1.5,
+                "minutes": "15:39"
+            }
+        }
+    ],
+    "Denver Nuggets": [
+        {
+            "name": "Jamal Murray",
+            "stats": {
+                "points": 19.6,
+                "fgm": 8.3,
+                "fga": 17.9,
+                "ast": 4.7,
+                "reb": 3.5,
+                "oreb": 0.3,
+                "dreb": 3.2,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 1.9,
+                "fouls": 2.7,
+                "minutes": "30:55"
+            }
+        },
+        {
+            "name": "Nikola Jokic",
+            "stats": {
+                "points": 9.1,
+                "fgm": 3.7,
+                "fga": 7.6,
+                "ast": 3.2,
+                "reb": 4.9,
+                "oreb": 1.2,
+                "dreb": 3.7,
+                "stl": 1.2,
+                "blk": 0.8,
+                "tov": 2.0,
+                "fouls": 1.6,
+                "minutes": "22:39"
+            }
+        },
+        {
+            "name": "Gary Harris",
+            "stats": {
+                "points": 6.4,
+                "fgm": 2.1,
+                "fga": 5.4,
+                "ast": 2.1,
+                "reb": 1.9,
+                "oreb": 0.4,
+                "dreb": 1.6,
+                "stl": 1.0,
+                "blk": 0.0,
+                "tov": 1.4,
+                "fouls": 1.5,
+                "minutes": "18:24"
+            }
+        },
+        {
+            "name": "Wilson Chandler",
+            "stats": {
+                "points": 0.1,
+                "fgm": 0.0,
+                "fga": 0.1,
+                "ast": 0.0,
+                "reb": 0.0,
+                "oreb": 0.0,
+                "dreb": 0.0,
+                "stl": 0.0,
+                "blk": 0.0,
+                "tov": 0.1,
+                "fouls": 0.0,
+                "minutes": "0:22"
+            }
+        },
+        {
+            "name": "Danilo Gallinari",
+            "stats": {
+                "points": 14.9,
+                "fgm": 4.8,
+                "fga": 11.2,
+                "ast": 3.4,
+                "reb": 4.0,
+                "oreb": 0.7,
+                "dreb": 3.3,
+                "stl": 1.1,
+                "blk": 0.6,
+                "tov": 2.6,
+                "fouls": 2.5,
+                "minutes": "31:18"
+            }
+        },
+        {
+            "name": "Emmanuel Mudiay",
+            "stats": {
+                "points": 6.0,
+                "fgm": 2.2,
+                "fga": 6.1,
+                "ast": 5.4,
+                "reb": 2.5,
+                "oreb": 0.3,
+                "dreb": 2.2,
+                "stl": 0.9,
+                "blk": 0.1,
+                "tov": 1.9,
+                "fouls": 1.7,
+                "minutes": "19:57"
+            }
+        },
+        {
+            "name": "Jusuf Nurkic",
+            "stats": {
+                "points": 5.7,
+                "fgm": 2.4,
+                "fga": 5.2,
+                "ast": 1.1,
+                "reb": 2.8,
+                "oreb": 0.6,
+                "dreb": 2.2,
+                "stl": 0.7,
+                "blk": 1.5,
+                "tov": 1.5,
+                "fouls": 1.5,
+                "minutes": "18:00"
+            }
+        },
+        {
+            "name": "Kenneth Faried",
+            "stats": {
+                "points": 23.6,
+                "fgm": 10.4,
+                "fga": 19.0,
+                "ast": 2.2,
+                "reb": 10.4,
+                "oreb": 2.7,
+                "dreb": 7.6,
+                "stl": 1.1,
+                "blk": 0.2,
+                "tov": 2.8,
+                "fouls": 3.0,
+                "minutes": "34:55"
+            }
+        },
+        {
+            "name": "Will Barton",
+            "stats": {
+                "points": 11.1,
+                "fgm": 4.0,
+                "fga": 8.6,
+                "ast": 3.3,
+                "reb": 3.0,
+                "oreb": 0.5,
+                "dreb": 2.4,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 2.2,
+                "fouls": 2.3,
+                "minutes": "27:12"
+            }
+        },
+        {
+            "name": "Mason Plumlee",
+            "stats": {
+                "points": 16.8,
+                "fgm": 7.4,
+                "fga": 12.7,
+                "ast": 3.3,
+                "reb": 5.8,
+                "oreb": 1.3,
+                "dreb": 4.5,
+                "stl": 1.2,
+                "blk": 0.7,
+                "tov": 2.4,
+                "fouls": 3.0,
+                "minutes": "34:23"
+            }
+        }
+    ],
+    "Minnesota Timberwolves": [
+        {
+            "name": "Ricky Rubio",
+            "stats": {
+                "points": 9.3,
+                "fgm": 3.1,
+                "fga": 8.9,
+                "ast": 11.9,
+                "reb": 4.1,
+                "oreb": 0.7,
+                "dreb": 3.4,
+                "stl": 2.4,
+                "blk": 0.1,
+                "tov": 3.9,
+                "fouls": 3.0,
+                "minutes": "35:20"
+            }
+        },
+        {
+            "name": "Andrew Wiggins",
+            "stats": {
+                "points": 12.6,
+                "fgm": 5.1,
+                "fga": 11.5,
+                "ast": 1.9,
+                "reb": 3.5,
+                "oreb": 0.6,
+                "dreb": 2.9,
+                "stl": 1.0,
+                "blk": 0.1,
+                "tov": 2.6,
+                "fouls": 2.4,
+                "minutes": "29:24"
+            }
+        },
+        {
+            "name": "Karl-Anthony Towns",
+            "stats": {
+                "points": 16.8,
+                "fgm": 6.8,
+                "fga": 12.1,
+                "ast": 1.7,
+                "reb": 8.0,
+                "oreb": 2.2,
+                "dreb": 5.8,
+                "stl": 0.9,
+                "blk": 2.4,
+                "tov": 2.6,
+                "fouls": 2.2,
+                "minutes": "26:11"
+            }
+        },
+        {
+            "name": "Zach LaVine",
+            "stats": {
+                "points": 13.5,
+                "fgm": 4.7,
+                "fga": 10.7,
+                "ast": 4.2,
+                "reb": 4.0,
+                "oreb": 0.8,
+                "dreb": 3.2,
+                "stl": 1.0,
+                "blk": 0.1,
+                "tov": 2.9,
+                "fouls": 2.7,
+                "minutes": "31:30"
+            }
+        },
+        {
+            "name": "Gorgui Dieng",
+            "stats": {
+                "points": 10.6,
+                "fgm": 4.4,
+                "fga": 8.6,
+                "ast": 2.0,
+                "reb": 5.2,
+                "oreb": 1.3,
+                "dreb": 3.9,
+                "stl": 0.7,
+                "blk": 1.3,
+                "tov": 1.9,
+                "fouls": 2.2,
+                "minutes": "25:14"
+            }
+        },
+        {
+            "name": "Shabazz Muhammad",
+            "stats": {
+                "points": 8.9,
+                "fgm": 3.5,
+                "fga": 7.6,
+                "ast": 0.6,
+                "reb": 2.4,
+                "oreb": 0.4,
+                "dreb": 2.0,
+                "stl": 0.6,
+                "blk": 0.0,
+                "tov": 1.0,
+                "fouls": 1.7,
+                "minutes": "19:02"
+            }
+        },
+        {
+            "name": "Brandon Rush",
+            "stats": {
+                "points": 4.5,
+                "fgm": 1.4,
+                "fga": 3.9,
+                "ast": 1.5,
+                "reb": 1.9,
+                "oreb": 0.2,
+                "dreb": 1.7,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.0,
+                "fouls": 1.3,
+                "minutes": "14:12"
+            }
+        },
+        {
+            "name": "Cole Aldrich",
+            "stats": {
+                "points": 8.4,
+                "fgm": 3.6,
+                "fga": 6.3,
+                "ast": 1.2,
+                "reb": 2.8,
+                "oreb": 0.5,
+                "dreb": 2.3,
+                "stl": 0.4,
+                "blk": 0.6,
+                "tov": 1.3,
+                "fouls": 1.6,
+                "minutes": "19:29"
+            }
+        },
+        {
+            "name": "Nemanja Bjelica",
+            "stats": {
+                "points": 4.6,
+                "fgm": 1.5,
+                "fga": 3.1,
+                "ast": 1.4,
+                "reb": 1.5,
+                "oreb": 0.3,
+                "dreb": 1.3,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 0.9,
+                "fouls": 0.8,
+                "minutes": "12:41"
+            }
+        },
+        {
+            "name": "Kris Dunn",
+            "stats": {
+                "points": 19.2,
+                "fgm": 8.1,
+                "fga": 16.7,
+                "ast": 2.8,
+                "reb": 3.3,
+                "oreb": 0.6,
+                "dreb": 2.7,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.8,
+                "fouls": 2.6,
+                "minutes": "27:36"
+            }
+        }
+    ],
+    "Oklahoma City Thunder": [
+        {
+            "name": "Russell Westbrook",
+            "stats": {
+                "points": 21.1,
+                "fgm": 7.5,
+                "fga": 18.5,
+                "ast": 10.8,
+                "reb": 8.7,
+                "oreb": 2.3,
+                "dreb": 6.4,
+                "stl": 2.3,
+                "blk": 0.1,
+                "tov": 6.4,
+                "fouls": 3.7,
+                "minutes": "38:24"
+            }
+        },
+        {
+            "name": "Victor Oladipo",
+            "stats": {
+                "points": 15.0,
+                "fgm": 5.4,
+                "fga": 12.3,
+                "ast": 4.4,
+                "reb": 4.3,
+                "oreb": 0.9,
+                "dreb": 3.4,
+                "stl": 1.6,
+                "blk": 0.3,
+                "tov": 2.8,
+                "fouls": 2.9,
+                "minutes": "37:27"
+            }
+        },
+        {
+            "name": "Steven Adams",
+            "stats": {
+                "points": 8.7,
+                "fgm": 3.9,
+                "fga": 6.4,
+                "ast": 0.6,
+                "reb": 3.2,
+                "oreb": 0.6,
+                "dreb": 2.6,
+                "stl": 0.5,
+                "blk": 1.1,
+                "tov": 0.8,
+                "fouls": 1.5,
+                "minutes": "18:27"
+            }
+        },
+        {
+            "name": "Enes Kanter",
+            "stats": {
+                "points": 1.3,
+                "fgm": 0.6,
+                "fga": 1.2,
+                "ast": 0.3,
+                "reb": 0.3,
+                "oreb": 0.1,
+                "dreb": 0.3,
+                "stl": 0.1,
+                "blk": 0.0,
+                "tov": 0.1,
+                "fouls": 0.2,
+                "minutes": "2:19"
+            }
+        },
+        {
+            "name": "Andre Roberson",
+            "stats": {
+                "points": 7.3,
+                "fgm": 2.7,
+                "fga": 6.8,
+                "ast": 2.0,
+                "reb": 2.5,
+                "oreb": 0.3,
+                "dreb": 2.2,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 1.2,
+                "fouls": 1.9,
+                "minutes": "23:01"
+            }
+        },
+        {
+            "name": "Taj Gibson",
+            "stats": {
+                "points": 10.5,
+                "fgm": 4.3,
+                "fga": 8.5,
+                "ast": 1.0,
+                "reb": 5.5,
+                "oreb": 1.4,
+                "dreb": 4.1,
+                "stl": 0.9,
+                "blk": 1.0,
+                "tov": 1.3,
+                "fouls": 2.1,
+                "minutes": "27:01"
+            }
+        },
+        {
+            "name": "Doug McDermott",
+            "stats": {
+                "points": 5.5,
+                "fgm": 1.9,
+                "fga": 4.1,
+                "ast": 0.5,
+                "reb": 1.8,
+                "oreb": 0.3,
+                "dreb": 1.5,
+                "stl": 0.4,
+                "blk": 0.1,
+                "tov": 0.7,
+                "fouls": 1.2,
+                "minutes": "13:51"
+            }
+        },
+        {
+            "name": "Jerami Grant",
+            "stats": {
+                "points": 5.4,
+                "fgm": 2.0,
+                "fga": 4.9,
+                "ast": 1.7,
+                "reb": 3.0,
+                "oreb": 0.5,
+                "dreb": 2.5,
+                "stl": 0.5,
+                "blk": 0.9,
+                "tov": 1.3,
+                "fouls": 1.5,
+                "minutes": "19:10"
+            }
+        },
+        {
+            "name": "Domantas Sabonis",
+            "stats": {
+                "points": 19.4,
+                "fgm": 8.3,
+                "fga": 17.8,
+                "ast": 3.1,
+                "reb": 3.5,
+                "oreb": 0.5,
+                "dreb": 3.0,
+                "stl": 0.6,
+                "blk": 0.5,
+                "tov": 1.9,
+                "fouls": 2.6,
+                "minutes": "28:28"
+            }
+        },
+        {
+            "name": "Norris Cole",
+            "stats": {
+                "points": 10.5,
+                "fgm": 3.8,
+                "fga": 9.1,
+                "ast": 7.3,
+                "reb": 4.2,
+                "oreb": 0.7,
+                "dreb": 3.5,
+                "stl": 1.1,
+                "blk": 0.2,
+                "tov": 2.7,
+                "fouls": 2.6,
+                "minutes": "34:42"
+            }
+        }
+    ],
+    "Portland Trail Blazers": [
+        {
+            "name": "Damian Lillard",
+            "stats": {
+                "points": 23.8,
+                "fgm": 7.9,
+                "fga": 18.9,
+                "ast": 8.7,
+                "reb": 4.6,
+                "oreb": 0.7,
+                "dreb": 3.8,
+                "stl": 1.4,
+                "blk": 0.3,
+                "tov": 5.5,
+                "fouls": 3.2,
+                "minutes": "36:11"
+            }
+        },
+        {
+            "name": "C.J. McCollum",
+            "stats": {
+                "points": 14.5,
+                "fgm": 5.0,
+                "fga": 11.6,
+                "ast": 3.3,
+                "reb": 4.5,
+                "oreb": 0.6,
+                "dreb": 3.9,
+                "stl": 1.1,
+                "blk": 0.2,
+                "tov": 2.4,
+                "fouls": 3.0,
+                "minutes": "33:13"
+            }
+        },
+        {
+            "name": "Al-Farouq Aminu",
+            "stats": {
+                "points": 10.1,
+                "fgm": 3.5,
+                "fga": 8.6,
+                "ast": 1.8,
+                "reb": 3.6,
+                "oreb": 0.7,
+                "dreb": 2.9,
+                "stl": 0.7,
+                "blk": 0.3,
+                "tov": 1.9,
+                "fouls": 2.0,
+                "minutes": "25:45"
+            }
+        },
+        {
+            "name": "Jusuf Nurkic",
+            "stats": {
+                "points": 5.7,
+                "fgm": 2.4,
+                "fga": 5.2,
+                "ast": 1.1,
+                "reb": 2.8,
+                "oreb": 0.6,
+                "dreb": 2.2,
+                "stl": 0.7,
+                "blk": 1.5,
+                "tov": 1.5,
+                "fouls": 1.5,
+                "minutes": "18:00"
+            }
+        },
+        {
+            "name": "Maurice Harkless",
+            "stats": {
+                "points": 7.4,
+                "fgm": 2.9,
+                "fga": 7.0,
+                "ast": 0.9,
+                "reb": 2.7,
+                "oreb": 0.4,
+                "dreb": 2.2,
+                "stl": 1.0,
+                "blk": 0.2,
+                "tov": 1.1,
+                "fouls": 1.5,
+                "minutes": "19:37"
+            }
+        },
+        {
+            "name": "Noah Vonleh",
+            "stats": {
+                "points": 3.3,
+                "fgm": 1.2,
+                "fga": 3.2,
+                "ast": 0.4,
+                "reb": 1.5,
+                "oreb": 0.3,
+                "dreb": 1.2,
+                "stl": 0.5,
+                "blk": 0.5,
+                "tov": 0.6,
+                "fouls": 0.9,
+                "minutes": "11:23"
+            }
+        },
+        {
+            "name": "Ed Davis",
+            "stats": {
+                "points": 12.6,
+                "fgm": 5.7,
+                "fga": 9.4,
+                "ast": 0.9,
+                "reb": 5.2,
+                "oreb": 1.4,
+                "dreb": 3.8,
+                "stl": 0.9,
+                "blk": 0.9,
+                "tov": 1.3,
+                "fouls": 1.7,
+                "minutes": "25:18"
+            }
+        },
+        {
+            "name": "Evan Turner",
+            "stats": {
+                "points": 13.3,
+                "fgm": 4.8,
+                "fga": 11.4,
+                "ast": 6.4,
+                "reb": 4.8,
+                "oreb": 1.0,
+                "dreb": 3.8,
+                "stl": 1.1,
+                "blk": 0.2,
+                "tov": 3.1,
+                "fouls": 3.2,
+                "minutes": "34:00"
+            }
+        },
+        {
+            "name": "Allen Crabbe",
+            "stats": {
+                "points": 8.1,
+                "fgm": 2.8,
+                "fga": 6.8,
+                "ast": 1.1,
+                "reb": 2.7,
+                "oreb": 0.3,
+                "dreb": 2.4,
+                "stl": 0.6,
+                "blk": 0.2,
+                "tov": 1.4,
+                "fouls": 1.8,
+                "minutes": "20:20"
+            }
+        },
+        {
+            "name": "Shabazz Napier",
+            "stats": {
+                "points": 5.2,
+                "fgm": 1.6,
+                "fga": 4.2,
+                "ast": 5.0,
+                "reb": 2.4,
+                "oreb": 0.4,
+                "dreb": 2.0,
+                "stl": 0.8,
+                "blk": 0.2,
+                "tov": 2.1,
+                "fouls": 1.8,
+                "minutes": "20:10"
+            }
+        }
+    ],
+    "Utah Jazz": [
+        {
+            "name": "Gordon Hayward",
+            "stats": {
+                "points": 18.2,
+                "fgm": 6.3,
+                "fga": 14.8,
+                "ast": 4.7,
+                "reb": 4.7,
+                "oreb": 1.0,
+                "dreb": 3.7,
+                "stl": 1.5,
+                "blk": 0.1,
+                "tov": 3.6,
+                "fouls": 2.8,
+                "minutes": "37:26"
+            }
+        },
+        {
+            "name": "Rudy Gobert",
+            "stats": {
+                "points": 11.4,
+                "fgm": 5.0,
+                "fga": 8.6,
+                "ast": 1.1,
+                "reb": 6.5,
+                "oreb": 1.8,
+                "dreb": 4.8,
+                "stl": 0.6,
+                "blk": 1.8,
+                "tov": 1.4,
+                "fouls": 1.9,
+                "minutes": "23:27"
+            }
+        },
+        {
+            "name": "George Hill",
+            "stats": {
+                "points": 9.9,
+                "fgm": 3.4,
+                "fga": 8.0,
+                "ast": 4.3,
+                "reb": 2.9,
+                "oreb": 0.4,
+                "dreb": 2.4,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 2.3,
+                "fouls": 2.3,
+                "minutes": "26:00"
+            }
+        },
+        {
+            "name": "Rodney Hood",
+            "stats": {
+                "points": 5.4,
+                "fgm": 1.8,
+                "fga": 4.6,
+                "ast": 1.2,
+                "reb": 1.5,
+                "oreb": 0.2,
+                "dreb": 1.3,
+                "stl": 0.4,
+                "blk": 0.0,
+                "tov": 1.1,
+                "fouls": 1.1,
+                "minutes": "12:40"
+            }
+        },
+        {
+            "name": "Derrick Favors",
+            "stats": {
+                "points": 18.4,
+                "fgm": 7.9,
+                "fga": 15.1,
+                "ast": 1.1,
+                "reb": 8.4,
+                "oreb": 2.0,
+                "dreb": 6.4,
+                "stl": 1.0,
+                "blk": 1.2,
+                "tov": 2.4,
+                "fouls": 2.8,
+                "minutes": "31:27"
+            }
+        },
+        {
+            "name": "Joe Johnson",
+            "stats": {
+                "points": 13.2,
+                "fgm": 4.6,
+                "fga": 10.0,
+                "ast": 3.6,
+                "reb": 3.4,
+                "oreb": 0.5,
+                "dreb": 2.8,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 2.2,
+                "fouls": 2.5,
+                "minutes": "27:40"
+            }
+        },
+        {
+            "name": "Alec Burks",
+            "stats": {
+                "points": 6.2,
+                "fgm": 2.3,
+                "fga": 5.7,
+                "ast": 1.5,
+                "reb": 1.6,
+                "oreb": 0.2,
+                "dreb": 1.4,
+                "stl": 0.6,
+                "blk": 0.0,
+                "tov": 1.4,
+                "fouls": 1.5,
+                "minutes": "15:24"
+            }
+        },
+        {
+            "name": "Shelvin Mack",
+            "stats": {
+                "points": 5.6,
+                "fgm": 1.8,
+                "fga": 4.5,
+                "ast": 3.2,
+                "reb": 1.9,
+                "oreb": 0.3,
+                "dreb": 1.6,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.2,
+                "fouls": 1.3,
+                "minutes": "15:39"
+            }
+        },
+        {
+            "name": "Joe Ingles",
+            "stats": {
+                "points": 6.7,
+                "fgm": 2.1,
+                "fga": 5.3,
+                "ast": 3.5,
+                "reb": 2.2,
+                "oreb": 0.3,
+                "dreb": 1.8,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 1.6,
+                "fouls": 1.6,
+                "minutes": "20:38"
+            }
+        },
+        {
+            "name": "Boris Diaw",
+            "stats": {
+                "points": 12.1,
+                "fgm": 4.5,
+                "fga": 9.7,
+                "ast": 4.5,
+                "reb": 3.3,
+                "oreb": 0.4,
+                "dreb": 2.9,
+                "stl": 0.8,
+                "blk": 0.6,
+                "tov": 3.2,
+                "fouls": 2.4,
+                "minutes": "31:02"
+            }
+        }
+    ],
+    "Golden State Warriors": [
+        {
+            "name": "Stephen Curry",
+            "stats": {
+                "points": 20.4,
+                "fgm": 6.7,
+                "fga": 13.1,
+                "ast": 5.5,
+                "reb": 3.1,
+                "oreb": 0.7,
+                "dreb": 2.4,
+                "stl": 1.4,
+                "blk": 0.2,
+                "tov": 3.5,
+                "fouls": 2.4,
+                "minutes": "29:00"
+            }
+        },
+        {
+            "name": "Klay Thompson",
+            "stats": {
+                "points": 11.3,
+                "fgm": 3.6,
+                "fga": 8.2,
+                "ast": 1.3,
+                "reb": 3.1,
+                "oreb": 0.5,
+                "dreb": 2.6,
+                "stl": 1.0,
+                "blk": 0.2,
+                "tov": 1.6,
+                "fouls": 2.4,
+                "minutes": "27:12"
+            }
+        },
+        {
+            "name": "Kevin Durant",
+            "stats": {
+                "points": 27.7,
+                "fgm": 9.9,
+                "fga": 20.1,
+                "ast": 4.3,
+                "reb": 7.7,
+                "oreb": 1.7,
+                "dreb": 6.0,
+                "stl": 1.3,
+                "blk": 0.8,
+                "tov": 5.0,
+                "fouls": 3.2,
+                "minutes": "35:51"
+            }
+        },
+        {
+            "name": "Draymond Green",
+            "stats": {
+                "points": 12.5,
+                "fgm": 4.3,
+                "fga": 10.4,
+                "ast": 6.4,
+                "reb": 6.6,
+                "oreb": 1.5,
+                "dreb": 5.1,
+                "stl": 1.0,
+                "blk": 1.0,
+                "tov": 2.9,
+                "fouls": 2.6,
+                "minutes": "32:54"
+            }
+        },
+        {
+            "name": "Zaza Pachulia",
+            "stats": {
+                "points": 9.4,
+                "fgm": 3.7,
+                "fga": 7.9,
+                "ast": 3.0,
+                "reb": 5.3,
+                "oreb": 1.0,
+                "dreb": 4.2,
+                "stl": 0.8,
+                "blk": 1.0,
+                "tov": 2.0,
+                "fouls": 1.8,
+                "minutes": "26:29"
+            }
+        },
+        {
+            "name": "Andre Iguodala",
+            "stats": {
+                "points": 6.3,
+                "fgm": 2.3,
+                "fga": 5.0,
+                "ast": 2.7,
+                "reb": 1.7,
+                "oreb": 0.3,
+                "dreb": 1.4,
+                "stl": 0.7,
+                "blk": 0.0,
+                "tov": 1.5,
+                "fouls": 1.5,
+                "minutes": "16:52"
+            }
+        },
+        {
+            "name": "Shaun Livingston",
+            "stats": {
+                "points": 6.1,
+                "fgm": 2.5,
+                "fga": 5.3,
+                "ast": 2.8,
+                "reb": 1.5,
+                "oreb": 0.2,
+                "dreb": 1.3,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.4,
+                "fouls": 1.6,
+                "minutes": "17:01"
+            }
+        },
+        {
+            "name": "David West",
+            "stats": {
+                "points": 13.4,
+                "fgm": 5.5,
+                "fga": 10.8,
+                "ast": 2.9,
+                "reb": 4.5,
+                "oreb": 0.9,
+                "dreb": 3.6,
+                "stl": 0.8,
+                "blk": 0.3,
+                "tov": 2.1,
+                "fouls": 2.3,
+                "minutes": "32:33"
+            }
+        },
+        {
+            "name": "JaVale McGee",
+            "stats": {
+                "points": 3.7,
+                "fgm": 1.6,
+                "fga": 2.7,
+                "ast": 0.1,
+                "reb": 1.6,
+                "oreb": 0.2,
+                "dreb": 1.4,
+                "stl": 0.4,
+                "blk": 1.2,
+                "tov": 0.3,
+                "fouls": 1.4,
+                "minutes": "15:54"
+            }
+        },
+        {
+            "name": "Ian Clark",
+            "stats": {
+                "points": 2.4,
+                "fgm": 0.8,
+                "fga": 1.9,
+                "ast": 0.8,
+                "reb": 0.9,
+                "oreb": 0.1,
+                "dreb": 0.8,
+                "stl": 0.2,
+                "blk": 0.0,
+                "tov": 0.6,
+                "fouls": 0.6,
+                "minutes": "7:37"
+            }
+        }
+    ],
+    "Los Angeles Clippers": [
+        {
+            "name": "Chris Paul",
+            "stats": {
+                "points": 21.1,
+                "fgm": 7.4,
+                "fga": 16.0,
+                "ast": 12.3,
+                "reb": 3.8,
+                "oreb": 0.7,
+                "dreb": 3.1,
+                "stl": 2.1,
+                "blk": 0.4,
+                "tov": 4.7,
+                "fouls": 3.3,
+                "minutes": "35:41"
+            }
+        },
+        {
+            "name": "Blake Griffin",
+            "stats": {
+                "points": 15.2,
+                "fgm": 6.3,
+                "fga": 11.6,
+                "ast": 2.4,
+                "reb": 7.8,
+                "oreb": 1.9,
+                "dreb": 5.9,
+                "stl": 0.9,
+                "blk": 0.5,
+                "tov": 2.2,
+                "fouls": 2.4,
+                "minutes": "29:14"
+            }
+        },
+        {
+            "name": "DeAndre Jordan",
+            "stats": {
+                "points": 10.8,
+                "fgm": 5.1,
+                "fga": 7.2,
+                "ast": 0.3,
+                "reb": 6.2,
+                "oreb": 1.5,
+                "dreb": 4.6,
+                "stl": 0.6,
+                "blk": 1.6,
+                "tov": 0.9,
+                "fouls": 1.6,
+                "minutes": "16:33"
+            }
+        },
+        {
+            "name": "J.J. Redick",
+            "stats": {
+                "points": 16.1,
+                "fgm": 5.2,
+                "fga": 11.0,
+                "ast": 2.0,
+                "reb": 3.8,
+                "oreb": 0.5,
+                "dreb": 3.2,
+                "stl": 0.9,
+                "blk": 0.4,
+                "tov": 2.3,
+                "fouls": 2.6,
+                "minutes": "32:11"
+            }
+        },
+        {
+            "name": "Austin Rivers",
+            "stats": {
+                "points": 7.2,
+                "fgm": 2.6,
+                "fga": 6.7,
+                "ast": 2.7,
+                "reb": 2.4,
+                "oreb": 0.3,
+                "dreb": 2.1,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 2.0,
+                "fouls": 1.8,
+                "minutes": "21:30"
+            }
+        },
+        {
+            "name": "Jamal Crawford",
+            "stats": {
+                "points": 13.7,
+                "fgm": 4.4,
+                "fga": 11.0,
+                "ast": 3.3,
+                "reb": 3.4,
+                "oreb": 0.6,
+                "dreb": 2.8,
+                "stl": 1.0,
+                "blk": 0.3,
+                "tov": 2.5,
+                "fouls": 2.7,
+                "minutes": "31:44"
+            }
+        },
+        {
+            "name": "Luc Mbah a Moute",
+            "stats": {
+                "points": 4.7,
+                "fgm": 1.8,
+                "fga": 4.6,
+                "ast": 0.8,
+                "reb": 1.8,
+                "oreb": 0.3,
+                "dreb": 1.5,
+                "stl": 0.4,
+                "blk": 0.1,
+                "tov": 0.7,
+                "fouls": 1.0,
+                "minutes": "13:57"
+            }
+        },
+        {
+            "name": "Raymond Felton",
+            "stats": {
+                "points": 6.8,
+                "fgm": 2.5,
+                "fga": 6.5,
+                "ast": 5.3,
+                "reb": 2.6,
+                "oreb": 0.3,
+                "dreb": 2.2,
+                "stl": 0.7,
+                "blk": 0.2,
+                "tov": 2.2,
+                "fouls": 1.7,
+                "minutes": "22:48"
+            }
+        },
+        {
+            "name": "Wesley Johnson",
+            "stats": {
+                "points": 12.2,
+                "fgm": 3.8,
+                "fga": 9.0,
+                "ast": 1.5,
+                "reb": 3.2,
+                "oreb": 0.5,
+                "dreb": 2.7,
+                "stl": 0.8,
+                "blk": 0.4,
+                "tov": 1.5,
+                "fouls": 1.7,
+                "minutes": "24:27"
+            }
+        },
+        {
+            "name": "Marreese Speights",
+            "stats": {
+                "points": 4.9,
+                "fgm": 1.9,
+                "fga": 4.5,
+                "ast": 0.4,
+                "reb": 1.5,
+                "oreb": 0.3,
+                "dreb": 1.3,
+                "stl": 0.2,
+                "blk": 0.3,
+                "tov": 0.5,
+                "fouls": 1.0,
+                "minutes": "13:17"
+            }
+        }
+    ],
+    "Los Angeles Lakers": [
+        {
+            "name": "D'Angelo Russell",
+            "stats": {
+                "points": 9.8,
+                "fgm": 3.2,
+                "fga": 8.7,
+                "ast": 5.4,
+                "reb": 3.3,
+                "oreb": 0.6,
+                "dreb": 2.7,
+                "stl": 1.6,
+                "blk": 0.3,
+                "tov": 2.5,
+                "fouls": 2.5,
+                "minutes": "26:14"
+            }
+        },
+        {
+            "name": "Jordan Clarkson",
+            "stats": {
+                "points": 12.1,
+                "fgm": 4.2,
+                "fga": 10.8,
+                "ast": 5.5,
+                "reb": 4.4,
+                "oreb": 0.8,
+                "dreb": 3.6,
+                "stl": 1.6,
+                "blk": 0.1,
+                "tov": 2.9,
+                "fouls": 3.5,
+                "minutes": "31:49"
+            }
+        },
+        {
+            "name": "Julius Randle",
+            "stats": {
+                "points": 7.8,
+                "fgm": 3.1,
+                "fga": 7.3,
+                "ast": 2.5,
+                "reb": 6.3,
+                "oreb": 1.5,
+                "dreb": 4.8,
+                "stl": 0.7,
+                "blk": 0.3,
+                "tov": 2.0,
+                "fouls": 1.8,
+                "minutes": "19:49"
+            }
+        },
+        {
+            "name": "Larry Nance Jr.",
+            "stats": {
+                "points": 4.9,
+                "fgm": 2.1,
+                "fga": 4.2,
+                "ast": 1.2,
+                "reb": 2.1,
+                "oreb": 0.5,
+                "dreb": 1.6,
+                "stl": 0.7,
+                "blk": 0.2,
+                "tov": 1.1,
+                "fouls": 1.1,
+                "minutes": "14:52"
+            }
+        },
+        {
+            "name": "Timofey Mozgov",
+            "stats": {
+                "points": 17.2,
+                "fgm": 7.5,
+                "fga": 13.2,
+                "ast": 1.0,
+                "reb": 5.5,
+                "oreb": 1.4,
+                "dreb": 4.1,
+                "stl": 0.7,
+                "blk": 2.9,
+                "tov": 1.5,
+                "fouls": 3.1,
+                "minutes": "29:59"
+            }
+        },
+        {
+            "name": "Luol Deng",
+            "stats": {
+                "points": 16.6,
+                "fgm": 6.0,
+                "fga": 12.9,
+                "ast": 4.2,
+                "reb": 5.7,
+                "oreb": 1.3,
+                "dreb": 4.4,
+                "stl": 1.5,
+                "blk": 0.3,
+                "tov": 3.1,
+                "fouls": 3.0,
+                "minutes": "34:51"
+            }
+        },
+        {
+            "name": "Brandon Ingram",
+            "stats": {
+                "points": 20.5,
+                "fgm": 8.8,
+                "fga": 19.2,
+                "ast": 4.4,
+                "reb": 4.4,
+                "oreb": 0.8,
+                "dreb": 3.5,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 2.0,
+                "fouls": 2.9,
+                "minutes": "33:19"
+            }
+        },
+        {
+            "name": "Nick Young",
+            "stats": {
+                "points": 16.6,
+                "fgm": 5.3,
+                "fga": 13.4,
+                "ast": 2.4,
+                "reb": 4.0,
+                "oreb": 0.5,
+                "dreb": 3.5,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 2.7,
+                "fouls": 3.0,
+                "minutes": "32:24"
+            }
+        },
+        {
+            "name": "Tarik Black",
+            "stats": {
+                "points": 6.6,
+                "fgm": 3.0,
+                "fga": 5.1,
+                "ast": 0.9,
+                "reb": 2.1,
+                "oreb": 0.5,
+                "dreb": 1.6,
+                "stl": 0.5,
+                "blk": 0.3,
+                "tov": 1.0,
+                "fouls": 1.2,
+                "minutes": "15:50"
+            }
+        },
+        {
+            "name": "Ivica Zubac",
+            "stats": {
+                "points": 1.7,
+                "fgm": 0.7,
+                "fga": 1.3,
+                "ast": 0.3,
+                "reb": 0.3,
+                "oreb": 0.1,
+                "dreb": 0.2,
+                "stl": 0.1,
+                "blk": 0.0,
+                "tov": 0.2,
+                "fouls": 0.4,
+                "minutes": "2:15"
+            }
+        }
+    ],
+    "Phoenix Suns": [
+        {
+            "name": "Eric Bledsoe",
+            "stats": {
+                "points": 13.7,
+                "fgm": 4.9,
+                "fga": 12.2,
+                "ast": 7.2,
+                "reb": 3.9,
+                "oreb": 0.8,
+                "dreb": 3.2,
+                "stl": 1.6,
+                "blk": 0.1,
+                "tov": 3.4,
+                "fouls": 2.9,
+                "minutes": "29:54"
+            }
+        },
+        {
+            "name": "Devin Booker",
+            "stats": {
+                "points": 8.0,
+                "fgm": 2.6,
+                "fga": 6.5,
+                "ast": 2.6,
+                "reb": 2.3,
+                "oreb": 0.3,
+                "dreb": 1.9,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.8,
+                "fouls": 1.6,
+                "minutes": "18:43"
+            }
+        },
+        {
+            "name": "T.J. Warren",
+            "stats": {
+                "points": 7.0,
+                "fgm": 2.8,
+                "fga": 5.8,
+                "ast": 0.9,
+                "reb": 2.3,
+                "oreb": 0.3,
+                "dreb": 2.0,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.3,
+                "fouls": 1.4,
+                "minutes": "18:24"
+            }
+        },
+        {
+            "name": "Marquese Chriss",
+            "stats": {
+                "points": 20.6,
+                "fgm": 8.7,
+                "fga": 18.8,
+                "ast": 3.7,
+                "reb": 3.2,
+                "oreb": 0.6,
+                "dreb": 2.7,
+                "stl": 0.7,
+                "blk": 0.1,
+                "tov": 2.3,
+                "fouls": 2.8,
+                "minutes": "29:52"
+            }
+        },
+        {
+            "name": "Tyson Chandler",
+            "stats": {
+                "points": 14.3,
+                "fgm": 6.4,
+                "fga": 10.0,
+                "ast": 1.2,
+                "reb": 8.8,
+                "oreb": 2.0,
+                "dreb": 6.8,
+                "stl": 0.9,
+                "blk": 2.3,
+                "tov": 1.7,
+                "fouls": 2.7,
+                "minutes": "28:54"
+            }
+        },
+        {
+            "name": "Jared Dudley",
+            "stats": {
+                "points": 10.7,
+                "fgm": 3.5,
+                "fga": 8.1,
+                "ast": 3.5,
+                "reb": 3.7,
+                "oreb": 0.6,
+                "dreb": 3.2,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 2.3,
+                "fouls": 2.6,
+                "minutes": "29:49"
+            }
+        },
+        {
+            "name": "Alan Williams",
+            "stats": {
+                "points": 2.7,
+                "fgm": 1.0,
+                "fga": 2.5,
+                "ast": 1.1,
+                "reb": 1.9,
+                "oreb": 0.3,
+                "dreb": 1.6,
+                "stl": 0.7,
+                "blk": 0.6,
+                "tov": 1.4,
+                "fouls": 1.3,
+                "minutes": "14:40"
+            }
+        },
+        {
+            "name": "Brandon Knight",
+            "stats": {
+                "points": 15.5,
+                "fgm": 5.1,
+                "fga": 12.6,
+                "ast": 7.2,
+                "reb": 3.5,
+                "oreb": 0.6,
+                "dreb": 2.9,
+                "stl": 1.1,
+                "blk": 0.1,
+                "tov": 4.1,
+                "fouls": 3.0,
+                "minutes": "30:24"
+            }
+        },
+        {
+            "name": "Leandro Barbosa",
+            "stats": {
+                "points": 6.6,
+                "fgm": 2.3,
+                "fga": 5.2,
+                "ast": 2.2,
+                "reb": 2.4,
+                "oreb": 0.3,
+                "dreb": 2.1,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.5,
+                "fouls": 1.6,
+                "minutes": "17:30"
+            }
+        },
+        {
+            "name": "Alex Len",
+            "stats": {
+                "points": 7.9,
+                "fgm": 3.2,
+                "fga": 7.2,
+                "ast": 1.0,
+                "reb": 3.8,
+                "oreb": 0.9,
+                "dreb": 3.0,
+                "stl": 0.7,
+                "blk": 1.0,
+                "tov": 1.3,
+                "fouls": 1.7,
+                "minutes": "23:12"
+            }
+        }
+    ],
+    "Sacramento Kings": [
+        {
+            "name": "DeMarcus Cousins",
+            "stats": {
+                "points": 17.6,
+                "fgm": 7.2,
+                "fga": 14.7,
+                "ast": 3.3,
+                "reb": 11.8,
+                "oreb": 3.1,
+                "dreb": 8.8,
+                "stl": 1.7,
+                "blk": 2.5,
+                "tov": 3.4,
+                "fouls": 2.9,
+                "minutes": "35:46"
+            }
+        },
+        {
+            "name": "Rudy Gay",
+            "stats": {
+                "points": 15.6,
+                "fgm": 5.4,
+                "fga": 13.8,
+                "ast": 3.6,
+                "reb": 5.0,
+                "oreb": 1.2,
+                "dreb": 3.9,
+                "stl": 1.7,
+                "blk": 0.2,
+                "tov": 2.9,
+                "fouls": 2.7,
+                "minutes": "34:40"
+            }
+        },
+        {
+            "name": "Darren Collison",
+            "stats": {
+                "points": 11.5,
+                "fgm": 4.2,
+                "fga": 8.7,
+                "ast": 4.3,
+                "reb": 3.0,
+                "oreb": 0.4,
+                "dreb": 2.6,
+                "stl": 1.1,
+                "blk": 0.0,
+                "tov": 1.9,
+                "fouls": 2.5,
+                "minutes": "26:33"
+            }
+        },
+        {
+            "name": "Ben McLemore",
+            "stats": {
+                "points": 5.0,
+                "fgm": 1.6,
+                "fga": 4.5,
+                "ast": 1.2,
+                "reb": 1.4,
+                "oreb": 0.2,
+                "dreb": 1.1,
+                "stl": 0.4,
+                "blk": 0.0,
+                "tov": 0.8,
+                "fouls": 1.0,
+                "minutes": "12:49"
+            }
+        },
+        {
+            "name": "Willie Cauley-Stein",
+            "stats": {
+                "points": 7.1,
+                "fgm": 3.1,
+                "fga": 5.2,
+                "ast": 0.7,
+                "reb": 2.4,
+                "oreb": 0.6,
+                "dreb": 1.8,
+                "stl": 0.6,
+                "blk": 1.0,
+                "tov": 1.2,
+                "fouls": 1.2,
+                "minutes": "17:03"
+            }
+        },
+        {
+            "name": "Ty Lawson",
+            "stats": {
+                "points": 10.7,
+                "fgm": 3.8,
+                "fga": 8.6,
+                "ast": 7.8,
+                "reb": 3.4,
+                "oreb": 0.5,
+                "dreb": 2.9,
+                "stl": 1.4,
+                "blk": 0.0,
+                "tov": 2.8,
+                "fouls": 2.8,
+                "minutes": "30:24"
+            }
+        },
+        {
+            "name": "Garrett Temple",
+            "stats": {
+                "points": 2.8,
+                "fgm": 1.0,
+                "fga": 2.4,
+                "ast": 1.4,
+                "reb": 1.1,
+                "oreb": 0.2,
+                "dreb": 0.9,
+                "stl": 0.3,
+                "blk": 0.0,
+                "tov": 0.8,
+                "fouls": 1.0,
+                "minutes": "10:14"
+            }
+        },
+        {
+            "name": "Skal Labissiere",
+            "stats": {
+                "points": 20.0,
+                "fgm": 8.5,
+                "fga": 18.0,
+                "ast": 3.6,
+                "reb": 3.6,
+                "oreb": 0.4,
+                "dreb": 3.2,
+                "stl": 0.6,
+                "blk": 0.3,
+                "tov": 2.1,
+                "fouls": 2.8,
+                "minutes": "33:04"
+            }
+        },
+        {
+            "name": "Anthony Tolliver",
+            "stats": {
+                "points": 9.7,
+                "fgm": 2.8,
+                "fga": 6.8,
+                "ast": 1.6,
+                "reb": 2.7,
+                "oreb": 0.4,
+                "dreb": 2.3,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.3,
+                "fouls": 2.0,
+                "minutes": "23:18"
+            }
+        },
+        {
+            "name": "Buddy Hield",
+            "stats": {
+                "points": 13.3,
+                "fgm": 5.6,
+                "fga": 12.2,
+                "ast": 2.8,
+                "reb": 2.4,
+                "oreb": 0.4,
+                "dreb": 2.1,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.5,
+                "fouls": 1.9,
+                "minutes": "21:30"
+            }
+        }
+    ],
+    "Dallas Mavericks": [
+        {
+            "name": "Deron Williams",
+            "stats": {
+                "points": 13.4,
+                "fgm": 4.6,
+                "fga": 10.9,
+                "ast": 7.3,
+                "reb": 3.6,
+                "oreb": 0.5,
+                "dreb": 3.1,
+                "stl": 1.3,
+                "blk": 0.3,
+                "tov": 3.1,
+                "fouls": 2.8,
+                "minutes": "33:12"
+            }
+        },
+        {
+            "name": "Wesley Matthews",
+            "stats": {
+                "points": 15.1,
+                "fgm": 4.6,
+                "fga": 11.6,
+                "ast": 2.9,
+                "reb": 3.7,
+                "oreb": 0.7,
+                "dreb": 3.1,
+                "stl": 1.2,
+                "blk": 0.1,
+                "tov": 2.3,
+                "fouls": 2.6,
+                "minutes": "31:34"
+            }
+        },
+        {
+            "name": "Harrison Barnes",
+            "stats": {
+                "points": 10.1,
+                "fgm": 3.6,
+                "fga": 8.7,
+                "ast": 2.0,
+                "reb": 3.2,
+                "oreb": 0.5,
+                "dreb": 2.7,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 1.9,
+                "fouls": 2.2,
+                "minutes": "25:23"
+            }
+        },
+        {
+            "name": "Dirk Nowitzki",
+            "stats": {
+                "points": 18.5,
+                "fgm": 6.6,
+                "fga": 14.4,
+                "ast": 2.1,
+                "reb": 5.8,
+                "oreb": 1.3,
+                "dreb": 4.5,
+                "stl": 0.9,
+                "blk": 0.5,
+                "tov": 3.0,
+                "fouls": 3.0,
+                "minutes": "32:59"
+            }
+        },
+        {
+            "name": "Andrew Bogut",
+            "stats": {
+                "points": 9.4,
+                "fgm": 4.3,
+                "fga": 6.9,
+                "ast": 3.5,
+                "reb": 6.1,
+                "oreb": 1.3,
+                "dreb": 4.7,
+                "stl": 0.6,
+                "blk": 1.2,
+                "tov": 1.8,
+                "fouls": 1.8,
+                "minutes": "22:46"
+            }
+        },
+        {
+            "name": "Seth Curry",
+            "stats": {
+                "points": 4.7,
+                "fgm": 1.5,
+                "fga": 3.4,
+                "ast": 1.8,
+                "reb": 1.6,
+                "oreb": 0.2,
+                "dreb": 1.5,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.2,
+                "fouls": 1.1,
+                "minutes": "13:51"
+            }
+        },
+        {
+            "name": "Dwight Powell",
+            "stats": {
+                "points": 3.4,
+                "fgm": 1.4,
+                "fga": 3.0,
+                "ast": 0.5,
+                "reb": 1.1,
+                "oreb": 0.2,
+                "dreb": 0.9,
+                "stl": 0.5,
+                "blk": 0.2,
+                "tov": 0.5,
+                "fouls": 1.0,
+                "minutes": "9:46"
+            }
+        },
+        {
+            "name": "Nerlens Noel",
+            "stats": {
+                "points": 8.3,
+                "fgm": 3.7,
+                "fga": 7.0,
+                "ast": 1.7,
+                "reb": 5.0,
+                "oreb": 1.4,
+                "dreb": 3.5,
+                "stl": 1.3,
+                "blk": 1.5,
+                "tov": 1.8,
+                "fouls": 1.6,
+                "minutes": "20:10"
+            }
+        },
+        {
+            "name": "Yogi Ferrell",
+            "stats": {
+                "points": 19.9,
+                "fgm": 8.5,
+                "fga": 17.2,
+                "ast": 3.2,
+                "reb": 3.7,
+                "oreb": 0.6,
+                "dreb": 3.1,
+                "stl": 0.7,
+                "blk": 0.2,
+                "tov": 1.9,
+                "fouls": 2.5,
+                "minutes": "28:55"
+            }
+        },
+        {
+            "name": "Devin Harris",
+            "stats": {
+                "points": 7.6,
+                "fgm": 2.4,
+                "fga": 6.4,
+                "ast": 4.5,
+                "reb": 2.7,
+                "oreb": 0.3,
+                "dreb": 2.4,
+                "stl": 0.9,
+                "blk": 0.1,
+                "tov": 1.9,
+                "fouls": 2.1,
+                "minutes": "24:44"
+            }
+        }
+    ],
+    "Houston Rockets": [
+        {
+            "name": "James Harden",
+            "stats": {
+                "points": 24.7,
+                "fgm": 8.3,
+                "fga": 19.9,
+                "ast": 7.6,
+                "reb": 5.8,
+                "oreb": 1.3,
+                "dreb": 4.5,
+                "stl": 1.4,
+                "blk": 0.4,
+                "tov": 6.0,
+                "fouls": 3.7,
+                "minutes": "36:18"
+            }
+        },
+        {
+            "name": "Eric Gordon",
+            "stats": {
+                "points": 14.6,
+                "fgm": 4.8,
+                "fga": 11.3,
+                "ast": 3.5,
+                "reb": 4.3,
+                "oreb": 0.5,
+                "dreb": 3.8,
+                "stl": 1.0,
+                "blk": 0.4,
+                "tov": 2.7,
+                "fouls": 3.1,
+                "minutes": "35:00"
+            }
+        },
+        {
+            "name": "Clint Capela",
+            "stats": {
+                "points": 4.2,
+                "fgm": 1.9,
+                "fga": 3.1,
+                "ast": 0.2,
+                "reb": 1.9,
+                "oreb": 0.4,
+                "dreb": 1.5,
+                "stl": 0.3,
+                "blk": 1.2,
+                "tov": 0.7,
+                "fouls": 0.9,
+                "minutes": "11:09"
+            }
+        },
+        {
+            "name": "Ryan Anderson",
+            "stats": {
+                "points": 7.3,
+                "fgm": 2.4,
+                "fga": 5.8,
+                "ast": 0.6,
+                "reb": 2.8,
+                "oreb": 0.7,
+                "dreb": 2.1,
+                "stl": 0.4,
+                "blk": 0.2,
+                "tov": 1.1,
+                "fouls": 1.4,
+                "minutes": "16:48"
+            }
+        },
+        {
+            "name": "Trevor Ariza",
+            "stats": {
+                "points": 11.4,
+                "fgm": 3.5,
+                "fga": 8.8,
+                "ast": 2.6,
+                "reb": 4.6,
+                "oreb": 1.0,
+                "dreb": 3.6,
+                "stl": 1.2,
+                "blk": 0.3,
+                "tov": 2.0,
+                "fouls": 2.2,
+                "minutes": "27:38"
+            }
+        },
+        {
+            "name": "Lou Williams",
+            "stats": {
+                "points": 12.3,
+                "fgm": 3.7,
+                "fga": 10.0,
+                "ast": 3.1,
+                "reb": 4.2,
+                "oreb": 0.7,
+                "dreb": 3.5,
+                "stl": 0.9,
+                "blk": 0.4,
+                "tov": 2.5,
+                "fouls": 3.0,
+                "minutes": "33:31"
+            }
+        },
+        {
+            "name": "PJ Tucker",
+            "stats": {
+                "points": 9.5,
+                "fgm": 3.4,
+                "fga": 8.0,
+                "ast": 2.6,
+                "reb": 5.0,
+                "oreb": 1.2,
+                "dreb": 3.8,
+                "stl": 0.9,
+                "blk": 0.2,
+                "tov": 1.8,
+                "fouls": 2.0,
+                "minutes": "26:17"
+            }
+        },
+        {
+            "name": "Nene",
+            "stats": {
+                "points": 7.7,
+                "fgm": 3.3,
+                "fga": 6.5,
+                "ast": 1.4,
+                "reb": 2.6,
+                "oreb": 0.7,
+                "dreb": 1.9,
+                "stl": 0.7,
+                "blk": 1.0,
+                "tov": 1.4,
+                "fouls": 1.6,
+                "minutes": "18:53"
+            }
+        },
+        {
+            "name": "Patrick Beverley",
+            "stats": {
+                "points": 10.6,
+                "fgm": 3.3,
+                "fga": 8.0,
+                "ast": 5.0,
+                "reb": 3.8,
+                "oreb": 0.5,
+                "dreb": 3.3,
+                "stl": 1.0,
+                "blk": 0.2,
+                "tov": 2.3,
+                "fouls": 2.5,
+                "minutes": "27:25"
+            }
+        },
+        {
+            "name": "Sam Dekker",
+            "stats": {
+                "points": 6.6,
+                "fgm": 2.7,
+                "fga": 6.0,
+                "ast": 1.0,
+                "reb": 1.2,
+                "oreb": 0.2,
+                "dreb": 1.0,
+                "stl": 0.7,
+                "blk": 0.0,
+                "tov": 0.6,
+                "fouls": 0.6,
+                "minutes": "9:08"
+            }
+        }
+    ],
+    "Memphis Grizzlies": [
+        {
+            "name": "Mike Conley",
+            "stats": {
+                "points": 12.6,
+                "fgm": 4.2,
+                "fga": 10.7,
+                "ast": 7.0,
+                "reb": 3.5,
+                "oreb": 0.5,
+                "dreb": 3.1,
+                "stl": 1.3,
+                "blk": 0.1,
+                "tov": 3.1,
+                "fouls": 3.2,
+                "minutes": "32:53"
+            }
+        },
+        {
+            "name": "Marc Gasol",
+            "stats": {
+                "points": 16.1,
+                "fgm": 6.4,
+                "fga": 13.3,
+                "ast": 5.5,
+                "reb": 8.4,
+                "oreb": 2.3,
+                "dreb": 6.2,
+                "stl": 1.4,
+                "blk": 3.3,
+                "tov": 3.5,
+                "fouls": 3.4,
+                "minutes": "37:33"
+            }
+        },
+        {
+            "name": "Zach Randolph",
+            "stats": {
+                "points": 16.7,
+                "fgm": 6.8,
+                "fga": 14.3,
+                "ast": 3.3,
+                "reb": 9.8,
+                "oreb": 2.5,
+                "dreb": 7.3,
+                "stl": 1.1,
+                "blk": 0.2,
+                "tov": 3.1,
+                "fouls": 3.0,
+                "minutes": "35:31"
+            }
+        },
+        {
+            "name": "Tony Allen",
+            "stats": {
+                "points": 6.5,
+                "fgm": 2.7,
+                "fga": 5.4,
+                "ast": 1.3,
+                "reb": 2.1,
+                "oreb": 0.4,
+                "dreb": 1.7,
+                "stl": 0.9,
+                "blk": 0.1,
+                "tov": 1.3,
+                "fouls": 1.5,
+                "minutes": "15:38"
+            }
+        },
+        {
+            "name": "Chandler Parsons",
+            "stats": {
+                "points": 16.6,
+                "fgm": 5.8,
+                "fga": 13.0,
+                "ast": 4.9,
+                "reb": 4.6,
+                "oreb": 1.1,
+                "dreb": 3.5,
+                "stl": 1.3,
+                "blk": 0.2,
+                "tov": 3.4,
+                "fouls": 3.3,
+                "minutes": "38:10"
+            }
+        },
+        {
+            "name": "JaMychal Green",
+            "stats": {
+                "points": 6.8,
+                "fgm": 2.6,
+                "fga": 5.5,
+                "ast": 1.3,
+                "reb": 2.8,
+                "oreb": 0.7,
+                "dreb": 2.1,
+                "stl": 0.7,
+                "blk": 0.2,
+                "tov": 1.4,
+                "fouls": 1.8,
+                "minutes": "21:28"
+            }
+        },
+        {
+            "name": "Vince Carter",
+            "stats": {
+                "points": 5.1,
+                "fgm": 1.6,
+                "fga": 4.2,
+                "ast": 2.1,
+                "reb": 1.9,
+                "oreb": 0.3,
+                "dreb": 1.6,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.2,
+                "fouls": 1.3,
+                "minutes": "14:50"
+            }
+        },
+        {
+            "name": "James Ennis",
+            "stats": {
+                "points": 1.1,
+                "fgm": 0.5,
+                "fga": 1.1,
+                "ast": 0.2,
+                "reb": 0.3,
+                "oreb": 0.0,
+                "dreb": 0.2,
+                "stl": 0.0,
+                "blk": 0.0,
+                "tov": 0.1,
+                "fouls": 0.2,
+                "minutes": "2:15"
+            }
+        },
+        {
+            "name": "Wayne Selden",
+            "stats": {
+                "points": 13.2,
+                "fgm": 5.5,
+                "fga": 12.4,
+                "ast": 3.0,
+                "reb": 2.3,
+                "oreb": 0.4,
+                "dreb": 1.9,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.2,
+                "fouls": 2.1,
+                "minutes": "21:53"
+            }
+        },
+        {
+            "name": "Andrew Harrison",
+            "stats": {
+                "points": 14.8,
+                "fgm": 6.4,
+                "fga": 13.2,
+                "ast": 2.7,
+                "reb": 2.5,
+                "oreb": 0.4,
+                "dreb": 2.1,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.4,
+                "fouls": 2.0,
+                "minutes": "21:56"
+            }
+        }
+    ],
+    "New Orleans Pelicans": [
+        {
+            "name": "Jrue Holiday",
+            "stats": {
+                "points": 12.8,
+                "fgm": 4.5,
+                "fga": 11.1,
+                "ast": 9.1,
+                "reb": 2.7,
+                "oreb": 0.4,
+                "dreb": 2.3,
+                "stl": 1.1,
+                "blk": 0.0,
+                "tov": 3.9,
+                "fouls": 2.5,
+                "minutes": "27:31"
+            }
+        },
+        {
+            "name": "Anthony Davis",
+            "stats": {
+                "points": 18.7,
+                "fgm": 7.9,
+                "fga": 14.6,
+                "ast": 1.6,
+                "reb": 9.5,
+                "oreb": 2.5,
+                "dreb": 7.0,
+                "stl": 1.3,
+                "blk": 1.2,
+                "tov": 2.8,
+                "fouls": 3.1,
+                "minutes": "34:11"
+            }
+        },
+        {
+            "name": "DeMarcus Cousins",
+            "stats": {
+                "points": 17.6,
+                "fgm": 7.2,
+                "fga": 14.7,
+                "ast": 3.3,
+                "reb": 11.8,
+                "oreb": 3.1,
+                "dreb": 8.8,
+                "stl": 1.7,
+                "blk": 2.5,
+                "tov": 3.4,
+                "fouls": 2.9,
+                "minutes": "35:46"
+            }
+        },
+        {
+            "name": "ETwaun Moore",
+            "stats": {
+                "points": 6.2,
+                "fgm": 2.3,
+                "fga": 5.6,
+                "ast": 1.7,
+                "reb": 1.8,
+                "oreb": 0.2,
+                "dreb": 1.6,
+                "stl": 0.6,
+                "blk": 0.0,
+                "tov": 1.2,
+                "fouls": 1.4,
+                "minutes": "17:03"
+            }
+        },
+        {
+            "name": "Solomon Hill",
+            "stats": {
+                "points": 6.8,
+                "fgm": 2.3,
+                "fga": 6.1,
+                "ast": 2.7,
+                "reb": 2.6,
+                "oreb": 0.5,
+                "dreb": 2.1,
+                "stl": 0.7,
+                "blk": 0.0,
+                "tov": 1.5,
+                "fouls": 1.8,
+                "minutes": "22:28"
+            }
+        },
+        {
+            "name": "Terrence Jones",
+            "stats": {
+                "points": 11.5,
+                "fgm": 4.7,
+                "fga": 9.4,
+                "ast": 0.8,
+                "reb": 3.3,
+                "oreb": 0.7,
+                "dreb": 2.6,
+                "stl": 0.4,
+                "blk": 0.6,
+                "tov": 1.3,
+                "fouls": 2.0,
+                "minutes": "22:30"
+            }
+        },
+        {
+            "name": "Dante Cunningham",
+            "stats": {
+                "points": 11.3,
+                "fgm": 4.4,
+                "fga": 10.1,
+                "ast": 2.0,
+                "reb": 3.2,
+                "oreb": 0.5,
+                "dreb": 2.6,
+                "stl": 0.9,
+                "blk": 0.0,
+                "tov": 1.6,
+                "fouls": 2.3,
+                "minutes": "30:27"
+            }
+        },
+        {
+            "name": "Tim Frazier",
+            "stats": {
+                "points": 2.5,
+                "fgm": 1.0,
+                "fga": 2.1,
+                "ast": 2.8,
+                "reb": 1.2,
+                "oreb": 0.2,
+                "dreb": 1.0,
+                "stl": 0.4,
+                "blk": 0.0,
+                "tov": 0.9,
+                "fouls": 0.9,
+                "minutes": "10:45"
+            }
+        },
+        {
+            "name": "Buddy Hield",
+            "stats": {
+                "points": 13.3,
+                "fgm": 5.6,
+                "fga": 12.2,
+                "ast": 2.8,
+                "reb": 2.4,
+                "oreb": 0.4,
+                "dreb": 2.1,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.5,
+                "fouls": 1.9,
+                "minutes": "21:30"
+            }
+        },
+        {
+            "name": "Langston Galloway",
+            "stats": {
+                "points": 5.1,
+                "fgm": 1.7,
+                "fga": 4.9,
+                "ast": 2.8,
+                "reb": 1.8,
+                "oreb": 0.3,
+                "dreb": 1.5,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.2,
+                "fouls": 1.5,
+                "minutes": "16:43"
+            }
+        }
+    ],
+    "San Antonio Spurs": [
+        {
+            "name": "Tony Parker",
+            "stats": {
+                "points": 14.1,
+                "fgm": 5.6,
+                "fga": 11.6,
+                "ast": 5.5,
+                "reb": 3.0,
+                "oreb": 0.4,
+                "dreb": 2.6,
+                "stl": 0.9,
+                "blk": 0.0,
+                "tov": 2.9,
+                "fouls": 2.5,
+                "minutes": "30:45"
+            }
+        },
+        {
+            "name": "Kawhi Leonard",
+            "stats": {
+                "points": 17.7,
+                "fgm": 6.5,
+                "fga": 13.0,
+                "ast": 2.9,
+                "reb": 5.7,
+                "oreb": 1.4,
+                "dreb": 4.3,
+                "stl": 1.8,
+                "blk": 0.0,
+                "tov": 2.8,
+                "fouls": 2.4,
+                "minutes": "33:14"
+            }
+        },
+        {
+            "name": "LaMarcus Aldridge",
+            "stats": {
+                "points": 18.0,
+                "fgm": 7.3,
+                "fga": 15.0,
+                "ast": 1.8,
+                "reb": 8.1,
+                "oreb": 2.2,
+                "dreb": 5.9,
+                "stl": 0.9,
+                "blk": 1.5,
+                "tov": 3.2,
+                "fouls": 2.7,
+                "minutes": "30:12"
+            }
+        },
+        {
+            "name": "Pau Gasol",
+            "stats": {
+                "points": 15.7,
+                "fgm": 6.4,
+                "fga": 13.2,
+                "ast": 3.3,
+                "reb": 8.4,
+                "oreb": 2.0,
+                "dreb": 6.3,
+                "stl": 0.8,
+                "blk": 2.0,
+                "tov": 3.0,
+                "fouls": 2.8,
+                "minutes": "32:47"
+            }
+        },
+        {
+            "name": "Danny Green",
+            "stats": {
+                "points": 9.6,
+                "fgm": 2.9,
+                "fga": 7.5,
+                "ast": 3.0,
+                "reb": 2.1,
+                "oreb": 0.4,
+                "dreb": 1.7,
+                "stl": 0.8,
+                "blk": 0.1,
+                "tov": 1.8,
+                "fouls": 1.7,
+                "minutes": "21:11"
+            }
+        },
+        {
+            "name": "Manu Ginobili",
+            "stats": {
+                "points": 9.4,
+                "fgm": 3.0,
+                "fga": 7.5,
+                "ast": 5.7,
+                "reb": 2.6,
+                "oreb": 0.3,
+                "dreb": 2.4,
+                "stl": 1.0,
+                "blk": 0.0,
+                "tov": 2.4,
+                "fouls": 2.4,
+                "minutes": "26:05"
+            }
+        },
+        {
+            "name": "Patty Mills",
+            "stats": {
+                "points": 7.6,
+                "fgm": 2.3,
+                "fga": 5.7,
+                "ast": 3.1,
+                "reb": 1.7,
+                "oreb": 0.2,
+                "dreb": 1.5,
+                "stl": 0.5,
+                "blk": 0.1,
+                "tov": 1.5,
+                "fouls": 1.7,
+                "minutes": "18:15"
+            }
+        },
+        {
+            "name": "Jonathon Simmons",
+            "stats": {
+                "points": 4.8,
+                "fgm": 1.9,
+                "fga": 3.8,
+                "ast": 1.5,
+                "reb": 1.4,
+                "oreb": 0.2,
+                "dreb": 1.2,
+                "stl": 0.5,
+                "blk": 0.0,
+                "tov": 1.0,
+                "fouls": 1.0,
+                "minutes": "13:30"
+            }
+        },
+        {
+            "name": "Dewayne Dedmon",
+            "stats": {
+                "points": 4.7,
+                "fgm": 2.0,
+                "fga": 3.7,
+                "ast": 0.2,
+                "reb": 1.5,
+                "oreb": 0.3,
+                "dreb": 1.2,
+                "stl": 0.4,
+                "blk": 0.5,
+                "tov": 0.4,
+                "fouls": 1.0,
+                "minutes": "12:41"
+            }
+        },
+        {
+            "name": "David Lee",
+            "stats": {
+                "points": 12.1,
+                "fgm": 5.1,
+                "fga": 9.1,
+                "ast": 1.8,
+                "reb": 4.0,
+                "oreb": 0.9,
+                "dreb": 3.2,
+                "stl": 0.6,
+                "blk": 0.1,
+                "tov": 1.9,
+                "fouls": 1.8,
+                "minutes": "22:00"
+            }
+        }
+    ]
+}
